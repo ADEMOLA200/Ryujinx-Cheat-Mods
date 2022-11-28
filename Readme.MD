@@ -1,4 +1,6 @@
-# SWITCH CHEAT DATABASE Work in Progress
+# SWITCH CHEAT DATABASE 
+
+Work in Progress
 
 ## GAMES INDEX
 
