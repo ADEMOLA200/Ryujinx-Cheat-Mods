@@ -1,7 +1,7 @@
 # SWITCH CHEAT DATABASE Work in Progress
 
-Over 30000 cheats in 2400 Titles.
-
 ## GAMES INDEX
 
-[GAMES.md](GAMES.md)Work in Progress
+[TITLES.md](TITLES.md)
+
+Work in Progress
