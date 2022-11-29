@@ -1,0 +1,171 @@
+﻿1.   Take Down – Normal
+2.   Charm – Fairy
+3.   Fake Tears – Dark
+4.   Agility – Psychic
+5.   Mud-Slap – Ground
+6.   Scary Face – Normal
+7.   Protect – Normal
+8.   Fire Fang – Fire
+9.   Thunder Fang – Electric
+10.   Ice Fang – Ice
+11.   Water Pulse – Water
+12.   Low Kick – Fighting
+13.   Acid Spray – Poison
+14.   Acrobatics – Flying
+15.   Struggle Bug – Bug
+16.   Psybeam – Psychic
+17.   Confuse Ray – Ghost
+18.   Thief – Dark
+19.   Disarming Voice – Fairy
+20.   Trailblaze – Grass
+21.   Pounce – Bug
+22.   Chilling Water – Water
+23.   Charge Beam – Electric
+24.   Fire Spin – Fire
+25.   Facade – Normal
+26.   Poison Tail – Poison
+27.   Aerial Ace – Flying
+28.   Bulldoze – Ground
+29.   Hex – Ghost
+30.   Snarl – Dark
+31.   Metal Claw – Steel
+32.   Swift – Normal
+33.   Magical Leaf – Grass
+34.   Icy Wind – Ice
+35.   Mud Shot – Ground
+36.   Rock Tomb – Rock
+37.   Draining Kiss – Fairy
+38.   Flame Charge – Fire
+39.   Low Sweep – Fighting
+40.   Air Cutter – Flying
+41.   Stored Power – Psychic
+42.   Night Shade – Ghost
+43.   Fling – Dark
+44.   Dragon Tail – Dragon
+45.   Venoshock – Poison
+46.   Avalanche – Ice
+47.   Endure – Normal
+48.   Volt Switch – Electric
+49.   Sunny Day – Fire
+50.   Rain Dance – Water
+51.   Sandstorm – Rock
+52.   Snowscape – Ice
+53.   Smart Strike – Steel
+54.   Psyshock – Psychic
+55.   Dig – Ground
+56.   Bullet Seed – Grass
+57.   False Swipe – Normal
+58.   Brick Break – Fighting
+59.   Zen Headbutt – Psychic
+60.   U-turn – Bug
+61.   Shadow Claw – Ghost
+62.   Foul Play – Dark
+63.   Psychic Fangs – Psychic
+64.   Bulk Up – Fighting
+65.   Air Slash – Flying
+66.   Body Slam – Normal
+67.   Fire Punch – Fire
+68.   Thunder Punch – Electric
+69.   Ice Punch – Ice
+70.   Sleep Talk – Normal
+71.   Seed Bomb – Grass
+72.   Electro Ball – Electric
+73.   Drain Punch – Fighting
+74.   Reflect – Psychic
+75.   Light Screen – Psychic
+76.   Rock Blast – Rock
+77.   Waterfall – Water
+78.   Dragon Claw – Dragon
+79.   Dazzling Gleam – Fairy
+80.   Metronome – Normal
+81.   Grass Knot – Grass
+82.   Thunder Wave – Electric
+83.   Poison Jab – Poison
+84.   Stomping Tantrum – Ground
+85.   Rest – Psychic
+86.   Rock Slide – Rock
+87.   Taunt – Dark
+88.   Swords Dance – Normal
+89.   Body Press – Fighting
+90.   Spikes – Ground
+91.   Toxic Spikes – Poison
+92.   Imprison – Psychic
+93.   Flash Cannon – Steel
+94.   Dark Pulse – Dark
+95.   Leech Life – Bug
+96.   Eerie Impulse – Electric
+97.   Fly – Flying
+98.   Skill Swap – Psychic
+99.   Iron Head – Steel
+100.   Dragon Dance – Dragon
+101.   Power Gem – Rock
+102.   Gunk Shot – Poison
+103.   Substitute – Normal
+104.   Iron Defense – Steel
+105.   X-Scissor – Bug
+106.   Drill Run – Ground
+107.   Will-O-Wisp – Fire
+108.   Crunch – Dark
+109.   Trick – Psychic
+110.   Liquidation – Water
+111.   Giga Drain – Grass
+112.   Aura Sphere – Fighting
+113.   Tailwind – Flying
+114.   Shadow Ball – Ghost
+115.   Dragon Pulse – Dragon
+116.   Stealth Rock – Rock
+117.   Hyper Voice – Normal
+118.   Heat Wave – Fire
+119.   Energy Ball – Grass
+120.   Psychic – Psychic
+121.   Heavy Slam – Steel
+122.   Encore – Normal
+123.   Surf – Water
+124.   Ice Spinner – Ice
+125.   Flamethrower – Fire
+126.   Thunderbolt – Electric
+127.   Play Rough – Fairy
+128.   Amnesia – Psychic
+129.   Calm Mind – Psychic
+130.   Helping Hand – Normal
+131.   Pollen Puff – Bug
+132.   Baton Pass – Normal
+133.   Earth Power – Ground
+134.   Reversal – Fighting
+135.   Ice Beam – Ice
+136.   Electric Terrain – Electric
+137.   Grassy Terrain – Grass
+138.   Psychic Terrain – Psychic
+139.   Misty Terrain – Fairy
+140.   Nasty Plot – Dark
+141.   Fire Blast – Fire
+142.   Hydro Pump – Water
+143.   Blizzard – Ice
+144.   Fire Pledge – Fire
+145.   Water Pledge – Water
+146.   Grass Pledge – Grass
+147.   Wild Charge – Electric
+148.   Sludge Bomb – Poison
+149.   Earthquake – Ground
+150.   Stone Edge – Rock
+151.   Phantom Force – Ghost
+152.   Giga Impact – Normal
+153.   Blast Burn – Fire
+154.   Hydro Cannon – Water
+155.   Frenzy Plant – Grass
+156.   Outrage – Dragon
+157.   Overheat – Fire
+158.   Focus Blast – Fighting
+159.   Leaf Storm – Grass
+160.   Hurricane – Flying
+161.   Trick Room – Psychic
+162.   Bug Buzz – Bug
+163.   Hyper Beam – Normal
+164.   Brave Bird – Flying
+165.   Flare Blitz – Fire
+166.   Thunder – Electric
+167.   Close Combat – Fighting
+168.   Solar Beam – Grass
+169.   Draco Meteor – Dragon
+170.   Steel Beam – Steel
+171.   Tera Blast – Normal
