@@ -5,7 +5,7 @@
 | --- | --- | --- | --- |
 | Bridge Strike | [0100A6C011B10000](https://github.com/OldManKain/CheatModsSavesDB/tree/main/Titles/0100A6C011B10000) | 863c6d1966c8217f | v1.0.0 |
 | Braveland Trilogy | [0100A5B00D3D2000](https://github.com/OldManKain/CheatModsSavesDB/tree/main/Titles/0100A5B00D3D2000) | 438D108A71CC054F | v1.0.0 |
-| Cuphead | 0100a5c00d162000(https://github.com/OldManKain/CheatModsSavesDB/tree/main/Titles/0100a5c00d162000) | D02CD50295124A48 | v1.3.4 |
+| Cuphead | [0100a5c00d162000](https://github.com/OldManKain/CheatModsSavesDB/tree/main/Titles/0100a5c00d162000) | D02CD50295124A48 | v1.3.4 |
 | EarthNight | [0100A2E00BB0C000](https://github.com/OldManKain/CheatModsSavesDB/tree/main/Titles/0100A2E00BB0C000) | 0c2192b8ddc2dd48 | v1.0.0 |
 | Final Fantasy VII | [0100a5b00bdc6000](https://github.com/OldManKain/CheatModsSavesDB/tree/main/Titles/0100a5b00bdc6000) | CA4ED0693797F529 | v1.0.2, v1.0.2_5 |
 | Grand Theft Auto Vice City | [05BE1C0259DE0000](https://github.com/OldManKain/CheatModsSavesDB/tree/main/Titles/05BE1C0259DE0000) | 56e7b8f33024d194 | v1.0.0 |
