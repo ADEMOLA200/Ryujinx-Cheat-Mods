@@ -6,4 +6,6 @@ Work in Progress
 
 [Cheats Index](Cheats.md)
 
+[Mods Index](Mods.md)
+
 Work in Progress
