@@ -8,4 +8,6 @@ Work in Progress
 
 [Mods Index](Mods.md)
 
+[Saves Index](Saves.md)
+
 Work in Progress
