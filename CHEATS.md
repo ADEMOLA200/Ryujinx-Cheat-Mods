@@ -1,4 +1,4 @@
-# CHEATS INDEX
+# Cheats INDEX
 
 
 | NAME | TITLE ID | BUILD ID | VERSION |
