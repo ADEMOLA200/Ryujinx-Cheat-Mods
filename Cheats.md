@@ -4,8 +4,8 @@
 | NAME | TITLE ID | BUILD ID | VERSION |
 | --- | --- | --- | --- |
 | Bite the Bullet | [0100A0800EA9C000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100A0800EA9C000) | 1de026588eba8442 | 1.0.0 |
-| Braveland Trilogy | [0100A5B00D3D2000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100A5B00D3D2000) | 438D108A71CC054F | v.0.0 |
-| Bridge Strike | [0100A6C011B10000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100A6C011B10000) | 863c6d1966c8217f | v.0.0 |
+| Braveland Trilogy | [0100A5B00D3D2000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100A5B00D3D2000) | 438D108A71CC054F | 1.0.0 |
+| Bridge Strike | [0100A6C011B10000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100A6C011B10000) | 863c6d1966c8217f | 1.0.0 |
 | Cuphead | [0100A5C00D162000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100a5c00d162000) | D02CD50295124A48 | 1.3.4 |
 | Dragon Star Varnir | [0100A8B014930000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100A8B014930000) | E26A54F785A76EE7 | 1.0.0 |
 | EarthNight | [0100A2E00BB0C000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100A2E00BB0C000) | 0c2192b8ddc2dd48 | 1.0.0 |
