@@ -21,8 +21,8 @@
 | Pokemon Scarlet | [0100A3D008C5C000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100A3D008C5C000) | B26A631109A29124 | 1.0.1 |
 | Polandball: Can Into Space | [0100A3500B4EC000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100A3500B4EC000) | dd522c070476294a | 1.0.1 |
 | SHATTERED: TALE OF THE FORGOTTEN KING |  [0100A0F0180D6000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100A0F0180D6000) | 4D42A2CA8232E8EB | 1.0.0 |
-| Spoiler Touhou Genso Wanderer -Lotus Labyrinth R-| [0100A7A015E4C000](https://github.com/OldManKain/CheatModsSavesDB/tree/main/Titles/0100A7A015E4C000) | 7546A496EBC6DCBC | 1.0.0 |
 | The LEGO Movie 2 | [0100A4400BE74000](https://github.com/OldManKain/CheatModsSavesDB/tree/main/Titles/0100A4400BE74000) | BAC1309DDF75B14D | 1.0.3 |
+| Touhou Genso Wanderer -Lotus Labyrinth R-| [0100A7A015E4C000](https://github.com/OldManKain/CheatModsSavesDB/tree/main/Titles/0100A7A015E4C000) | 7546A496EBC6DCBC | 1.0.0 |
 
 ## CHEAT Source
 - https://github.com/LordApple/SXOS-CheatDB
