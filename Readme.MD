@@ -4,6 +4,6 @@ Work in Progress
 
 ## GAMES INDEX
 
-[TITLES.md](TITLES.md)
+[CHEATS INDEX](CHEATS.md)
 
 Work in Progress
