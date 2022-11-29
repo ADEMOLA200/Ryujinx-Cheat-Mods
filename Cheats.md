@@ -10,7 +10,7 @@
 | Dragon Star Varnir | [0100A8B014930000](https://github.com/OldManKain/CheatModsSavesDB/tree/main/Titles/0100A8B014930000) | E26A54F785A76EE7 | 1.0.0 |
 | EarthNight | [0100A2E00BB0C000](https://github.com/OldManKain/CheatModsSavesDB/tree/main/Titles/0100A2E00BB0C000) | 0c2192b8ddc2dd48 | 1.0.0 |
 | ExZeus Collection | [0100A7A0147BA000](https://github.com/OldManKain/CheatModsSavesDB/tree/main/Titles/0100A7A0147BA000) | 1394940F0A5B44 | 1.0.0 |
-| Final Fantasy VII | [0100A5b00BDC6000](https://github.com/OldManKain/CheatModsSavesDB/tree/main/Titles/0100a5b00bdc6000) | CA4ED0693797F529 | 1.0.2,1.0.2_5 |
+| Final Fantasy VII | [0100A5b00BDC6000](https://github.com/OldManKain/CheatModsSavesDB/tree/main/Titles/0100a5b00bdc6000) | CA4ED0693797F529 | 1.0.2, 1.0.2_5 |
 | Grand Theft Auto Vice City | [05BE1C0259DE0000](https://github.com/OldManKain/CheatModsSavesDB/tree/main/Titles/05BE1C0259DE0000) | 56e7b8f33024d194 | 1.0.0 |
 | Island Saver | [0100A2600FCA0000](https://github.com/OldManKain/CheatModsSavesDB/tree/main/Titles/0100A2600FCA0000) | 5deb62b4085e8b45 | 1.0.1 |
 | LEGO: The Incredibles | [0100A01006E00000](https://github.com/OldManKain/CheatModsSavesDB/tree/main/Titles/0100A01006E00000) | 2103782a9ae5384e | 1.0.2 |
