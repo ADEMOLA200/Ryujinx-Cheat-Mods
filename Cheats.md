@@ -16,7 +16,6 @@
 | Doom Eternal | [0100B1A00D8CE000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100B1A00D8CE000) | 5AF6F31EAC42DBC0 | 1.6.0 |
 | Dragon Quest (JP) | [0100A5500E488000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100a5500e488000) | f3845d78427cb893 | 1.0.0 |
 | Dragon Star Varnir | [0100A8B014930000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100A8B014930000) | E26A54F785A76EE7 | 1.0.0 |
-| ExZeus Collection | [0100A7A0147BA000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100A7A0147BA000) | 1394940F0A5B44 | 1.0.0 |
 | Fight of Animals: Arena | [0100AC6015996000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100AC6015996000) | 9C444C4EAC73544E | 1.0.0 |
 | Final Fantasy VII | [0100A5B00BDC6000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100a5b00bdc6000) | CA4ED0693797F529 | 1.0.2, 1.0.2_5 |
 | Game Dev Story | [0100AF700BCD2000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100AF700BCD2000) | EAF9C6474584AE4A | 2.4.4 |
