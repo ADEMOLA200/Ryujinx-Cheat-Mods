@@ -34,7 +34,6 @@
 | Shantae Risky's Revenge - Director's Cut | [0100ADA012370000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100ADA012370000) | f139ec48132e8b34 | 1.0.0 |
 | SHATTERED: TALE OF THE FORGOTTEN KING |  [0100A0F0180D6000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100A0F0180D6000) | 4D42A2CA8232E8EB | 1.0.0 |
 | Snow Battle Princess Sayuki | [0100ADF00CB64000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100ADF00CB64000) | 24620f1b3f64d649 | 1.0.0 |
-| The Good Life | [0100B1B015ABA000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100B1B015ABA000) | 4b7c5de5de1b9f5b | 1.4.0 |
 | THE LAST REMNANT Remastered | [0100AC800D022000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100AC800D022000) | 4bc3de4ea95c471d | 1.0.0 |
 | The LEGO Movie 2 | [0100A4400BE74000](https://github.com/OldManKain/CheatModsSavesDB/tree/main/Titles/0100A4400BE74000) | BAC1309DDF75B14D | 1.0.3 |
 | Tokyo Mirage Sessions #FE Encore (Asia) | [0100A9400C9C2000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100A9400C9C2000) | 33463E11899166BB | 1.0.0 |
