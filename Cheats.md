@@ -11,7 +11,6 @@
 | Boss Rush Mitologhy | [0100AB9013564000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100AB9013564000) | 5D4EAB46AACE1242 | 1.0.0 |
 | Braveland Trilogy | [0100A5B00D3D2000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100A5B00D3D2000) | 438D108A71CC054F | 1.0.0 |
 | Bridge Strike | [0100A6C011B10000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100A6C011B10000) | 863c6d1966c8217f | 1.0.0 |
-| Cresteaju | [0100AF400DFA4000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100AF400DFA4000) | f47c51db0ee9f98a | 1.0.0 |
 | Cryogear | [0100AC100CCF6000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100AC100CCF6000) | 2ad1db30685b030e | 1.0.1 |
 | Cuphead | [0100A5C00D162000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100a5c00d162000) | D02CD50295124A48 | 1.3.4 |
 | Disgaea 4 Complete + | [0100A9800E9B4000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100A9800E9B4000) | 6a1bf67d25fc2ed0 | 1.1.0 |
