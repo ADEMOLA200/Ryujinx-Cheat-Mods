@@ -26,7 +26,7 @@
 | Pinball Jam| [0100AD50167EC000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100AD50167EC000) | A44E17749BAC250B | 1.0.1 |
 | Pokémon™ Scarlet | [0100A3D008C5C000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100A3D008C5C000) | B26A631109A29124 | 1.0.1 |
 | Pokémon™ Sword | [0100ABF008968000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100ABF008968000) | A3B75BCD3311385A | 1.3.2 |
-| POKKÉN TOURNAMENT™ DX | [0100b3f000be2000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100b3f000be2000) | 49690ba2efdcd7a7 | 1.3.3 |
+| POKKÉN TOURNAMENT™ DX | [0100B3F000BE2000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100b3f000be2000) | 49690ba2efdcd7a7 | 1.3.3 |
 | Polandball: Can Into Space | [0100A3500B4EC000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100A3500B4EC000) | dd522c070476294a | 1.0.1 |
 | Punch Club | [0100A6000ACEA000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100A6000ACEA000) | 149284506F1BCC48 | 1.0.0 |
 | Revenant Saga | [0100AA2006510000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100AA2006510000) | 6462206160d88744 | 1.0.2 |
