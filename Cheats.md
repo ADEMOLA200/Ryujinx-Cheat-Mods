@@ -17,7 +17,6 @@
 | Dragon Quest (JP) | [0100A5500E488000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100a5500e488000) | f3845d78427cb893 | 1.0.0 |
 | Dragon Star Varnir | [0100A8B014930000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100A8B014930000) | E26A54F785A76EE7 | 1.0.0 |
 | Final Fantasy VII | [0100A5B00BDC6000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100a5b00bdc6000) | CA4ED0693797F529 | 1.0.2, 1.0.2_5 |
-| Game Dev Story | [0100AF700BCD2000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100AF700BCD2000) | EAF9C6474584AE4A | 2.4.4 |
 | GIGA WRECKER ALT. | [0100A4900EDDE000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100A4900EDDE000) | 00828465529fee46 | 1.0.0 |
 | Grand Theft Auto Vice City | [05BE1C0259DE0000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/05BE1C0259DE0000) | 56e7b8f33024d194 | 1.0.0 |
 | Gryphon Knight Epic: Definitive Edition | [0100A16011872000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100A16011872000) | DF8DDC222B04C24D | 1.0.0 |
