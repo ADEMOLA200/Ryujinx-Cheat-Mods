@@ -31,7 +31,6 @@
 | Rift Keeper | [0100AC600D898000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100AC600D898000) | bde75d1f4547014c | 1.0.0 |
 | Sea of Solitude: The Director’s Cut | [0100AFE012BA2000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100AFE012BA2000) | 1D327B699C913A47 | 1.1.0 |
 | Sega Genesis Classics (US) | [0100A6300B250000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100A6300B250000) | 7980ad54fef93945 | 1.0.2 |
-| Shadows of Adam | [0100AD700CBBE000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100AD700CBBE000) | b90544ef4061b848 | 1.0.0 |
 | Shantae Half-Genie Hero | [0100AE0003424000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100AE0003424000) | e0551154ab7ab947 | 1.0.0 |
 | Shantae Risky's Revenge - Director's Cut | [0100ADA012370000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100ADA012370000) | f139ec48132e8b34 | 1.0.0 |
 | SHATTERED: TALE OF THE FORGOTTEN KING |  [0100A0F0180D6000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100A0F0180D6000) | 4D42A2CA8232E8EB | 1.0.0 |
