@@ -13,7 +13,6 @@
 | Bridge Strike | [0100A6C011B10000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100A6C011B10000) | 863c6d1966c8217f | 1.0.0 |
 | Cuphead | [0100A5C00D162000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100a5c00d162000) | D02CD50295124A48 | 1.3.4 |
 | Disgaea 4 Complete + | [0100A9800E9B4000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100A9800E9B4000) | 6a1bf67d25fc2ed0 | 1.1.0 |
-| Disgaea 6: Defiance of Destiny | [0100ABC013136000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100ABC013136000) | 5D4EAB46AACE1242 | 1.0.2 |
 | Doom Eternal | [0100B1A00D8CE000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100B1A00D8CE000) | 5AF6F31EAC42DBC0 | 1.6.0 |
 | Dragon Quest | [0100A5500E488000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100a5500e488000) | f3845d78427cb893 | 1.0.0 |
 | Dragon Star Varnir | [0100A8B014930000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100A8B014930000) | E26A54F785A76EE7 | 1.0.0 |
