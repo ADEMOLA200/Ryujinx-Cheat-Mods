@@ -36,7 +36,6 @@
 | Snow Battle Princess Sayuki | [0100ADF00CB64000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100ADF00CB64000) | 24620f1b3f64d649 | 1.0.0 |
 | The LEGO Movie 2 | [0100A4400BE74000](https://github.com/OldManKain/CheatModsSavesDB/tree/main/Titles/0100A4400BE74000) | BAC1309DDF75B14D | 1.0.3 |
 | Tokyo Mirage Sessions #FE Encore (Asia) | [0100A9400C9C2000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100A9400C9C2000) | 33463E11899166BB | 1.0.0 |
-| Valentina | [0100A59012070000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100A59012070000) | 56e1be633e5b9f44 | 1.0.0 |
 | Völgarr the Viking | [0100B1A0066DC000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100B1A0066DC000) | A2AD2E750B402FAC | 1.0.1 |
 | West of Dead | [0100A130109B2000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100A130109B2000) | 497bf9528e83e64b | 1.0.0 |
 | Wonder Boy The Dragons Trap | [0100A6300150C000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100A6300150C000) | 13793f02e257147f | 1.0.3e |
