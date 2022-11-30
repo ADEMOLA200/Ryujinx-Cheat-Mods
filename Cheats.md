@@ -6,7 +6,6 @@
 | ACA NEOGEO AERO FIGHTERS 2 | [0100AC40038F4000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100ac40038f4000) | ef700397005b93f4 | 1.0.1 |
 | ACA NEOGEO ALPHA MISSION II | [0100A76002B46000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100A76002B46000) | F77FD38250332F58 | 1.0.0 |
 | Atelier Meruru The Apprentice of Arland DX | [0100ADD00C6fA000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100ADD00C6fA000) | e76c3624d3ae3dce | 1.0.2 |
-| Battle Princess Madelyn Royal Edition | [0100A7500DF64000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100A7500DF64000) | 404C24B13D16DA49 | 1.0.0 |
 | Biolab Wars | [0100AEC010052000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100AEC010052000) | a0f1e0eae07d8446 | 1.0.0 |
 | BioShock Remastered | [0100AD10102B2000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100AD10102B2000) | d89ffaa2062e373d | 1.0.2 |
 | Bite the Bullet | [0100A0800EA9C000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100A0800EA9C000) | 1de026588eba8442 | 1.0.0 |
