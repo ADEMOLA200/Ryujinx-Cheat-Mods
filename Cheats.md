@@ -29,7 +29,6 @@
 | POKKÉN TOURNAMENT™ DX | [0100B3F000BE2000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100b3f000be2000) | 49690ba2efdcd7a7 | 1.3.3 |
 | Punch Club | [0100A6000ACEA000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100A6000ACEA000) | 149284506F1BCC48 | 1.0.0 |
 | Rift Keeper | [0100AC600D898000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100AC600D898000) | bde75d1f4547014c | 1.0.0 |
-| Samurai Aces | [0100ADF0096F2000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100ADF0096F2000) | 49cf469a110921e7 | 1.0.0 |
 | Sea of Solitude: The Director’s Cut | [0100AFE012BA2000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100AFE012BA2000) | 1D327B699C913A47 | 1.1.0 |
 | Sega Mega Drive Classics (US) | [0100A6300B250000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100A6300B250000) | 7980ad54fef93945 | 1.0.2 |
 | Shadows of Adam | [0100AD700CBBE000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100AD700CBBE000) | b90544ef4061b848 | 1.0.0 |
