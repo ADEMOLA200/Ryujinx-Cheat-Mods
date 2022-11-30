@@ -7,7 +7,6 @@
 | ACA NEOGEO ALPHA MISSION II | [0100A76002B46000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100A76002B46000) | F77FD38250332F58 | 1.0.0 |
 | Atelier Meruru The Apprentice of Arland DX | [0100ADD00C6fA000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100ADD00C6fA000) | e76c3624d3ae3dce | 1.0.2 |
 | BioShock Remastered | [0100AD10102B2000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100AD10102B2000) | d89ffaa2062e373d | 1.0.2 |
-| Bite the Bullet | [0100A0800EA9C000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100A0800EA9C000) | 1de026588eba8442 | 1.0.0 |
 | BLEED 2 | [0100A48008AE8000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100A48008AE8000) | 3BEC0EF7B2DFA80D | 1.0.1 |
 | Boss Rush Mitologhy | [0100AB9013564000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100AB9013564000) | 5D4EAB46AACE1242 | 1.0.0 |
 | Braveland Trilogy | [0100A5B00D3D2000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100A5B00D3D2000) | 438D108A71CC054F | 1.0.0 |
