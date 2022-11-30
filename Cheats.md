@@ -17,7 +17,6 @@
 | Dragon Quest (JP) | [0100A5500E488000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100a5500e488000) | f3845d78427cb893 | 1.0.0 |
 | Dragon Star Varnir | [0100A8B014930000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100A8B014930000) | E26A54F785A76EE7 | 1.0.0 |
 | Final Fantasy VII | [0100A5B00BDC6000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100a5b00bdc6000) | CA4ED0693797F529 | 1.0.2, 1.0.2_5 |
-| Gryphon Knight Epic: Definitive Edition | [0100A16011872000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100A16011872000) | DF8DDC222B04C24D | 1.0.0 |
 | Hot Wheels Unleashed | [0100AA60136D2000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100AA60136D2000) | E8EDED95565F2F99 | 1.0.2 |
 | Hyrule Warriors: Definitive Edition | [0100AE00096EA000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100AE00096EA000) | 815a2c19d1767896 | 1.0.1 |
 | Island Saver | [0100A2600FCA0000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100A2600FCA0000) | 5deb62b4085e8b45 | 1.0.1 |
