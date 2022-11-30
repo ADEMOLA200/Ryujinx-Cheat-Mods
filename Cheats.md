@@ -18,7 +18,6 @@
 | Dragon Star Varnir | [0100A8B014930000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100A8B014930000) | E26A54F785A76EE7 | 1.0.0 |
 | Final Fantasy VII | [0100A5B00BDC6000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100a5b00bdc6000) | CA4ED0693797F529 | 1.0.2, 1.0.2_5 |
 | Hyrule Warriors: Definitive Edition | [0100AE00096EA000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100AE00096EA000) | 815a2c19d1767896 | 1.0.1 |
-| Island Saver | [0100A2600FCA0000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100A2600FCA0000) | 5deb62b4085e8b45 | 1.0.1 |
 | LEGO: The Incredibles | [0100A01006E00000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100A01006E00000) | 2103782a9ae5384e | 1.0.2 |
 | Lonely Mountains: Downhill | [0100A0C00E0DE000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100A0C00E0DE000) | 2EC4D1B667108246 | 1.0.0 |
 | Max And The Book Of Chaos | [0100A8C011F26000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100A8C011F26000) | 7A0D43680365424E | 1.0.0 |
