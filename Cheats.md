@@ -50,7 +50,7 @@
 | Paper Mario: The Origami King | [0100A3900C3E2000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100A3900C3E2000) | e74395f066fd8ccb | 1.0.1 |
 | Persona 5 the Royal (JP) | [0100B880154FC000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100B880154FC000) | 708BCACA873EA32B | 1.0.0 |
 | Pinball Jam| [0100AD50167EC000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100AD50167EC000) | A44E17749BAC250B | 1.0.1 |
-| Pokémon™ Scarlet | [0100A3D008C5C000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100A3D008C5C000) | B26A631109A29124 | 1.0.1 |
+| Pokémon™ Scarlet | [0100A3D008C5C000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100A3D008C5C000) | A4B74EBC314F616A | 1.1.0 |
 | Pokémon™ Sword | [0100ABF008968000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100ABF008968000) | A3B75BCD3311385A | 1.3.2 |
 | Pokkén Tournament™ DX | [0100B3F000BE2000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100b3f000be2000) | 49690ba2efdcd7a7 | 1.3.3 |
 | Project Warlock | [0100BDB01150E000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100BDB01150E000) | D597DE8544D8ED4F | 1.0.3 |
