@@ -14,6 +14,7 @@
 | ACA NeoGeo: Real Bout Fatal Fury 2 | [0100Cf3008798000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100Cf3008798000) | a6471636b3aed24f | 1.0.0 |
 | ACA NeoGeo: The King of Fighters '98 | [0100B42001DB4000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100B42001DB4000) | a45e6532566b6592 | 1.0.2 |
 | ACA NeoGeo: The King of Fighters 2000 | [0100B97002B44000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100B97002B44000) | e1e188aa898b0ac6 | 1.0.0 |1.0.2 |
+| ACA NeoGeo: The King of Fighters 2002 | [0100CFD00AFDE000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100CFD00AFDE000) | 2fda10318a75886a | 1.0.0 |
 | ACA NeoGeo: Twinke Star Sprits | [0100B8300AFD8000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100B8300AFD8000) | A6069D8D14422130 | 1.0.0 |
 | ACA NeoGeo: Waku Waku 7 | [0100CEF001DC0000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100CEF001DC0000) | F15D4F7092756A32 | 1.0.2 |
 | Aces of the Luftwaffe - Squadron | [0100B28003440000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100B28003440000) | D8AE31761C6F8B4B | 1.0.7 |
@@ -119,7 +120,7 @@
 | Zombie Army Trilogy | [0100C7300EEE4000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100C7300EEE4000) | 54211726d36a8d9c | 1.0.2 |
 
 
-
+| ACA NeoGeo: The King of Fighters 2002 | [0100CFD00AFDE000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100CFD00AFDE000) | 2fda10318a75886a | 1.0.0 |
 
 
 ## CHEAT Source
