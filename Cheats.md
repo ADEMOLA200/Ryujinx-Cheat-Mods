@@ -52,7 +52,6 @@
 | FINAL FANTASY VII | [0100A5B00BDC6000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100a5b00bdc6000) | CA4ED0693797F529 | 1.0.2, 1.0.2_5 |
 | FINAL FANTASY X/X-2 HD Remaster | [0100BC300CB48000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100BC300CB48000) | 1ce9f39ddb8a1a93 | 1.0.0 |
 | FINAL FANTASY® CRYSTAL CHRONICLES™ Remastered Edition | [0100CE4010AAC000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100CE4010AAC000) | e1d8b399b787ae41 | 1.0.3 |
-
 | Frane: Dragons' Odyssey | [0100C0C00DD0E000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100C0C00DD0E000) | 09b846aebe22fe44 | 1.0.0 |
 | GODS Remastered | [0100BAA00AE16000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100BAA00AE16000) | 8B36F764EB350C41 | 1.0.6 |
 | Good Job! | [0100B0500FE4E000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100B0500FE4E000) | 951D09EECE122A47 | 1.0.0 |
