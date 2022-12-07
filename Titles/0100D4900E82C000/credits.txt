@@ -1,2 +1,2 @@
-Metro 2033 Redux v1.0
+Metro 2033 Redux v1.0.0
 @patjenova
