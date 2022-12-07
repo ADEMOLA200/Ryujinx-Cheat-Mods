@@ -38,6 +38,8 @@
 | Castlevania Advance Collection | [0100B33014710000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100B33014710000) | 3F0EF535A585FF64 | 1.0.0 |
 | Catherine: Full Body | [0100BF00112C0000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100BF00112C0000) | 93A79C77DA81F7F1 | 1.0.1 |
 | Chocobo's Mystery Dungeon: Every Buddy! | [0100BF600BF26000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100BF600BF26000) | C51FC4337E825148 | 1.0.1 |
+| Cities: Skylines - Nintendo Switch™ Edition | [0100D8800B87C000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100D8800B87C000) | 9c010911589c624f | v1.0.3.37670 |
+
 | Conjurer Andy’s Repeatable Dungeon | [0100C8500CBC4000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100C8500CBC4000) | 6E6053566CFBC210 | 2.0.0 |
 | CopperBell | [0100C5A0115C4000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100C5A0115C4000) | b35a2167f134094d | 1.0.0 |
 | Crash Bandicoot™ N. Sane Trilogy | [0100D1B006744000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100D1B006744000) | 29E1A37D84227147 | 1.0.0 |
@@ -66,6 +68,7 @@
 | ICEY | [0100BE9007E7E000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100BE9007E7E000) | 684a8d1aebeb7845 | 1.0.5 |
 | Iconoclasts | [0100BC60099FE000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100BC60099FE000) | 4e1c499387103542  | 1.1.5p |
 | Jack 'n' Hat | [0100CF001426A000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100CF001426A000) | BFBCA454BDC81C38 | 1.0.1 |
+| Knight Terrors | [0100D51006AAC000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100D51006AAC000) | 0100D51006AAC000 | v1.0.0 |
 | KLONOA Phantasy Reverie | [0100BBA015E8E000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100BBA015E8E000) | 552FC82B89F7FC98 | 1.0.0 |
 | Kangokutou Mary Skelter 2 (JP) | [0100C3500D956000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100C3500D956000) | B1FC6FB94ECE1DF1 | 1.0.3 |
 | Landflix Odyssey | [0100BE3013A38000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100BE3013A38000) | C55DF60AEBBB4EAE | 1.0.2 |
@@ -73,6 +76,7 @@
 | Mario Tennis™ Aces | [0100BDE00862A000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100BDE00862A000) | 32487e7e3d94954e | 1.0.3 |
 | Max And The Book Of Chaos | [0100A8C011F26000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100A8C011F26000) | 7A0D43680365424E | 1.0.0 |
 | Megaman 11 | [0100B0C0086B0000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100B0C0086B0000) | 047fdd0c5af5f1c5 | 1.0.1 |
+| Metro 2033 Redux | [0100D4900E82C000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100D4900E82C000) | 85C362CC9790F0ED | 1.0.0 |
 | Monster Hunter Rise: Sunbreak | [0100B04011742000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100B04011742000) | 3003EF061E91DCB4 | 13.0.0 |
 | Monster Sanctuary | [0100A0F00DA68000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100A0F00DA68000) | 65EEA5A401B6F042 | 1.3.0 |
 | Monster Slayers | [0100D1700C732000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100D1700C732000) | 341CD937B9A177A5 | 1.0.0 |
@@ -97,6 +101,7 @@
 | Samurai Warriors 5 | [0100B28014132000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100B28014132000) | 810CBA3D7DB83EC0 | 1.0.3 |
 | Sea of Solitude: The Director’s Cut | [0100AFE012BA2000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100AFE012BA2000) | 1D327B699C913A47 | 1.1.0 |
 | Sega Genesis Classics (US) | [0100A6300B250000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100A6300B250000) | 7980ad54fef93945 | 1.0.2 |
+| Shadow Blade: Reload | [0100D5500DA94000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100D5500DA94000) | E03782D850353F40 | 1.0.0 |
 | Shalnor Legends: Sacred Lands | [0100B4900E008000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100B4900E008000) | 87d0fcd94b1e1b3d | 1.0.0 |
 | Shantae Risky's Revenge - Director's Cut | [0100ADA012370000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100ADA012370000) | f139ec48132e8b34 | 1.0.0 |
 | Shattered: Tale of the Forgotten King |  [0100A0F0180D6000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100A0F0180D6000) | 4D42A2CA8232E8EB | 1.0.0 |
@@ -107,7 +112,9 @@
 | Sniper Elite V2 Remastered | [0100BB000A3AA000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100BB000A3AA000) | b61f280560a937d2 | 1.0.5 |
 | Snow Battle Princess Sayuki | [0100ADF00CB64000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100ADF00CB64000) | 24620f1b3f64d649 | 1.0.0 |
 | Sphinx and the Cursed Mummy | [0100BD500BA94000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100BD500BA94000) | B73BF75FEB33ABC5 | 1.1.0 |
+| Star Story: The Horizon | [0100D7000AE6A000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100D7000AE6A000) | 101279C95BF61B40 | 1.0.0 |
 | STAY COOL, KOBAYASHI-SAN!: A RIVER CITY RANSOM STORY | [0100B61009C60000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100B61009C60000) | 9b3795d79e82816f | 1.0.0 |
+| Strikers 1945 III | [0100D8200D4E2000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100D8200D4E2000) | 7f555bcfac873e7a | 1.0.2 |
 | Superpanda 2 | [0100B75018A6E000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100B75018A6E000) | 6BEB59A0ABBD15AD | 1.0.0 |
 | Super Robot Wars V (JP) | [0100CA400E300000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100CA400E300000) | 736EB95ACA241014 | 1.0.2 |
 | Super Toy Cars Offroad | [0100B65013636000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100B65013636000) | 664244C1CBABE8B7 | 1.0.0 |
@@ -120,16 +127,20 @@
 | ToeJam & Earl: Back in the Groove! | [0100B5200BB7C000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100B5200BB7C000) | 9386ab7fd676d747 | 1.7.2 |
 | Tokyo Mirage Sessions #FE Encore (Asia) | [0100A9400C9C2000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100A9400C9C2000) | 33463E11899166BB | 1.0.0 |
 | Tony Hawks Pro Skater 1+2 | [0100CC00102B4000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100CC00102B4000) | 8AFCBE6A930CD42E | 1.0.3 |
+| Toon Shooters 2: The Freelancers | [0100D31013F24000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100D31013F24000) | 206c185e2f5a9a2e | v3.3 |
+| Trials of Mana | [0100D7800E9E0000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100D7800E9E0000) | 92C25172D38DFEDB | 1.1.1 |
+| Trine Enchanted Edition | [0100D9000A930000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100D9000A930000) | 32b4bbe0d88214d3 | v1.0.2 |
 | Witcheye | [0100BD4011FFE000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100BD4011FFE000) | c8627e913deb5943 | 1.0.2 |
 | Wonder Boy The Dragons Trap | [0100A6300150C000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100A6300150C000) | 13793f02e257147f | 1.0.3e |
 | Xenoblade Chronicles 2: Torna ~ The Golden Country | [0100C9F009F7A000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100C9F009F7A000) | 56246A89466A791B | 1.0.2 |
 | Valkyria Chronicles™ | [0100CAF00B744000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100CAF00B744000) | fe77ffb8cbfb3a5c | 1.0.0 |
+| Void Bastards | [0100D010113A8000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100D010113A8000) | 2AE8719F2962C94E | v2.0.24.267 |
 | Völgarr the Viking | [0100B1A0066DC000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100B1A0066DC000) | A2AD2E750B402FAC | 1.0.1 |
 | Wild Guns™ Reloaded | [0100CFC00A1D8000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100CFC00A1D8000) | ce3e20fbad467949 | 1.0.0 |
 | Zombie Army Trilogy | [0100C7300EEE4000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100C7300EEE4000) | 54211726d36a8d9c | 1.0.2 |
 
 
-
+| Knight Terrors | [0100D51006AAC000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100D51006AAC000) | 0100D51006AAC000 | v1.0.0 |
 
 
 ## CHEAT Source
