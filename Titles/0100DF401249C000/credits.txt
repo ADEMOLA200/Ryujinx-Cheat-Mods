@@ -1,5 +1,3 @@
 AstroWings: Space War v1.0.0
 @merlin555 
 @ZiT
-
-
