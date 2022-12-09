@@ -51,7 +51,7 @@
 | Chocobo's Mystery Dungeon: Every Buddy! | [0100BF600BF26000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100BF600BF26000) | C51FC4337E825148 | 1.0.1 |
 | Cities: Skylines - Nintendo Switch™ Edition | [0100D8800B87C000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100D8800B87C000) | 9c010911589c624f | 1.0.3.37670 |
 | Conjurer Andy’s Repeatable Dungeon | [0100C8500CBC4000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100C8500CBC4000) | 6E6053566CFBC210 | 2.0.0 |
-| CopperBell | [0100C5A0115C4000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100C5A0115C4000) | b35a2167f134094d | 1.0.0 |
+| Copperbell | [0100C5A0115C4000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100C5A0115C4000) | b35a2167f134094d | 1.0.0 |
 | Crash Bandicoot™ N. Sane Trilogy | [0100D1B006744000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100D1B006744000) | 29E1A37D84227147 | 1.0.0 |
 | Cruis n Blast | [0100B41013C82000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100B41013C82000) | 9346D69ABD4CC24B | 1.0.7 |
 | Cuphead | [0100A5C00D162000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100a5c00d162000) | D02CD50295124A48 | 1.3.4 |
