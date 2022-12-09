@@ -1,2 +1,2 @@
-BLEED 2 v1.0.1
+Bleed 2 v1.0.1
 @letmeknow
