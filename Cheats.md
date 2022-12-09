@@ -38,7 +38,7 @@
 | Blade Arcus Rebellion from Shining | [0100C4400CB7C000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100C4400CB7C000) | 80B750F7AB6A6D9B | 1.0.1 |
 | Blade Fury | [0100DF0011A6A000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100DF0011A6A000) | d45552f973c9fa42 | 1.0.0 |
 | Blazing Chrome | [0100C2700C252000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100C2700C252000) | 318f9f225a532857 | 1.0.3 |
-| BLEED 2 | [0100A48008AE8000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100A48008AE8000) | 3BEC0EF7B2DFA80D | 1.0.1 |
+| Bleed 2 | [0100A48008AE8000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100A48008AE8000) | 3BEC0EF7B2DFA80D | 1.0.1 |
 | Bloons TD 5 | [0100B8400A1C6000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100B8400A1C6000) | a514b9687031515d | 3.8.1 |
 | Blossom Tales: The Sleeping King | [0100C1000706C000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100C1000706C000) | 05F6F8467F81D8D0 | 1.0.2 |
 | Boss Rush Mitologhy | [0100AB9013564000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100AB9013564000) | 5D4EAB46AACE1242 | 1.0.0 |
