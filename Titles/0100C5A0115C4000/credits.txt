@@ -1,2 +1,2 @@
-CopperBell v1.0.0
+Copperbell v1.0.0
 @ZiT
