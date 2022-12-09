@@ -1,2 +1,2 @@
-ACA NeoGeo Blazing Star v1.0.0
+ACA NeoGeo: Blazing Star v1.0.0
 @optanic
