@@ -131,7 +131,7 @@
 | Shantae Risky's Revenge - Director's Cut | [0100ADA012370000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100ADA012370000) | f139ec48132e8b34 | 1.0.0 |
 | Shattered: Tale of the Forgotten King |  [0100A0F0180D6000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100A0F0180D6000) | 4D42A2CA8232E8EB | 1.0.0 |
 | Shieldwall Chronicles: Swords of the North | [0100C7E01442C000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100C7E01442C000) | f822b545f3b71a4e | 1.0.0 |
-| Shinobi Spirits S Legend of Heroes | [0100B0300E8B6000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100B0300E8B6000) | 3e251d14861e7b4d | 1.0.0 |
+| Shinobi Spirits S: Legend of Heroes | [0100B0300E8B6000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100B0300E8B6000) | 3e251d14861e7b4d | 1.0.0 |
 | Shio | [0100C2F00A568000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100C2F00A568000) | 98FFC4D49752C04A | 1.0.1 |
 | Skully | [0100D7B011654000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100D7B011654000) | 1265f75ec9d5c2f9 | 1.0.2 |
 | Sky Jaguar 2 | [0100E0C010AB8000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100E0C010AB8000) | 2f7f83f5fc76d702 | 1.0.0 |
