@@ -79,8 +79,8 @@
 | Doom Eternal | [0100B1A00D8CE000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100B1A00D8CE000) | 5AF6F31EAC42DBC0 | 1.6.0 |
 | Down to Hell | [0100B6600FE06000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100B6600FE06000) | 62C8976E3DEE9740 | 1.0.0 |
 | Drag Sim 2020 | [0100B59011A1C000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100B59011A1C000) | fe87beb149f96c45 | 1.0.0 |
-| Dragon Quest | [0100EFC00EFB2000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100EFC00EFB2000) | 4c1e8f555e6b88da | 1.0.0 |
 | Dragon Quest (JP) | [0100A5500E488000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100a5500e488000) | f3845d78427cb893 | 1.0.0 |
+| Dragon Quest | [0100EFC00EFB2000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100EFC00EFB2000) | 4c1e8f555e6b88da | 1.0.0 |
 | Dragon Quest II: Gods of the Evil Spirits (JP) | [0100B1900E48E000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100b1900e48e000) | d84098833bf007c6 | 1.0.0 |
 | Dragon Star Varnir | [0100A8B014930000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100A8B014930000) | E26A54F785A76EE7 | 1.0.0 |
 | DreamWorks Dragons Dawn of New Riders | [0100ED200B6FC000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100ED200B6FC000) | 41e7d227f248534e | 1.0.1 |
