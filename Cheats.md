@@ -232,8 +232,8 @@
 | Wonder Boy The Dragons Trap | [0100A6300150C000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100A6300150C000) | 13793f02e257147f | 1.0.3e |
 | X-Morph: Defense | [0100DF100B97C000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100DF100B97C000) | b0d911bc4c9a3760 | 1.0.1 |
 | Xenoblade 2 (JP) | [0100F3400332C000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100F3400332C000) | e3938fa78579c1ca | 2.0.2 |
-| Xenoblade Chronicles 2 | [0100E95004038000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100E95004038000) | F77F1559371C0EC6 | 2.1.0 |
-| Xenoblade Chronicles 2: Torna ~ The Golden Country | [0100C9F009F7A000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100C9F009F7A000) | 56246A89466A791B | 1.0.2 |
+| Xenoblade Chronicles™ 2 | [0100E95004038000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100E95004038000) | F77F1559371C0EC6 | 2.1.0 |
+| Xenoblade Chronicles™ 2: Torna ~ The Golden Country | [0100C9F009F7A000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100C9F009F7A000) | 56246A89466A791B | 1.0.2 |
 | Ys Origin | [0100F90010882000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100f90010882000) | 11c2b5b0961cd855 | 1.0.1 |
 | Zoids Wild: King of Blast (JP) | [0100E43009320000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100E43009320000) | bcc92811606bd64f | 1.0.0 |
 | Zombie Army Trilogy | [0100C7300EEE4000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100C7300EEE4000) | 54211726d36a8d9c | 1.0.2 |
