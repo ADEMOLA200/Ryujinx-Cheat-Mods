@@ -19,7 +19,7 @@ Work in Progress for Ryujinx Team.
 
 - All mods will will be gone through to make sure they are up to date.
 - All mods will have Horizon OS game version numbers.
-- All mods will have proper credits with links to their github, linktree, webpage etc.
+- All mods will have proper credits with links to the author or authors github, webpage etc.
 - All mods will be in alphabetical order.
 - Will update once a week if new mods release when finished.
 </br>
