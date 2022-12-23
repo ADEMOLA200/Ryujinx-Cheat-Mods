@@ -17,7 +17,7 @@
 | ACA NeoGeo: Real Bout Fatal Fury 2 | [0100Cf3008798000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100Cf3008798000) | a6471636b3aed24f | 1.0.0 |
 | ACA NeoGeo: Robo Army | [01000C9004FA2000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01000C9004FA2000) | 10597edb95065a24 | 1.0.0 |
 | ACA NeoGeo: Samurai Shodown | [01000C800AFD6000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01000C800AFD6000) | 27a3ddaa287c00b4 | 1.0.0 |
-| ACA NeoGeo: SENGOKU | [0100D170038EA000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100D170038EA000) | 70e6912bebf57a0a | 1.0.0 |
+| ACA NeoGeo: Sengoku | [0100D170038EA000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100D170038EA000) | 70e6912bebf57a0a | 1.0.0 |
 | ACA NeoGeo: The King of Fighters '98 | [0100B42001DB4000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100B42001DB4000) | a45e6532566b6592 | 1.0.2 |
 | ACA NeoGeo: The King of Fighters 2000 | [0100B97002B44000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100B97002B44000) | e1e188aa898b0ac6 | 1.0.0 |
 | ACA NeoGeo: The King of Fighters 2002 | [0100CFD00AFDE000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100CFD00AFDE000) | 2fda10318a75886a | 1.0.0 |
