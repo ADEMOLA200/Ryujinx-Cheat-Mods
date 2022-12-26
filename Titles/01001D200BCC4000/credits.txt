@@ -1,2 +1,2 @@
-Forager (US) v4.1.3
+Forager v4.1.3
 @Eiffel2018
