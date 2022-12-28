@@ -239,7 +239,7 @@
 | Super Toy Cars Offroad | [0100B65013636000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100B65013636000) | 664244C1CBABE8B7 | 1.0.0 |
 | Sword Of The Guardian | [01001C900CAD0000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01001C900CAD0000) | 21b490c1f7d43b4b | 1.0 |
 | Sword of the Vagrant | [0100BD000CB2C000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100BD000CB2C000) | 1F1363EC8CC83C73 | 1.1 |
-| Teenage Mutant Ninja Turtles: Shredder's Revenge | [0100FE701475A000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100FE701475A000) | 3CB1B07ABE602860 | 1.0.4 |
+| Teenage Mutant Ninja Turtles: Shredder's Revenge | [0100FE701475A000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100FE701475A000) | 3602EA0CB9BB3183 | 1.0.5 |
 | The Copper Canyon Dixie Dash | [01000F20102AC000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01000F20102AC000) | 2fbe522f4dbad51e | 1.0.2 |
 | The Last Kids On Earth and the Staff of Doom | [0100C27011544000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100C27011544000) | 562F197C579E7A45 | 1.0.1 |
 | The LEGO Movie 2 | [0100A4400BE74000](https://github.com/OldManKain/CheatModsSavesDB/tree/main/Titles/0100A4400BE74000) | BAC1309DDF75B14D | 1.0.3 |
