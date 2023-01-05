@@ -239,7 +239,7 @@
 | Rift Adventure | [0100F5501483C000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100F5501483C000) | 05E742A660D46B42 | 1.0.0 |
 | Rift Keeper | [0100AC600D898000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100AC600D898000) | bde75d1f4547014c | 1.0.0 |
 | River City Girls | [01004E700DFE6000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01004E700DFE6000) | 55670FA38F492343 | 1.2.0 |
-| River City Saga: Three Kingdoms | [0100D3A0181CA000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100D3A0181CA000) | 8e5855070d8ed018 | 1.0.0 |
+| River City Saga: Three Kingdoms (EU) | [0100D3A0181CA000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100D3A0181CA000) | 8e5855070d8ed018 | 1.0.0 |
 | Rogue Trooper Redux | [01001CC00416C000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01001CC00416C000) | E14BA06266B126AA | 1.0.1 |
 | Romancing SaGa 2 (JP) | [01002A1004B34000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01002A1004B34000) | 16d2c9fdc70e9d41 | 1.0.0 |
 | Romancing SaGa 2 | [01001F600829A000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01001F600829A000) | BA25511843AC1948 | 1.0.0 |
