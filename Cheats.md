@@ -6,10 +6,12 @@
 | .hack//G.U. Last Recode | [0100CA9014A04000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100CA9014A04000) | 18455A3B2AE872D7 | 1.0.0 |
 | 13 Sentinels: Aegis Rim | [01003FC01670C000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01003FC01670C000) | 4B632573CA5C160E | 1.10 |
 | A Knight's Quest | [01005EF00CFDA000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01005EF00CFDA000) | 0df02ab1aa74ad0a | 1.0.0 |
+| A Long Way Down | [01006A90144E4000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01006A90144E4000) | f80363545eaa634a | 1.0.0 |
 | ACA NeoGeo: Aero Fighters 2 | [0100AC40038F4000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100ac40038f4000) | ef700397005b93f4 | 1.0.1 |
 | ACA NeoGeo: Aero Fighters 3 | [0100B91008780000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100B91008780000) | 80fb5c02f0e4292a | 1.0.0 |
 | ACA NeoGeo: Aggresors of Dark Kombat | [0100B4800AFBA000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100B4800AFBA000) | CD7B66EE170AEF9A | 1.0.0 |
 | ACA NeoGeo: Alpha Mission II | [0100A76002B46000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100A76002B46000) | F77FD38250332F58 | 1.0.1 |
+| ACA NeoGeo: Art of Fighting | [01006A80038fC000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01006A80038fC000) | 3f175cd5303104d9 | 1.0.1 |
 | ACA NeoGeo: Art of Fighting 3 | [01004AC002B40000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01004AC002B40000) | 54e692acaa5f84e6 | 1.0.0 |
 | ACA NeoGeo: Blazing Star | [0100DFC003398000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100DFC003398000) | d17185a3fade4afa | 1.0.0 |
 | ACA NeoGeo: Burning Fight | [01002AA004DB4000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01002AA004DB4000) | BDEE92E5EC9697C6 | 1.0.0 |
@@ -71,6 +73,7 @@
 | Beast Quest | [01001EB00E9FE000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01001EB00E9FE000) | 1dd68befb8b47446 | 1.0.2 |
 | BioShock Infinite: The Complete Edition | [0100D560102C8000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100D560102C8000) | 48681F1D90704F6C | 1.0.2 |
 | BioShock Remastered | [0100AD10102B2000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100AD10102B2000) | d89ffaa2062e373d | 1.0.2 |
+| Blacksea Odyssey | [01006B400C178000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01006B400C178000) | 9abbfb8abca4a14f | 1.0.0 |
 | Blade Arcus Rebellion from Shining | [0100C4400CB7C000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100C4400CB7C000) | 80B750F7AB6A6D9B | 1.0.1 |
 | Blade Fury | [0100DF0011A6A000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100DF0011A6A000) | d45552f973c9fa42 | 1.0.0 |
 | BLAZBLUE CENTRALFICTION Special Edition | [0100EE800C93E000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100EE800C93E000) | 4c531136514b74b1 | 1.0.1 |
@@ -79,6 +82,7 @@
 | Bloodstained: Curse of the Moon | [01004B800AF5A000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01004B800AF5A000) | 82DECA0A867052BF | 1.1.1 |
 | Bloons TD 5 | [0100B8400A1C6000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100B8400A1C6000) | a514b9687031515d | 3.8.1 |
 | Blossom Tales: The Sleeping King | [0100C1000706C000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100C1000706C000) | 05F6F8467F81D8D0 | 1.0.2 |
+| Blue Rider | [01006A600B5E6000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01006A600B5E6000) | ffd5e4043b659545 | 1.0.0 |
 | Boss Rush Mitologhy | [0100AB9013564000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100AB9013564000) | 5D4EAB46AACE1242 | 1.0.0 |
 | Braveland Trilogy | [0100A5B00D3D2000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100A5B00D3D2000) | 438D108A71CC054F | 1.0.0 |
 | Bridge Strike | [0100A6C011B10000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100A6C011B10000) | 863c6d1966c8217f | 1.0.0 |
@@ -95,6 +99,7 @@
 | Cotton Reboot! (JP) | [01003DD00F94A000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01003DD00F94A000) | 6743a37fce1e9be4 | 1.0.0 |
 | Crash Bandicoot™ N. Sane Trilogy | [0100D1B006744000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100D1B006744000) | 29E1A37D84227147 | 1.0.0 |
 | Crash™ Team Racing Nitro-Fueled | [0100F9F00C696000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100f9f00C696000) | 1C68951840693051 | 1.0.15 |
+| Crimzon Clover - World EXplosion | [01006B800DE26000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01006B800DE26000) | 7f112d4c048e9eee | 1.0.0 |
 | CRISIS CORE –FINAL FANTASY VII– REUNION | [01004BC0166CC000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01004BC0166CC000) | 0F01D505966DABF6 | 1.0.2 |
 | Cruis n Blast | [0100B41013C82000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100B41013C82000) | 9346D69ABD4CC24B | 1.0.7 |
 | Cuphead | [0100A5C00D162000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100a5c00d162000) | D02CD50295124A48 | 1.3.4 |
@@ -107,6 +112,7 @@
 | Darksiders Genesis | [0100F2300D4BA000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100F2300D4BA000) | DB17131624D04A9C | 1.0.3 |
 | DC Super Hero Girls™: Teen Power | [0100F8F00C4F2000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100F8F00C4F2000) | BC714E2D7D32AB41 | 1.0.1 |
 | DEAD OR SCHOOL | [0100E7100C52C000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100E7100C52C000) | d29fa0c8b15e7842 | 1.0.0 |
+| Death's Gambit: Afterlife | [01006A0015812000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01006A0015812000) | 82BF132698A09A49 | 1.0.6 |
 | Dex | [01003F601025E000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01003F601025E000) | f0a4874a7fa53947 | 1.0.0 |
 | Diabolic | [0100F73011456000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100F73011456000) | 7FE0A7323D2E968A | 1.0.0 |
 | Disgaea 4 Complete + | [0100A9800E9B4000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100A9800E9B4000) | 6a1bf67d25fc2ed0 | 1.1.0 |
@@ -183,6 +189,7 @@
 | LEGO® Jurassic World | [01001C100E772000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01001C100E772000) | 1b80403be8882745 | 1.0.1 |
 | LEGO® The Incredibles | [0100A01006E00000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100A01006E00000) | 2103782a9ae5384e | 1.0.2 |
 | LOL Surprise! Remix: We Rule The World | [0100F2B0123AE000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100F2B0123AE000) | 821623d5241ab14b | 1.0.4 |
+| Lost in Random™ | [01005FE01291A000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01005FE01291A000) | 416914C121775277 | 1.0.1 |
 | Luigi's Mansion™ 3 | [0100DCA0064A6000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100DCA0064A6000) | 79E5950FFA85ACF6 | 1.4.0 |
 | M.A.C.E. Space Shooter | [0100F02005D1E000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100F02005D1E000) | 21CC83CF5A6C67AE | 1.0.1 |
 | MachiKnights -Blood bagos- | [0100F2400D434000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100F2400D434000) | 8EB9F6FB15B3428B | 1.0.6 |
@@ -220,8 +227,9 @@
 | ONINAKI | [01001AF00CE54000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01001AF00CE54000) | C949E2576F532C43 | 1.0.2 |
 | Outbreak: Epidemic | [0100C850130FE000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100C850130FE000) | 15639f4bc0eb994e | 1.0.2 |
 | Paper Mario: The Origami King | [0100A3900C3E2000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100A3900C3E2000) | e74395f066fd8ccb | 1.0.1 |
+| Part Time UFO™ | [01006B5012B32000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01006B5012B32000) | 3e13ee84f3a5f642 | 1.0.0 |
 | Penny-Punching Princes | [0100C510049E0000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100C510049E0000) | 84d19a943300e243 | 1.0.0 |
-| Persona 5 the Royal (JP) | [0100B880154FC000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100B880154FC000) | 708BCACA873EA32B | 1.0.0 |
+| Persona 5 Royal (JP) | [0100B880154FC000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100B880154FC000) | 708BCACA873EA32B | 1.0.0 |
 | Persona 5 Royal | [01005CA01580E000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01005CA01580E000) | 708BCACA873EA32B | 1.0.1 |
 | Phoenotopia : Awakening | [01005E100A4F0000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01005E100A4F0000) | 49FD30A3B6B16544 | 1.3.3 |
 | Pikmin™ 3 Deluxe | [0100F4C009322000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100F4C009322000) | D467F5AD367BBEE8 | 1.1.0 |
@@ -238,6 +246,7 @@
 | Rack N Ruin | [0100B8100C54A000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100B8100C54A000) | 4E587FE27A463D4C | 1.0.3-5 |
 | Radiation City | [0100DA400E07E000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100DA400E07E000) | 8ac5ab12589a13be | 1.0.1 |
 | Raiden V: Director's Cut | [01002B000D97E000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01002B000D97E000) | 941057a850e286df | 1.0.0 |
+| Rayman® Legends Definitive Edition | [01005FF002E2A000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01005FF002E2A000) | F466DA1D713533C2 | 1.0.2 |
 | Record of Lodoss War -Deedlit in Wonder Labyrinth- | [0100EF0015A9A000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100EF0015A9A000) | 667484A8F759B6FD | 1.0.2 |
 | Redeemer Enhanced Edition | [01000D100DCF8000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01000D100DCF8000) | 86AA48E1585F2EE7 | 1.2.0 |
 | Reed 2 | [01003EF0118D2000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01003EF0118D2000) | d93fa66964036f0e | 1.0.0 |
@@ -311,6 +320,7 @@
 | The Alliance Alive HD Remastered | [01003CF00DCFA000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01003CF00DCFA000) | 4DF9DA0BD7A61546 | 1.0.3 |
 | The Copper Canyon Dixie Dash | [01000F20102AC000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01000F20102AC000) | 2fbe522f4dbad51e | 1.0.2 |
 | The Last Kids On Earth and the Staff of Doom | [0100C27011544000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100C27011544000) | 562F197C579E7A45 | 1.0.1 |
+| The Legend of Zelda™: Link’s Awakening | [01006BB00C6F0000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01006BB00C6F0000) | 909e904af78ac1b8 | 1.0.1 |
 | The Legend of Zelda™: Skyward Sword HD | [01002DA013484000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01002DA013484000) | 5441AF3C89F97E1D | 1.0.1 |
 | The LEGO Movie 2 | [0100A4400BE74000](https://github.com/OldManKain/CheatModsSavesDB/tree/main/Titles/0100A4400BE74000) | BAC1309DDF75B14D | 1.0.3 |
 | The Lost Cube | [01000F2013CF8000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01000F2013CF8000) | 7D646A32A37BF945 | 1.0.0 |
