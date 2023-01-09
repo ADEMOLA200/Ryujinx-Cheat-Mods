@@ -47,6 +47,7 @@
 | Apple Knight | [01004C1013548000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01004C1013548000) | 769F21BB2405DB89 | 2.2.6 |
 | Arc of Alchemist | [0100C7D00E6A0000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100C7D00E6A0000) | 3873D07A0F36F124 | 1.0.2 |
 | Arcade Archives ATHENA | [0100BEC00C7A2000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100BEC00C7A2000) | 2769E70ED09EA790 | 1.0.0 |
+| Arcade Archives BUBBLE BOBBLE | [0100A77019FBA000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100A77019FBA000) | 282F0CDC676A9158 | 1.0.0 |
 | Arcade Archives DOUBLE DRAGON | [0100F25001DD0000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100F25001DD0000) | EE8FF8AB280B735F | 1.0.0 |
 | Arcade Archives IKARI III -THE RESCUE- | [01004B1010E58000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01004B1010E58000) | 78c93f31319080e0 | 1.0.0 |
 | Arcade Archives LIFE FORCE | [0100F380105A4000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100F380105A4000) | c1524d35c1d101ee | 1.0.0 |
@@ -89,6 +90,7 @@
 | Bright Memory: Infinite Gold Edition | [01001A9018560000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01001A9018560000) | 949EC7CBEDCF0969 | 1.0.0 |
 | Bubsy: Paws on Fire! | [0100DBE00C554000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100DBE00C554000) | be9b1be2c3eb8846 | 1.0.0 |
 | Bulletstorm: Duke of Switch Edition | [01003DD00D658000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01003DD00D658000) | 32FC35DF1C50E1F1 | 1.14.0 |
+| BurgerTime Party! | [01006BB00E8FA000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01006BB00E8FA000) | aa4b3c8e4ace0f47 | 1.0.0 |
 | Caladrius Blaze | [01004FD00D66A000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01004FD00D66A000) | cdd1c03d9879b8c4 | 1.0.0 |
 | Castlevania Advance Collection | [0100B33014710000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100B33014710000) | 3F0EF535A585FF64 | 1.0.0 |
 | Catherine: Full Body | [0100BF00112C0000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100BF00112C0000) | 93A79C77DA81F7F1 | 1.0.1 |
@@ -126,6 +128,7 @@
 | Dragon Quest | [0100EFC00EFB2000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100EFC00EFB2000) | 4c1e8f555e6b88da | 1.0.0 |
 | Dragon Quest II: Gods of the Evil Spirits (JP) | [0100B1900E48E000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100b1900e48e000) | d84098833bf007c6 | 1.0.0 |
 | Dragon Quest III: and into the Legend (JP) | [01002A800E490000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01002A800E490000) | dc72232650d79885 | 1.0.0 |
+| DRAGON QUEST® XI S: Echoes of an Elusive Age – Definitive Edition | [01006C300E9F0000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01006C300E9F0000) | 1719aabfa5eae42b | 1.0.3 |
 | Dragon Star Varnir (EU) | [0100A8B014930000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100A8B014930000) | E26A54F785A76EE7 | 1.0.1 |
 | Dragon Star Varnir | [01001C60148CC000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01001C60148CC000) | 5FE3DA408D621385 | 1.0.1 |
 | DreamWorks Dragons Dawn of New Riders | [0100ED200B6FC000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100ED200B6FC000) | 41e7d227f248534e | 1.0.1 |
@@ -374,7 +377,7 @@
 | Zombie Army Trilogy | [0100C7300EEE4000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100C7300EEE4000) | 54211726d36a8d9c | 1.0.2 |
 
 
-
+| DRAGON QUEST® XI S: Echoes of an Elusive Age – Definitive Edition | [01006C300E9F0000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01006C300E9F0000) | 1719aabfa5eae42b | 1.0.3 |
 
 
 ## CHEAT Source
