@@ -36,6 +36,7 @@
 | ACA NeoGeo: Twinke Star Sprits | [0100B8300AFD8000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100B8300AFD8000) | A6069D8D14422130 | 1.0.0 |
 | ACA NeoGeo: Waku Waku 7 | [0100CEF001DC0000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100CEF001DC0000) | F15D4F7092756A32 | 1.0.2 |
 | ACA NeoGeo: World Heroes 2 | [01001BD00915A000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01001BD00915A000) | 9a1266ca1bfc5c7b | 1.0.0 |
+| ACA NeoGeo: World Heroes 2 Jet | [01006C3004FAE000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01006C3004FAE000) | 6a68dc16168178fe | 1.0.0 |
 | ACA NeoGeo: Zed Blade | [01005AF004DBC000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01005AF004DBC000) | CC39C06BF1194EB6 | 1.0.0 |
 | Aces of the Luftwaffe - Squadron | [0100B28003440000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100B28003440000) | D8AE31761C6F8B4B | 1.0.7 |
 | Adventures of Pip | [01002B5012004000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01002B5012004000) | 27e9e9dd95465d4e | 1.0.0 |
@@ -191,6 +192,7 @@
 | LEGO® CITY Undercover | [01003A30012C0000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01003A30012C0000) | 669f6e70c268f748 | 1.0.2 |
 | LEGO® Jurassic World | [01001C100E772000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01001C100E772000) | 1b80403be8882745 | 1.0.1 |
 | LEGO® The Incredibles | [0100A01006E00000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100A01006E00000) | 2103782a9ae5384e | 1.0.2 |
+| Lila's Sky Ark | [01006C3017146000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01006C3017146000) | ddd922368815845e | 1.0.4.1 |
 | LOL Surprise! Remix: We Rule The World | [0100F2B0123AE000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100F2B0123AE000) | 821623d5241ab14b | 1.0.4 |
 | Lost in Random™ | [01005FE01291A000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01005FE01291A000) | 416914C121775277 | 1.0.1 |
 | Luigi's Mansion™ 3 | [0100DCA0064A6000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100DCA0064A6000) | 79E5950FFA85ACF6 | 1.4.0 |
@@ -221,13 +223,15 @@
 | Ni no Kuni: Wrath of the White | [0100E5600D446000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100E5600D446000) | C32B29CB5FBA96D9 | 1.0.2 |
 | Ni no Kuni II: Revenant Kingdom All in One Edition (JP) | [0100C4E013E5E000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100C4E013E5E000) | 5B67EF657677FD66 | 1.1.0 |
 | Ni no Kuni II: Revenant Kingdom Prince's Edition | [0100BE7013E06000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100BE7013E06000) | 14C7986BEB94A1A1 | 1.0.1 |
-| Ninja Gaiden 3: Razor's Edge | [01002AF014F4C000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01002AF014F4C000) | F20FDC280AF01CBE | 1.0.1 |
 | Nine Parchments | [0100D03003F0E000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100D03003F0E000) | f7893e37fc10c803 | 1.1.1 |
+| Ninja Gaiden 3: Razor's Edge | [01002AF014F4C000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01002AF014F4C000) | F20FDC280AF01CBE | 1.0.1 |
 | Octogeddon | [0100E6E00AF44000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100E6E00AF44000) | 51ae5df244c2f1ee | 1.0.0 |
 | Oddworld: Stranger's Wrath | [01002EA00ABBA000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01002EA00ABBA000) | 542b1d1d14978b82 | 1.0.3 |
 | Omega Strike | [0100F8C00C21C000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100F8C00C21C000) | 199aee8cfffd5e73 | 1.0.0 |
 | One Girl Army | [0100D7C01115E000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100D7C01115E000) | 5a95eb5631c22043 | 1.0.0 |
 | ONINAKI | [01001AF00CE54000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01001AF00CE54000) | C949E2576F532C43 | 1.0.2 |
+| Operencia: The Stolen Sun | [01006CF00CFA4000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01006CF00CFA4000) | 1ED621DD90BCD575 | 1.0.0 |
+| Orn: The Tiny Forest Sprite | [01006C70102EA000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01006C70102EA000) | 5540db46dbe1c7a6 | 1.0.0 |
 | Outbreak: Epidemic | [0100C850130FE000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100C850130FE000) | 15639f4bc0eb994e | 1.0.2 |
 | Paper Mario: The Origami King | [0100A3900C3E2000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100A3900C3E2000) | e74395f066fd8ccb | 1.0.1 |
 | Part Time UFO™ | [01006B5012B32000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01006B5012B32000) | 3e13ee84f3a5f642 | 1.0.0 |
@@ -243,6 +247,7 @@
 | Pokémon™ Sword | [0100ABF008968000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100ABF008968000) | A3B75BCD3311385A | 1.3.2 |
 | Pokkén Tournament™ DX | [0100B3F000BE2000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100b3f000be2000) | 49690ba2efdcd7a7 | 1.3.3 |
 | Project Warlock | [0100BDB01150E000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100BDB01150E000) | D597DE8544D8ED4F | 1.0.3 |
+| Pumpkin Jack | [01006C10131F6000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01006C10131F6000) | 0f73f1d52820f90b | 1.4.4 |
 | Punch Club | [0100A6000ACEA000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100A6000ACEA000) | 149284506F1BCC48 | 1.0.0 |
 | Quest of Dungeons | [01001DE005012000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01001DE005012000) | b01d8ea969dc1ccc | 1.0.2 |
 | R-Type Dimensions EX | [0100E5400BE64000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100E5400BE64000) | a9bab930855ced47 | 1.2.0 |
@@ -266,6 +271,7 @@
 | Romancing SaGa -Minstrel Song- Remastered | [01004A6017E8A000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01004A6017E8A000) | 07A2419DE0A62D94 | 1.0.1 |
 | Sacred Stones | [01005CE00F970000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01005CE00F970000) | edad5c13e9f926f3 | 1.0.0 |
 | Samurai Defender: Ninja Warfare | [01002B400873C000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01002B400873C000) | e33e4cd60710ac4d | 1.0.2 |
+| Samurai Jack: Battle Through Time | [01006C600E46E000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01006C600E46E000) | 6d5db3434ccf63f2 | 1.0.3 |
 | SAMURAI MAIDEN | [01003CE018AF6000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01003CE018AF6000) | 14DA85FF27635C4C | 1.3.1 |
 | Samurai Warriors 5 | [0100B28014132000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100B28014132000) | 810CBA3D7DB83EC0 | 1.0.3 |
 | Sea of Solitude: The Director’s Cut | [0100AFE012BA2000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100AFE012BA2000) | 1D327B699C913A47 | 1.1.0 |
@@ -370,6 +376,7 @@
 | Xenoblade Chronicles™ 2: Torna ~ The Golden Country | [0100C9F009F7A000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100C9F009F7A000) | 56246A89466A791B | 1.0.2 |
 | Xenoblade Chronicles™ Definitive Edition | [0100FF500E34A000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100FF500E34A000) | 92c78bb3dcbbc3f7 | 1.1.2 |
 | Xeodrifter | [01005B5009364000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01005B5009364000) | 77FA306CC9CC4EBC | 1.3.3 |
+| XIII | [01006CA00E9FA000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01006CA00E9FA000) | 643E6D877544B598 | 1.6.8166 |
 | Ys Origin | [0100F90010882000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100f90010882000) | 11c2b5b0961cd855 | 1.0.1 |
 | Zelda Musou: Hyrule All Stars DX (JP) | [01002AB007FD2000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01002AB007FD2000) | 3F8FFAD9352A760A | 1.0.1 |
 | Zero Strain | [01004B001058C000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01004B001058C000) | f3d71b69aae71376 | 1.0.0 |
@@ -377,7 +384,7 @@
 | Zombie Army Trilogy | [0100C7300EEE4000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100C7300EEE4000) | 54211726d36a8d9c | 1.0.2 |
 
 
-| DRAGON QUEST® XI S: Echoes of an Elusive Age – Definitive Edition | [01006C300E9F0000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01006C300E9F0000) | 1719aabfa5eae42b | 1.0.3 |
+
 
 
 ## CHEAT Source
