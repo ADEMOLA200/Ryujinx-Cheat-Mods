@@ -30,6 +30,7 @@
 | ACA NeoGeo: Samurai Shodown | [01005C9002B42000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01005C9002B42000) | e7c1eca56d362ef6 | 1.0.1 |
 | ACA NeoGeo: Samurai Shodown V | [01000C800AFD6000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01000C800AFD6000) | 27a3ddaa287c00b4 | 1.0.0 |
 | ACA NeoGeo: Sengoku | [0100D170038EA000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100D170038EA000) | 70e6912bebf57a0a | 1.0.0 |
+| ACA NeoGeo: Sengoku 3 | [01008D000877C000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01008D000877C000) | 3561311d56fbdfb0 | 1.0.0 |
 | ACA NeoGeo: Spin Master | [01007D1004DBA000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01007D1004DBA000) | fe6adbf2941b2d54 | 1.0.0 |
 | ACA NeoGeo: The King of Fighters '96 | [01006F0004FB4000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01006F0004FB4000) | 4935e4ef30e27318 | 1.0.0 |
 | ACA NeoGeo: The King of Fighters '98 | [0100B42001DB4000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100B42001DB4000) | a45e6532566b6592 | 1.0.2 |
@@ -265,6 +266,7 @@
 | Operencia: The Stolen Sun | [01006CF00CFA4000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01006CF00CFA4000) | 1ED621DD90BCD575 | 1.0.0 |
 | Orn: The Tiny Forest Sprite | [01006C70102EA000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01006C70102EA000) | 5540db46dbe1c7a6 | 1.0.0 |
 | Outbreak: Epidemic | [0100C850130FE000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100C850130FE000) | 15639f4bc0eb994e | 1.0.2 |
+| Outlast: Bundle of Terror | [01008D4007A1E000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01008D4007A1E000) | c3d46bb3c7059db1 | 1.0.1 |
 | Overcooked! 2 | [01006FD0080B2000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01006FD0080B2000) | 150F46F0966D1544 | 1.0.15 |
 | Paper Mario: The Origami King | [0100A3900C3E2000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100A3900C3E2000) | e74395f066fd8ccb | 1.0.1 |
 | Part Time UFO™ | [01006B5012B32000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01006B5012B32000) | 3e13ee84f3a5f642 | 1.0.0 |
@@ -277,6 +279,7 @@
 | Pinstripe (JP) | [01000C1011960000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01000C1011960000) | 802040931b870548 | 1.0.0 |
 | Pokémon Mystery Dungeon™: Rescue Team DX | [01003D200BAA2000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01003D200BAA2000) | 3AB632DEE82D5944 | 1.0.2 |
 | Pokémon™ Scarlet | [0100A3D008C5C000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100A3D008C5C000) | A4B74EBC314F616A | 1.1.0 |
+| Pokémon™ Shield | [01008DB008C2C000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01008DB008C2C000) | A16802625E7826BF | 1.3.2 |
 | Pokémon™ Sword | [0100ABF008968000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100ABF008968000) | A3B75BCD3311385A | 1.3.2 |
 | Pokkén Tournament™ DX | [0100B3F000BE2000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100b3f000be2000) | 49690ba2efdcd7a7 | 1.3.3 |
 | Project Warlock | [0100BDB01150E000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100BDB01150E000) | D597DE8544D8ED4F | 1.0.3 |
@@ -364,6 +367,7 @@
 | Teenage Mutant Ninja Turtles: Shredder's Revenge | [0100FE701475A000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100FE701475A000) | 3602EA0CB9BB3183 | 1.0.5 |
 | Teslagrad | [01005C8005F34000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01005C8005F34000) | 6290d08ceb02ea4d | 1.0.0 |
 | The Alliance Alive HD Remastered | [01003CF00DCFA000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01003CF00DCFA000) | 4DF9DA0BD7A61546 | 1.0.3 |
+| The Bug Butcher | [01008D700AB14000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01008D700AB14000) | 1763c8105148364a | 1.0.1 |
 | The Copper Canyon Dixie Dash | [01000F20102AC000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01000F20102AC000) | 2fbe522f4dbad51e | 1.0.2 |
 | The Last Kids On Earth and the Staff of Doom | [0100C27011544000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100C27011544000) | 562F197C579E7A45 | 1.0.1 |
 | The Legend of Zelda™: Breath of the Wild | [01007EF00011E000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01007EF00011E000) | 8e9978d50bdd20b4 | 1.6.0 |
