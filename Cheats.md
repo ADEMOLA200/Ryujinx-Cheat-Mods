@@ -32,6 +32,7 @@
 | ACA NeoGeo: Samurai Shodown | [01005C9002B42000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01005C9002B42000) | e7c1eca56d362ef6 | 1.0.1 |
 | ACA NeoGeo: Samurai Shodown V | [01000C800AFD6000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01000C800AFD6000) | 27a3ddaa287c00b4 | 1.0.0 |
 | ACA NeoGeo: Sengoku | [0100D170038EA000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100D170038EA000) | 70e6912bebf57a0a | 1.0.0 |
+| ACA NeoGeo: Sengoku 2 | [01009B300872A000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01009B300872A000) | 3f6ca7b86b217fa0 | 1.0.0 |
 | ACA NeoGeo: Sengoku 3 | [01008D000877C000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01008D000877C000) | 3561311d56fbdfb0 | 1.0.0 |
 | ACA NeoGeo: Spin Master | [01007D1004DBA000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01007D1004DBA000) | fe6adbf2941b2d54 | 1.0.0 |
 | ACA NeoGeo: The King of Fighters '96 | [01006F0004FB4000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01006F0004FB4000) | 4935e4ef30e27318 | 1.0.0 |
@@ -55,6 +56,7 @@
 | Akai Katana Shin (JP) | [0100BE6017C7A000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100BE6017C7A000) | D9C7864AB8C45C61 | 1.0.1 |
 | Akane | [01007F100DE52000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01007F100DE52000) | 469A52D777C7104D | 1.0.1 |
 | Alwa's Legacy | [01001B7012214000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01001B7012214000) | 3825003B418CF448 | 1.3.3.7440 |
+| ANIMUS: Revenant | [01009C60152B6000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01009C60152B6000) | 4EF86EE130D9AE72 | 1.0.5 |
 | Apple Knight | [01004C1013548000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01004C1013548000) | 769F21BB2405DB89 | 2.2.6 |
 | Arc of Alchemist | [0100C7D00E6A0000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100C7D00E6A0000) | 3873D07A0F36F124 | 1.0.2 |
 | Arcade Archives ATHENA | [0100BEC00C7A2000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100BEC00C7A2000) | 2769E70ED09EA790 | 1.0.0 |
@@ -77,6 +79,7 @@
 | Atelier Escha & Logy: Alchemists of the Dusk Sky DX | [0100E5600EE8E000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100E5600EE8E000) | 4bbb3b3455d306c6 | 1.0.0 |
 | Atelier Lulua ~ The Scion of Arland ~ | [0100B1400CD50000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100B1400CD50000) | ca7facaec708311c | 1.0.3 |
 | Atelier Meruru The Apprentice of Arland DX | [0100ADD00C6fA000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100ADD00C6fA000) | e76c3624d3ae3dce | 1.0.2 |
+| Atelier Totori ~The Adventurer of Arland~ DX | [01009BC00C6F6000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01009BC00C6F6000) | 4fd4bfe66c5353d4 | 1.0.1 |
 | AvoCuddle | [01008FB011248000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01008FB011248000) | 9906622a5b311548 | 1.0.0 |
 | Azure Striker GUNVOLT STRIKER PACK | [01003C100655A000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01003C100655A000) | 24017817548c5eb7 | 1.3.0 |
 | Bacon Man: An Adventure | [0100EAF00E32E000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100EAF00E32E000) | 3ff8fe0ccfb2348b | 1.0.0 |
@@ -90,6 +93,7 @@
 | BioShock Infinite: The Complete Edition | [0100D560102C8000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100D560102C8000) | 48681F1D90704F6C | 1.0.2 |
 | BioShock Remastered | [0100AD10102B2000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100AD10102B2000) | d89ffaa2062e373d | 1.0.2 |
 | Blacksea Odyssey | [01006B400C178000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01006B400C178000) | 9abbfb8abca4a14f | 1.0.0 |
+| Blade II - The Return Of Evil | [01009CC00E224000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01009CC00E224000) | 0379ac316b16fbc1 | 1.0.4 |
 | Blade Arcus Rebellion from Shining | [0100C4400CB7C000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100C4400CB7C000) | 80B750F7AB6A6D9B | 1.0.1 |
 | Blade Fury | [0100DF0011A6A000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100DF0011A6A000) | d45552f973c9fa42 | 1.0.0 |
 | BLAZBLUE CENTRALFICTION Special Edition | [0100EE800C93E000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100EE800C93E000) | 4c531136514b74b1 | 1.0.1 |
@@ -108,6 +112,8 @@
 | Bulletstorm: Duke of Switch Edition | [01003DD00D658000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01003DD00D658000) | 32FC35DF1C50E1F1 | 1.14.0 |
 | BurgerTime Party! | [01006BB00E8FA000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01006BB00E8FA000) | aa4b3c8e4ace0f47 | 1.0.0 |
 | Caladrius Blaze | [01004FD00D66A000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01004FD00D66A000) | cdd1c03d9879b8c4 | 1.0.0 |
+| Captain Toad™: Treasure Tracker | [01009BF0072D4000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01009BF0072D4000) | 8f75c9b8b7ff69d9 | 1.3.0 |
+| Cardfight!! Vanguard EX (JP) | [01009B600B9AA000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01009B600B9AA000) | ffae59d5cdc76f8f | 1.0.3 |
 | Castlevania Advance Collection | [0100B33014710000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100B33014710000) | 3F0EF535A585FF64 | 1.0.0 |
 | Catherine: Full Body | [0100BF00112C0000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100BF00112C0000) | 93A79C77DA81F7F1 | 1.0.1 |
 | Caveman Warriors | [01006DB004566000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01006DB004566000) | AA14F75E7C738844 | 2.0.0 |
@@ -267,6 +273,7 @@
 | Oddworld: Stranger's Wrath | [01002EA00ABBA000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01002EA00ABBA000) | 542b1d1d14978b82 | 1.0.3 |
 | Omega Strike | [0100F8C00C21C000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100F8C00C21C000) | 199aee8cfffd5e73 | 1.0.0 |
 | OMG Zombies! | [01006DB00D970000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01006DB00D970000) | 4291f2ae3b78c2de | 1.0.0 |
+| One Dog Story | [01009C301061A000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01009C301061A000) | 17d0ca29336dd042 | 1.0.0 |
 | One Girl Army | [0100D7C01115E000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100D7C01115E000) | 5a95eb5631c22043 | 1.0.0 |
 | ONINAKI | [01001AF00CE54000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01001AF00CE54000) | C949E2576F532C43 | 1.0.2 |
 | Operencia: The Stolen Sun | [01006CF00CFA4000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01006CF00CFA4000) | 1ED621DD90BCD575 | 1.0.0 |
@@ -319,6 +326,7 @@
 | Samurai Jack: Battle Through Time | [01006C600E46E000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01006C600E46E000) | 6d5db3434ccf63f2 | 1.0.3 |
 | SAMURAI MAIDEN | [01003CE018AF6000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01003CE018AF6000) | 14DA85FF27635C4C | 1.3.1 |
 | Samurai Warriors 5 | [0100B28014132000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100B28014132000) | 810CBA3D7DB83EC0 | 1.0.3 |
+| Scarlet Hood and the Wicked Wood | [01009BC016866000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01009BC016866000) | EAF244798CB7A240 | 1.0.0 |
 | Sea of Solitude: The Director’s Cut | [0100AFE012BA2000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100AFE012BA2000) | 1D327B699C913A47 | 1.1.0 |
 | Secrets of Magic 2 - Witches & Wizards | [01000C100CFD8000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01000C100CFD8000) | 8cdb26f131cae447 | 1.0.0 |
 | SEGA AGES Sonic The Hedgehog 2 | [01000D200C614000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01000D200C614000) | fcc0665401ede611 | 1.0.0 |
@@ -347,6 +355,7 @@
 | Snack World: The Dungeon Crawl – Gold | [0100F2800D46E000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100F2800D46E000) | 929C0BEA2BF097F7 | 1.0.0 |
 | Sniper Elite V2 Remastered | [0100BB000A3AA000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100BB000A3AA000) | b61f280560a937d2 | 1.0.5 |
 | Snow Battle Princess Sayuki | [0100ADF00CB64000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100ADF00CB64000) | 24620f1b3f64d649 | 1.0.0 |
+| Sonic Mania | [01009AA000FAA000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01009AA000FAA000) | 03fd1524e17a841c | 1.0.4 |
 | South Park™: The Fractured but Whole™ - Standard Edition | [01008F2005154000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01008F2005154000) | df15edaaf603e00c | 1.0.5 |
 | Space Invaders Forever | [0100F0C012C10000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100F0C012C10000) | 2E9D4A761AB93843 | 1.0.0 |
 | Sparklite | [01007ED00C032000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01007ED00C032000) | D0E79C23F66C2C42 | 1.6.12 |
@@ -394,6 +403,7 @@
 | The Witcher 3: Wild Hunt — Complete Edition (EU) | [01003D100E9C6000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01003D100E9C6000) | 4ffb62f1cd9e17f8 | 3.8.0 |
 | The World Ends with You®: Final Remix | [0100C1500B82E000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100C1500B82E000) | 2A5408063198B646 | 1.0.0 |
 | This Strange Realm of Mine | [0100C7C00F77C000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100C7C00F77C000) | 89DDB76DC0CCA744 | 1.0.0 |
+| Thunder Paw | [01009AF0110E4000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01009AF0110E4000) | D724828447669524 | 1.0.0 |
 | Thy Sword | [01000AC011588000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01000AC011588000) | AE9902F06D93BFEB | 1.0.0 |
 | Timespinner | [0100DD300CF3A000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100DD300CF3A000) | 95947700181F5C61 | 1.0.1 |
 | Tiny Barbarian DX | [0100D940022F6000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100D940022F6000) | 069B9A025B219E56 | 1.0.0 |
