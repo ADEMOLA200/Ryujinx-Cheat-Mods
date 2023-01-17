@@ -1,0 +1,47 @@
+[VP]
+04000000 00c9d130 0098967F
+
+[CP]
+04000000 00c9d134 0098967F
+
+[EX Gift Complete]
+04000000 00ca409c 0007d2ff
+
+[Free Fight Character Complete]
+02000000 00c9d332 0000df80
+04000000 00c9d334 06fbffff
+
+[Collection Complete (All Card x4)]
+300e0000 0000053b
+04000000 00c97374 00040004
+78000000 00000008
+310e0000
+20000000
+?Requires at least one card
+
+[Collection Complete (Play Mat)]
+01000000 00c9d1e7 000000ff
+01000000 00c9d1e8 00000003
+
+[Collection Complete (Sleeve)]
+01000000 00c9d1f3 000000f0
+04000000 00c9d1f4 ffffffff
+04000000 00c9d1f8 ffffffff
+04000000 00c9d1fc ffffffff
+04000000 00c9d200 ffffffff
+04000000 00c9d204 ffffffff
+01000000 00c9d208 00000001
+
+[Collection Complete (Character)]
+02000000 00c9d36a 0000ffe0
+04000000 00c9d36c 007fffff
+
+
+[Fighters Note (Fighter Complete)]
+02000000 00c9d1ce 0000fffe
+04000000 00c9d1d0 0007ffff
+
+[Fighters Note (Title)]
+02000000 00c9d1da 0000fff0
+04000000 00c9d1dc ffffffff
+02000000 00c9d1e0 000001ff
