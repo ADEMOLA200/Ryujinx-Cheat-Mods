@@ -561,7 +561,7 @@
 | Seven Knights -Time Wanderer- | [010018400C24E000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/010018400C24E000) | F6667BA0D144374F | 1.4.0 |
 
 
-## CHEAT Source
+## CHEAT Sources
 - https://github.com/LordApple/SXOS-CheatDB
 - https://github.com/WerWolv/EdiZon_CheatsConfigsAndScripts
 - https://gbatemp.net
