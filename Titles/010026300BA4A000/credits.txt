@@ -1,4 +1,4 @@
 Slay the Spire v2.2.1
-patjenova
+@patjenova
 @lionheartwolf
 @jhmiller
