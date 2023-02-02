@@ -180,6 +180,9 @@
 | Door Kickers: Action Squad | [01005ED00CD70000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01005ED00CD70000) | 1d3380ee5cc8dc3a | 1.2.8 |
 | Down to Hell | [0100B6600FE06000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100B6600FE06000) | 62C8976E3DEE9740 | 1.0.0 |
 | Drag Sim 2020 | [0100B59011A1C000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100B59011A1C000) | fe87beb149f96c45 | 1.0.0 |
+| DRAGON BALL Z: KAKAROT + A NEW POWER AWAKENS SET (Asia) | [0100FD70134FA000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100FD70134FA000) | DB59B74AC209C828 | 1.31 |
+| DRAGON BALL Z: KAKAROT + A NEW POWER AWAKENS SET (JP) | [0100EF00134F4000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100EF00134F4000) | 8A1783176C1AE9C0 | 1.31 |
+| DRAGON BALL Z: KAKAROT + A NEW POWER AWAKENS SET | [010051C0134F8000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/010051C0134F8000) | B0573198CC775B93 | 1.31 |
 | Dragon Quest (JP) | [0100A5500E488000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100a5500e488000) | f3845d78427cb893 | 1.0.0 |
 | Dragon Quest | [0100EFC00EFB2000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100EFC00EFB2000) | 4c1e8f555e6b88da | 1.0.0 |
 | Dragon Quest II: Gods of the Evil Spirits (JP) | [0100B1900E48E000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100b1900e48e000) | d84098833bf007c6 | 1.0.0 |
@@ -558,7 +561,7 @@
 | Zombie Army Trilogy | [0100C7300EEE4000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100C7300EEE4000) | 54211726d36a8d9c | 1.0.2 |
 
 
-| Seven Knights -Time Wanderer- | [010018400C24E000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/010018400C24E000) | F6667BA0D144374F | 1.4.0 |
+| DRAGON BALL Z: KAKAROT + A NEW POWER AWAKENS SET | [010051C0134F8000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/010051C0134F8000) | B0573198CC775B93 | 1.31 |
 
 
 ## CHEATS Sources
