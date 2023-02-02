@@ -143,6 +143,7 @@
 | Chocobo's Mystery Dungeon: Every Buddy! | [0100BF600BF26000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100BF600BF26000) | C51FC4337E825148 | 1.0.1 |
 | Chroma Squad | [010012E00EA66000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/010012E00EA66000) | 2D502DEF7E95E447 | 1.0.3 |
 | Cities: Skylines - Nintendo Switch™ Edition | [0100D8800B87C000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100D8800B87C000) | 9c010911589c624f | 1.0.3.37670 |
+| Cloudbase Prime | [010023800FE12000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/010023800FE12000) | ABA1020691A6D248 | 1.4.3 |
 | Conjurer Andy’s Repeatable Dungeon | [0100C8500CBC4000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100C8500CBC4000) | 6E6053566CFBC210 | 2.0.0 |
 | Copperbell | [0100C5A0115C4000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100C5A0115C4000) | b35a2167f134094d | 1.0.0 |
 | Cotton Reboot! (JP) | [01003DD00F94A000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01003DD00F94A000) | 6743a37fce1e9be4 | 1.0.0 |
@@ -151,6 +152,7 @@
 | Crimzon Clover - World EXplosion | [01006B800DE26000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01006B800DE26000) | 7f112d4c048e9eee | 1.0.0 |
 | CRISIS CORE –FINAL FANTASY VII– REUNION | [01004BC0166CC000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01004BC0166CC000) | 114D4499AB558921 | 1.0.3 |
 | Croc's World 2 | [01009DB00DE12000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01009DB00DE12000) | 934946857ae782c7 | 1.0.0 |
+| Croc's World 3 | [010025200FC54000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/010025200FC54000) | 98f36c45c6c78ab6 | 1.0.0 |
 | Cruis n Blast | [0100B41013C82000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100B41013C82000) | 9346D69ABD4CC24B | 1.0.7 |
 | Crystal Ortha | [01008FA012FC0000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01008FA012FC0000) | 9B192F49CDBC0746 | 1.0.0 |
 | Cuphead | [0100A5C00D162000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100a5c00d162000) | D02CD50295124A48 | 1.3.4 |
@@ -202,6 +204,7 @@
 | Earthlock | [01006E50042EA000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01006E50042EA000) | d75dbe0c21357141 | 1.0.3 |
 | Endurance - space action | [010045C011DF6000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/010045C011DF6000) | 768520e5eb082918 | 1.0.0 |
 | Escape from Chernobyl | [0100FEF00F0AA000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100FEF00F0AA000) | 7725C643B39658F4 | 1.0.2 |
+| Everdark Tower | [010029500DFBA000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/010029500DFBA000) | 94e79e909cd7d64b | 1.0.0 |
 | Everspace™ - Stellar Edition | [0100DCF0093EC000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100DCF0093EC000) | 71873feb4648fa39 | 1.0.5 |
 | Evoland Legendary Edition | [0100ED100B160000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100ED100B160000) | B853770C72416F65 | 1.0.5 |
 | F.I.S.T.: Forged In Shadow Torch (JP) | [01008EB017F3E000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01008EB017F3E000) | 599334AD9E47C19D | 1.0.1 |
@@ -228,6 +231,7 @@
 | FullBlast (JP) | [010036A00B290000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/010036A00B290000) | c2d7a3622913c742 | 1.0.0 |
 | Furi Definitive Edition | [01000EC00AF98000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01000EC00AF98000) | 83fb796d7b625e42 | 1.0.0 |
 | G-Mode Archives 17: Flyhight Cloudia 3 (JP) | [01001F7012E66000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01001F7012E66000) | 16c46473eeab2746 | 1.0.0 |
+| Galaxy Champions TV | [010023500EF76000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/010023500EF76000) | 7C392AF48783654C | 1.0.1 |
 | Ganryu 2 | [01008AA017970000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01008AA017970000) | 735DD6F91756FC48 | 1.1.2 |
 | Garage | [01000FA00A4E4000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01000FA00A4E4000) | b887d7ff382cd64f | 1.0.2 |
 | Gas Station: Highway Services | [010032D012602000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/010032D012602000) | ee18a97637d15740 | 1.0.0 |
@@ -267,6 +271,7 @@
 | Jack Axe | [0100EF500EF42000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100EF500EF42000) | BAA6DB7690E723BC | 1.0.19 |
 | Jack 'n' Hat | [0100CF001426A000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100CF001426A000) | BFBCA454BDC81C38 | 1.0.1 |
 | Jet Set Knights | [01005C1012C22000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01005C1012C22000) | 699fab245432f155 | 1.0.0 |
+| Jets'n'Guns | [010026200FF36000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/010026200FF36000) | 49b81bb7a4a30917 | 1.0.0 |
 | Jets'n'Guns 2 | [01000BF012920000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01000BF012920000) | ff756020d95b3ec5 | 1.0.0 |
 | Jikkyou Powerful Pro Yakyuu (JP) | [0100E9C00BF28000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100E9C00BF28000) | 859a3a3d296d44e8 | 1.0.4 |
 | Johnny Turbo's Arcade: Night Slashers | [0100F7300C90E000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100F7300C90E000) | 64B19FA91081374F | 1.0.0 |
@@ -408,6 +413,7 @@
 | SAMURAI MAIDEN | [01003CE018AF6000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01003CE018AF6000) | 14DA85FF27635C4C | 1.3.1 |
 | Samurai Warriors 5 | [0100B28014132000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100B28014132000) | 810CBA3D7DB83EC0 | 1.0.3 |
 | Scarlet Hood and the Wicked Wood | [01009BC016866000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01009BC016866000) | EAF244798CB7A240 | 1.0.0 |
+| SD Gundam G Generation Cross Rays Premium G Sound Edition (Asia) | [010022900D3EC000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/010022900D3EC000) | 79CD7C99F9189705 | 1.6.5 |
 | Sea of Solitude: The Director’s Cut | [0100AFE012BA2000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100AFE012BA2000) | 1D327B699C913A47 | 1.1.0 |
 | Secrets of Magic 2 - Witches & Wizards | [01000C100CFD8000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01000C100CFD8000) | 8cdb26f131cae447 | 1.0.0 |
 | Seek Hearts | [010075D0101FA000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/010075D0101FA000) | dc21619c9456324c | 1.0.0 |
@@ -437,6 +443,7 @@
 | Skully | [0100D7B011654000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100D7B011654000) | 1265f75ec9d5c2f9 | 1.0.2 |
 | Sky Force Reloaded | [01006FE005B6E000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01006FE005B6E000) | f35d3df7cc780649 | 1.1.1 |
 | Sky Jaguar 2 | [0100E0C010AB8000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100E0C010AB8000) | 2f7f83f5fc76d702 | 1.0.0 |
+| Slay the Spire | [010026300BA4A000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/010026300BA4A000) | 334AB8BB31621C07 | 2.2.1 |
 | Snack World: The Dungeon Crawl – Gold (EU) | [0100F2800D46E000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100F2800D46E000) | 929C0BEA2BF097F7 | 1.0.0 |
 | SNACK WORLD: THE DUNGEON CRAWL — GOLD | [010010400D46A000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/010010400D46A000) | d3fa3aa21a0eb48c | 1.0.0 |
 | Snack World Treasurers Gold (JP) | [010072B007418000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/010072B007418000) | 26d8482bad9998b2 | 1.6.0 |
@@ -468,7 +475,9 @@
 | Strikers 1945 III | [0100D8200D4E2000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100D8200D4E2000) | 7f555bcfac873e7a | 1.0.2 |
 | Super Bomberman R | [01007AD00013E000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01007AD00013E000) | a0a745da9ae25946 | 2.2.0 |
 | Super Kirby Clash™ | [01003FB00C5A8000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01003FB00C5A8000) | DCDFA5A4AD9A175D | 1.0.1 |
+| Super Mario™ 3D World + Bowser’s Fury | [010028600EBDA000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/010028600EBDA000) | 891687F016A18F17 | 1.1.0 |
 | Super Robot Wars V (JP) | [0100CA400E300000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100CA400E300000) | 736EB95ACA241014 | 1.0.2 |
+| Super Robot Wars X (JP) | [010026800E304000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/010026800E304000) | 4873aa2e8514685f | 1.0.1 |
 | Super Saurio Fly | [01004CF00A60E000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01004CF00A60E000) | 6c8970071ef11148 | 2.0.0 |
 | Super Toy Cars Offroad | [0100B65013636000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100B65013636000) | 664244C1CBABE8B7 | 1.0.0 |
 | Superpanda 2 | [0100B75018A6E000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100B75018A6E000) | 6BEB59A0ABBD15AD | 1.0.0 |
@@ -554,6 +563,7 @@
 | XIII | [01006CA00E9FA000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01006CA00E9FA000) | 643E6D877544B598 | 1.6.8166 |
 | Yooka-Laylee and the Impossible Lair | [010022F00DA66000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/010022F00DA66000) | 8432CEC51F882448 | 1.0.4 |
 | Ys Origin | [0100F90010882000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100f90010882000) | 11c2b5b0961cd855 | 1.0.1 |
+| Yu-Gi-Oh! Legacy of the Duelist : Link Evolution | [010022400BE5A000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/010022400BE5A000) | cdc49702ee3df923 | 1.0.1 |
 | Zelda Musou: Hyrule All Stars DX (JP) | [01002AB007FD2000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01002AB007FD2000) | 3F8FFAD9352A760A | 1.0.1 |
 | Zero Strain | [01004B001058C000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01004B001058C000) | f3d71b69aae71376 | 1.0.0 |
 | Zoids Wild: King of Blast (JP) | [0100E43009320000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100E43009320000) | bcc92811606bd64f | 1.0.0 |
@@ -561,7 +571,7 @@
 | Zombie Army Trilogy | [0100C7300EEE4000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100C7300EEE4000) | 54211726d36a8d9c | 1.0.2 |
 
 
-| DRAGON BALL Z: KAKAROT + A NEW POWER AWAKENS SET | [010051C0134F8000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/010051C0134F8000) | B0573198CC775B93 | 1.31 |
+| Everdark Tower | [010029500DFBA000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/010029500DFBA000) | 94e79e909cd7d64b | 1.0.0 |
 
 
 ## CHEATS Sources
