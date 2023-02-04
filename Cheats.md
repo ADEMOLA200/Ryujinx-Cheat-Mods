@@ -584,7 +584,7 @@
 | Pinstripe! | [010041100B148000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/010041100B148000) | 99576dd9532d5d47 | 1.0.0 |
 
 
-## CHEATS Sources
+## Cheats Sources
 - https://github.com/LordApple/SXOS-CheatDB
 - https://github.com/WerWolv/EdiZon_CheatsConfigsAndScripts
 - https://gbatemp.net
