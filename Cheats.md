@@ -3,7 +3,7 @@
 
 | NAME | TITLE ID | BUILD ID | VERSION |
 | --- | --- | --- | --- |
-| .hack//G.U. Last Recode | [0100CA9014A04000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100CA9014A04000) | 18455A3B2AE872D7 | 1.0.0 |
+| .hack//G.U. Last Recode | [0100CA9014A04000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100CA9014A04000) | 18455A3B2AE872D7 | ```1.0.0``` |
 | 9 Monkeys of Shaolin | [010005E00E2BC000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/010005E00E2BC000) | 0d78053374218caa | 1.0.1 |
 | 13 Sentinels: Aegis Rim | [01003FC01670C000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01003FC01670C000) | 4B632573CA5C160E | 1.10 |
 | A Hat In Time | [010056E00853A000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/010056E00853A000) | 746F0D697EEEE2DD | 1.0.4 |
