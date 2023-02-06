@@ -500,7 +500,7 @@
 | Sword of the Vagrant | [0100BD000CB2C000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100BD000CB2C000) | 1F1363EC8CC83C73 | 1.1.0 |
 | Tales of Vesperia™: Definitive Edition | [01002C0008E52000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01002c0008e52000) | F244B656B1CAFE52 | 1.0.2 |
 | Tears of Avia | [010076E0150CC000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/010076E0150CC000) | 98B20F02EF446776 | 1.0.8 |
-| Teenage Mutant Ninja Turtles: Shredder's Revenge | [0100FE701475A000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100FE701475A000) | 3602EA0CB9BB3183 | 1.0.5 |
+| Teenage Mutant Ninja Turtles: Shredder's Revenge | [0100FE701475A000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100FE701475A000) | 2906ECBCEB6D88DC | 1.0.6 |
 | Teslagrad | [01005C8005F34000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01005C8005F34000) | 6290d08ceb02ea4d | 1.0.0 |
 | The Alliance Alive HD Remastered | [01003CF00DCFA000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01003CF00DCFA000) | 4DF9DA0BD7A61546 | 1.0.3 |
 | The Binding of Isaac: Afterbirth+ | [010021C000B6A000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/010021C000B6A000) | 40506B6C03196447 | 1.7.0 |
