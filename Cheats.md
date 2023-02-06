@@ -167,7 +167,7 @@
 | Damsel | [0100BD2009A1C000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100BD2009A1C000) | F6B9D27B867F2B4F | 1.1.2.453 |
 | Dandy Dungeon -Legend of Brave Yamada | [0100DFB00D808000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100DFB00D808000) | 29410CA2711A4145 | 2.0.3 |
 | Darius Burst Another Chronicle EX+ (JP) | [010015800F93C000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/010015800F93C000) | E6AF25ECBD97A207 | 1.0.2 |
-| Dariusburst: Another Chronicle EX+ | [010043F013044000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/010043F013044000) | C26B326ECEE0ACA1 | 1.0.2 |
+| Dariusburst: Another Chronicle EX+ | [010043F013044000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/010043F013044000) | FF3B532334E35F08 | 1.0.2 |
 | DARK SOULS™: REMASTERED | [01004AB00A260000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01004AB00A260000) | df3766a2bb651a3e | 1.0.3 |
 | Dark Witch Music Episode: Rudymical | [01001FA0034E2000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01001FA0034E2000) | 9f751801449b6d7a | 1.0.1 |
 | Darksiders III | [0100F8F014190000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100F8F014190000) | AF7114F019CE6E1D | 1.0.1 |
