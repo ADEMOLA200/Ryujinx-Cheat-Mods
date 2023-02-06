@@ -56,6 +56,7 @@
 | ACA NeoGeo: World Heroes Perfect | [01009D4001DC4000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01009D4001DC4000) | ce31f943f1e25699 | 1.0.1 |
 | ACA NeoGeo: Zed Blade | [01005AF004DBC000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01005AF004DBC000) | CC39C06BF1194EB6 | 1.0.0 |
 | Aces of the Luftwaffe - Squadron | [0100B28003440000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100B28003440000) | D8AE31761C6F8B4B | 1.0.7 |
+| Adventure Academia: The Fractured Continent | [01006E6018570000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01006E6018570000) | babac4334c4aec5d | 1.0.1 |
 | Adventures of Pip | [01002B5012004000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01002B5012004000) | 27e9e9dd95465d4e | 1.0.0 |
 | Aegis Defenders | [01008E6006502000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01008E6006502000) | 3785b9800028344e | 1.0.4 |
 | Aeon Must Die! | [01000B600F918000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01000B600F918000) | 10AC397225817D31 | 1.0.2 |
@@ -71,6 +72,7 @@
 | Arc of Alchemist | [0100C7D00E6A0000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100C7D00E6A0000) | 3873D07A0F36F124 | 1.0.2 |
 | Arcade Archives ATHENA | [0100BEC00C7A2000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100BEC00C7A2000) | 2769E70ED09EA790 | 1.0.0 |
 | Arcade Archives BUBBLE BOBBLE | [0100A77019FBA000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100A77019FBA000) | 282F0CDC676A9158 | 1.0.0 |
+| Arcade Archives CHAMPION WRESTLER | [01005FD018DCE000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01005FD018DCE000) | 031067227AEB664E | 1.0.2 |
 | Arcade Archives CONTRA | [01007F4012B84000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01007F4012B84000) | 3012eb62b098d6db | 1.0.0 |
 | Arcade Archives DOUBLE DRAGON | [0100F25001DD0000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100F25001DD0000) | EE8FF8AB280B735F | 1.0.0 |
 | Arcade Archives DOUBLE DRAGON II The Revenge | [01009E3001DDE000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01009E3001DDE000) | 7BB496830FBAEFB5 | 1.0.0 |
@@ -472,6 +474,7 @@
 | Sparklite | [01007ED00C032000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01007ED00C032000) | D0E79C23F66C2C42 | 1.6.12 |
 | Spelunker Party | [010021F004270000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/010021F004270000) | 65457968DAE86A45 | 1.1.0 |
 | Sphinx and the Cursed Mummy | [0100BD500BA94000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100BD500BA94000) | B73BF75FEB33ABC5 | 1.1.0 |
+| SpongeBob SquarePants: The Cosmic Shake | [01009FB0172F4000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01009FB0172F4000) | F61911B562195493 | 1.0.3 |
 | Spyro™ Reignited Trilogy | [010077B00E046000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/010077B00E046000) | d2775fafcf4835cb | 1.0.1 |
 | STAR OCEAN First Departure R | [0100EBF00E702000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100EBF00E702000) | 5EC132F471291B7E | 1.0.0 |
 | Star Story: The Horizon | [0100D7000AE6A000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100D7000AE6A000) | 101279C95BF61B40 | 1.0.0 |
@@ -487,6 +490,7 @@
 | Streets of Rage 4 | [0100EC9010258000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100EC9010258000) | c4725c8a6bcc1b29 | 1.0.7 |
 | Strikers 1945 | [0100FF5005B76000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100FF5005B76000) | 13a66415dfd9fc45 | 1.0.5 |
 | Strikers 1945 III | [0100D8200D4E2000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100D8200D4E2000) | 7f555bcfac873e7a | 1.0.2 |
+| Sunwards | [010039A019B20000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/010039A019B20000) | 3672353F008DECD7 | 0.1 |
 | Super Bomberman R | [01007AD00013E000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01007AD00013E000) | a0a745da9ae25946 | 2.2.0 |
 | Super Kirby Clash™ | [01003FB00C5A8000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01003FB00C5A8000) | DCDFA5A4AD9A175D | 1.0.1 |
 | Super Mario™ 3D World + Bowser’s Fury | [010028600EBDA000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/010028600EBDA000) | 891687F016A18F17 | 1.1.0 |
@@ -566,6 +570,7 @@
 | Warp Drive | [0100EED010722000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100EED010722000) | 613A885E8F37A1C7 | 2.3.0 |
 | WarriOrb | [010032700EAC4000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/010032700EAC4000) | e8e018bf25229ee3 | 1.0.0 |
 | WARRIORS OROCHI 4 | [010016A00AEC0000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/010016A00AEC0000) | 5c9ccd358be85fc9 | 1.0.13 |
+| Wavetale | [01001FB017B36000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01001FB017B36000) | B2AA768E3A7B894D | 1.0.2.0 |
 | Whipseey and the Lost Atlas | [010017500E7E0000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/010017500E7E0000) | 25CE48F161DDF0CB | 1.3.0.0 |
 | Wild Guns™ Reloaded | [0100CFC00A1D8000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100CFC00A1D8000) | ce3e20fbad467949 | 1.0.0 |
 | Witcheye | [0100BD4011FFE000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100BD4011FFE000) | c8627e913deb5943 | 1.0.2 |
@@ -580,6 +585,7 @@
 | Xenoblade Chronicles™ Definitive Edition | [0100FF500E34A000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100FF500E34A000) | 92c78bb3dcbbc3f7 | 1.1.2 |
 | Xeodrifter | [01005B5009364000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01005B5009364000) | 77FA306CC9CC4EBC | 1.3.3 |
 | XIII | [01006CA00E9FA000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01006CA00E9FA000) | 643E6D877544B598 | 1.6.8166 |
+| Xposed Switched | [01001D5019BFA000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01001D5019BFA000) | B3D9968A24489C72 | 1.0.0 |
 | Yooka-Laylee and the Impossible Lair | [010022F00DA66000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/010022F00DA66000) | 8432CEC51F882448 | 1.0.4 |
 | Ys Origin | [0100F90010882000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100f90010882000) | 11c2b5b0961cd855 | 1.0.1 |
 | Yu-Gi-Oh! Legacy of the Duelist : Link Evolution | [010022400BE5A000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/010022400BE5A000) | cdc49702ee3df923 | 1.0.1 |
@@ -590,7 +596,7 @@
 | Zombie Army Trilogy | [0100C7300EEE4000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100C7300EEE4000) | 54211726d36a8d9c | 1.0.2 |
 
 
-| Kingdoms of Amalur: Re-Reckoning | [0100EF50132BE000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100EF50132BE000) | 5B3112FD2C83E1AC | 1.0.4 |
+| Sunwards | [010039A019B20000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/010039A019B20000) | 3672353F008DECD7 | 0.1 |
 
 
 ## Cheats Sources
