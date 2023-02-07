@@ -511,7 +511,7 @@
 | The Bug Butcher | [01008D700AB14000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01008D700AB14000) | 1763c8105148364a | 1.0.1 |
 | The Copper Canyon Dixie Dash | [01000F20102AC000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01000F20102AC000) | 2fbe522f4dbad51e | 1.0.2 |
 | The Handsome Collection - Borderlands The Pre-sequel | [010007400FF24000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/010007400FF24000) | 090b1f7f7af35d00 | 1.0.1 |
-| The Handome Collection - Borderlands 2: GOTY | [010096F00FF22000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/010096F00FF22000) | f7c233469f20ee3f | 1.0.2 |
+| The Handsome Collection - Borderlands 2: GOTY | [010096F00FF22000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/010096F00FF22000) | f7c233469f20ee3f | 1.0.2 |
 | The Last Kids On Earth and the Staff of Doom | [0100C27011544000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100C27011544000) | 562F197C579E7A45 | 1.0.1 |
 | The Legend of Heroes Ao no Kiseki: Kai (JP) | [010085B01388A000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/010085B01388A000) | C5F61671A83CC8B0 | 1.0.1 |
 | The Legend of Zelda™: Breath of the Wild | [01007EF00011E000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01007EF00011E000) | 8e9978d50bdd20b4 | 1.6.0 |
