@@ -1,6 +1,6 @@
 # SWITCH CHEATS/MODS/SAVES DATABASE 
 
-Work in Progress for Ryujinx Team.
+Work in Progress
 
 
 ## GAMES INDEX
