@@ -243,6 +243,7 @@
 | Forgotton Anne | [010059E00B93C000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/010059E00B93C000) | 60798eaf949e504c | 1.0.0 |
 | Foxyland | [0100D2501001A000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100D2501001A000) | 4e2b065027e78663 | 1.0.0 |
 | Frane: Dragons' Odyssey | [0100C0C00DD0E000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100C0C00DD0E000) | 09b846aebe22fe44 | 1.0.0 |
+| FRONT MISSION 1st: Remake | [0100F200178F4000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100F200178F4000) | A844899CE171F1CA | 2.0.0 |
 | FullBlast (JP) | [010036A00B290000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/010036A00B290000) | c2d7a3622913c742 | 1.0.0 |
 | Furi Definitive Edition | [01000EC00AF98000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01000EC00AF98000) | 83fb796d7b625e42 | 1.0.0 |
 | G-Mode Archives 17: Flyhight Cloudia 3 (JP) | [01001F7012E66000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/01001F7012E66000) | 16c46473eeab2746 | 1.0.0 |
@@ -606,7 +607,7 @@
 | Zombie Army Trilogy | [0100C7300EEE4000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100C7300EEE4000) | 54211726d36a8d9c | 1.0.2 |
 
 
-| Rogue Legacy | [010056500AD50000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/010056500AD50000) | C4B40301FB00E359 | 1.0.1 |
+| FRONT MISSION 1st: Remake | [0100F200178F4000](https://github.com/OldManKain/CheatsModsSavesDB/tree/main/Titles/0100F200178F4000) | A844899CE171F1CA | 2.0.0 |
 
 
 ## Cheats Sources
