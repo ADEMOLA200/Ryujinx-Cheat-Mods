@@ -607,7 +607,7 @@
 | Zombie Army Trilogy | [0100C7300EEE4000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100C7300EEE4000) | 54211726d36a8d9c | 1.0.2 |
 
 
-| FRONT MISSION 1st: Remake | [0100F200178F4000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100F200178F4000) | A844899CE171F1CA | 2.0.0 |
+| Labyrinth of Refrain: Coven of Dusk | [010058500B3E0000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/010058500B3E0000) | a70b9eb509780b4a | 1.0.4 |
 
 ## Cheats Sources
 - https://github.com/LordApple/SXOS-CheatDB
