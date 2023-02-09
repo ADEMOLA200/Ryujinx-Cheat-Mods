@@ -396,8 +396,8 @@
 | Part Time UFO™ | [01006B5012B32000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01006B5012B32000) | 3e13ee84f3a5f642 | 1.0.0 |
 | Penny-Punching Princes | [0100C510049E0000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100C510049E0000) | 84d19a943300e243 | 1.0.0 |
 | Persona 3 Portable | [0100DCD01525A000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100DCD01525A000) | 663052C2C7E8C357 |1.0.0 |
-| Persona 5 Royal (JP) | [0100B880154FC000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100B880154FC000) | 708BCACA873EA32B | 1.0.0 |
-| Persona 5 Royal | [01005CA01580E000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01005CA01580E000) | 708BCACA873EA32B | 1.0.1 |
+| Persona 5 Royal (JP) | [0100B880154FC000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100B880154FC000) | D4B150B29A931CD3 | 1.0.1 |
+| Persona 5 Royal | [01005CA01580E000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01005CA01580E000) | D4B150B29A931CD3 | 1.0.2 |
 | Pew Paw | [010045A01221E000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/010045A01221E000) | 8e52b43604cabae7 | 1.0.0 |
 | Phoenotopia : Awakening | [01005E100A4F0000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01005E100A4F0000) | 49FD30A3B6B16544 | 1.3.3 |
 | Pikmin™ 3 Deluxe | [0100F4C009322000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100F4C009322000) | D467F5AD367BBEE8 | 1.1.0 |
