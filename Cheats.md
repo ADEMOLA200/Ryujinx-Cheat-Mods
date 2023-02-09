@@ -235,7 +235,7 @@
 | FINAL FANTASY X/X-2 HD Remaster (JP) | [0100FE500D0CA000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100FE500D0CA000) | C581C65CD5743ADF | 1.0.0 |
 | FINAL FANTASY X/X-2 HD Remaster | [0100BC300CB48000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100BC300CB48000) | 1ce9f39ddb8a1a93 | 1.0.0 |
 | FINAL FANTASY XII THE ZODIAC AGE | [0100EB100AB42000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100EB100AB42000) | C2932C4D1C84ED7D | 1.1.0 |
-| Fire Emblem™ Engage | [0100A6301214E000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100A6301214E000) | A21373DFC58390C9 | 1.1.0 |
+| Fire Emblem™ Engage | [0100A6301214E000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100A6301214E000) | 7D834B8753B78F01 | 1.2.0 |
 | Fire Emblem Musou (JP) | [0100EAE003A5A000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100EAE003A5A000) | 316baf584d815ab7 | 1.5.0 |
 | Fire Emblem™: Three Houses | [010055D009F78000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/010055D009F78000) | 89048449ba238c8c | 1.2.0 |
 | Fire Emblem Warriors | [0100F15003E64000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100F15003E64000) | 1953770037acc52a | 1.5.0 |
