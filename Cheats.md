@@ -218,6 +218,7 @@
 | Dragon Star Varnir (EU) | [0100A8B014930000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100A8B014930000) | E26A54F785A76EE7 | 1.0.1 |
 | Dragon Star Varnir | [01001C60148CC000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01001C60148CC000) | 5FE3DA408D621385 | 1.0.1 |
 | Dragon's Dogma: Dark Arisen | [010032C00AC58000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/010032C00AC58000) | 2CDB9B9D70010E88 | 1.0.1 |
+| DRAINUS | [01004F701966E000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01004F701966E000) | D0E15EC304C98B76 | 1.1.4 |
 | Dreaming Sarah | [010048F012C24000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/010048F012C24000) | FDAA28BE827D1B9C | 1.0.0 |
 | DreamWorks Dragons Dawn of New Riders | [0100ED200B6FC000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100ED200B6FC000) | 41e7d227f248534e | 1.0.1 |
 | Duke Nukem 3D: 20th Anniversary World Tour | [01007EF00CB88000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01007EF00CB88000) | 68EA5BFA8DAA9371 | 1.2.0 |
@@ -636,7 +637,7 @@
 | Zombie Army Trilogy | [0100C7300EEE4000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100C7300EEE4000) | 54211726d36a8d9c | 1.0.2 |
 
 
-| Metroid Prime™ Remastered | [010012101468C000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/010012101468C000) | 67C9CA1428222752 | 1.0.0 |
+| DRAINUS | [01004F701966E000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01004F701966E000) | D0E15EC304C98B76 | 1.1.4 |
 
 
 ## Cheats Sources
