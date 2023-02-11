@@ -151,6 +151,7 @@
 | Candleman | [010034400CB5E000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/010034400CB5E000) | 55aa8d007faec044 | 1.0.1 |
 | Capcom Beat 'Em Up Bundle | [010094E00B52E000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/010094E00B52E000) | fde56d0d80cf091d | 1.0.1 |
 | Captain Toad™: Treasure Tracker | [01009BF0072D4000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01009BF0072D4000) | 8f75c9b8b7ff69d9 | 1.3.0 |
+| Captain Tsubasa Rise Of New Champions (JP) | [010090B00CA4E000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/010090B00CA4E000) | CEEC669E42948B98 | 1.46 |
 | Cardfight!! Vanguard EX (JP) | [01009B600B9AA000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01009B600B9AA000) | ffae59d5cdc76f8f | 1.0.3 |
 | Castlevania Advance Collection | [0100B33014710000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100B33014710000) | 3F0EF535A585FF64 | 1.0.0 |
 | Cat Girl Without Salad: Amuse-Bouche | [010076000C86E000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/010076000C86E000) | 297c61613e8d8b2c | 1.0.0 |
@@ -637,7 +638,7 @@
 | Zombie Army Trilogy | [0100C7300EEE4000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100C7300EEE4000) | 54211726d36a8d9c | 1.0.2 |
 
 
-| DRAINUS | [01004F701966E000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01004F701966E000) | D0E15EC304C98B76 | 1.1.4 |
+| Captain Tsubasa Rise Of New Champions (JP) | [010090B00CA4E000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/010090B00CA4E000) | CEEC669E42948B98 | 1.46 |
 
 
 ## Cheats Sources
