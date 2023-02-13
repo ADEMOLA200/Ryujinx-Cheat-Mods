@@ -280,6 +280,8 @@
 | Guns, Gore and Cannoli 2 | [01006D4003BCE000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01006D4003BCE000) | BBF599D8F665FF4A | 1.0.4 |
 | Gunvolt Chronicles: Luminous Avenger iX | [01008C800E654000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01008C800E654000) | 735DD6F91756FC48 | 1.4.0 |
 | Habroxia | [01007E100EFA8000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01007E100EFA8000) | 6bc96ab409d90d32 | 1.0.1 |
+| HARVESTELLA (Asia) | [0100EDD018032000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100EDD018032000) | 898404C26E7EA75B | 1.0.2 |
+| HARVESTELLA | [0100521017B2A000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100521017B2A000) | 249EAB9BF046C5EA | 1.0.2 |
 | Hatchwell | [0100F29018F9C000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100F29018F9C000) | 8e5e5bd4a33bc647 | 2.0.17 |
 | HEROINE ANTHEM ZERO episode 1 | [01001B70080F0000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01001B70080F0000) | 45b257c493eeb045 | 1.0.0 |
 | Hob: The Definitive Edition | [01004B100A5CC000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01004B100A5CC000) | 4E7978E35F9D7490 | 1.1.3 |
@@ -638,7 +640,7 @@
 | Zombie Army Trilogy | [0100C7300EEE4000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100C7300EEE4000) | 54211726d36a8d9c | 1.0.2 |
 
 
-| Captain Tsubasa Rise Of New Champions (JP) | [010090B00CA4E000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/010090B00CA4E000) | CEEC669E42948B98 | 1.46 |
+| HARVESTELLA (Asia) | [0100EDD018032000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100EDD018032000) | 898404C26E7EA75B | 1.0.2 |
 
 
 ## Cheats Sources
