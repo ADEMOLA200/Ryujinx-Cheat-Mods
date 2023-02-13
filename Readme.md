@@ -12,7 +12,7 @@ Work in Progress for Ryujinx Team
 - All cheats will have Horizon OS game version numbers.
 - All cheats will be put in alphabetical order.
 - All cheats will have proper credits to the author or authors.
-- Will update once a week if new cheats release when finished.
+- Will update once a week if new cheats release when finished (sometimes on the day cheats are updated on certain scrapes).
 </br>
 
 [Mods Index](Mods.md)
