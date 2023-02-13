@@ -108,10 +108,10 @@
 | AstroWings: Space War | [0100DF401249C000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100DF401249C000) | 161d40765906024c | 1.0.0 |
 | Atelier Ayesha: The Alchemist of Dusk DX | [0100D9D00EE8C000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100D9D00EE8C000) | b9146e1cad9e36ba | 1.0.0 |
 | Atelier Escha & Logy: Alchemists of the Dusk Sky DX | [0100E5600EE8E000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100E5600EE8E000) | 4bbb3b3455d306c6 | 1.0.0 |
-| Atelier Lulua ~ The Scion of Arland ~ | [0100B1400CD50000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100B1400CD50000) | ca7facaec708311c | 1.0.3 |
+| Atelier Lulua  The Scion of Arland  | [0100B1400CD50000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100B1400CD50000) | ca7facaec708311c | 1.0.3 |
 | Atelier Meruru The Apprentice of Arland DX | [0100ADD00C6fA000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100ADD00C6fA000) | e76c3624d3ae3dce | 1.0.2 |
 | Atelier Shallie: Alchemists of the Dusk Sea DX | [010005C00EE90000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/010005C00EE90000) | aab0450a965202ec | 1.0.0 |
-| Atelier Totori ~The Adventurer of Arland~ DX | [01009BC00C6F6000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01009BC00C6F6000) | 4fd4bfe66c5353d4 | 1.0.1 |
+| Atelier Totori The Adventurer of Arland DX | [01009BC00C6F6000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01009BC00C6F6000) | 4fd4bfe66c5353d4 | 1.0.1 |
 | AvoCuddle | [01008FB011248000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01008FB011248000) | 9906622a5b311548 | 1.0.0 |
 | Azure Striker GUNVOLT STRIKER PACK | [01003C100655A000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01003C100655A000) | 24017817548c5eb7 | 1.3.0 |
 | Bacon Man: An Adventure | [0100EAF00E32E000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100EAF00E32E000) | 3ff8fe0ccfb2348b | 1.0.0 |
