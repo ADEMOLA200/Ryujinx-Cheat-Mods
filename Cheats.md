@@ -319,7 +319,7 @@
 | Jet Set Knights | [01005C1012C22000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01005C1012C22000) | 699fab245432f155 | 1.0.0 |
 | Jets'n'Guns | [010026200FF36000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/010026200FF36000) | 49b81bb7a4a30917 | 1.0.0 |
 | Jets'n'Guns 2 | [01000BF012920000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01000BF012920000) | ff756020d95b3ec5 | 1.0.0 |
-| Jikkyou Powerful Pro Yakyuu (JP) | [0100E9C00BF28000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100E9C00BF28000) | 859a3a3d296d44e8 | 1.0.4 |
+| JIKKYOU PAWAFURU PUROYAKYU (JP) | [0100E9C00BF28000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100E9C00BF28000) | 859a3a3d296d44e8 | 1.0.4 |
 | Johnny Turbo's Arcade Joe and Mac Caveman Ninja | [0100355002CBE000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100355002CBE000) | 980fb826274c0947 | 1.0.0 |
 | Johnny Turbo's Arcade: Night Slashers | [0100F7300C90E000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100F7300C90E000) | 64B19FA91081374F | 1.0.0 |
 | Johnny Turbo's Arcade: Two Crude Dudes | [010080D002CC6000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/010080D002CC6000) | A08736D63A033846 | 1.0.0 
