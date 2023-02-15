@@ -121,7 +121,7 @@
 | Baldur's Gate: Dark Alliance | [0100FD1014726000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100FD1014726000) | d0b3501dc634c120 | 1.0.1 |
 | Bastion | [010038600B27E000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/010038600B27E000) | 26a2d0ccaee5f39e | 1.0.0 |
 | Battle Chasers: Nightwar | [0100551001D88000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100551001D88000) | d0222f29ab9bb64c | 1.0.2 |
-| Battle of Elemental BURST (JP) | [0100F9E00ED30000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100F9E00ED30000) | c5c3a5df6275b3cd | 1.0.0 |
+| Battle of Elementals BURST (JP) | [0100F9E00ED30000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100F9E00ED30000) | c5c3a5df6275b3cd | 1.0.0 |
 | Battle Princess Madelyn | [0100C4D0093EA000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100C4D0093EA000) | 8C853C65D7FF824F | 1.0.5 |
 | Bayonetta™ 3 | [01004A4010FEA000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01004A4010FEA000) | 4104F9C7041985F4 | 1.0.0 |
 | BE-A Walker | [01003A1010E3C000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01003A1010E3C000) | dc7a206287057848 | 1.0.0 |
