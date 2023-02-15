@@ -120,6 +120,7 @@
 | Bacon Man: An Adventure | [0100EAF00E32E000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100EAF00E32E000) | 3ff8fe0ccfb2348b | 1.0.0 |
 | Baldur's Gate: Dark Alliance | [0100FD1014726000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100FD1014726000) | d0b3501dc634c120 | 1.0.1 |
 | Bastion | [010038600B27E000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/010038600B27E000) | 26a2d0ccaee5f39e | 1.0.0 |
+| Battle Chasers: Nightwar | [0100551001D88000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100551001D88000) | d0222f29ab9bb64c | 1.0.2 |
 | Battle of Elemental BURST (JP) | [0100F9E00ED30000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100F9E00ED30000) | c5c3a5df6275b3cd | 1.0.0 |
 | Battle Princess Madelyn | [0100C4D0093EA000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100C4D0093EA000) | 8C853C65D7FF824F | 1.0.5 |
 | Bayonetta™ 3 | [01004A4010FEA000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01004A4010FEA000) | 4104F9C7041985F4 | 1.0.0 |
@@ -183,6 +184,7 @@
 | Cyber Shadow (JP) | [0100C1F0141AA000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100C1F0141AA000) | 8c4ec67060489192 | 1.0.4 |
 | Damsel | [0100BD2009A1C000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100BD2009A1C000) | F6B9D27B867F2B4F | 1.1.2.453 |
 | Dandy Dungeon -Legend of Brave Yamada | [0100DFB00D808000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100DFB00D808000) | 29410CA2711A4145 | 2.0.3 |
+| Danmaku Unlimited 3 | [0100417007F78000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100417007F78000) | 35177D3968ACA808 | 1.1.2 |
 | Darius Burst Another Chronicle EX+ (JP) | [010015800F93C000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/010015800F93C000) | E6AF25ECBD97A207 | 1.0.2 |
 | Dariusburst: Another Chronicle EX+ | [010043F013044000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/010043F013044000) | FF3B532334E35F08 | 1.0.2 |
 | DARK SOULS™: REMASTERED | [01004AB00A260000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01004AB00A260000) | df3766a2bb651a3e | 1.0.3 |
@@ -203,6 +205,7 @@
 | Digimon Story Cyber Sleuth: Complete Edition | [010014E00DB56000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/010014E00DB56000) | bedae701dd8565cd | 1.0.3 |
 | Disgaea 4 Complete + | [0100A9800E9B4000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100A9800E9B4000) | 6a1bf67d25fc2ed0 | 1.1.0 |
 | Donkey Kong Country: Tropical Freeze | [0100C1F0051B6000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100C1F0051B6000) | F48BD40D89B529C1 | 1.0.2 |
+| DOOM (2016) | [0100416004C00000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100416004C00000) | 01ace43e724259c3 | 1.2 |
 | DOOM 64 | [01005D700E742000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01005D700E742000) | 1F45F195FB7468C5 | 1.0.2 |
 | Doom Eternal | [0100B1A00D8CE000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100B1A00D8CE000) | 5AF6F31EAC42DBC0 | 1.6.0 |
 | Door Kickers: Action Squad | [01005ED00CD70000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01005ED00CD70000) | 1d3380ee5cc8dc3a | 1.2.8 |
@@ -282,6 +285,7 @@
 | Goken | [0100126006EF0000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100126006EF0000) | CF79603EFD9E774D | 1.0.0 |
 | Good Job! | [0100B0500FE4E000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100B0500FE4E000) | 951D09EECE122A47 | 1.0.0 |
 | GREEDROID | [0100BD800DFA6000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100BD800DFA6000) | 9889452E84C5394C | 1.0.2 |
+| Green Hell | [0100453012FEA000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100453012FEA000) | D3A8F87E96C94045 | 2.0.0 |
 | GRIDD: Retroenhanced | [0100197008B52000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100197008B52000) | 50ecdb66433e1d4b | 1.0 |
 | Grimvalor | [01001C700F518000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01001C700F518000) | 12a99f6002fd464e | 1.0.0 |
 | Guacamelee! Super Turbo Championship Edition | [0100BAE00B470000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100BAE00B470000) | 184FC082F199328E | 1.0.0 |
@@ -316,6 +320,7 @@
 | Jets'n'Guns | [010026200FF36000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/010026200FF36000) | 49b81bb7a4a30917 | 1.0.0 |
 | Jets'n'Guns 2 | [01000BF012920000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01000BF012920000) | ff756020d95b3ec5 | 1.0.0 |
 | Jikkyou Powerful Pro Yakyuu (JP) | [0100E9C00BF28000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100E9C00BF28000) | 859a3a3d296d44e8 | 1.0.4 |
+| Johnny Turbo's Arcade Joe and Mac Caveman Ninja | [0100355002CBE000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100355002CBE000) | 980fb826274c0947 | 1.0.0 |
 | Johnny Turbo's Arcade: Night Slashers | [0100F7300C90E000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100F7300C90E000) | 64B19FA91081374F | 1.0.0 |
 | Johnny Turbo's Arcade: Two Crude Dudes | [010080D002CC6000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/010080D002CC6000) | A08736D63A033846 | 1.0.0 
 | JYDGE | [010035A0044E8000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/010035A0044E8000) | 8728EFBC0732AA2F | 1.1.0 |
@@ -341,6 +346,7 @@
 | LEGO® Marvel™ Super Heroes | [01006F600FFC8000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01006F600FFC8000) | 5D769ABCAD9F2743 | 1.0.1 |
 | LEGO® The Incredibles | [0100A01006E00000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100A01006E00000) | 2103782a9ae5384e | 1.0.2 |
 | Life is Strange 2 | [0100FD101186C000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100FD101186C000) | BF0088C59D7E97C0 | 1.1.0 |
+| Light Fairytale Episode 1 | [0100558017FD8000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100558017FD8000) | fbd60e9240c3f26d | 1.0.0 |
 | Lila's Sky Ark | [01006C3017146000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01006C3017146000) | ddd922368815845e | 1.0.4.1 |
 | LOL Surprise! Remix: We Rule The World | [0100F2B0123AE000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100F2B0123AE000) | 821623d5241ab14b | 1.0.4 |
 | Lone Ruin | [0100B6D016EE6000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100B6D016EE6000) | 5166d09c4fd1825d | 1.0.0 |
@@ -350,6 +356,7 @@
 | Luigi's Mansion™ 3 | [0100DCA0064A6000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100DCA0064A6000) | 79E5950FFA85ACF6 | 1.4.0 |
 | M.A.C.E. Space Shooter | [0100F02005D1E000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100F02005D1E000) | 21CC83CF5A6C67AE | 1.0.1 |
 | MachiKnights -Blood bagos- | [0100F2400D434000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100F2400D434000) | 8EB9F6FB15B3428B | 1.0.6 |
+| Mages of Mystralia | [0100549008C9C000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100549008C9C000) | de32b7731b63fe48 | 1.0.1 |
 | Magic Scroll Tactics (JP) | [010013800BE2C000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/010013800BE2C000) | E4473CEEDCC3CC4F | 1.0.0 |
 | Mario Party™ Superstars | [01006FE013472000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01006FE013472000) | 2841E26D7FB8AA17 | 1.1.1 |
 | Mario Tennis™ Aces | [0100BDE00862A000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100BDE00862A000) | 32487e7e3d94954e | 1.0.3 |
@@ -402,6 +409,7 @@
 | OMG Zombies! | [01006DB00D970000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01006DB00D970000) | 4291f2ae3b78c2de | 1.0.0 |
 | One Dog Story | [01009C301061A000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01009C301061A000) | 17d0ca29336dd042 | 1.0.0 |
 | One Girl Army | [0100D7C01115E000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100D7C01115E000) | 5a95eb5631c22043 | 1.0.0 |
+| Onimusha Warlords | [0100416008A12000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100416008A12000) | bdb65bae30a95abe | 1.0.0 |
 | ONINAKI | [01001AF00CE54000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01001AF00CE54000) | C949E2576F532C43 | 1.0.2 |
 | Operencia: The Stolen Sun | [01006CF00CFA4000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01006CF00CFA4000) | 1ED621DD90BCD575 | 1.0.0 |
 | Ori and the Blind Forest: Definitive Edition | [010061D00DB74000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/010061D00DB74000) | 9C4F2A47916B6A54 | 1.0.2 |
@@ -549,6 +557,7 @@
 | Super Bomberman R | [01007AD00013E000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01007AD00013E000) | a0a745da9ae25946 | 2.2.0 |
 | Super Kirby Clash™ | [01003FB00C5A8000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01003FB00C5A8000) | DCDFA5A4AD9A175D | 1.0.1 |
 | Super Mario™ 3D World + Bowser’s Fury | [010028600EBDA000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/010028600EBDA000) | 891687F016A18F17 | 1.1.0 |
+| Super Putty Squad | [0100331005E8E000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100331005E8E000) | A028E4F0C384A83C | 1.0.2 |
 | Super Robot Wars V (JP) | [0100CA400E300000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100CA400E300000) | 736EB95ACA241014 | 1.0.2 |
 | Super Robot Wars X (JP) | [010026800E304000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/010026800E304000) | 4873aa2e8514685f | 1.0.1 |
 | Super Saurio Fly | [01004CF00A60E000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01004CF00A60E000) | 6c8970071ef11148 | 2.0.0 |
@@ -633,6 +642,7 @@
 | Whipseey and the Lost Atlas | [010017500E7E0000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/010017500E7E0000) | 25CE48F161DDF0CB | 1.3.0.0 |
 | Wild Guns™ Reloaded | [0100CFC00A1D8000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100CFC00A1D8000) | ce3e20fbad467949 | 1.0.0 |
 | Witcheye | [0100BD4011FFE000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100BD4011FFE000) | c8627e913deb5943 | 1.0.2 |
+| Wizard of Legend | [0100522007AAA000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100522007AAA000) | f0b56a498c439946 | 1.23.4 |
 | Wizards of Brandel | [010081900F9E2000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/010081900F9E2000) | 122ebf9e18e9db4b | 1.0.0 |
 | Wonder Blade | [010037A00F5E2000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/010037A00F5E2000) | D5E27670148BA14A | 1.0.0 |
 | Wonder Boy Asha in Monster World | [0100EB2012E36000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100EB2012E36000) | FF72D70018425549 | 1.1.0 |
@@ -660,7 +670,7 @@
 | Zombie Army Trilogy | [0100C7300EEE4000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100C7300EEE4000) | 54211726d36a8d9c | 1.0.2 |
 
 
-| Redout: Space Assault | [0100326010B98000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100326010B98000) | 606f37176b3dd269 | 1.0.2 |
+| Light Fairytale Episode 1 | [0100558017FD8000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100558017FD8000) | fbd60e9240c3f26d | 1.0.0 |
 
 
 ## Cheats Sources
