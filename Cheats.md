@@ -663,7 +663,7 @@
 | Xenoblade 2 (JP) | [0100F3400332C000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100F3400332C000) | e3938fa78579c1ca | 2.0.2 |
 | Xenoblade Chronicles™ 2 | [0100E95004038000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100E95004038000) | F77F1559371C0EC6 | 2.1.0 |
 | Xenoblade Chronicles™ 2: Torna ~ The Golden Country | [0100C9F009F7A000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100C9F009F7A000) | 56246A89466A791B | 1.0.2 |
-| Xenoblade Chronicles™ 3 | [010074F013262000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/010074F013262000) | 4F971CC669C78AC0 | 1.2.1 |
+| Xenoblade Chronicles™ 3 | [010074F013262000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/010074F013262000) | B76CD24AF02ACEA2 | 1.3.0 |
 | Xenoblade Chronicles™ Definitive Edition | [0100FF500E34A000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100FF500E34A000) | 92c78bb3dcbbc3f7 | 1.1.2 |
 | Xeodrifter | [01005B5009364000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01005B5009364000) | 77FA306CC9CC4EBC | 1.3.3 |
 | XIII | [01006CA00E9FA000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01006CA00E9FA000) | 643E6D877544B598 | 1.6.8166 |
