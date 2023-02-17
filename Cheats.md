@@ -409,6 +409,7 @@
 | OMG Zombies! | [01006DB00D970000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01006DB00D970000) | 4291f2ae3b78c2de | 1.0.0 |
 | One Dog Story | [01009C301061A000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01009C301061A000) | 17d0ca29336dd042 | 1.0.0 |
 | One Girl Army | [0100D7C01115E000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100D7C01115E000) | 5a95eb5631c22043 | 1.0.0 |
+| ONE PIECE: Unlimited World Red Deluxe Edition | [0100574002AF4000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100574002AF4000) | F1546B842FCF9D6C | 1.0.0 |
 | Onimusha Warlords | [0100416008A12000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100416008A12000) | bdb65bae30a95abe | 1.0.0 |
 | ONINAKI | [01001AF00CE54000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01001AF00CE54000) | C949E2576F532C43 | 1.0.2 |
 | Operencia: The Stolen Sun | [01006CF00CFA4000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01006CF00CFA4000) | 1ED621DD90BCD575 | 1.0.0 |
@@ -670,7 +671,7 @@
 | Zombie Army Trilogy | [0100C7300EEE4000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100C7300EEE4000) | 54211726d36a8d9c | 1.0.2 |
 
 
-| Light Fairytale Episode 1 | [0100558017FD8000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100558017FD8000) | fbd60e9240c3f26d | 1.0.0 |
+| ONE PIECE: Unlimited World Red Deluxe Edition | [0100574002AF4000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100574002AF4000) | F1546B842FCF9D6C | 1.0.0 |
 
 
 ## Cheats Sources
