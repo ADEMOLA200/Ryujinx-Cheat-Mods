@@ -435,7 +435,7 @@
 | Oceanhorn - Monster of Uncharted Seas | [01007D7001D0E000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01007D7001D0E000) | 3ad80bd8cfcb3423 | 1.0.1 |
 | Octogeddon | [0100E6E00AF44000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100E6E00AF44000) | 51ae5df244c2f1ee | 1.0.0 |
 | Octopath Traveler™ | [010057D006492000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/010057D006492000) | B88A8D8E5516DDE9 | 1.4.0 |
-| OCTOPATH TRAVELER II | [0100A3501946E000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100A3501946E000) | 65619A04B8A04B10 | 1.0.0 |
+| OCTOPATH TRAVELER II | [0100A3501946E000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100A3501946E000) | BB891294DA55675E | 1.0.2 |
 | Oddworld: Stranger's Wrath | [01002EA00ABBA000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01002EA00ABBA000) | 542b1d1d14978b82 | 1.0.3 |
 | Omega Labyrinth Life | [010079200E85C000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/010079200E85C000) | e50048278d47174f | 1.0.4 |
 | Omega Strike | [0100F8C00C21C000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100F8C00C21C000) | 199aee8cfffd5e73 | 1.0.0 |
