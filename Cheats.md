@@ -321,6 +321,7 @@
 | GREEDROID | [0100BD800DFA6000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100BD800DFA6000) | 9889452E84C5394C | 1.0.2 |
 | Green Hell | [0100453012FEA000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100453012FEA000) | D3A8F87E96C94045 | 2.0.0 |
 | GRIDD: Retroenhanced | [0100197008B52000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100197008B52000) | 50ecdb66433e1d4b | 1.0 |
+| Grim Guardians: Demon Purge | [0100B5301A180000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100B5301A180000) | BA54FAB0681683AD | 1.0.2 |
 | Grimvalor | [01001C700F518000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01001C700F518000) | 12a99f6002fd464e | 1.0.0 |
 | Guacamelee! Super Turbo Championship Edition | [0100BAE00B470000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100BAE00B470000) | 184FC082F199328E | 1.0.0 |
 | Gun Crazy | [01009630106A6000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01009630106A6000) | 1da05d6dfed0b4c1 | 1.0.0 |
@@ -740,7 +741,7 @@
 | Zombie Army Trilogy | [0100C7300EEE4000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100C7300EEE4000) | 54211726d36a8d9c | 1.0.2 |
 
 
-| Dragon Quest Builders 2 God of Destruction Sido and the Empty Island (JP) | [010050000705E000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/010050000705E000) | B54DACD6EAB84AC3 | 1.7.3 |
+| Grim Guardians: Demon Purge | [0100B5301A180000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100B5301A180000) | BA54FAB0681683AD | 1.0.2 |
 
 
 ## Cheats Sources
