@@ -249,6 +249,7 @@
 | DRAGON QUEST® XI S: Echoes of an Elusive Age – Definitive Edition | [01006C300E9F0000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01006C300E9F0000) | 1719aabfa5eae42b | 1.0.3 |
 |DRAGON QUEST BUILDERS™ Revive Alefgard! (JP) | [01007B5002F56000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01007B5002F56000) | 61FA6EEDA9A63672 | 1.0.0 |
 | Dragon Quest Builders™ | [010008900705C000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/010008900705C000) | 93A84D948C179001 | 1.0.0 |
+| Dragon Quest Builders 2 God of Destruction Sido and the Empty Island (JP) | [010050000705E000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/010050000705E000) | B54DACD6EAB84AC3 | 1.7.3 |
 | DRAGON QUEST BUILDERS™ 2 | [010042000A986000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/010042000A986000) | 687753C332CFFF53 | 1.7.3 |
 | Dragon Star Varnir (EU) | [0100A8B014930000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100A8B014930000) | E26A54F785A76EE7 | 1.0.1 |
 | Dragon Star Varnir | [01001C60148CC000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01001C60148CC000) | 5FE3DA408D621385 | 1.0.1 |
@@ -739,7 +740,7 @@
 | Zombie Army Trilogy | [0100C7300EEE4000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100C7300EEE4000) | 54211726d36a8d9c | 1.0.2 |
 
 
-| Attack on Titan 2 | [010034500641A000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/010034500641A000) | 586ea519c1cdfae7 | 1.0.14 |
+| Dragon Quest Builders 2 God of Destruction Sido and the Empty Island (JP) | [010050000705E000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/010050000705E000) | B54DACD6EAB84AC3 | 1.7.3 |
 
 
 ## Cheats Sources
