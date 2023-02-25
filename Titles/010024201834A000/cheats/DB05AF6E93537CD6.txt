@@ -17,4 +17,3 @@
 
 [№ 5. Item does not decrease]
 040E0000 029AD5F4 D503201F
-
