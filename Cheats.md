@@ -370,6 +370,7 @@
 | Kingdom Rush Frontiers | [010046200FC62000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/010046200FC62000) | b1c0e2f9dbf2adfb | 3.2.23 |
 | Kingdoms of Amalur: Re-Reckoning | [0100EF50132BE000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100EF50132BE000) | 5B3112FD2C83E1AC | 1.0.4 |
 | Kirby™ Star Allies | [01007E3006DDA000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01007E3006DDA000) | d55608916fa56c18 | 4.0.0 |
+| Kirby’s Return to Dream Land™ Deluxe | [01006B601380E000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01006B601380E000) | FA24EA3C3A512C07 | 1.0.0 |
 | Knight Terrors | [0100D51006AAC000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100D51006AAC000) | 0100D51006AAC000 | 1.0.0 |
 | KLONOA Phantasy Reverie | [0100BBA015E8E000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100BBA015E8E000) | 552FC82B89F7FC98 | 1.0.0 |
 | KonoSuba: God's Blessing on this Wonderful World! Labyrinth of Hope and the Gathering Adventurers Plus (JP) | [01004920105FC000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01004920105FC000) | d1cbd97f27390104 | 1.0.0 |
@@ -742,7 +743,7 @@
 | Zombie Army Trilogy | [0100C7300EEE4000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100C7300EEE4000) | 54211726d36a8d9c | 1.0.2 |
 
 
-| Grim Guardians: Demon Purge | [0100B5301A180000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100B5301A180000) | BA54FAB0681683AD | 1.0.2 |
+| Kirby’s Return to Dream Land™ Deluxe | [01006B601380E000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01006B601380E000) | FA24EA3C3A512C07 | 1.0.0 |
 
 
 ## Cheats Sources
