@@ -196,7 +196,7 @@
 | Crash Bandicoot™ N. Sane Trilogy | [0100D1B006744000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100D1B006744000) | 29E1A37D84227147 | 1.0.0 |
 | Crash™ Team Racing Nitro-Fueled | [0100F9F00C696000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100f9f00C696000) | 1C68951840693051 | 1.0.15 |
 | Crimzon Clover - World EXplosion | [01006B800DE26000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01006B800DE26000) | 7f112d4c048e9eee | 1.0.0 |
-| CRISIS CORE –FINAL FANTASY VII– REUNION (Asia) | [0100D09016C6A000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100D09016C6A000) | 730E0602A06BDA77 | 1.0.3 |
+| CRISIS CORE –FINAL FANTASY VII– REUNION (Asia) | [0100D09016C6A000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100D09016C6A000) | FBBC0547B10349D6 | 1.0.3 |
 | CRISIS CORE –FINAL FANTASY VII– REUNION | [01004BC0166CC000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01004BC0166CC000) | 114D4499AB558921 | 1.0.3 |
 | Croc's World 2 | [01009DB00DE12000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01009DB00DE12000) | 934946857ae782c7 | 1.0.0 |
 | Croc's World 3 | [010025200FC54000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/010025200FC54000) | 98f36c45c6c78ab6 | 1.0.0 |
