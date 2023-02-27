@@ -626,7 +626,7 @@
 | Super Kirby Clash™ | [01003FB00C5A8000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01003FB00C5A8000) | DCDFA5A4AD9A175D | 1.0.1 |
 | Super Monkey Ball Banana Mania | [010001701248C000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/010001701248C000) | 0E563A7FF32784EC | 1.0.3 |
 | Super Mario™ 3D World + Bowser’s Fury | [010028600EBDA000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/010028600EBDA000) | 891687F016A18F17 | 1.1.0 |
-| Super Mario Odyssey™ | [0100000000010000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100000000010000) | 3CA12DFAAF9C82DA b424be150a8e7d78 | 1.0.0 1.3.0 |
+| Super Mario Odyssey™ | [0100000000010000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100000000010000) | 3CA12DFAAF9C82DA b424be150a8e7d78 | 1.0.0 </br> 1.3.0 |
 | Super Putty Squad | [0100331005E8E000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100331005E8E000) | A028E4F0C384A83C | 1.0.2 |
 | Super Robot Wars 30 (JP) | [010022201229A000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/010022201229A000) | 8606D491B3218EDB | 1.3.4 |
 | Super Robot Wars V (JP) | [0100CA400E300000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100CA400E300000) | 736EB95ACA241014 | 1.0.2 |
