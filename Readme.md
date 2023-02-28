@@ -1,4 +1,4 @@
-# SWITCH CHEATS/MODS/SAVES DATABASE 
+# Ryujinx CHEATS/MODS/SAVES DATABASE 
 
 Work in Progress for Ryujinx Team
 
