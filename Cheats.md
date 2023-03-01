@@ -16,14 +16,15 @@
 | ACA NeoGeo: Art of Fighting | [01006A80038fC000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01006A80038fC000) | 3f175cd5303104d9 | 1.0.1 |
 | ACA NeoGeo: Art of Fighting 3 | [01004AC002B40000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01004AC002B40000) | 54e692acaa5f84e6 | 1.0.0 |
 | ACA NeoGeo: Blazing Star | [0100DFC003398000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100DFC003398000) | d17185a3fade4afa | 1.0.0 |
+| ACA NeoGeo: Blues Journey | [0100379003900000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100379003900000) | 7F38079D766279AA  | 1.0.0 |
 | ACA NeoGeo: Burning Fight | [01002AA004DB4000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01002AA004DB4000) | BDEE92E5EC9697C6 | 1.0.0 |
 | ACA NeoGeo: Crossed Swords | [0100D2400AFB0000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100D2400AFB0000) | 7CC18779B44CC2E4 | 1.0.1 |
 | ACA NeoGeo: Fatal Fury 2 | [0100CAF001DBE000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100CAF001DBE000) | 84f8723c0b2edd8b | 1.0.0 |
 | ACA NeoGeo: Garou: Mark of the Wolves | [0100CB2001DB8000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100CB2001DB8000) | bc47ad4e7bed34e3 | 1.0.1 |
 | ACA NeoGeo: Ghost Pilots | [01005D700A2F8000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01005D700A2F8000) | 1f6db096bf36fb72 | 1.0.0 |
-| ACA NeoGeo: MAGICIAN LORD | [01007920038F6000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01007920038F6000) | 8945fc868c858831 | 1.0.1 |
+| ACA NeoGeo: Magician Lord | [01007920038F6000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01007920038F6000) | 8945fc868c858831 | 1.0.1 |
 | ACA NeoGeo: Metal Slug | [0100EBE002B3E000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100EBE002B3E000) | 859b8a3313fb2057 | 1.0.2 |
-| ACA NeoGeo: METAL SLUG 2 | [010086300486E000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/010086300486E000) | 32d6e6c4f9d89524 | 1.0.0 |
+| ACA NeoGeo: MEtal Slug 2 | [010086300486E000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/010086300486E000) | 32d6e6c4f9d89524 | 1.0.0 |
 | ACA NeoGeo: Metal Slug 3 | [0100BA8001DC6000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100BA8001DC6000) | 51b72bba4010216e | 1.0.2 |
 | ACA NeoGeo: Metal Slug 4 | [01009CE00AFAE000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01009CE00AFAE000) | f6b3aba9ccf21914 | 1.0.1 |
 | ACA NeoGeo: Metal Slug 5 | [01004C000AFDC000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01004C000AFDC000) | 31c11fff42bc6e6c | 1.0.0 |
@@ -281,6 +282,7 @@
 | Everspace™ - Stellar Edition | [0100DCF0093EC000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100DCF0093EC000) | 71873feb4648fa39 | 1.0.5 |
 | Evil Defenders | [010080600B53E000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/010080600B53E000) | f82f507fb0c82b4d | 1.0.0 |
 | Evoland Legendary Edition | [0100ED100B160000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100ED100B160000) | B853770C72416F65 | 1.0.5 |
+| Explosionade DX | [0100410012112000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100410012112000) | 48C172D0E2F4BE42  | 0.1 |
 | F.I.S.T.: Forged In Shadow Torch (JP) | [01008EB017F3E000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01008EB017F3E000) | 599334AD9E47C19D | 1.0.1 |
 | Fairune Collection | [01008A6009758000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01008A6009758000) | ea5c70af7f4d8a4f | 1.0.2 |
 | Fear Effect Sedna | [01005AC0068F6000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01005AC0068F6000) | 89647E6361E7CD48 | 1.1.1 |
@@ -340,6 +342,7 @@
 | Guns, Gore and Cannoli 2 | [01006D4003BCE000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01006D4003BCE000) | BBF599D8F665FF4A | 1.0.4 |
 | Gunvolt Chronicles: Luminous Avenger iX | [01008C800E654000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01008C800E654000) | 735DD6F91756FC48 | 1.4.0 |
 | Habroxia | [01007E100EFA8000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01007E100EFA8000) | 6bc96ab409d90d32 | 1.0.1 |
+| Hades | [0100535012974000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100535012974000) | D41357A3DA356B09  | 1.0.38233 |
 | HARVESTELLA (Asia) | [0100EDD018032000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100EDD018032000) | 898404C26E7EA75B | 1.0.2 |
 | HARVESTELLA | [0100521017B2A000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100521017B2A000) | 249EAB9BF046C5EA | 1.0.2 |
 | Hatchwell | [0100F29018F9C000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100F29018F9C000) | 8e5e5bd4a33bc647 | 2.0.17 |
@@ -509,6 +512,7 @@
 | Pokémon™ Sword | [0100ABF008968000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100ABF008968000) | A3B75BCD3311385A | 1.3.2 |
 | Pokémon™ Violet | [01008F6008C5E000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01008F6008C5E000) | F7F74F8045642CBE | 1.1.0 |
 | Pokkén Tournament™ DX | [0100B3F000BE2000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100b3f000be2000) | 49690ba2efdcd7a7 | 1.3.3 |
+| Portal Knights| [0100437004170000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100437004170000) | d59d81c06f923846  | 1.7.2 |
 | Potion Permit | [010025F0126FE000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/010025F0126FE000) | D0D456EE7DCF0FEE | 1.0.7 |
 | Prehistoric Dude | [010054F01266C000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/010054F01266C000) | afeea14ff3229a77 | 1.0.0 |
 | Project Warlock | [0100BDB01150E000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100BDB01150E000) | D597DE8544D8ED4F | 1.0.3 |
@@ -540,7 +544,8 @@
 | Rise and Shine | [010065B00B0EC000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/010065B00B0EC000) | c212c43cbce55e4d | 1.0.0 |
 | Risen | [0100B140178B6000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100B140178B6000) | 94EA2A7C7EE32EEF | 1.0.1 |
 | River City Girls | [01004E700DFE6000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01004E700DFE6000) | 55670FA38F492343 | 1.2.0 |
-| River City Saga: Three Kingdoms (EU) | [0100D3A0181CA000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100D3A0181CA000) | 8e5855070d8ed018 | 1.0.0 |
+| River City Saga: Three Kingdoms (EU) | [0100D3A0181CA000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100D3A0181CA000) | 48479E5BF445C161 | 1.0.2 |
+| River City Saga: Three Kingdoms | [01005E101705C000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01005E101705C000) | 13fa46e424b80ea3  | 1.0.2 |
 | Robonauts ロボノーツ (JP) | [010042900A8CC000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/010042900A8CC000) | 894d7deb7c212365 | 1.0.0 |
 | Robotech: The Macross Saga HD Edition | [010060B0129CC000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/010060B0129CC000) | 6A57EC49B5438344 | 1.0.0 |
 | Rockman X Anniversary Collection | [010012B0086C0000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/010012B0086C0000) | BBAE8B50000E47AF | 1.0.0 |
@@ -642,6 +647,7 @@
 | Super Robot Wars V (JP) | [0100CA400E300000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100CA400E300000) | 736EB95ACA241014 | 1.0.2 |
 | Super Robot Wars X (JP) | [010026800E304000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/010026800E304000) | 4873aa2e8514685f | 1.0.1 |
 | Super Saurio Fly | [01004CF00A60E000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01004CF00A60E000) | 6c8970071ef11148 | 2.0.0 |
+| Super Toy Cars | [0100384009344000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100384009344000) | f8c08ad2cda26a46  | 1.0.0 |
 | Super Toy Cars Offroad | [0100B65013636000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100B65013636000) | 664244C1CBABE8B7 | 1.0.0 |
 | Superpanda 2 | [0100B75018A6E000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100B75018A6E000) | 6BEB59A0ABBD15AD | 1.0.0 |
 | Swords and Sandals: Spartacus | [0100241012432000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100241012432000) | 8729a8df5adf0646 | 1.0.0 |
@@ -658,6 +664,8 @@
 | The Alliance Alive HD Remastered | [01003CF00DCFA000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01003CF00DCFA000) | 4DF9DA0BD7A61546 | 1.0.3 |
 | The Binding of Isaac: Afterbirth+ | [010021C000B6A000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/010021C000B6A000) | 40506B6C03196447 | 1.7.0 |
 | The Bug Butcher | [01008D700AB14000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01008D700AB14000) | 1763c8105148364a | 1.0.1 |
+| The Colonists (Asia) | [0100506016586000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100506016586000) | 83092FBDF5F6AD4C  | 1.0.1.7 |
+| The Coma: Recut | [0100451012918000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100451012918000) | 5136f141b1639f4e  | 1.0.0 |
 | The Copper Canyon Dixie Dash | [01000F20102AC000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01000F20102AC000) | 2fbe522f4dbad51e | 1.0.2 |
 | The Count Lucanor | [01000850037C0000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01000850037C0000) | 2EAAF5F168F363D9 | 1.0.2 |
 | The Handsome Collection - Borderlands 2: GOTY | [010096F00FF22000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/010096F00FF22000) | f7c233469f20ee3f | 1.0.2 |
@@ -672,6 +680,7 @@
 | The Lost Child | [01008A000A404000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01008A000A404000) | c7209aeda44b0447 | 1.0.1 |
 | The Lost Cube | [01000F2013CF8000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01000F2013CF8000) | 7D646A32A37BF945 | 1.0.0 |
 | The Messenger | [0100DC300AC78000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100DC300AC78000) | fb6206b43c698a4b | 2.0.2 |
+| The Mummy Demastered | [0100496004194000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100496004194000) | fe343c581ba5b49f  | 1.0.2 |
 | The Ninja Warriors Once Again (JP) | [010036200CF6A000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/010036200CF6A000) | 61d93ce7139cd44e | 1.0.1 |
 | The Pathless | [0100D5501522C000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100D5501522C000) | 54E89AF3414E549A | 1.0.0 |
 | The Pinball Arcade | [0100CD300880E000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100CD300880E000) | fadc5bb443b6d715 | 1.0.3 |
@@ -764,7 +773,7 @@
 | Zombie Army Trilogy | [0100C7300EEE4000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100C7300EEE4000) | 54211726d36a8d9c | 1.0.2 |
 
 
-| BRIGANDINE The Legend of Runersia | [010011000EA7A000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/010011000EA7A000) | 236C1638CCCF2440  | 1.1.5 |
+| Hades | [0100535012974000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100535012974000) | D41357A3DA356B09  | 1.0.38233 |
 
 
 ## Cheats Sources
