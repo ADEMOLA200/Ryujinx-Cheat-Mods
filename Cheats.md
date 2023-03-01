@@ -299,7 +299,7 @@
 | Fire Emblem™: Three Houses | [010055D009F78000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/010055D009F78000) | 89048449ba238c8c | 1.2.0 |
 | Fire Emblem Warriors | [0100F15003E64000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100F15003E64000) | 1953770037acc52a | 1.5.0 |
 | Fire Emblem Warriors: Three Hopes | [010071F0143EA000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/010071F0143EA000) | F62A7D41CAAC7D6D | 1.0.2 |
-| Fit Boxing Fist of the North Star ~You are already thin~ (JP) | [0100205017398000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100205017398000) | 9C5D6E39780F23BB | 1.0.1 |
+| Fit Boxing Fist of the North Star -You are already thin- (JP) | [0100205017398000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100205017398000) | 9C5D6E39780F23BB | 1.0.1 |
 | Flame Dragon Sacred Fist Xiaomei (JP) | [01002390154C6000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01002390154C6000) | 690F8CC19CFC6D25 | 1.0.3 |
 | FLASHBACK™ | [01000A0004C50000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01000A0004C50000) | 4427C1B4902C4449 | 1.0.3 |
 | Flinthook | [0100307004B4C000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100307004B4C000) | 6cb9aa4d4e880356 | 1.0.0 |
