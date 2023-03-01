@@ -168,6 +168,7 @@
 | Braveland Trilogy | [0100A5B00D3D2000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100A5B00D3D2000) | 438D108A71CC054F | 1.0.0 |
 | BRAVELY DEFAULT™ II | [01006DC010326000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01006DC010326000) | 05DE5A7F20BD1532 | 1.0.0 |
 | Bridge Strike | [0100A6C011B10000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100A6C011B10000) | 863c6d1966c8217f | 1.0.0 |
+| BRIGANDINE The Legend of Runersia | [010011000EA7A000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/010011000EA7A000) | 236C1638CCCF2440  | 1.1.5 |
 | Bright Memory: Infinite Gold Edition | [01001A9018560000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01001A9018560000) | 949EC7CBEDCF0969 | 1.0.0 |
 | BroForce | [010060A00B53C000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/010060A00B53C000) | 6AF6A293E37CDD4F | 1.0.903 |
 | Bubsy: Paws on Fire! | [0100DBE00C554000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100DBE00C554000) | be9b1be2c3eb8846 | 1.0.0 |
@@ -763,7 +764,7 @@
 | Zombie Army Trilogy | [0100C7300EEE4000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100C7300EEE4000) | 54211726d36a8d9c | 1.0.2 |
 
 
-| Arcade Archives THE LEGEND OF KAGE | [0100353009836000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100353009836000) | 2BDB81F455CDD65F | 1.0.0 |
+| BRIGANDINE The Legend of Runersia | [010011000EA7A000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/010011000EA7A000) | 236C1638CCCF2440  | 1.1.5 |
 
 
 ## Cheats Sources
