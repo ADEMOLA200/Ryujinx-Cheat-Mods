@@ -55,6 +55,7 @@
 | ACA NeoGeo: The King of Fighters 2001 | [010048200AFC2000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/010048200afc2000) | 8c918ddfd8dc2d21 | 1.0.0 |
 | ACA NeoGeo: The King of Fighters 2002 | [0100CFD00AFDE000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100CFD00AFDE000) | 2fda10318a75886a | 1.0.0 |
 | ACA NeoGeo: The King of Fighters 2003 | [0100EF100AFE6000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100EF100AFE6000) | b5398489c48ca2dc | 1.0.0 |
+| ACA NeoGeo: The Last Blade | [0100A5A004FB2000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100A5A004FB2000) | e8e0e68054bbd6bb  | 1.0.0 |
 | ACA NeoGeo: The Last Blade 2 | [0100699008792000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100699008792000) | b6560d22aabe3ec4  | 1.0.0 |
 | ACA NeoGeo: The Super Spy | [0100F7F00AFA2000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100F7F00AFA2000) | F8BA90E5CF567C5B | 1.0.0 |
 | ACA NeoGeo: Twinke Star Sprits | [0100B8300AFD8000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100B8300AFD8000) | A6069D8D14422130 | 1.0.0 |
@@ -784,7 +785,7 @@
 | Zombie Army Trilogy | [0100C7300EEE4000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100C7300EEE4000) | 54211726d36a8d9c | 1.0.2 |
 
 
-| IMPLOSION | [0100737003190000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100737003190000) | 1967a586ca3f9594  | 1.1.0 |
+| ACA NeoGeo: The Last Blad | [0100A5A004FB2000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100A5A004FB2000) | e8e0e68054bbd6bb  | 1.0.0 |
 
 
 ## Cheats Sources
