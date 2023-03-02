@@ -235,7 +235,7 @@
 | Dex | [01003F601025E000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01003F601025E000) | f0a4874a7fa53947 | 1.0.0 |
 | Diabolic | [0100F73011456000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100F73011456000) | 7FE0A7323D2E968A | 1.0.0 |
 | Digimon Story Cyber Sleuth: Complete Edition | [010014E00DB56000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/010014E00DB56000) | bedae701dd8565cd | 1.0.3 |
-| Digimon World -next 0rder- (Asia) | [01007EA015520000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01007EA015520000) | 002190DECA0E9A4B | 1.0.0 |
+| Digimon World -Next Order- (Asia) | [01007EA015520000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01007EA015520000) | 002190DECA0E9A4B | 1.0.0 |
 | Disgaea 4 Complete + | [0100A9800E9B4000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100A9800E9B4000) | 6a1bf67d25fc2ed0 | 1.1.0 |
 | Disgaea 5 Complete | [01005700031AE000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01005700031AE000) | CC9ABDFA887F316D | 1.0.4 |
 | Donkey Kong Country: Tropical Freeze | [0100C1F0051B6000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100C1F0051B6000) | F48BD40D89B529C1 | 1.0.2 |
