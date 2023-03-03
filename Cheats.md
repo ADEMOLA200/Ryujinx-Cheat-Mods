@@ -805,4 +805,4 @@
 ## Cheats Sources
 - https://github.com/LordApple/SXOS-CheatDB
 - https://github.com/WerWolv/EdiZon_CheatsConfigsAndScripts
-- https://gbatemp.net
+- https://GBAtemp.net
