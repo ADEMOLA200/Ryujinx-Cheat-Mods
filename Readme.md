@@ -12,7 +12,7 @@ Work in Progress for Ryujinx Team
 </br>
 
 [Mods Index](Mods.md)
-
+### WIP
 - All mods will will be gone through to make sure they are up to date.
 - All mods will have Horizon OS game version numbers.
 - All mods will have proper credits with links to the author or authors github, webpage etc.
@@ -21,7 +21,5 @@ Work in Progress for Ryujinx Team
 </br>
 
 [Saves Index](Saves.md)
-
+### WIP
 - Still brainstorming how to do saves.
-
-Work in Progress
