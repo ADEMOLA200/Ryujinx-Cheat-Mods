@@ -297,6 +297,7 @@
 | Evil Defenders | [010080600B53E000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/010080600B53E000) | f82f507fb0c82b4d | 1.0.0 |
 | Evoland Legendary Edition | [0100ED100B160000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100ED100B160000) | B853770C72416F65 | 1.0.5 |
 | Explosionade DX | [0100410012112000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100410012112000) | 48C172D0E2F4BE42  | 0.1 |
+| F.I.S.T.: Forged In Shadow Torch| [01009F8017F48000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01009F8017F48000) | 69EE5F71F187EAA9  | 1.0.4 |
 | F.I.S.T.: Forged In Shadow Torch (JP) | [01008EB017F3E000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01008EB017F3E000) | 599334AD9E47C19D | 1.0.1 |
 | Fairune Collection | [01008A6009758000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01008A6009758000) | ea5c70af7f4d8a4f | 1.0.2 |
 | Fear Effect Sedna | [01005AC0068F6000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01005AC0068F6000) | 89647E6361E7CD48 | 1.1.1 |
@@ -451,6 +452,7 @@
 | Mega Man Legacy Collection | [01002D4007AE0000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01002D4007AE0000) | 381ebb12fb9a8c78 | 1.0.1 |
 | Mega Man X Legacy Collection | [01005C60086BE000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01005C60086BE000) | ead37d36abd7c4c8 | 1.0.0 |
 | Mega Man X Legacy Collection 2 | [01005250086C4000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01005250086C4000) | ece85107b8dc81db | 1.0.0 |
+| METAL DOGS | [0100A6E01681C000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100A6E01681C000) | C4E99A309F64124E | 1.0.4 |
 | Metro 2033 Redux | [0100D4900E82C000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100D4900E82C000) | 85C362CC9790F0ED | 1.0.0 |
 | Metro: Last Light Redux | [0100F0400E850000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100F0400E850000) | 85C362CC9790F0ED | 1.0.0 |
 | Metroid Prime™ Remastered | [010012101468C000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/010012101468C000) | 67C9CA1428222752 | 1.0.0 |
@@ -741,6 +743,8 @@
 | Trine 4: The Nightmare Prince | [010055E00CA68000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/010055E00CA68000) | b70f06eac87fa2af | 1.0.3 |
 | Trouserheart | [01001EF00BF3A000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01001EF00BF3A000) | 1dfd2b4fe2198e4a | 1.0.0 |
 | Tyr : Chains of Valhalla | [01003B200C6CA000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01003B200C6CA000) | 8eb5b7c66fc82a42 | 1.0.0 |
+| Ultra Age ウルトラエージ (JP)| [01006DD00FE16000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01006DD00FE16000) | 7769608A9494E5DB  | 1.0.2 |
+| Ultra Age | [01008D4015904000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01008D4015904000) | 7769608A9494E5DB  | 1.0.2 |
 | Ultra Street Fighter® II: The Final Challengers | [01007330027EE000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01007330027EE000) | 8726F5E816B001B2 | 1.1.1 |
 | UnderDungeon | [0100A71018440000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100A71018440000) | 21CA4BBD997FE82F | 1.0.0 |
 | Undertale | [010080B00AD66000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/010080B00AD66000) | 24db41fcd513d080 | 1.11 |
