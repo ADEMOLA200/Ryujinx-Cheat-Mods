@@ -7,11 +7,7 @@ Work in Progress for Ryujinx Team
 
 [Cheats Index](Cheats.md)
 
-- All cheats mods will be gone through to make sure they are up to date.
-- All cheats will have hardware only functional codes removed IE Master Codes.
-- All cheats will have Horizon OS game version numbers.
-- All cheats will be put in alphabetical order.
-- All cheats will have proper credits to the author or authors.
+### COMPLETED
 - Will update once a week if new cheats release when finished (sometimes on the day cheats are updated on certain scrapes).
 </br>
 
