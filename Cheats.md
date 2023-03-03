@@ -167,6 +167,7 @@
 | Bleed | [010042C006490000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/010042C006490000) | C26B326ECEE0ACA1 | 1.0.1 |
 | Bleed 2 | [0100A48008AE8000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100A48008AE8000) | 3BEC0EF7B2DFA80D | 1.0.1 |
 | Bloodstained: Curse of the Moon | [01004B800AF5A000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01004B800AF5A000) | 82DECA0A867052BF | 1.1.1 |
+| Bloody Zombies | [0100875008000000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100875008000000) | F3CD58B9B43F164F  | 1.0.1 |
 | Bloons TD 5 | [0100B8400A1C6000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100B8400A1C6000) | a514b9687031515d | 3.8.1 |
 | Blossom Tales: The Sleeping King | [0100C1000706C000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100C1000706C000) | 05F6F8467F81D8D0 | 1.0.2 |
 | Blue Rider | [01006A600B5E6000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01006A600B5E6000) | ffd5e4043b659545 | 1.0.0 |
@@ -204,6 +205,7 @@
 | Cities: Skylines - Nintendo Switch™ Edition | [0100D8800B87C000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100D8800B87C000) | 9c010911589c624f | 1.0.3.37670 |
 | Cloudbase Prime | [010023800FE12000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/010023800FE12000) | ABA1020691A6D248 | 1.4.3 |
 | Cobra Kai: The Karate Kid Saga Continues | [01005790110F0000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01005790110F0000) | 97e45918d2113640 | 1.0.2 |
+| Concept Destruction | [0100971011224000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100971011224000) | 16f03a8a9ff95742  | 1.0.0 |
 | Conjurer Andy’s Repeatable Dungeon | [0100C8500CBC4000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100C8500CBC4000) | 6E6053566CFBC210 | 2.0.0 |
 | Copperbell | [0100C5A0115C4000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100C5A0115C4000) | b35a2167f134094d | 1.0.0 |
 | Cotton Reboot! (JP) | [01003DD00F94A000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01003DD00F94A000) | 6743a37fce1e9be4 | 1.0.0 |
@@ -299,6 +301,7 @@
 | Fairune Collection | [01008A6009758000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01008A6009758000) | ea5c70af7f4d8a4f | 1.0.2 |
 | Fear Effect Sedna | [01005AC0068F6000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01005AC0068F6000) | 89647E6361E7CD48 | 1.1.1 |
 | Feral Fury | [010097E00ADC2000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/010097E00ADC2000) | E3D0BA009ED53707 | 1.0.1 |
+| Fight | [0100995013404000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100995013404000) | 4fcdb74dfd8ba740  | 1.0.0 |
 | Fight of Steel: Infinity Warrior | [010021901966C000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/010021901966C000) | 3B2968EF6B4C4741 | 1.0.1 |
 | FINAL FANTASY® CRYSTAL CHRONICLES™ Remastered Edition | [0100CE4010AAC000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100CE4010AAC000) | e1d8b399b787ae41 | 1.0.3 |
 | FINAL FANTASY VII | [0100A5B00BDC6000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100a5b00bdc6000) | CA4ED0693797F529 | 1.0.2_5 |
@@ -381,6 +384,7 @@
 | Inexistence Rebirth | [010001D014348000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/010001D014348000) | 8e1251e46a5bcaaa | 1.0.1 |
 | Infinite Tanks World War 2 | [010057101473A000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/010057101473A000) | fed199fe706ff17d | 1.0.0 |
 | Into the Dead 2 | [01000F700DECE000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01000F700DECE000) | 6C2E85A41EB3FB4A | 1.0.1 |
+| Intrepid Izzy | [0100897019402000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100897019402000) | 4A242ED7F31DB4F6  | 1.0.0 |
 | Ion Fury | [010041C00D086000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/010041C00D086000) | 9d2efcf198f2247f | 1.07.1 |
 | Is It Wrong to Try to Pick Up Girls in a Dungeon? Familia Myth Infinite Combate | [010063E0104BE000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/010063E0104BE000) | bf4a86cc45871342 | 1.0.1 |
 | Ittle Dew 2+ | [01004070022F0000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01004070022F0000) | fbb317949968ac41 | 1.0.2 |
@@ -654,6 +658,7 @@
 | SturmFront - The Mutant War: Übel Edition | [010029701420A000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/010029701420A000) | C7CAE59F4A307241 | 1.4c |
 | Sunwards | [010039A019B20000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/010039A019B20000) | 3672353F008DECD7 | 0.1 |
 | Super Bomberman R | [01007AD00013E000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01007AD00013E000) | a0a745da9ae25946 | 2.2.0 |
+| Super Dragonfly Chronicles | [0100967012972000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100967012972000) | 54e6066bd8697d47  | 1.0.0 |
 | Super Kirby Clash™ | [01003FB00C5A8000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01003FB00C5A8000) | DCDFA5A4AD9A175D | 1.0.1 |
 | Super Monkey Ball Banana Mania | [010001701248C000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/010001701248C000) | 0E563A7FF32784EC | 1.0.3 |
 | Super Mario™ 3D World + Bowser’s Fury | [010028600EBDA000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/010028600EBDA000) | 891687F016A18F17 | 1.1.0 |
@@ -791,8 +796,6 @@
 | Zoids Wild Blast Unleashed | [010069C0123D8000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/010069C0123D8000) | f894caf55083a245 | 1.0.0 |
 | Zombie Army Trilogy | [0100C7300EEE4000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100C7300EEE4000) | 54211726d36a8d9c | 1.0.2 |
 
-
-| Burst Shooter | [0100870012912000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100870012912000) | 983e28b1198ae349  | 1.0.0 |
 
 
 ## Cheats Sources
