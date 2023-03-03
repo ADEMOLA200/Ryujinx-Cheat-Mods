@@ -435,7 +435,7 @@
 | Lost in Random™ | [01005FE01291A000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01005FE01291A000) | 416914C121775277 | 1.0.1 |
 | Lost Sea | [010071B00964A000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/010071B00964A000) | 53a7c333f5a5164e | 1.0.0 |
 | LOST SPHEAR | [010077B0038B2000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/010077B0038B2000) | 641A9243BA35C638 | 1.3.1 |
-| Luigi's Mansion™ 3 | [0100DCA0064A6000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100DCA0064A6000) | 79E5950FFA85ACF6 | 1.4.0 |
+| Luigi's Mansion™ 3 | [0100DCA0064A6000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100DCA0064A6000) | 486f6a3b2d6bcf5c </br> 79E5950FFA85ACF6 | 1.0.0 </br> 1.4.0 |
 | M.A.C.E. Space Shooter | [0100F02005D1E000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100F02005D1E000) | 21CC83CF5A6C67AE | 1.0.1 |
 | MachiKnights -Blood bagos- | [0100F2400D434000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100F2400D434000) | 8EB9F6FB15B3428B | 1.0.6 |
 | Mages of Mystralia | [0100549008C9C000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100549008C9C000) | de32b7731b63fe48 | 1.0.1 |
