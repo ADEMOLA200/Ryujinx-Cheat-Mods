@@ -1,4 +1,3 @@
-
 [60fps Causes some issues in cutscenes]
 04090000 0000F278 52800F08
 04090000 0116E6FC 72A78108
