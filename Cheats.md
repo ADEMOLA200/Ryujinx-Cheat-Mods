@@ -6,7 +6,7 @@
 | .hack//G.U. Last Recode | [0100CA9014A04000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100CA9014A04000) | 18455A3B2AE872D7 | <p align="center"> 1.0.0 </p> |
 | 20XX | [0100749009844000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100749009844000) | 77B806340F2AF13B  | <p align="center"> 1.1.0 </p> |
 | 9 Monkeys of Shaolin | [010005E00E2BC000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010005E00E2BC000) | 0d78053374218caa | <p align="center"> 1.0.1 </p> |
-| 13 Sentinels: Aegis Rim | [01003FC01670C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01003FC01670C000) | 4B632573CA5C160E | <p align="center"> 1.10 | <p align="center"> ✅ </p> | <p align="center"> ✅ </p> |
+| 13 Sentinels: Aegis Rim | [01003FC01670C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01003FC01670C000) | 4B632573CA5C160E | <p align="center"> 1.10 |
 | A Hat In Time | [010056E00853A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010056E00853A000) | 746F0D697EEEE2DD | <p align="center"> 1.0.4 </p> |
 | A Knight's Quest | [01005EF00CFDA000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01005EF00CFDA000) | 0df02ab1aa74ad0a | <p align="center"> 1.0.0 </p> |
 | A Long Way Down | [01006A90144E4000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01006A90144E4000) | f80363545eaa634a | <p align="center"> 1.0.0 </p> |
@@ -779,9 +779,9 @@
 | WORLD OF FINAL FANTASY MAXIMA | [010072000BD32000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010072000BD32000) | 5767fd44c331b44b | <p align="center"> 1.0.1 </p> |
 | WWE 2K Battlegrounds | [010081700EDF4000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010081700EDF4000) | EED1291D86692DD3 | <p align="center"> 1.6.0.0 </p> |
 | X-Morph: Defense | [0100DF100B97C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100DF100B97C000) | b0d911bc4c9a3760 | <p align="center"> 1.0.1 </p> |
-| Xenoblade 2 (JP) | [0100F3400332C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100F3400332C000) | e3938fa78579c1ca | <p align="center"> 2.0.2 </p> |
-| Xenoblade Chronicles™ 2 | [0100E95004038000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100E95004038000) | F77F1559371C0EC6 | <p align="center"> 2.1.0 </p> |
-| Xenoblade Chronicles™ 2: Torna ~ The Golden Country | [0100C9F009F7A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100C9F009F7A000) | 56246A89466A791B | <p align="center"> 1.0.2 </p> |
+| Xenoblade 2 (JP) | [0100F3400332C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100F3400332C000) | e3938fa78579c1ca | <p align="center"> 2.0.2 </p> | <p align="center"> ✅ </p> |
+| Xenoblade Chronicles™ 2 | [0100E95004038000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100E95004038000) | F77F1559371C0EC6 | <p align="center"> 2.1.0 </p> | <p align="center"> ✅ </p> |
+| Xenoblade Chronicles™ 2: Torna ~ The Golden Country | [0100C9F009F7A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100C9F009F7A000) | 56246A89466A791B | <p align="center"> 1.0.2 </p> | <p align="center"> ✅ </p> |
 | Xenoblade Chronicles™ 3 | [010074F013262000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010074F013262000) | B76CD24AF02ACEA2 | <p align="center"> 1.3.0 </p> |
 | Xenoblade Chronicles™ Definitive Edition | [0100FF500E34A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100FF500E34A000) | 92c78bb3dcbbc3f7 | <p align="center"> 1.1.2 </p> |
 | Xeodrifter | [01005B5009364000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01005B5009364000) | 77FA306CC9CC4EBC | <p align="center"> 1.3.3 </p> |
