@@ -8,7 +8,7 @@ Work in Progress for Ryujinx Team
 [Cheats Index](Cheats.md)
 
 ### COMPLETED
-- Will update once a week if new cheats release when finished (sometimes on the day cheats are updated on certain scrapes).
+- Will update once a week if new cheats release (sometimes on the day cheats are updated on certain scrapes).
 </br>
 
 [Mods Index](Mods.md)
