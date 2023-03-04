@@ -806,3 +806,4 @@
 - https://github.com/LordApple/SXOS-CheatDB
 - https://github.com/WerWolv/EdiZon_CheatsConfigsAndScripts
 - https://GBAtemp.net
+- https://github.com/ChanseyIsTheBest/NX-60FPS-RES-GFX-Cheats
