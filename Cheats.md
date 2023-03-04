@@ -1,4 +1,4 @@
-# Cheats Index
+# Ryujinx Cheats Index
 
 
 | NAME | TITLE ID | BUILD ID | VERSION | Graphics Options |
