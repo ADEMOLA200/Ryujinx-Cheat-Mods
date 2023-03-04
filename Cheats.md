@@ -3,7 +3,7 @@
 
 | NAME | TITLE ID | BUILD ID | VERSION | Graphics Options |
 | --- | --- | --- | --- | --- |
-| .hack//G.U. Last Recode | [0100CA9014A04000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100CA9014A04000) | 18455A3B2AE872D7 | <center> 1.0.0 | [x] |
+| .hack//G.U. Last Recode | [0100CA9014A04000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100CA9014A04000) | 18455A3B2AE872D7 | 1.0.0 | - [x] |
 | 20XX | [0100749009844000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100749009844000) | 77B806340F2AF13B  | 1.1.0 |
 | 9 Monkeys of Shaolin | [010005E00E2BC000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/010005E00E2BC000) | 0d78053374218caa | 1.0.1 |
 | 13 Sentinels: Aegis Rim | [01003FC01670C000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/01003FC01670C000) | 4B632573CA5C160E | 1.10 |
@@ -798,7 +798,7 @@
 | ZIC: Zombies in City | [010049E017598000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/010049E017598000) | AE9B62EBE7664970 | 1.0 |
 | Zoids Wild: King of Blast (JP) | [0100E43009320000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100E43009320000) | bcc92811606bd64f | 1.0.0 |
 | Zoids Wild Blast Unleashed | [010069C0123D8000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/010069C0123D8000) | f894caf55083a245 | 1.0.0 |
-| Zombie Army Trilogy | [0100C7300EEE4000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100C7300EEE4000) | 54211726d36a8d9c | 1.0.2 |</center>
+| Zombie Army Trilogy | [0100C7300EEE4000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100C7300EEE4000) | 54211726d36a8d9c | 1.0.2 |
 
 
 
