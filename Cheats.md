@@ -1,8 +1,8 @@
 # Cheats Index
 
 
-| NAME | TITLE ID | BUILD ID | VERSION |
-| --- | --- | --- | --- |
+| NAME | TITLE ID | BUILD ID | VERSION | Graphics Options |
+| --- | --- | --- | --- | --- |
 | .hack//G.U. Last Recode | [0100CA9014A04000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100CA9014A04000) | 18455A3B2AE872D7 | <p align="center"> 1.0.0 </p> |
 | 20XX | [0100749009844000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100749009844000) | 77B806340F2AF13B  | <p align="center"> 1.1.0 </p> |
 | 9 Monkeys of Shaolin | [010005E00E2BC000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010005E00E2BC000) | 0d78053374218caa | <p align="center"> 1.0.1 </p> |
