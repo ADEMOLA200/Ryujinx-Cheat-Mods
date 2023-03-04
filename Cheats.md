@@ -6,7 +6,7 @@
 | .hack//G.U. Last Recode | [0100CA9014A04000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100CA9014A04000) | 18455A3B2AE872D7 | <p align="center"> 1.0.0 </p> |
 | 20XX | [0100749009844000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100749009844000) | 77B806340F2AF13B  | <p align="center"> 1.1.0 </p> |
 | 9 Monkeys of Shaolin | [010005E00E2BC000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010005E00E2BC000) | 0d78053374218caa | <p align="center"> 1.0.1 </p> |
-| 13 Sentinels: Aegis Rim | [01003FC01670C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01003FC01670C000) | 4B632573CA5C160E | <p align="center"> 1.10 |
+| 13 Sentinels: Aegis Rim | [01003FC01670C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01003FC01670C000) | 4B632573CA5C160E | <p align="center"> 1.10 | <p align="center"> ✅ </p> |
 | A Hat In Time | [010056E00853A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010056E00853A000) | 746F0D697EEEE2DD | <p align="center"> 1.0.4 </p> |
 | A Knight's Quest | [01005EF00CFDA000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01005EF00CFDA000) | 0df02ab1aa74ad0a | <p align="center"> 1.0.0 </p> |
 | A Long Way Down | [01006A90144E4000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01006A90144E4000) | f80363545eaa634a | <p align="center"> 1.0.0 </p> |
