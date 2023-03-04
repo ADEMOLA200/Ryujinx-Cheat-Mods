@@ -798,7 +798,7 @@
 | ZIC: Zombies in City | [010049E017598000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/010049E017598000) | AE9B62EBE7664970 | 1.0 |
 | Zoids Wild: King of Blast (JP) | [0100E43009320000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100E43009320000) | bcc92811606bd64f | 1.0.0 |
 | Zoids Wild Blast Unleashed | [010069C0123D8000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/010069C0123D8000) | f894caf55083a245 | 1.0.0 |
-| Zombie Army Trilogy | [0100C7300EEE4000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100C7300EEE4000) | 54211726d36a8d9c | 1.0.2 |
+| Zombie Army Trilogy | [0100C7300EEE4000](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/tree/main/Titles/0100C7300EEE4000) | 54211726d36a8d9c | 1.0.2 |</center>
 
 
 
