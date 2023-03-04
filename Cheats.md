@@ -1,7 +1,7 @@
 # Ryujinx Cheats Index
 
 
-| NAME | TITLE ID | BUILD ID | VERSION |  60 FPS | Graphics Options |
+| NAME | TITLE ID | BUILD ID | VERSION |  60 FPS | Graphic Options |
 | --- | --- | --- | --- | --- | --- |
 | .hack//G.U. Last Recode | [0100CA9014A04000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100CA9014A04000) | 18455A3B2AE872D7 | <p align="center"> 1.0.0 </p> |
 | 20XX | [0100749009844000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100749009844000) | 77B806340F2AF13B  | <p align="center"> 1.1.0 </p> |
