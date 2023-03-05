@@ -680,7 +680,7 @@
 | SWORD ART ONLINE Alicization Lycoris | [010034501225C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010034501225C000) | 63ED5B87B7B3A354 | <p align="center"> 2.0.1 </p> | <p align="center"> ✅ </p> |
 | SWORD ART ONLINE FATAL BULLET Complete Edition | [01005DF00DC26000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01005DF00DC26000) | 029c2837b0eee8a9 | <p align="center"> 1.0.2 </p> |
 | Sword of The Guardian | [01001C900CAD0000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01001C900CAD0000) | 21b490c1f7d43b4b | <p align="center"> 1.0.0 </p> |
-| Sword of the Vagrant | [0100BD000CB2C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100BD000CB2C000) | 1F1363EC8CC83C73 | <p align="center"> 1.1.0 </p> |
+| Sword of the Vagrant | [0100BD000CB2C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100BD000CB2C000) | 1F1363EC8CC83C73 | <p align="center"> 1.1.0 </p> | <p align="center"> ✅ </p> | <p align="center"> ✅ </p> |
 | Takotan | [0100761012B0C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100761012B0C000) | 89b21f067b29073a | <p align="center"> 1.0.0 </p> |
 | Tales of Symphonia Remastered (JP) | [01002B8014440000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01002B8014440000) | BCFDC7A6A7181E9F | <p align="center"> 1.1.0 </p> |
 | Tales of Vesperia™: Definitive Edition | [01002C0008E52000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01002c0008e52000) | F244B656B1CAFE52 | <p align="center"> 1.0.2 </p> |
