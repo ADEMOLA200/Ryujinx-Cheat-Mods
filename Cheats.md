@@ -528,10 +528,10 @@
 | Pokémon™: Let’s Go, Eevee! | [0100187003A36000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100187003A36000) | 5831EC64D6B696FD | <p align="center"> 1.0.2 </p> |
 | Pokémon™: Let’s Go, Pikachu! | [010003F003A34000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010003F003A34000) | c208db6a4ef4361f | <p align="center"> 1.0.2 </p> |
 | Pokémon Mystery Dungeon™: Rescue Team DX | [01003D200BAA2000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01003D200BAA2000) | 3AB632DEE82D5944 | <p align="center"> 1.0.2 </p> |
-| Pokémon™ Scarlet | [0100A3D008C5C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100A3D008C5C000) | A4B74EBC314F616A | <p align="center"> 1.1.0 </p> |
+| Pokémon™ Scarlet | [0100A3D008C5C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100A3D008C5C000) | A4B74EBC314F616A | <p align="center"> 1.1.0 </p> | <p align="center"> ✅ </p> | <p align="center"> ✅ </p> |
 | Pokémon™ Shield | [01008DB008C2C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01008DB008C2C000) | A16802625E7826BF | <p align="center"> 1.3.2 </p> |
 | Pokémon™ Sword | [0100ABF008968000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100ABF008968000) | A3B75BCD3311385A | <p align="center"> 1.3.2 </p> |
-| Pokémon™ Violet | [01008F6008C5E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01008F6008C5E000) | F7F74F8045642CBE | <p align="center"> 1.1.0 </p> |
+| Pokémon™ Violet | [01008F6008C5E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01008F6008C5E000) | F7F74F8045642CBE | <p align="center"> 1.1.0 </p> | <p align="center"> ✅ </p> | <p align="center"> ✅ </p> |
 | Pokkén Tournament™ DX | [0100B3F000BE2000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100b3f000be2000) | 49690ba2efdcd7a7 | <p align="center"> 1.3.3 </p> |
 | Portal Knights| [0100437004170000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100437004170000) | d59d81c06f923846  | <p align="center"> 1.7.2 </p> |
 | Potion Permit | [010025F0126FE000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010025F0126FE000) | D0D456EE7DCF0FEE | <p align="center"> 1.0.7 |
