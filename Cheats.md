@@ -429,6 +429,8 @@
 | Life is Strange 2 | [0100FD101186C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100FD101186C000) | BF0088C59D7E97C0 | <p align="center"> 1.1.0 </p> |
 | Light Fairytale Episode 1 | [0100558017FD8000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100558017FD8000) | fbd60e9240c3f26d | <p align="center"> 1.0.0 </p> |
 | Lila's Sky Ark | [01006C3017146000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01006C3017146000) | ddd922368815845e | <p align="center"> 1.0.4.1 </p> |
+| LIVE A LIVE (JP) | [0100C29017106000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100C29017106000) | 74F3CEDA545E5DEE | <p align="center"> 1.0.1 </p> | <p align="center"> ✅ </p> | <p align="center"> ✅ </p> |
+| LIVE A LIVE | [0100CF801776C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100CF801776C000) | CF22083371DDACB2 | <p align="center"> 1.0.1 </p> | <p align="center"> ✅ </p> | <p align="center"> ✅ </p> |
 | LOL Surprise! Remix: We Rule The World | [0100F2B0123AE000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100F2B0123AE000) | 821623d5241ab14b | <p align="center"> 1.0.4 </p> |
 | Lone Ruin | [0100B6D016EE6000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100B6D016EE6000) | 5166d09c4fd1825d | <p align="center"> 1.0.0 </p> |
 | Lost Castle | [0100581007068000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100581007068000) | 83f63a18c3490647  | <p align="center"> 1.0.0|
