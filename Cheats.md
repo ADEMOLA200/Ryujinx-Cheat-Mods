@@ -347,7 +347,7 @@
 | Goken | [0100126006EF0000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100126006EF0000) | CF79603EFD9E774D | <p align="center"> 1.0.0 </p> |
 | Golf Story | [0100779004172000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100779004172000) | FCEDEA4C677DD643  | <p align="center"> 1.0.1 </p> |
 | Good Job! | [0100B0500FE4E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100B0500FE4E000) | 951D09EECE122A47 | <p align="center"> 1.0.0 </p> |
-| Graveyard Keeper | [0100B6800B5C8000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100B6800B5C8000) | 9356531EDD2EC448 | <p align="center"> 1.0.0.4633 |
+| Graveyard Keeper | [0100B6800B5C8000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100B6800B5C8000) | 9356531EDD2EC448 | <p align="center"> 1.0.0.4633 | <p align="center"> ✅ </p> |
 | GREEDROID | [0100BD800DFA6000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100BD800DFA6000) | 9889452E84C5394C | <p align="center"> 1.0.2 </p> |
 | Green Hell | [0100453012FEA000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100453012FEA000) | D3A8F87E96C94045 | <p align="center"> 2.0.0 </p> |
 | GRIDD: Retroenhanced | [0100197008B52000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100197008B52000) | 50ecdb66433e1d4b | <p align="center"> 1.0 </p> |
