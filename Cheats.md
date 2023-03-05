@@ -602,7 +602,7 @@
 | Shantae: Half- Genie Hero Ultimate Edition (JP) | [01002AF009470000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01002AF009470000) | 6559c96f6a92504d | <p align="center"> 1.0.1 </p> |
 | Shantae Risky's Revenge - Director's Cut | [0100ADA012370000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100ADA012370000) | f139ec48132e8b34 | <p align="center"> 1.0.0 </p> |
 | Shaolin vs Wutang | [01003AB01062C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01003AB01062C000) | 494799A88D1CD64D | <p align="center"> 1.1 </p> |
-| Shattered: Tale of the Forgotten King |  [0100A0F0180D6000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100A0F0180D6000) | 4D42A2CA8232E8EB | <p align="center"> 1.0.0 </p> |
+| Shattered: Tale of the Forgotten King |  [0100A0F0180D6000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100A0F0180D6000) | 4D42A2CA8232E8EB | <p align="center"> 1.0.0 </p> | <p align="center"> ✅ </p> |
 | Shieldmaiden: Remix Edition | [01005C0016188000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01005C0016188000) | 81BC80747439C04C | <p align="center"> 1.0.0 </p> |
 | Shieldwall Chronicles: Swords of the North | [0100C7E01442C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100C7E01442C000) | f822b545f3b71a4e | <p align="center"> 1.0.0 </p> |
 | Shin Megami Tensei V | [010063B012DC6000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010063B012DC6000) | 68FED4970010ACF3 | <p align="center"> 1.0.2 </p> |
