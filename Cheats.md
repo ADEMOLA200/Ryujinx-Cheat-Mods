@@ -213,6 +213,7 @@
 | Crash Bandicoot™ N. Sane Trilogy | [0100D1B006744000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100D1B006744000) | 29E1A37D84227147 | <p align="center"> 1.0.0 </p> |
 | Crash™ Team Racing Nitro-Fueled | [0100F9F00C696000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100f9f00C696000) | 1C68951840693051 | <p align="center"> 1.0.15 |
 | Crimzon Clover - World EXplosion | [01006B800DE26000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01006B800DE26000) | 7f112d4c048e9eee | <p align="center"> 1.0.0 </p> |
+| Cris Tales | [0100B0400EBC4000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100B0400EBC4000) | 8A1DF79432172B4D | <p align="center"> 1.0.3 </p> | <p align="center"> ✅ </p> |
 | CRISIS CORE –FINAL FANTASY VII– REUNION (Asia) | [0100D09016C6A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100D09016C6A000) | 730E0602A06BDA77 | <p align="center"> 1.0.3 </p> | <p align="center"> ✅ </p> |
 | CRISIS CORE –FINAL FANTASY VII– REUNION | [01004BC0166CC000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01004BC0166CC000) | 114D4499AB558921 | <p align="center"> 1.0.3 </p> | <p align="center"> ✅ </p> |
 | Croc's World 2 | [01009DB00DE12000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01009DB00DE12000) | 934946857ae782c7 | <p align="center"> 1.0.0 </p> |
@@ -676,6 +677,7 @@
 | Super Toy Cars Offroad | [0100B65013636000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100B65013636000) | 664244C1CBABE8B7 | <p align="center"> 1.0.0 </p> |
 | Superpanda 2 | [0100B75018A6E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100B75018A6E000) | 6BEB59A0ABBD15AD | <p align="center"> 1.0.0 </p> |
 | Swords and Sandals: Spartacus | [0100241012432000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100241012432000) | 8729a8df5adf0646 | <p align="center"> 1.0.0 </p> |
+| SWORD ART ONLINE Alicization Lycoris | [010034501225C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010034501225C000) | 63ED5B87B7B3A354 | <p align="center"> 2.0.1 </p> | <p align="center"> ✅ </p> |
 | SWORD ART ONLINE FATAL BULLET Complete Edition | [01005DF00DC26000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01005DF00DC26000) | 029c2837b0eee8a9 | <p align="center"> 1.0.2 </p> |
 | Sword of The Guardian | [01001C900CAD0000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01001C900CAD0000) | 21b490c1f7d43b4b | <p align="center"> 1.0.0 </p> |
 | Sword of the Vagrant | [0100BD000CB2C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100BD000CB2C000) | 1F1363EC8CC83C73 | <p align="center"> 1.1.0 </p> |
