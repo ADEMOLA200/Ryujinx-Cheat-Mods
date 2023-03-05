@@ -626,7 +626,7 @@
 | Snack World: The Dungeon Crawl – Gold (EU) | [0100F2800D46E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100F2800D46E000) | 929C0BEA2BF097F7 | <p align="center"> 1.0.0 </p> |
 | SNACK WORLD: THE DUNGEON CRAWL — GOLD | [010010400D46A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010010400D46A000) | d3fa3aa21a0eb48c | <p align="center"> 1.0.0 </p> |
 | Snack World Treasurers Gold (JP) | [010072B007418000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010072B007418000) | 26d8482bad9998b2 | <p align="center"> 1.6.0 </p> |
-| Sniper Elite V2 Remastered | [0100BB000A3AA000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100BB000A3AA000) | b61f280560a937d2 | <p align="center"> 1.0.5 </p> |
+| Sniper Elite V2 Remastered | [0100BB000A3AA000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100BB000A3AA000) | b61f280560a937d2 | <p align="center"> 1.0.5 </p> | <p align="center"> ✅ </p> |
 | SNK HEROINES Tag Team Frenzy (EU) | [010007C00B508000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010007C00B508000) | 27EEB113FD1FC102 | <p align="center"> 1.4.1 </p> |
 | Snow Battle Princess Sayuki | [0100ADF00CB64000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100ADF00CB64000) | 24620f1b3f64d649 | <p align="center"> 1.0.0 </p> |
 | Sofia (JP) | [010054B014BC8000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010054B014BC8000) | EBE31096AB13ED43 | <p align="center"> 1.0.1 </p> |
