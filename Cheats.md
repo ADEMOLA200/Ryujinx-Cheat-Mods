@@ -539,7 +539,7 @@
 | Portal Knights| [0100437004170000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100437004170000) | d59d81c06f923846  | <p align="center"> 1.7.2 </p> |
 | Potion Permit | [010025F0126FE000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010025F0126FE000) | D0D456EE7DCF0FEE | <p align="center"> 1.0.7 |
 | Prehistoric Dude | [010054F01266C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010054F01266C000) | afeea14ff3229a77 | <p align="center"> 1.0.0 </p> |
-| Project Warlock | [0100BDB01150E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100BDB01150E000) | D597DE8544D8ED4F | <p align="center"> 1.0.3 </p> |
+| Project Warlock | [0100BDB01150E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100BDB01150E000) | D597DE8544D8ED4F | <p align="center"> 1.0.3 </p> | <p align="center"> ✅ </p> |
 | Pumpkin Jack | [01006C10131F6000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01006C10131F6000) | 0f73f1d52820f90b | <p align="center"> 1.4.4 </p> |
 | Punch Club | [0100A6000ACEA000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100A6000ACEA000) | 149284506F1BCC48 | <p align="center"> 1.0.0 </p> |
 | Quest of Dungeons | [01001DE005012000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01001DE005012000) | b01d8ea969dc1ccc | <p align="center"> 1.0.2 </p> |
