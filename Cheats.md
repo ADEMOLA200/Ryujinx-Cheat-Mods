@@ -588,7 +588,7 @@
 | Samurai Warriors 5 | [0100B28014132000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100B28014132000) | 810CBA3D7DB83EC0 | <p align="center"> 1.0.3 </p> |
 | Scarlet Hood and the Wicked Wood | [01009BC016866000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01009BC016866000) | EAF244798CB7A240 | <p align="center"> 1.0.0 </p> |
 | SD Gundam G Generation Cross Rays Premium G Sound Edition (Asia) | [010022900D3EC000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010022900D3EC000) | 79CD7C99F9189705 | <p align="center"> 1.6.5 </p> |
-| Sea of Solitude: The Director’s Cut | [0100AFE012BA2000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100AFE012BA2000) | 1D327B699C913A47 | <p align="center"> 1.1.0 </p> |
+| Sea of Solitude: The Director’s Cut | [0100AFE012BA2000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100AFE012BA2000) | 1D327B699C913A47 | <p align="center"> 1.1.0 </p> | <p align="center"> ✅ </p> |
 | Secrets of Magic 2 - Witches & Wizards | [01000C100CFD8000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01000C100CFD8000) | 8cdb26f131cae447 | <p align="center"> 1.0.0 </p> |
 | Seek Hearts | [010075D0101FA000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010075D0101FA000) | dc21619c9456324c | <p align="center"> 1.0.0 </p> |
 | SEGA AGES Sonic The Hedgehog 2 | [01000D200C614000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01000D200C614000) | fcc0665401ede611 | <p align="center"> 1.0.0 </p> |
