@@ -464,7 +464,7 @@
 | Miden Tower | [01001EB011D38000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01001EB011D38000) | 0d5d07181f8be84c | <p align="center"> 1.0.0 </p> |
 | Mist Hunter | [010059200CC40000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010059200CC40000) | 5A12F43732856844 | <p align="center"> 1.0.2105 |
 | Moero Crystal H | [01004EB0119AC000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01004EB0119AC000) | f386b1aed15c029c | <p align="center"> 1.0.0 </p> |
-| MONARK | [0100E4A01548C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100E4A01548C000) | 85EB6295023DD394 | <p align="center"> 1.0.1 </p> |
+| MONARK | [0100E4A01548C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100E4A01548C000) | 85EB6295023DD394 | <p align="center"> 1.0.1 </p> | <p align="center"> ✅ </p> |
 | Monkey King: Master of the Clouds | [01004C500B8E0000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01004C500B8E0000) | 40961c0a47988049 | <p align="center"> 1.0.0 </p> |
 | Monochrome Order | [010075200F1CA000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010075200F1CA000) | 5d1bc3e14c488c47 | <p align="center"> 1.0.0 </p> |
 | Mononoke SlashDown | [0100F3A00FB78000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100f3a00fb78000) | 6911a0b8b685e532 | <p align="center"> 1.0.2 </p> |
