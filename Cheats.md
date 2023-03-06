@@ -742,7 +742,7 @@
 | Towertale | [0100F6200F77E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100F6200F77E000) | 867076902772414c | <p align="center"> 1.0.0 </p> |
 | Travis Strikes Again: No More Heroes | [010011600C946000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010011600C946000) | ef72a4b5bf1973f3 | <p align="center"> 1.2.1 </p> |
 | Trek to Yomi | [0100D77019324000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100D77019324000) | F93FE010A1FC10BD | <p align="center"> 0.2 </p> |
-| Trials of Mana | [0100D7800E9E0000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100D7800E9E0000) | 92C25172D38DFEDB | <p align="center"> 1.1.1 </p> |
+| Trials of Mana | [0100D7800E9E0000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100D7800E9E0000) | 92C25172D38DFEDB | <p align="center"> 1.1.1 </p> |  | <p align="center"> ✅ </p> |
 | TRIANGLE STRATEGY™ | [0100CC80140F8000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100CC80140F8000) | F7C20294EFF7E6FA | <p align="center"> 1.0.3 </p> | <p align="center"> ✅ </p> | <p align="center"> ✅ </p> |
 | Trine Enchanted Edition | [0100D9000A930000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100D9000A930000) | 32b4bbe0d88214d3 | <p align="center"> 1.0.2 </p> |
 | Trine 2: Complete Story | [010064E00A932000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010064E00A932000) | 525B902E6F916EA5 | <p align="center"> 1.0.1 </p> |
