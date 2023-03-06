@@ -131,13 +131,13 @@
 | AstroWings: Space War | [0100DF401249C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100DF401249C000) | 161d40765906024c | <p align="center"> 1.0.0 </p> |
 | Atelier Ayesha: The Alchemist of Dusk DX | [0100D9D00EE8C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100D9D00EE8C000) | b9146e1cad9e36ba | <p align="center"> 1.0.0 </p> |
 | Atelier Escha & Logy: Alchemists of the Dusk Sky DX | [0100E5600EE8E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100E5600EE8E000) | 4bbb3b3455d306c6 | <p align="center"> 1.0.0 </p> |
-| Atelier Lulua  The Scion of Arland  | [0100B1400CD50000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100B1400CD50000) | ca7facaec708311c | <p align="center"> 1.0.3 </p> |
-| Atelier Meruru The Apprentice of Arland DX | [0100ADD00C6fA000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100ADD00C6fA000) | e76c3624d3ae3dce | <p align="center"> 1.0.2 </p> |
+| Atelier Lulua" The Scion of Arland  | [0100B1400CD50000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100B1400CD50000) | ca7facaec708311c | <p align="center"> 1.0.3 </p> |
+| Atelier Meruru: The Apprentice of Arland DX | [0100ADD00C6fA000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100ADD00C6fA000) | e76c3624d3ae3dce | <p align="center"> 1.0.2 </p> |
 | Atelier Shallie: Alchemists of the Dusk Sea DX | [010005C00EE90000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010005C00EE90000) | aab0450a965202ec | <p align="center"> 1.0.0 </p> |
-| Atelier Rorona The Alchemist of Arland DX | [010088600C66E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010088600C66E000) | 967d32be4b10b67e | <p align="center"> 1.0.1 </p> |
+| Atelier Rorona: The Alchemist of Arland DX | [010088600C66E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010088600C66E000) | 967d32be4b10b67e | <p align="center"> 1.0.1 </p> |
 | Atelier Ryza: Ever Darkness & the Secret Hideout | [0100D1900EC80000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100D1900EC80000) | 6BAE122EA063FFEB | <p align="center"> 1.0.8 </p> | <p align="center"> ✅ </p> |
 | Atelier Sophie: The Alchemist of the Mysterious Book DX | [0100D8701421C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100D8701421C000) | 9C95108FD8F7464A | <p align="center"> 1.0.3 </p> | <p align="center"> ✅ </p> |
-| Atelier Totori The Adventurer of Arland DX | [01009BC00C6F6000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01009BC00C6F6000) | 4fd4bfe66c5353d4 | <p align="center"> 1.0.1 </p> |
+| Atelier Totori: The Adventurer of Arland DX | [01009BC00C6F6000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01009BC00C6F6000) | 4fd4bfe66c5353d4 | <p align="center"> 1.0.1 </p> |
 | Attack on Titan 2 | [010034500641A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010034500641A000) | 586ea519c1cdfae7 | <p align="center"> 1.0.14 |
 | AvoCuddle | [01008FB011248000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01008FB011248000) | 9906622a5b311548 | <p align="center"> 1.0.0 </p> |
 | Awakening of Cthulhu | [0100085012D64000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100085012D64000) | 9da80cf7e4903ec4 | <p align="center"> 1.0.0 </p> |
