@@ -210,7 +210,7 @@
 | Copperbell | [0100C5A0115C4000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100C5A0115C4000) | b35a2167f134094d | <p align="center"> 1.0.0 </p> |
 | Cotton Reboot! (JP) | [01003DD00F94A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01003DD00F94A000) | 6743a37fce1e9be4 | <p align="center"> 1.0.0 </p> |
 | Crash Bandicoot™ 4: It’s About Time | [010073401175E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010073401175E000) | E8DB38F170B0149D | <p align="center"> 1.2 </p> |
-| Crash Bandicoot™ N. Sane Trilogy | [0100D1B006744000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100D1B006744000) | 29E1A37D84227147 | <p align="center"> 1.0.0 </p> |
+| Crash Bandicoot™ N. Sane Trilogy | [0100D1B006744000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100D1B006744000) | 29E1A37D84227147 | <p align="center"> 1.0.0 </p> | <p align="center"> ✅ </p> |
 | Crash™ Team Racing Nitro-Fueled | [0100F9F00C696000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100f9f00C696000) | 1C68951840693051 | <p align="center"> 1.0.15 |
 | Crimzon Clover - World EXplosion | [01006B800DE26000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01006B800DE26000) | 7f112d4c048e9eee | <p align="center"> 1.0.0 </p> |
 | Cris Tales | [0100B0400EBC4000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100B0400EBC4000) | 8A1DF79432172B4D | <p align="center"> 1.0.3 </p> | <p align="center"> ✅ </p> |
@@ -805,7 +805,7 @@
 | Zoids Wild Blast Unleashed | [010069C0123D8000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010069C0123D8000) | f894caf55083a245 | <p align="center"> 1.0.0 </p> |
 | Zombie Army Trilogy | [0100C7300EEE4000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100C7300EEE4000) | 54211726d36a8d9c | <p align="center"> 1.0.2 </p> | <p align="center"> ✅ </p> |
 
-| TRIANGLE STRATEGY™ | [0100CC80140F8000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100CC80140F8000) | F7C20294EFF7E6FA | <p align="center"> 1.0.3 </p> | <p align="center"> ✅ </p> | <p align="center"> ✅ </p> |
+
 
 ## Cheats Sources
 - https://github.com/LordApple/SXOS-CheatDB
