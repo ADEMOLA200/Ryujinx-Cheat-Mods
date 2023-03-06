@@ -1,2 +1,4 @@
 CRISIS CORE –FINAL FANTASY VII– REUNION (Asia) v1.0.2
 @Eiffel2018
+@sds
+@retole
