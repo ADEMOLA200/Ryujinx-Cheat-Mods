@@ -6,7 +6,7 @@ Work in Progress for Ryujinx Team
 ## GAMES INDEX
 
 [Cheats Index](Cheats.md)
-
+### WIP
 - Add Graphic options and 60fps cheats.
 - Will update once a week if new cheats release (sometimes on the day cheats are updated on certain scrapes).
 </br>
