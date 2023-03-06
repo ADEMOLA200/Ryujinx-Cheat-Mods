@@ -733,7 +733,7 @@
 | Toki | [0100F3400A432000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100F3400A432000) | 1838099aae00b548 | <p align="center"> 1.0.1 </p> |
 | Tokyo Mirage Sessions #FE Encore (Asia) | [0100A9400C9C2000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100A9400C9C2000) | 33463E11899166BB | <p align="center"> 1.0.0 </p> |
 | Tonight We Riot | [0100D400100F8000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100D400100F8000) | 3567e82c6981424d | <p align="center"> 1.0.0 </p> |
-| Tony Hawks Pro Skater 1+2 | [0100CC00102B4000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100CC00102B4000) | 8AFCBE6A930CD42E | <p align="center"> 1.0.3 </p> |
+| Tony Hawks Pro Skater 1+2 | [0100CC00102B4000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100CC00102B4000) | 8AFCBE6A930CD42E | <p align="center"> 1.0.3 </p> | <p align="center"> ✅ </p> | <p align="center"> ✅ </p> |
 | Toon Shooters 2: The Freelancers | [0100D31013F24000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100D31013F24000) | 206c185e2f5a9a2e | <p align="center"> 3.3 </p> |
 | Torchlight II | [010090400D366000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010090400D366000) | A0C6C2D22DEA7933 | <p align="center"> 1.0.5 </p> |
 | Touhou Luna Nights | [0100D850131B0000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100D850131B0000) | FE5B26032BFC9289 | <p align="center"> 1.0.1 </p> |
