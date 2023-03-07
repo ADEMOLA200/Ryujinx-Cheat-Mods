@@ -1,2 +1,3 @@
 Darksiders III v1.0.1
 @Eiffel2018
+@Hazerou
