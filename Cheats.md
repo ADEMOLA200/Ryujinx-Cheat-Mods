@@ -702,7 +702,7 @@
 | The Coma: Recut | [0100451012918000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100451012918000) | 5136f141b1639f4e  | <p align="center"> 1.0.0 </p> |
 | The Copper Canyon Dixie Dash | [01000F20102AC000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01000F20102AC000) | 2fbe522f4dbad51e | <p align="center"> 1.0.2 </p> |
 | The Count Lucanor | [01000850037C0000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01000850037C0000) | 2EAAF5F168F363D9 | <p align="center"> 1.0.2 </p> |
-| The Elder Scrolls V: Skyrim | [01000A10041EA000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01000A10041EA000) | 771BDFB65F8D0AF7 | <p align="center"> 1.1.177.3285177 </p> | <p align="center"> ✅ </p> |
+| The Elder Scrolls V: Skyrim | [01000A10041EA000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01000A10041EA000) | 771BDFB65F8D0AF7 | <p align="center"> 1.1.177 .3285177 </p> | <p align="center"> ✅ </p> |
 | The Handsome Collection - Borderlands 2: GOTY | [010096F00FF22000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010096F00FF22000) | f7c233469f20ee3f | <p align="center"> 1.0.2 </p> |
 | The Handsome Collection - Borderlands The Pre-sequel | [010007400FF24000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010007400FF24000) | 090b1f7f7af35d00 | <p align="center"> 1.0.1 </p> |
 | The Last Kids On Earth and the Staff of Doom | [0100C27011544000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100C27011544000) | 562F197C579E7A45 | <p align="center"> 1.0.1 </p> |
