@@ -235,6 +235,7 @@
 | Darksiders II Deathinitive Edition | [010071800BA98000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010071800BA98000) | 173e2edea9e5d940 | <p align="center"> 1.0.0 </p> |
 | Darksiders III | [0100F8F014190000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100F8F014190000) | AF7114F019CE6E1D | <p align="center"> 1.0.1 </p> |  | <p align="center"> ✅ </p> |
 | Darksiders Genesis | [0100F2300D4BA000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100F2300D4BA000) | DB17131624D04A9C | <p align="center"> 1.0.3 </p> | <p align="center"> ✅ </p> | <p align="center"> ✅ </p> |
+| Darksiders Warmastered Edition | [0100E1400BA96000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100E1400BA96000) | A4CC4C44C07AEC14 | <p align="center"> 1.0.0 </p> | <p align="center"> ✅ </p> |
 | Darkwood | [010033500B7B6000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010033500B7B6000) | 250CE7C4A4DE1940 | <p align="center"> 1.0.4 </p> |
 | DC Super Hero Girls™: Teen Power | [0100F8F00C4F2000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100F8F00C4F2000) | BC714E2D7D32AB41 | <p align="center"> 1.0.1 </p> |
 | Dead Cells | [0100646009FBE000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100646009FBE000) | 8E64FF9C9BA4E373 | <p align="center"> 1.22.2 </p> |
@@ -471,6 +472,7 @@
 | Monster Boy and the Cursed Kingdom | [01006F7001D10000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01006F7001D10000) | 7dd8afc6a77afbb3 | <p align="center"> 1.0.5 </p> |
 | Monster Hunter Generations Ultimate™ | [0100770008DD8000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100770008DD8000) | FB08F1D20FD1204F | <p align="center"> 1.4.0 </p> | <p align="center"> ✅ </p> |
 | Monster Hunter Rise: Sunbreak | [0100B04011742000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100B04011742000) | 3003EF061E91DCB4 | <p align="center"> 13.0.0 </p> | <p align="center"> ✅ </p> |
+| Monster Hunter Stories 2: Wings of Ruin | [0100E21011446000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100E21011446000) | E0CCC6BB309EBB8D | <p align="center"> 1.5.2 </p> | <p align="center"> ✅ </p> |
 | Monster Sanctuary | [0100A0F00DA68000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100A0F00DA68000) | 65EEA5A401B6F042 | <p align="center"> 1.3.0 </p> |
 | Monster Slayers | [0100D1700C732000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100D1700C732000) | 341CD937B9A177A5 | <p align="center"> 1.0.0 </p> |
 | Monster Viator | [01001620105FE000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01001620105FE000) | 555c31c0b8c8d540 | <p align="center"> 1.0.0 </p> |
@@ -679,11 +681,12 @@
 | Super Toy Cars | [0100384009344000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100384009344000) | f8c08ad2cda26a46  | <p align="center"> 1.0.0 </p> |
 | Super Toy Cars Offroad | [0100B65013636000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100B65013636000) | 664244C1CBABE8B7 | <p align="center"> 1.0.0 </p> |
 | Superpanda 2 | [0100B75018A6E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100B75018A6E000) | 6BEB59A0ABBD15AD | <p align="center"> 1.0.0 </p> |
-| Swords and Sandals: Spartacus | [0100241012432000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100241012432000) | 8729a8df5adf0646 | <p align="center"> 1.0.0 </p> |
 | SWORD ART ONLINE Alicization Lycoris | [010034501225C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010034501225C000) | 63ED5B87B7B3A354 | <p align="center"> 2.0.1 </p> | <p align="center"> ✅ </p> |
 | SWORD ART ONLINE FATAL BULLET Complete Edition | [01005DF00DC26000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01005DF00DC26000) | 029c2837b0eee8a9 | <p align="center"> 1.0.2 </p> |
+| SWORD ART ONLINE: Hollow Realization Deluxe Edition | [0100EC400D54E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100EC400D54E000) | 03012E346B96E992 | <p align="center"> 1.0.2 </p> | <p align="center"> ✅ </p> |
 | Sword of The Guardian | [01001C900CAD0000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01001C900CAD0000) | 21b490c1f7d43b4b | <p align="center"> 1.0.0 </p> |
 | Sword of the Vagrant | [0100BD000CB2C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100BD000CB2C000) | 1F1363EC8CC83C73 | <p align="center"> 1.1.0 </p> | <p align="center"> ✅ </p> | <p align="center"> ✅ </p> |
+| Swords and Sandals: Spartacus | [0100241012432000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100241012432000) | 8729a8df5adf0646 | <p align="center"> 1.0.0 </p> |
 | Takotan | [0100761012B0C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100761012B0C000) | 89b21f067b29073a | <p align="center"> 1.0.0 </p> |
 | Tales of Symphonia Remastered (JP) | [01002B8014440000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01002B8014440000) | BCFDC7A6A7181E9F | <p align="center"> 1.1.0 </p> |
 | Tales of Vesperia™: Definitive Edition | [01002C0008E52000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01002c0008e52000) | F244B656B1CAFE52 | <p align="center"> 1.0.2 </p> |
@@ -699,6 +702,7 @@
 | The Coma: Recut | [0100451012918000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100451012918000) | 5136f141b1639f4e  | <p align="center"> 1.0.0 </p> |
 | The Copper Canyon Dixie Dash | [01000F20102AC000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01000F20102AC000) | 2fbe522f4dbad51e | <p align="center"> 1.0.2 </p> |
 | The Count Lucanor | [01000850037C0000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01000850037C0000) | 2EAAF5F168F363D9 | <p align="center"> 1.0.2 </p> |
+| The Elder Scrolls V: Skyrim | [01000A10041EA000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01000A10041EA000) | 771BDFB65F8D0AF7 | <p align="center"> 1.1.177.3285177 </p> | <p align="center"> ✅ </p> |
 | The Handsome Collection - Borderlands 2: GOTY | [010096F00FF22000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010096F00FF22000) | f7c233469f20ee3f | <p align="center"> 1.0.2 </p> |
 | The Handsome Collection - Borderlands The Pre-sequel | [010007400FF24000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010007400FF24000) | 090b1f7f7af35d00 | <p align="center"> 1.0.1 </p> |
 | The Last Kids On Earth and the Staff of Doom | [0100C27011544000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100C27011544000) | 562F197C579E7A45 | <p align="center"> 1.0.1 </p> |
@@ -808,7 +812,7 @@
 | Zoids Wild Blast Unleashed | [010069C0123D8000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010069C0123D8000) | f894caf55083a245 | <p align="center"> 1.0.0 </p> |
 | Zombie Army Trilogy | [0100C7300EEE4000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100C7300EEE4000) | 54211726d36a8d9c | <p align="center"> 1.0.2 </p> | <p align="center"> ✅ </p> |
 
-
+| The Elder Scrolls V: Skyrim | [01000A10041EA000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01000A10041EA000) | 771BDFB65F8D0AF7 | <p align="center"> 1.1.177.3285177 </p> | <p align="center"> ✅ </p> |
 
 ## Cheats Sources
 - https://github.com/LordApple/SXOS-CheatDB
