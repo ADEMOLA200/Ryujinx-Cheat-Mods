@@ -329,7 +329,7 @@
 | Foxyland | [0100D2501001A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100D2501001A000) | 4e2b065027e78663 | <p align="center"> 1.0.0 </p> |
 | Frane: Dragons' Odyssey | [0100C0C00DD0E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100C0C00DD0E000) | 09b846aebe22fe44 | <p align="center"> 1.0.0 </p> |
 | Frido | [01003FA0196D8000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01003FA0196D8000) | F19667C729442D42 | <p align="center"> 1.0 </p> |
-| FRONT MISSION 1st: Remake | [0100F200178F4000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100F200178F4000) | A844899CE171F1CA | <p align="center"> 2.0.0 </p> |
+| FRONT MISSION 1st: Remake | [0100F200178F4000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100F200178F4000) | A844899CE171F1CA | <p align="center"> 2.0.0 </p> | <p align="center"> ✅ </p> |
 | FullBlast (JP) | [010036A00B290000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010036A00B290000) | c2d7a3622913c742 | <p align="center"> 1.0.0 </p> |
 | Furi Definitive Edition | [01000EC00AF98000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01000EC00AF98000) | 83fb796d7b625e42 | <p align="center"> 1.0.0 </p> |
 | G Darius HD (JP) | [01002B200F93E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01002B200F93E000) | FA5BD6E5A82C17A0 | <p align="center"> 2.0.0 </p> |
