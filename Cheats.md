@@ -131,7 +131,7 @@
 | AstroWings: Space War | [0100DF401249C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100DF401249C000) | 161d40765906024c | <p align="center"> 1.0.0 </p> |
 | Atelier Ayesha: The Alchemist of Dusk DX | [0100D9D00EE8C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100D9D00EE8C000) | b9146e1cad9e36ba | <p align="center"> 1.0.0 </p> |
 | Atelier Escha & Logy: Alchemists of the Dusk Sky DX | [0100E5600EE8E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100E5600EE8E000) | 4bbb3b3455d306c6 | <p align="center"> 1.0.0 </p> |
-| Atelier Lulua" The Scion of Arland  | [0100B1400CD50000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100B1400CD50000) | ca7facaec708311c | <p align="center"> 1.0.3 </p> |
+| Atelier Lulua: The Scion of Arland  | [0100B1400CD50000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100B1400CD50000) | ca7facaec708311c | <p align="center"> 1.0.3 </p> |
 | Atelier Meruru: The Apprentice of Arland DX | [0100ADD00C6fA000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100ADD00C6fA000) | e76c3624d3ae3dce | <p align="center"> 1.0.2 </p> |
 | Atelier Shallie: Alchemists of the Dusk Sea DX | [010005C00EE90000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010005C00EE90000) | aab0450a965202ec | <p align="center"> 1.0.0 </p> |
 | Atelier Rorona: The Alchemist of Arland DX | [010088600C66E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010088600C66E000) | 967d32be4b10b67e | <p align="center"> 1.0.1 </p> |
