@@ -1,2 +1,3 @@
-Vampyr v1.0.4
+VAMPYR v0.4.0
 @Patjenova
+@Hazerou
