@@ -233,7 +233,7 @@
 | DARK SOULS™: REMASTERED | [01004AB00A260000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01004AB00A260000) | df3766a2bb651a3e | <p align="center"> 1.0.3 </p> |
 | Dark Witch Music Episode: Rudymical | [01001FA0034E2000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01001FA0034E2000) | 9f751801449b6d7a | <p align="center"> 1.0.1 </p> |
 | Darksiders II Deathinitive Edition | [010071800BA98000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010071800BA98000) | 173e2edea9e5d940 | <p align="center"> 1.0.0 </p> |
-| Darksiders III | [0100F8F014190000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100F8F014190000) | AF7114F019CE6E1D | <p align="center"> 1.0.1 </p> |
+| Darksiders III | [0100F8F014190000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100F8F014190000) | AF7114F019CE6E1D | <p align="center"> 1.0.1 </p> |  | <p align="center"> ✅ </p> |
 | Darksiders Genesis | [0100F2300D4BA000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100F2300D4BA000) | DB17131624D04A9C | <p align="center"> 1.0.3 </p> |
 | Darkwood | [010033500B7B6000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010033500B7B6000) | 250CE7C4A4DE1940 | <p align="center"> 1.0.4 </p> |
 | DC Super Hero Girls™: Teen Power | [0100F8F00C4F2000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100F8F00C4F2000) | BC714E2D7D32AB41 | <p align="center"> 1.0.1 </p> |
