@@ -768,6 +768,7 @@
 | Valfaris | [010089700F30C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010089700F30C000) | C0A75CFE9B9B814A | <p align="center"> 1.0.2 </p> |
 | Valkyria Chronicles™ | [0100CAF00B744000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100CAF00B744000) | fe77ffb8cbfb3a5c | <p align="center"> 1.0.0 </p> | <p align="center"> ✅ </p> |
 | Valkyria Chronicles 4 | [01005C600AC68000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01005C600AC68000) | 3758602aa47add37 | <p align="center"> 1.0.0 </p> |
+| VAMPYR | [01000BD00CE64000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01000BD00CE64000) | E417100FFEEFD1DE | <p align="center"> 0.4.0 </p> | <p align="center"> ✅ </p> | <p align="center"> ✅ </p> |
 | Vaporum | [010030F00CA1E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010030F00CA1E000) | 5C813C18C1D7744A | <p align="center"> 1.0.2 </p> |
 | Vaporum Lockdown | [010088D013CE0000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010088D013CE0000) | 480B952AD15D7B4B | <p align="center"> 1.0.0 </p> |
 | Void Bastards | [0100D010113A8000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100D010113A8000) | 2AE8719F2962C94E | <p align="center"> 2.0.24.267 |
@@ -812,7 +813,7 @@
 | Zoids Wild Blast Unleashed | [010069C0123D8000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010069C0123D8000) | f894caf55083a245 | <p align="center"> 1.0.0 </p> |
 | Zombie Army Trilogy | [0100C7300EEE4000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100C7300EEE4000) | 54211726d36a8d9c | <p align="center"> 1.0.2 </p> | <p align="center"> ✅ </p> |
 
-| The Elder Scrolls V: Skyrim | [01000A10041EA000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01000A10041EA000) | 771BDFB65F8D0AF7 | <p align="center"> 1.1.177.3285177 </p> | <p align="center"> ✅ </p> |
+
 
 ## Cheats Sources
 - https://github.com/LordApple/SXOS-CheatDB
