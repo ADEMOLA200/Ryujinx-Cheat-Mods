@@ -487,7 +487,7 @@
 | New Super Lucky's Tale | [010017700B6C2000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010017700B6C2000) | 14872049185C584C | <p align="center"> 1.5.9 |
 | New Super Mario Bros.™ U Deluxe | [0100EA80032EA000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100EA80032EA000) | aee6dccc06d9c05b | <p align="center"> 1.0.0 </p> |
 | Ni no Kuni: Queen of the White Ashes (JP) | [010032400E700000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010032400E700000) | b0ce5ccdff637507 | <p align="center"> 1.0.2 </p> |
-| Ni no Kuni: Wrath of the White Witch | [0100E5600D446000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100E5600D446000) | C32B29CB5FBA96D9 | <p align="center"> 1.0.2 </p> |
+| Ni no Kuni: Wrath of the White Witch | [0100E5600D446000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100E5600D446000) | C32B29CB5FBA96D9 | <p align="center"> 1.0.2 </p> | <p align="center"> ✅ </p> |
 | Ni no Kuni II: Revenant Kingdom All in One Edition (JP) | [0100C4E013E5E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100C4E013E5E000) | 5B67EF657677FD66 | <p align="center"> 1.1.0 </p> |
 | Ni no Kuni II: Revenant Kingdom Prince's Edition | [0100BE7013E06000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100BE7013E06000) | 14C7986BEB94A1A1 | <p align="center"> 1.0.1 </p> |
 | NieR:Automata The End of YoRHa Edition | [010056B015FE8000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010056B015FE8000) | E43525F22282A477 | <p align="center"> 1.0.2 </p> | <p align="center"> ✅ </p> |
