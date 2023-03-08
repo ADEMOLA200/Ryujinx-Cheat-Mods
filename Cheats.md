@@ -567,7 +567,7 @@
 | Resident Evil 0 | [010097000BC10000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010097000BC10000) | fb4239aa962b429b | <p align="center"> 1.0.0 </p> |
 | Resident Evil 4 | [010099A00BC1E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010099A00BC1E000) | 82c2a04a21d3e0b8 | <p align="center"> 1.0.2 </p> |
 | Resident Evil 5 | [010018100CD46000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010018100CD46000) | 4E46401BF2FE53A4 | <p align="center"> 1.0.3 </p> |
-| Resident Evil 6 | [01002A000CD48000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01002A000CD48000) | 061d2a06cd700785 | <p align="center"> 1.0.2 </p> |
+| Resident Evil 6 | [01002A000CD48000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01002A000CD48000) | 061d2a06cd700785 | <p align="center"> 1.0.2 </p> | <p align="center"> ✅ </p> |
 | Retro City Rampage DX | [0100F17004156000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100F17004156000) | F954B6268CB0C31D | <p align="center"> 2.0.0 </p> |
 | Riddled Corpses EX | [01002C700C326000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01002C700C326000) | 4E87ACAD6E878C33 | <p align="center"> 1.0.1 </p> |
 | Rift Adventure | [0100F5501483C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100F5501483C000) | 05E742A660D46B42 | <p align="center"> 1.0.0 </p> |
