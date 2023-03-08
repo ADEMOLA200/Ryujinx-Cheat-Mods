@@ -428,7 +428,7 @@
 | Last Command | [010022F01A016000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010022F01A016000) | C27DE8222584F64F | <p align="center"> 1.0.6b4 |
 | LASTFIGHT | [01009E100BDD6000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01009E100BDD6000) | 184cd27602cef34d | <p align="center"> 1.0.0 </p> |
 | Legend of the Tetrarchs | [01007E900DFB6000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01007E900DFB6000) | 4c1d271b7b598d41 | <p align="center"> 1.0.0 </p> |
-| LEGO® CITY Undercover | [01003A30012C0000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01003A30012C0000) | 669f6e70c268f748 | <p align="center"> 1.0.2 </p> |
+| LEGO® CITY Undercover | [01003A30012C0000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01003A30012C0000) | 669f6e70c268f748 | <p align="center"> 1.0.2 </p> | <p align="center"> ✅ </p> |
 | LEGO® DC Super-Villains | [010070D009FEC000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010070D009FEC000) | 711c52fc37606d45 | <p align="center"> 1.0.8 |
 | LEGO® Harry Potter™ Collection | [010052A00B5D2000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010052A00B5D2000) | 01c46c3e39c5370f | <p align="center"> 1.0.2 </p> |
 | LEGO® Jurassic World | [01001C100E772000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01001C100E772000) | 1b80403be8882745 | <p align="center"> 1.0.1 </p> | <p align="center"> ✅ </p> |
