@@ -387,7 +387,7 @@
 | ICEY | [0100BE9007E7E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100BE9007E7E000) | 684a8d1aebeb7845 | <p align="center"> 1.0.5 </p> |
 | Iconoclasts | [0100BC60099FE000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100BC60099FE000) | 4e1c499387103542  | <p align="center"> 1.1.5p |
 | Illusion of L'Phalcia | [01000B700EC22000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01000B700EC22000) | dcad50aef4e03c48 | <p align="center"> 1.0.0 </p> |
-| Immortals Fenyx Rising™ | [01004A600EC0A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01004A600EC0A000) | 70F3F6751D73C644 | <p align="center"> 1.3.4 </p> |
+| Immortals Fenyx Rising™ | [01004A600EC0A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01004A600EC0A000) | 70F3F6751D73C644 | <p align="center"> 1.3.4 </p> | <p align="center"> ✅ </p> |
 | IMPLOSION | [0100737003190000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100737003190000) | 1967a586ca3f9594  | <p align="center"> 1.1.0 </p> |
 | In Sound Mind | [01006DF014682000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01006DF014682000) | 437d1636aa93d390 | <p align="center"> 1.0.2 </p> |
 | Inexistence Rebirth | [010001D014348000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010001D014348000) | 8e1251e46a5bcaaa | <p align="center"> 1.0.1 </p> |
