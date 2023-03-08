@@ -3,3 +3,4 @@ Ninja Gaiden 3: Razor's Edge v1.0.1
 @xtatu
 @Hazerou
 @Jericoss
+@Hazerou
