@@ -611,7 +611,8 @@
 | Sephirothic Stories | [010059700D4A0000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010059700D4A0000) | 274d62f691fa5a40 | <p align="center"> 1.0.0 </p> |
 | Seven Knights -Time Wanderer- | [010018400C24E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010018400C24E000) | F6667BA0D144374F | <p align="center"> 1.4.0 </p> |
 | Shadow Blade: Reload | [0100D5500DA94000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100D5500DA94000) | E03782D850353F40 | <p align="center"> 1.0.0 </p> |
-| Shadowverse: Champion's Battle (EU) | [01003B90136DA000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01003B90136DA000) | 1F936E043FB8C349 | <p align="center"> 1.3.1 </p> |
+| Shadowverse: Champion's Battle (EU) | [01003B90136DA000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01003B90136DA000) | 1F936E043FB8C349 | <p align="center"> 1.3.1 </p> | <p align="center"> ✅ </p> |
+| Shadowverse: Champion's Battle | [01005880134C2000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01005880134C2000) | C8A3A29B0BBEAE47 | <p align="center"> 1.3.1 </p> | <p align="center"> ✅ </p> |
 | Shalnor Legends: Sacred Lands | [0100B4900E008000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100B4900E008000) | 87d0fcd94b1e1b3d | <p align="center"> 1.0.0 </p> |
 | Shantae and the Pirate's Curse | [0100EFD00A4FA000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100EFD00A4FA000) | 1ae49f909f236ef2 | <p align="center"> 1.0.1 </p> |
 | Shantae: Half- Genie Hero Ultimate Edition (JP) | [01002AF009470000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01002AF009470000) | 6559c96f6a92504d | <p align="center"> 1.0.1 </p> |
@@ -821,7 +822,7 @@
 | Zoids Wild Blast Unleashed | [010069C0123D8000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010069C0123D8000) | f894caf55083a245 | <p align="center"> 1.0.0 </p> |
 | Zombie Army Trilogy | [0100C7300EEE4000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100C7300EEE4000) | 54211726d36a8d9c | <p align="center"> 1.0.2 </p> | <p align="center"> ✅ </p> |
 
-
+| Shadowverse: Champion's Battle | [01005880134C2000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01005880134C2000) | C8A3A29B0BBEAE47 | <p align="center"> 1.3.1 </p> | <p align="center"> ✅ </p> |
 
 ## Cheats Sources
 - https://github.com/LordApple/SXOS-CheatDB
