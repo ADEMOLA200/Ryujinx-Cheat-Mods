@@ -233,7 +233,7 @@
 | Darius Burst Another Chronicle EX+ (JP) | [010015800F93C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010015800F93C000) | E6AF25ECBD97A207 | <p align="center"> 1.0.2 </p> |
 | Darius Cozmic Collection Console | [01000330105BE000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01000330105BE000) | ded774f05f23a7e9 | <p align="center"> 1.0.0 </p> |
 | Dariusburst: Another Chronicle EX+ | [010043F013044000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010043F013044000) | FF3B532334E35F08 | <p align="center"> 1.0.2 </p> |
-| DARK SOULS™: REMASTERED | [01004AB00A260000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01004AB00A260000) | df3766a2bb651a3e | <p align="center"> 1.0.3 </p> |
+| DARK SOULS™: REMASTERED | [01004AB00A260000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01004AB00A260000) | df3766a2bb651a3e | <p align="center"> 1.0.3 </p> | <p align="center"> ✅ </p> |
 | Dark Witch Music Episode: Rudymical | [01001FA0034E2000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01001FA0034E2000) | 9f751801449b6d7a | <p align="center"> 1.0.1 </p> |
 | Darksiders II Deathinitive Edition | [010071800BA98000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010071800BA98000) | 173e2edea9e5d940 | <p align="center"> 1.0.0 </p> |
 | Darksiders III | [0100F8F014190000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100F8F014190000) | AF7114F019CE6E1D | <p align="center"> 1.0.1 </p> |  | <p align="center"> ✅ </p> |
