@@ -817,7 +817,7 @@
 | Zoids Wild Blast Unleashed | [010069C0123D8000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010069C0123D8000) | f894caf55083a245 | <p align="center"> 1.0.0 </p> |
 | Zombie Army Trilogy | [0100C7300EEE4000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100C7300EEE4000) | 54211726d36a8d9c | <p align="center"> 1.0.2 </p> | <p align="center"> ✅ </p> |
 
-| Bright Memory: Infinite Gold Edition | [01001A9018560000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01001A9018560000) | 323631B628A32D84 | <p align="center"> 1.0.2 </p> | <p align="center"> ✅ </p> | <p align="center"> ✅ </p> |
+
 
 ## Cheats Sources
 - https://github.com/LordApple/SXOS-CheatDB
