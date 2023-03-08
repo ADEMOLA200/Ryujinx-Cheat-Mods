@@ -2,3 +2,4 @@ Persona® 5 Strikers v1.0.0
 @Patjenova
 @xtatu
 @Jericoss
+@masagrator
