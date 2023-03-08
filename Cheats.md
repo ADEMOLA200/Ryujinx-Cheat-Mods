@@ -778,7 +778,7 @@
 | Vaccine | [01009E2003FE2000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01009E2003FE2000) | 34441E3E5ED09859 | <p align="center"> 1.0.0 </p> |
 | Valfaris | [010089700F30C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010089700F30C000) | C0A75CFE9B9B814A | <p align="center"> 1.0.2 </p> |
 | Valkyria Chronicles™ | [0100CAF00B744000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100CAF00B744000) | fe77ffb8cbfb3a5c | <p align="center"> 1.0.0 </p> | <p align="center"> ✅ </p> |
-| Valkyria Chronicles 4 | [01005C600AC68000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01005C600AC68000) | 3758602aa47add37 | <p align="center"> 1.0.0 </p> |
+| Valkyria Chronicles 4 | [01005C600AC68000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01005C600AC68000) | 3758602aa47add37 | <p align="center"> 1.0.0 </p> | <p align="center"> ✅ </p> |
 | VAMPYR | [01000BD00CE64000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01000BD00CE64000) | E417100FFEEFD1DE | <p align="center"> 0.4.0 </p> | <p align="center"> ✅ </p> | <p align="center"> ✅ </p> |
 | Vaporum | [010030F00CA1E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010030F00CA1E000) | 5C813C18C1D7744A | <p align="center"> 1.0.2 </p> |
 | Vaporum Lockdown | [010088D013CE0000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010088D013CE0000) | 480B952AD15D7B4B | <p align="center"> 1.0.0 </p> |
