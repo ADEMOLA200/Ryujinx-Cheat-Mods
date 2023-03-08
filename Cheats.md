@@ -108,6 +108,7 @@
 | Arcade Archives SENJYO | [0100BF8019FEC000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100BF8019FEC000) | 43BB1DF86BBC9380 | <p align="center"> 1.0.0 </p> |
 | Arcade Archives Solomon's Key | [01008C900982E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01008C900982E000) | 44f1b4597bf9050e | <p align="center"> 1.0.0 </p> |
 | Arcade Archives SUNSETRIDERS | [0100D90011534000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100D90011534000) | 814bb22a30cb2d84 | <p align="center"> 1.0.0 </p> |
+| Arcade Archives TETRIS THE GRAND MASTER | [0100DFD016B7A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100DFD016B7A000) | 872316DADD2D4D9D | <p align="center"> 1.0.2 </p> |
 | Arcade Archives THE ASTYANAX! | [0100A7B01450C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100A7B01450C000) | 51CDBC2DF99AC20E | <p align="center"> 1.0.0 </p> |
 | Arcade Archives THE LEGEND OF KAGE | [0100353009836000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100353009836000) | 2BDB81F455CDD65F | <p align="center"> 1.0.0 </p> |
 | Arcade Archives THE NEWZEALAND STORY | [010045D019FF0000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010045D019FF0000) | 29CE3C79D6826F72 | <p align="center"> 1.0.0 </p> |
@@ -182,7 +183,7 @@
 | BRAVELY DEFAULT™ II | [01006DC010326000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01006DC010326000) | 05DE5A7F20BD1532 | <p align="center"> 1.0.0 </p> |
 | Bridge Strike | [0100A6C011B10000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100A6C011B10000) | 863c6d1966c8217f | <p align="center"> 1.0.0 </p> |
 | BRIGANDINE The Legend of Runersia | [010011000EA7A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010011000EA7A000) | 236C1638CCCF2440  | <p align="center"> 1.1.5 </p> |
-| Bright Memory: Infinite Gold Edition | [01001A9018560000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01001A9018560000) | 949EC7CBEDCF0969 | <p align="center"> 1.0.0 </p> |
+| Bright Memory: Infinite Gold Edition | [01001A9018560000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01001A9018560000) | 323631B628A32D84 | <p align="center"> 1.0.2 </p> | <p align="center"> ✅ </p> | <p align="center"> ✅ </p> |
 | BroForce | [010060A00B53C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010060A00B53C000) | 6AF6A293E37CDD4F | <p align="center"> 1.0.903 |
 | Bubsy: Paws on Fire! | [0100DBE00C554000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100DBE00C554000) | be9b1be2c3eb8846 | <p align="center"> 1.0.0 </p> |
 | Bulletstorm: Duke of Switch Edition | [01003DD00D658000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01003DD00D658000) | 32FC35DF1C50E1F1 | <p align="center"> 1.14.0 </p> |
@@ -816,7 +817,7 @@
 | Zoids Wild Blast Unleashed | [010069C0123D8000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010069C0123D8000) | f894caf55083a245 | <p align="center"> 1.0.0 </p> |
 | Zombie Army Trilogy | [0100C7300EEE4000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100C7300EEE4000) | 54211726d36a8d9c | <p align="center"> 1.0.2 </p> | <p align="center"> ✅ </p> |
 
-| Clive 'N' Wrench | [0100C6C010AE4000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100C6C010AE4000) | 598DB82B41744B4C | <p align="center"> 1.285.397 </p> |
+| Bright Memory: Infinite Gold Edition | [01001A9018560000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01001A9018560000) | 323631B628A32D84 | <p align="center"> 1.0.2 </p> | <p align="center"> ✅ </p> | <p align="center"> ✅ </p> |
 
 ## Cheats Sources
 - https://github.com/LordApple/SXOS-CheatDB
