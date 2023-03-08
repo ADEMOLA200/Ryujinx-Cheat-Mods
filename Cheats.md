@@ -499,7 +499,7 @@
 | NieR:Automata The End of YoRHa Edition | [010056B015FE8000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010056B015FE8000) | E43525F22282A477 | <p align="center"> 1.0.2 </p> | <p align="center"> ✅ </p> |
 | Nights of Azure 2: Bride of the New Moon | [0100628004BCE000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100628004BCE000) | 81DA4F9E1E961CA6 | <p align="center"> 1.0.0 </p> |
 | Nine Parchments | [0100D03003F0E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100D03003F0E000) | f7893e37fc10c803 | <p align="center"> 1.1.1 </p> | <p align="center"> ✅ </p> |
-| Ninja Gaiden 3: Razor's Edge | [01002AF014F4C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01002AF014F4C000) | F20FDC280AF01CBE | <p align="center"> 1.0.1 </p> |
+| Ninja Gaiden 3: Razor's Edge | [01002AF014F4C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01002AF014F4C000) | F20FDC280AF01CBE | <p align="center"> 1.0.1 </p> | <p align="center"> ✅ </p> |
 | Oceanhorn - Monster of Uncharted Seas | [01007D7001D0E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01007D7001D0E000) | 3ad80bd8cfcb3423 | <p align="center"> 1.0.1 </p> |
 | Octogeddon | [0100E6E00AF44000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100E6E00AF44000) | 51ae5df244c2f1ee | <p align="center"> 1.0.0 </p> |
 | Octopath Traveler™ | [010057D006492000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010057D006492000) | B88A8D8E5516DDE9 | <p align="center"> 1.4.0 </p> |
