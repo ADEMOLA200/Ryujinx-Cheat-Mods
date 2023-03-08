@@ -526,8 +526,9 @@
 | Penny-Punching Princes | [0100C510049E0000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100C510049E0000) | 84d19a943300e243 | <p align="center"> 1.0.0 </p> |
 | Persona 3 Portable | [0100DCD01525A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100DCD01525A000) | 663052C2C7E8C357 | <p align="center"> 1.0.0 </p> |
 | Persona 4 Golden | [010062B01525C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010062B01525C000) | C433D980688380A6 | <p align="center"> 1.0.0 </p> |
-| Persona 5 Royal (JP) | [0100B880154FC000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100B880154FC000) | D4B150B29A931CD3 | <p align="center"> 1.0.1 </p> |
-| Persona 5 Royal | [01005CA01580E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01005CA01580E000) | D4B150B29A931CD3 | <p align="center"> 1.0.2 </p> |
+| Persona 5 Royal (Asia) | [01004B10157F2000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01004B10157F2000) | D4B150B29A931CD3 | <p align="center"> 1.0.1 </p> | <p align="center"> ✅ </p> |
+| Persona 5 Royal (JP) | [0100B880154FC000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100B880154FC000) | D4B150B29A931CD3 | <p align="center"> 1.0.1 </p> | <p align="center"> ✅ </p> |
+| Persona 5 Royal | [01005CA01580E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01005CA01580E000) | D4B150B29A931CD3 | <p align="center"> 1.0.2 </p> | <p align="center"> ✅ </p> |
 | Persona® 5 Strikers | [0100801011C3E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100801011C3E000) | c4df04f647bdc727 | <p align="center"> 1.0.0 </p> | <p align="center"> ✅ </p> |
 | Pew Paw | [010045A01221E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010045A01221E000) | 8e52b43604cabae7 | <p align="center"> 1.0.0 </p> |
 | Phoenotopia : Awakening | [01005E100A4F0000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01005E100A4F0000) | 49FD30A3B6B16544 | <p align="center"> 1.3.3 </p> |
