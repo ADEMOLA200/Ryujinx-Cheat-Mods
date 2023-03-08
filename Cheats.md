@@ -349,7 +349,7 @@
 | Ghostbusters: The Video Game Remastered | [0100EAE00D9EC000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100EAE00D9EC000) | 0FE6747D03EBA4E3 | <p align="center"> 1.2.0 </p> |
 | Gigantosaurus The Game | [01002C400E526000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01002C400E526000) | EF7B49570430043E | <p align="center"> 1.0.0 </p> |
 | Goblin Sword | [010067C010f88000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010067C010f88000) | 3EB41EC2FCAD4D68 | <p align="center"> 1.0.3 </p> |
-| GOD EATER 3 | [01001C700873E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01001C700873E000) | C0F144F5139F542E | <p align="center"> 2.5.1 </p> |
+| GOD EATER 3 | [01001C700873E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01001C700873E000) | C0F144F5139F542E | <p align="center"> 2.5.1 </p> | <p align="center"> ✅ </p> |
 | GODS Remastered | [0100BAA00AE16000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100BAA00AE16000) | 8B36F764EB350C41 | <p align="center"> 1.0.6 |
 | Godstrike | [0100FA50138A6000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100FA50138A6000) | 11c2b5b0961cd855 | <p align="center"> 2021.04.08 </p> |
 | Goken | [0100126006EF0000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100126006EF0000) | CF79603EFD9E774D | <p align="center"> 1.0.0 </p> |
