@@ -656,6 +656,7 @@
 | Spyro™ Reignited Trilogy | [010077B00E046000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010077B00E046000) | d2775fafcf4835cb | <p align="center"> 1.0.1 </p> |
 | STAR OCEAN First Departure R | [0100EBF00E702000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100EBF00E702000) | 5EC132F471291B7E | <p align="center"> 1.0.0 </p> |
 | Star Story: The Horizon | [0100D7000AE6A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100D7000AE6A000) | 101279C95BF61B40 | <p align="center"> 1.0.0 </p> |
+| Starlink: Battle for Atlas™ Digital Edition | [01002CC003FE6000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01002CC003FE6000) | 13C816F2A273653C | <p align="center"> 1.0.6 </p> | <p align="center"> ✅ </p> |
 | Stardew Valley | [0100E65002BB8000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100E65002BB8000) | 54d5695b9f5d8248 | <p align="center"> 1.5.4.2 </p> |
 | STAY COOL, KOBAYASHI-SAN!: A RIVER CITY RANSOM STORY | [0100B61009C60000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100B61009C60000) | 9b3795d79e82816f | <p align="center"> 1.0.0 </p> |
 | SteamWorld Quest: Hand of Gilgamech (JP) | [01000AA00E4DC000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01000AA00E4DC000) | D1E6EA9384C3674B | <p align="center"> 4.5.2.1 </p> |
