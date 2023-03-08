@@ -592,6 +592,7 @@
 | Romancing SaGa -Minstrel Song- Remastered | [01004A6017E8A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01004A6017E8A000) | 07A2419DE0A62D94 | <p align="center"> 1.0.1 </p> |
 | Rune Factory 3 Special | [01001EF017BE6000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01001EF017BE6000) | D446B00CFA1EED5B | <p align="center"> 1.0.1 </p> |
 | Rune Factory 4 Special | [010051D00E3A4000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010051D00E3A4000) | c03c9f6a862543f9 | <p align="center"> 1.0.1 </p> |
+| Rune Factory 5 | [01002F7013224000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01002F7013224000) | 54DE72AFB1AFCC43 | <p align="center"> 1.0.2 </p> | <p align="center"> ✅ </p> |
 | Ruvato : Original Complex | [01007690147D8000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01007690147D8000) | B37F668E6958BA44 | <p align="center"> 1.0.0 </p> |
 | Sacred Stones | [01005CE00F970000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01005CE00F970000) | edad5c13e9f926f3 | <p align="center"> 1.0.0 </p> |
 | Samurai Defender: Ninja Warfare | [01002B400873C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01002B400873C000) | e33e4cd60710ac4d | <p align="center"> 1.0.2 </p> |
@@ -820,7 +821,7 @@
 | Zoids Wild Blast Unleashed | [010069C0123D8000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010069C0123D8000) | f894caf55083a245 | <p align="center"> 1.0.0 </p> |
 | Zombie Army Trilogy | [0100C7300EEE4000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100C7300EEE4000) | 54211726d36a8d9c | <p align="center"> 1.0.2 </p> | <p align="center"> ✅ </p> |
 
-
+| Rune Factory 5 | [01002F7013224000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01002F7013224000) | 54DE72AFB1AFCC43 | <p align="center"> 1.0.2 </p> | <p align="center"> ✅ </p> |
 
 ## Cheats Sources
 - https://github.com/LordApple/SXOS-CheatDB
