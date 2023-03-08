@@ -528,7 +528,7 @@
 | Persona 4 Golden | [010062B01525C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010062B01525C000) | C433D980688380A6 | <p align="center"> 1.0.0 </p> |
 | Persona 5 Royal (JP) | [0100B880154FC000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100B880154FC000) | D4B150B29A931CD3 | <p align="center"> 1.0.1 </p> |
 | Persona 5 Royal | [01005CA01580E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01005CA01580E000) | D4B150B29A931CD3 | <p align="center"> 1.0.2 </p> |
-| Persona® 5 Strikers | [0100801011C3E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100801011C3E000) | c4df04f647bdc727 | <p align="center"> 1.0.0 </p> |
+| Persona® 5 Strikers | [0100801011C3E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100801011C3E000) | c4df04f647bdc727 | <p align="center"> 1.0.0 </p> | <p align="center"> ✅ </p> |
 | Pew Paw | [010045A01221E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010045A01221E000) | 8e52b43604cabae7 | <p align="center"> 1.0.0 </p> |
 | Phoenotopia : Awakening | [01005E100A4F0000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01005E100A4F0000) | 49FD30A3B6B16544 | <p align="center"> 1.3.3 </p> |
 | Pikmin™ 3 Deluxe | [0100F4C009322000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100F4C009322000) | D467F5AD367BBEE8 | <p align="center"> 1.1.0 </p> |
