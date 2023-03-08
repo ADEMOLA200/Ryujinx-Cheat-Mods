@@ -576,6 +576,8 @@
 | Rise and Shine | [010065B00B0EC000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010065B00B0EC000) | c212c43cbce55e4d | <p align="center"> 1.0.0 </p> |
 | Risen | [0100B140178B6000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100B140178B6000) | 94EA2A7C7EE32EEF | <p align="center"> 1.0.1 </p> |
 | River City Girls | [01004E700DFE6000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01004E700DFE6000) | 55670FA38F492343 | <p align="center"> 1.2.0 </p> |
+| River City Girls 2 (JP) | [01002E80168F4000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01002E80168F4000) | EBDE14682B70A042 | <p align="center"> 1.0.2 </p> | <p align="center"> ✅ </p> |
+| River City Girls 2 | [0100026016320000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100026016320000) | FB018DD1EE073940 | <p align="center"> 1.0.2 </p> | <p align="center"> ✅ </p> |
 | River City Saga: Three Kingdoms (EU) | [0100D3A0181CA000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100D3A0181CA000) | 48479E5BF445C161 | <p align="center"> 1.0.2 </p> |
 | River City Saga: Three Kingdoms | [01005E101705C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01005E101705C000) | 13fa46e424b80ea3  | <p align="center"> 1.0.2 </p> |
 | Robonauts ロボノーツ (JP) | [010042900A8CC000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010042900A8CC000) | 894d7deb7c212365 | <p align="center"> 1.0.0 </p> |
