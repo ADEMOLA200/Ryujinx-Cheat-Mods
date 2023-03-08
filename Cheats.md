@@ -59,6 +59,7 @@
 | ACA NeoGeo: The Last Blade | [0100A5A004FB2000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100A5A004FB2000) | e8e0e68054bbd6bb  | <p align="center"> 1.0.0 </p> |
 | ACA NeoGeo: The Last Blade 2 | [0100699008792000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100699008792000) | b6560d22aabe3ec4  | <p align="center"> 1.0.0 </p> |
 | ACA NeoGeo: The Super Spy | [0100F7F00AFA2000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100F7F00AFA2000) | F8BA90E5CF567C5B | <p align="center"> 1.0.0 </p> |
+| ACA NeoGeo: Top Hunter Roddy & Cathy | [0100A0D004FB0000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100A0D004FB0000) | 46F7CA498F8E3A92 | <p align="center"> 1.0.0 </p> |
 | ACA NeoGeo: Twinke Star Sprits | [0100B8300AFD8000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100B8300AFD8000) | A6069D8D14422130 | <p align="center"> 1.0.0 </p> |
 | ACA NeoGeo: Waku Waku 7 | [0100CEF001DC0000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100CEF001DC0000) | F15D4F7092756A32 | <p align="center"> 1.0.2 </p> |
 | ACA NeoGeo: World Heroes 2 | [01001BD00915A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01001BD00915A000) | 9a1266ca1bfc5c7b | <p align="center"> 1.0.0 </p> |
@@ -205,6 +206,7 @@
 | Chocobo's Mystery Dungeon: Every Buddy! | [0100BF600BF26000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100BF600BF26000) | C51FC4337E825148 | <p align="center"> 1.0.1 </p> |
 | Chroma Squad | [010012E00EA66000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010012E00EA66000) | 2D502DEF7E95E447 | <p align="center"> 1.0.3 </p> |
 | Cities: Skylines - Nintendo Switch™ Edition | [0100D8800B87C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100D8800B87C000) | 9c010911589c624f | <p align="center"> 1.0.3.37670 |
+| Clive 'N' Wrench | [0100C6C010AE4000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100C6C010AE4000) | 598DB82B41744B4C | <p align="center"> 1.285.397 </p> |
 | Cloudbase Prime | [010023800FE12000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010023800FE12000) | ABA1020691A6D248 | <p align="center"> 1.4.3 </p> |
 | Cobra Kai: The Karate Kid Saga Continues | [01005790110F0000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01005790110F0000) | 97e45918d2113640 | <p align="center"> 1.0.2 </p> |
 | Concept Destruction | [0100971011224000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100971011224000) | 16f03a8a9ff95742  | <p align="center"> 1.0.0 </p> |
@@ -287,6 +289,7 @@
 | DreamWorks Dragons Dawn of New Riders | [0100ED200B6FC000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100ED200B6FC000) | 41e7d227f248534e | <p align="center"> 1.0.1 </p> |
 | Drift Racing Madness | [0100850011FDA000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100850011FDA000) | DA2839FCE6E16A4E | <p align="center"> 1.0.0 </p> |
 | Duke Nukem 3D: 20th Anniversary World Tour | [01007EF00CB88000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01007EF00CB88000) | 68EA5BFA8DAA9371 | <p align="center"> 1.2.0 </p> |
+| Dungeon Core | [0100A3101A4E6000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100A3101A4E6000) | D020A51E502B056F | <p align="center"> 1.0.0 </p> |
 | Dust & Neon | [01007A5018178000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01007A5018178000) | 8072ABFF51FA1156 | <p align="center"> 1.1.0 </p> |
 | Dusty Raging Fist | [010097D00402C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010097D00402C000) | 3663a5c4e19b5840 | <p align="center"> 1.0.0 </p> |
 | DYNASTY WARRIORS 8: Xtreme Legends Definitive Edition | [0100E9A00CB30000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100E9A00CB30000) | 0d63b368b4161cac | <p align="center"> 1.0.0 </p> |
@@ -813,7 +816,7 @@
 | Zoids Wild Blast Unleashed | [010069C0123D8000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010069C0123D8000) | f894caf55083a245 | <p align="center"> 1.0.0 </p> |
 | Zombie Army Trilogy | [0100C7300EEE4000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100C7300EEE4000) | 54211726d36a8d9c | <p align="center"> 1.0.2 </p> | <p align="center"> ✅ </p> |
 
-
+| Clive 'N' Wrench | [0100C6C010AE4000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100C6C010AE4000) | 598DB82B41744B4C | <p align="center"> 1.285.397 </p> |
 
 ## Cheats Sources
 - https://github.com/LordApple/SXOS-CheatDB
