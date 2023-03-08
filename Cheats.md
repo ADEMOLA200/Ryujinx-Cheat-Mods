@@ -443,7 +443,7 @@
 | LOL Surprise! Remix: We Rule The World | [0100F2B0123AE000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100F2B0123AE000) | 821623d5241ab14b | <p align="center"> 1.0.4 </p> |
 | Lone Ruin | [0100B6D016EE6000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100B6D016EE6000) | 5166d09c4fd1825d | <p align="center"> 1.0.0 </p> |
 | Lost Castle | [0100581007068000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100581007068000) | 83f63a18c3490647  | <p align="center"> 1.0.0|
-| Lost in Random™ | [01005FE01291A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01005FE01291A000) | 416914C121775277 | <p align="center"> 1.0.1 </p> |
+| Lost in Random™ | [01005FE01291A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01005FE01291A000) | 416914C121775277 | <p align="center"> 1.0.1 </p> | <p align="center"> ✅ </p> |
 | Lost Sea | [010071B00964A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010071B00964A000) | 53a7c333f5a5164e | <p align="center"> 1.0.0 </p> |
 | LOST SPHEAR | [010077B0038B2000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010077B0038B2000) | 641A9243BA35C638 | <p align="center"> 1.3.1 </p> |
 | Luigi's Mansion™ 3 | [0100DCA0064A6000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100DCA0064A6000) | 486f6a3b2d6bcf5c </br> 79E5950FFA85ACF6 | <p align="center"> 1.0.0 </br> 1.4.0 </p> |
