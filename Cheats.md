@@ -101,6 +101,7 @@
 | Arcade Archives IMAGE FIGHT | [010008300C978000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010008300C978000) | 607440A612128046 | <p align="center"> 1.0.1 </p> |
 | Arcade Archives KOUTETSU YOUSAI STRAHL | [01005370123D0000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01005370123D0000) | 4c32b4f0cdc19592 | <p align="center"> 1.0.0 </p> |
 | Arcade Archives LIFE FORCE | [0100F380105A4000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100F380105A4000) | c1524d35c1d101ee | <p align="center"> 1.0.0 </p> |
+| Arcade Archives Mario Bros | [0100755004608000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100755004608000) | CD197B478B92DAE8 | <p align="center"> 1.0.1 </p> |
 | Arcade Archives MARVEL LAND (JP) | [0100B67018B98000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100B67018B98000) | EDB7D47483CD6F10 | <p align="center"> 1.0.1 </p> |
 | Arcade Archives P-47 | [010067A011FF0000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010067A011FF0000) | 71ff1076b315216c | <p align="center"> 1.0.0 </p> |
 | Arcade Archives P.O.W. -PRISONERS OF WAR- | [0100547010920000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100547010920000) | 4f61b94412a715ba  | <p align="center"> 1.0.0 </p> |
