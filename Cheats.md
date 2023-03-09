@@ -415,7 +415,7 @@
 | Kingdoms of Amalur: Re-Reckoning | [0100EF50132BE000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100EF50132BE000) | 5B3112FD2C83E1AC | <p align="center"> 1.0.4 </p> | <p align="center"> ✅ </p> |
 | Kirby™ and the Forgotten Land | [01004D300C5AE000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01004D300C5AE000) | D9BA7DB72FFAFECD | <p align="center"> 1.0.0 </p> | <p align="center"> ✅ </p> |
 | Kirby Fighters™ 2 | [0100227010460000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100227010460000) | 738ae024b3aecb69 | <p align="center"> 1.0.0 </p> |
-| Kirby™ Star Allies | [01007E3006DDA000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01007E3006DDA000) | d55608916fa56c18 | <p align="center"> 4.0.0 </p> |
+| Kirby™ Star Allies | [01007E3006DDA000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01007E3006DDA000) | D55608916FA56C18 | <p align="center"> 4.0.0 </p> | <p align="center"> ✅ </p> |
 | Kirby’s Return to Dream Land™ Deluxe | [01006B601380E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01006B601380E000) | FA24EA3C3A512C07 | <p align="center"> 1.0.0 </p> |
 | Knight Terrors | [0100D51006AAC000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100D51006AAC000) | 0100D51006AAC000 | <p align="center"> 1.0.0 </p> |
 | KLONOA Phantasy Reverie | [0100BBA015E8E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100BBA015E8E000) | 552FC82B89F7FC98 | <p align="center"> 1.0.0 </p> |
