@@ -1,3 +1,2 @@
 Fire Emblem™ Engage v1.2.0
 @Eiffel2018
-@Gwog (systemdev)
