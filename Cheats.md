@@ -599,7 +599,7 @@
 | Ruvato : Original Complex | [01007690147D8000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01007690147D8000) | B37F668E6958BA44 | <p align="center"> 1.0.0 </p> |
 | Sacred Stones | [01005CE00F970000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01005CE00F970000) | edad5c13e9f926f3 | <p align="center"> 1.0.0 </p> |
 | Samurai Defender: Ninja Warfare | [01002B400873C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01002B400873C000) | e33e4cd60710ac4d | <p align="center"> 1.0.2 </p> |
-| Samurai Jack: Battle Through Time | [01006C600E46E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01006C600E46E000) | 6d5db3434ccf63f2 | <p align="center"> 1.0.3 </p> |
+| Samurai Jack: Battle Through Time | [01006C600E46E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01006C600E46E000) | 6d5db3434ccf63f2 | <p align="center"> 1.0.3 </p> | <p align="center"> ✅ </p> | <p align="center"> ✅ </p> |
 | SAMURAI MAIDEN | [01003CE018AF6000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01003CE018AF6000) | 5658CA0402D38EB7 | <p align="center"> 1.43 </p> |
 | Samurai Warriors 5 | [0100B28014132000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100B28014132000) | 810CBA3D7DB83EC0 | <p align="center"> 1.0.3 </p> |
 | Scarlet Hood and the Wicked Wood | [01009BC016866000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01009BC016866000) | EAF244798CB7A240 | <p align="center"> 1.0.0 </p> |
