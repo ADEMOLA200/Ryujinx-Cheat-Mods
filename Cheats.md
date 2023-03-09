@@ -816,6 +816,7 @@
 | Yooka-Laylee and the Impossible Lair | [010022F00DA66000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010022F00DA66000) | 8432CEC51F882448 | <p align="center"> 1.0.4 </p> |
 | Yoshi’s Crafted World™ | [01006000040C2000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01006000040C2000) | 44ae9fd12897c702 | <p align="center"> 1.0.1 </p> |
 | Ys Origin | [0100F90010882000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100f90010882000) | 11c2b5b0961cd855 | <p align="center"> 1.0.1 </p> |
+| Ys VIII: Lacrimosa of DANA | [01007F200B0C0000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01007F200B0C0000) | F7C4835FD8AE9D10 | <p align="center"> 1.05 </p> | <p align="center"> ✅ </p> |
 | Yu-Gi-Oh! RUSH DUEL: Dawn of the Battle Royale!! | [0100261015BE2000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100261015BE2000) | 196AF69487ACB540 | <p align="center"> 1.0.3 </p> |
 | Yu-Gi-Oh! Legacy of the Duelist : Link Evolution | [010022400BE5A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010022400BE5A000) | cdc49702ee3df923 | <p align="center"> 1.0.1 </p> |
 | Zelda Musou: Hyrule All Stars DX (JP) | [01002AB007FD2000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01002AB007FD2000) | 3F8FFAD9352A760A | <p align="center"> 1.0.1 </p> |
