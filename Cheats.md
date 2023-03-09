@@ -434,7 +434,7 @@
 | LEGO® DC Super-Villains | [010070D009FEC000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010070D009FEC000) | 711c52fc37606d45 | <p align="center"> 1.0.8 |
 | LEGO® Harry Potter™ Collection | [010052A00B5D2000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010052A00B5D2000) | 01c46c3e39c5370f | <p align="center"> 1.0.2 </p> |
 | LEGO® Jurassic World | [01001C100E772000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01001C100E772000) | 1b80403be8882745 | <p align="center"> 1.0.1 </p> | <p align="center"> ✅ </p> |
-| LEGO® Marvel™ Super Heroes | [01006F600FFC8000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01006F600FFC8000) | 5D769ABCAD9F2743 | <p align="center"> 1.0.1 </p> |
+| LEGO® Marvel™ Super Heroes | [01006F600FFC8000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01006F600FFC8000) | 5D769ABCAD9F2743 | <p align="center"> 1.0.1 </p> | <p align="center"> ✅ </p> |
 | LEGO® The Incredibles | [0100A01006E00000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100A01006E00000) | 2103782a9ae5384e | <p align="center"> 1.0.2 </p> |
 | Life is Strange 2 | [0100FD101186C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100FD101186C000) | BF0088C59D7E97C0 | <p align="center"> 1.1.0 </p> |
 | Light Fairytale Episode 1 | [0100558017FD8000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100558017FD8000) | fbd60e9240c3f26d | <p align="center"> 1.0.0 </p> |
