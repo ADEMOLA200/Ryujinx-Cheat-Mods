@@ -521,7 +521,7 @@
 | Ori and the Will of the Wisps | [01008DD013200000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01008DD013200000) | 11C33C7C2DBD3C54 | <p align="center"> 1.2.0 </p> |
 | Orn: The Tiny Forest Sprite | [01006C70102EA000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01006C70102EA000) | 5540db46dbe1c7a6 | <p align="center"> 1.0.0 </p> |
 | Outbreak: Epidemic | [0100C850130FE000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100C850130FE000) | 15639f4bc0eb994e | <p align="center"> 1.0.2 </p> |
-| Outlast: Bundle of Terror | [01008D4007A1E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01008D4007A1E000) | c3d46bb3c7059db1 | <p align="center"> 1.0.1 </p> |
+| Outlast: Bundle of Terror | [01008D4007A1E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01008D4007A1E000) | c3d46bb3c7059db1 | <p align="center"> 1.0.1 </p> | <p align="center"> ✅ </p> |
 | Overcooked! 2 | [01006FD0080B2000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01006FD0080B2000) | 150F46F0966D1544 | <p align="center"> 1.0.15 |
 | Paint the Town Red | [010026E013EFC000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010026E013EFC000) | A9AF6300AADEF1D1 | <p align="center"> 1.0.2 </p> |
 | Paper Mario: The Origami King | [0100A3900C3E2000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100A3900C3E2000) | e74395f066fd8ccb | <p align="center"> 1.0.1 </p> |
