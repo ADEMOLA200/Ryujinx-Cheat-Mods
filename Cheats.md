@@ -294,6 +294,7 @@
 | Dungeon Core | [0100A3101A4E6000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100A3101A4E6000) | D020A51E502B056F | <p align="center"> 1.0.0 </p> |
 | Dust & Neon | [01007A5018178000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01007A5018178000) | 8072ABFF51FA1156 | <p align="center"> 1.1.0 </p> |
 | Dusty Raging Fist | [010097D00402C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010097D00402C000) | 3663a5c4e19b5840 | <p align="center"> 1.0.0 </p> |
+| Dying Light: Platinum Edition | [01008C8012920000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01008C8012920000) | 8C93B930348C9787 | <p align="center"> 1.0.5 </p> | <p align="center"> ✅ </p> | <p align="center"> ✅ </p> |
 | DYNASTY WARRIORS 8: Xtreme Legends Definitive Edition | [0100E9A00CB30000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100E9A00CB30000) | 0d63b368b4161cac | <p align="center"> 1.0.0 </p> |
 | Earth Defense Force 4.1: The Shadow of New Despair (JP) | [0100C7B013D18000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100C7B013D18000) | 558DE7475453A1C9 | <p align="center"> 1.0.0 </p> |
 | Earthlock | [01006E50042EA000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01006E50042EA000) | d75dbe0c21357141 | <p align="center"> 1.0.3 </p> |
