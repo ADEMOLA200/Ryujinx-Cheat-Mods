@@ -751,7 +751,7 @@
 | The Swords of Ditto: Mormo's Curse | [010037D00D568000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010037D00D568000) | fcb264311604ca8b | <p align="center"> 1.18.00 </p> |
 | The Witcher 3: Wild Hunt — Complete Edition (EU) | [01003D100E9C6000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01003D100E9C6000) | 4ffb62f1cd9e17f8 | <p align="center"> 3.8.0 </p> |
 | The World Ends with You®: Final Remix | [0100C1500B82E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100C1500B82E000) | 2A5408063198B646 | <p align="center"> 1.0.0 </p> |
-| THEATRHYTHM FINAL BAR LINE (Asia) | [010024201834A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010024201834A000) | DB05AF6E93537CD6 | <p align="center"> 1.0.0 </p> |
+| THEATRHYTHM FINAL BAR LINE (Asia) | [010024201834A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010024201834A000) | E3B88C69D2619B65 | <p align="center"> 1.0.1 </p> |
 | THEATRHYTHM FINAL BAR LINE | [010081B01777C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010081B01777C000) | 176AE01C602163F5 | <p align="center"> 1.0.2 </p> |
 | This Strange Realm of Mine | [0100C7C00F77C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100C7C00F77C000) | 89DDB76DC0CCA744 | <p align="center"> 1.0.0 </p> |
 | Thunder Paw | [01009AF0110E4000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01009AF0110E4000) | D724828447669524 | <p align="center"> 1.0.0 </p> |
