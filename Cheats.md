@@ -513,6 +513,7 @@
 | OMG Zombies! | [01006DB00D970000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01006DB00D970000) | 4291f2ae3b78c2de | <p align="center"> 1.0.0 </p> |
 | One Dog Story | [01009C301061A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01009C301061A000) | 17d0ca29336dd042 | <p align="center"> 1.0.0 </p> |
 | One Girl Army | [0100D7C01115E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100D7C01115E000) | 5a95eb5631c22043 | <p align="center"> 1.0.0 </p> |
+| ONE PIECE: PIRATE WARRIORS 4 | [01008FE00E2F6000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01008FE00E2F6000) | 740FA17EEEB5D6CC | <p align="center"> 1.4.0 </p> |
 | ONE PIECE: Unlimited World Red Deluxe Edition | [0100574002AF4000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100574002AF4000) | F1546B842FCF9D6C | <p align="center"> 1.0.0 </p> |
 | Onimusha Warlords | [0100416008A12000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100416008A12000) | bdb65bae30a95abe | <p align="center"> 1.0.0 </p> |
 | ONINAKI | [01001AF00CE54000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01001AF00CE54000) | C949E2576F532C43 | <p align="center"> 1.0.2 </p> |
@@ -828,7 +829,7 @@
 | Zoids Wild Blast Unleashed | [010069C0123D8000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010069C0123D8000) | f894caf55083a245 | <p align="center"> 1.0.0 </p> |
 | Zombie Army Trilogy | [0100C7300EEE4000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100C7300EEE4000) | 54211726d36a8d9c | <p align="center"> 1.0.2 </p> | <p align="center"> ✅ </p> |
 
-
+| ONE PIECE: PIRATE WARRIORS 4 | [01008FE00E2F6000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01008FE00E2F6000) | 740FA17EEEB5D6CC | <p align="center"> 1.4.0 </p> |
 
 ## Cheats Sources
 - https://github.com/LordApple/SXOS-CheatDB
