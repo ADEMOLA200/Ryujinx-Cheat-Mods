@@ -139,6 +139,7 @@
 | Atelier Shallie: Alchemists of the Dusk Sea DX | [010005C00EE90000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010005C00EE90000) | aab0450a965202ec | <p align="center"> 1.0.0 </p> |
 | Atelier Rorona: The Alchemist of Arland DX | [010088600C66E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010088600C66E000) | 967d32be4b10b67e | <p align="center"> 1.0.1 </p> |
 | Atelier Ryza: Ever Darkness & the Secret Hideout | [0100D1900EC80000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100D1900EC80000) | 6BAE122EA063FFEB | <p align="center"> 1.0.8 </p> | <p align="center"> ✅ </p> |
+| Atelier Ryza 2: Lost Legends & the Secret Fairy | [01009A9012022000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01009A9012022000) | C2979457A5785216 | <p align="center"> 1.0.7 </p> | <p align="center"> ✅ </p> |
 | Atelier Sophie: The Alchemist of the Mysterious Book DX | [0100D8701421C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100D8701421C000) | 9C95108FD8F7464A | <p align="center"> 1.0.3 </p> | <p align="center"> ✅ </p> |
 | Atelier Totori: The Adventurer of Arland DX | [01009BC00C6F6000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01009BC00C6F6000) | 4fd4bfe66c5353d4 | <p align="center"> 1.0.1 </p> |
 | Attack on Titan 2 | [010034500641A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010034500641A000) | 586ea519c1cdfae7 | <p align="center"> 1.0.14 |
@@ -829,7 +830,7 @@
 | Zoids Wild Blast Unleashed | [010069C0123D8000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010069C0123D8000) | f894caf55083a245 | <p align="center"> 1.0.0 </p> |
 | Zombie Army Trilogy | [0100C7300EEE4000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100C7300EEE4000) | 54211726d36a8d9c | <p align="center"> 1.0.2 </p> | <p align="center"> ✅ </p> |
 
-| ONE PIECE: PIRATE WARRIORS 4 | [01008FE00E2F6000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01008FE00E2F6000) | 740FA17EEEB5D6CC | <p align="center"> 1.4.0 </p> |
+| Atelier Ryza 2: Lost Legends & the Secret Fairy | [01009A9012022000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01009A9012022000) | C2979457A5785216 | <p align="center"> 1.0.7 </p> |
 
 ## Cheats Sources
 - https://github.com/LordApple/SXOS-CheatDB
