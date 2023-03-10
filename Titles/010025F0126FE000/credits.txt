@@ -1,5 +1,3 @@
 Potion Permit v1.0.7
-@letmeknow
-@GBAtemp
-@Edizon
+@Crazy_P
 @sds
