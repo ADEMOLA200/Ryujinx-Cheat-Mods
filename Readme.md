@@ -11,7 +11,7 @@ Work in Progress for Ryujinx Team
 - Will update once a week if new cheats release (sometimes on the day cheats are updated on certain scrapes).
 </br>
 
-[Mods Index](Mods.md)
+## [Mods Index](Mods.md)
 ### WIP
 - All mods will will be gone through to make sure they are up to date.
 - All mods will have Horizon OS game version numbers.
@@ -20,6 +20,6 @@ Work in Progress for Ryujinx Team
 - Will update once a week if new mods release when finished.
 </br>
 
-[Saves Index](Saves.md)
+## [Saves Index](Saves.md)
 ### WIP
 - Still brainstorming how to do saves.
