@@ -288,7 +288,7 @@
 | DRAGON QUEST TREASURES | [010049B017774000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010049B017774000) | 2F81A2EC9B298B37 | <p align="center"> 1.0.1 </p> |
 | Dragon Star Varnir (EU) | [0100A8B014930000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100A8B014930000) | E26A54F785A76EE7 | <p align="center"> 1.0.1 </p> |
 | Dragon Star Varnir | [01001C60148CC000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01001C60148CC000) | 5FE3DA408D621385 | <p align="center"> 1.0.1 </p> |
-| Dragon's Dogma: Dark Arisen | [010032C00AC58000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010032C00AC58000) | 2CDB9B9D70010E88 | <p align="center"> 1.0.1 </p> |
+| Dragon's Dogma: Dark Arisen | [010032C00AC58000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010032C00AC58000) | 2CDB9B9D70010E88 | <p align="center"> 1.0.1 </p> | <p align="center"> ✅ </p> |
 | DRAINUS | [01004F701966E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01004F701966E000) | D0E15EC304C98B76 | <p align="center"> 1.1.4 </p> |
 | Dreaming Sarah | [010048F012C24000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010048F012C24000) | FDAA28BE827D1B9C | <p align="center"> 1.0.0 </p> |
 | DreamWorks Dragons Dawn of New Riders | [0100ED200B6FC000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100ED200B6FC000) | 41e7d227f248534e | <p align="center"> 1.0.1 </p> |
