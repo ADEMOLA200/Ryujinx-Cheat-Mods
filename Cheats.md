@@ -599,7 +599,7 @@
 | Romancing SaGa 2 (JP) | [01002A1004B34000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01002A1004B34000) | 16d2c9fdc70e9d41 | <p align="center"> 1.0.0 </p> |
 | Romancing SaGa 2 | [01001F600829A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01001F600829A000) | BA25511843AC1948 | <p align="center"> 1.0.0 </p> |
 | Romancing SaGa -Minstrel Song- Remastered | [01004A6017E8A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01004A6017E8A000) | 07A2419DE0A62D94 | <p align="center"> 1.0.1 </p> |
-| Rune Factory 3 Special | [01001EF017BE6000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01001EF017BE6000) | D446B00CFA1EED5B | <p align="center"> 1.0.1 </p> |
+| Rune Factory 3 Special (JP) | [01001EF017BE6000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01001EF017BE6000) | D446B00CFA1EED5B | <p align="center"> 1.0.1 </p> |
 | Rune Factory 4 Special | [010051D00E3A4000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010051D00E3A4000) | c03c9f6a862543f9 | <p align="center"> 1.0.1 </p> |
 | Rune Factory 5 | [01002F7013224000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01002F7013224000) | 54DE72AFB1AFCC43 | <p align="center"> 1.0.2 </p> | <p align="center"> ✅ </p> |
 | Ruvato : Original Complex | [01007690147D8000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01007690147D8000) | B37F668E6958BA44 | <p align="center"> 1.0.0 </p> |
