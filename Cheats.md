@@ -270,9 +270,9 @@
 | Down to Hell | [0100B6600FE06000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100B6600FE06000) | 62C8976E3DEE9740 | <p align="center"> 1.0.0 </p> |
 | Drag Sim 2020 | [0100B59011A1C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100B59011A1C000) | fe87beb149f96c45 | <p align="center"> 1.0.0 </p> |
 | DragoDino | [0100566009238000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100566009238000) | 114f5a2d5fe04446  | <p align="center"> 1.1.0|
-| DRAGON BALL Z: KAKAROT + A NEW POWER AWAKENS SET (Asia) | [0100FD70134FA000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100FD70134FA000) | DB59B74AC209C828 | <p align="center"> 1.31 |
-| DRAGON BALL Z: KAKAROT + A NEW POWER AWAKENS SET (JP) | [0100EF00134F4000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100EF00134F4000) | 8A1783176C1AE9C0 | <p align="center"> 1.31 |
-| DRAGON BALL Z: KAKAROT + A NEW POWER AWAKENS SET | [010051C0134F8000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010051C0134F8000) | B0573198CC775B93 | <p align="center"> 1.31 |
+| DRAGON BALL Z: KAKAROT + A NEW POWER AWAKENS SET (Asia) | [0100FD70134FA000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100FD70134FA000) | DB59B74AC209C828 | <p align="center"> 1.31 | <p align="center"> ✅ </p> | <p align="center"> ✅ </p> |
+| DRAGON BALL Z: KAKAROT + A NEW POWER AWAKENS SET (JP) | [0100EF00134F4000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100EF00134F4000) | 8A1783176C1AE9C0 | <p align="center"> 1.31 | <p align="center"> ✅ </p> | <p align="center"> ✅ </p> |
+| DRAGON BALL Z: KAKAROT + A NEW POWER AWAKENS SET | [010051C0134F8000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010051C0134F8000) | B0573198CC775B93 | <p align="center"> 1.31 | <p align="center"> ✅ </p> | <p align="center"> ✅ </p> |
 | Dragon Quest (JP) | [0100A5500E488000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100a5500e488000) | f3845d78427cb893 | <p align="center"> 1.0.0 </p> |
 | Dragon Quest | [0100EFC00EFB2000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100EFC00EFB2000) | 4c1e8f555e6b88da | <p align="center"> 1.0.0 </p> |
 | Dragon Quest II: Gods of the Evil Spirits (JP) | [0100B1900E48E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100b1900e48e000) | d84098833bf007c6 | <p align="center"> 1.0.0 </p> |
