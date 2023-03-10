@@ -743,7 +743,7 @@
 | The Pinball Arcade | [0100CD300880E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100CD300880E000) | fadc5bb443b6d715 | <p align="center"> 1.0.3 </p> |
 | The Princess Guide | [0100E6A00B960000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100E6A00B960000) | 1d20c4a989b37608 | <p align="center"> 1.0.0 </p> |
 | The Rumble Fish 2 | [0100EB6018686000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100EB6018686000) | 6DB781A57AB0DCF6 | <p align="center"> 1.0.2 </p> |
-| The Sinking City | [010028D00BA1A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010028D00BA1A000) | 85e49c169a8b988a | <p align="center"> 1.2.0 </p> |
+| The Sinking City | [010028D00BA1A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010028D00BA1A000) | 85e49c169a8b988a | <p align="center"> 1.2.0 </p> | <p align="center"> ✅ </p> | <p align="center"> ✅ </p> |
 | The Story Goes On | [01007FA00DA22000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01007FA00DA22000) | 829f522f9904634e | <p align="center"> 1.0.0 </p> |
 | The Swords of Ditto: Mormo's Curse | [010037D00D568000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010037D00D568000) | fcb264311604ca8b | <p align="center"> 1.18.00 </p> |
 | The Witcher 3: Wild Hunt — Complete Edition (EU) | [01003D100E9C6000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01003D100E9C6000) | 4ffb62f1cd9e17f8 | <p align="center"> 3.8.0 </p> |
