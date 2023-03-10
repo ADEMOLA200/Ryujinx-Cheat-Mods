@@ -112,6 +112,3 @@
 
 [Max Money after Purchase]
 040C0000 01986BEC 14492698
-
-[Credits: crazy_p]
-00000000 00000000 00000000
