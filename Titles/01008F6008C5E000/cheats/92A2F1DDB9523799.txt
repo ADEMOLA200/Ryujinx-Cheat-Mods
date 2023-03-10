@@ -1,5 +1,4 @@
 [--SectionStart:Battle Codes--]
-[--SectionStart:Battle Codes--]
 
 [Disable Exp Share v1.2.0]
 04090000 0107D378 D503201F
