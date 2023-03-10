@@ -23,5 +23,3 @@
 
 [№ 7. AutoPlay (not suggest)]
 040E0000 03DD35E4 52800037
-
-
