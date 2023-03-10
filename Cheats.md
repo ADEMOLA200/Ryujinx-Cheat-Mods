@@ -669,7 +669,7 @@
 | Sphinx and the Cursed Mummy | [0100BD500BA94000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100BD500BA94000) | B73BF75FEB33ABC5 | <p align="center"> 1.1.0 </p> |
 | SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated | [010062800D39C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010062800D39C000) | 28240EE1884416AE | <p align="center"> 1.0.5 </p> |
 | SpongeBob SquarePants: The Cosmic Shake | [01009FB0172F4000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01009FB0172F4000) | F61911B562195493 | <p align="center"> 1.0.3 </p> | <p align="center"> ✅ </p> | <p align="center"> ✅ </p> |
-| Spyro™ Reignited Trilogy | [010077B00E046000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010077B00E046000) | d2775fafcf4835cb | <p align="center"> 1.0.1 </p> |
+| Spyro™ Reignited Trilogy | [010077B00E046000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010077B00E046000) | d2775fafcf4835cb | <p align="center"> 1.0.1 </p> | <p align="center"> ✅ </p> | <p align="center"> ✅ </p> |
 | STAR OCEAN First Departure R | [0100EBF00E702000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100EBF00E702000) | 5EC132F471291B7E | <p align="center"> 1.0.0 </p> |
 | Star Story: The Horizon | [0100D7000AE6A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100D7000AE6A000) | 101279C95BF61B40 | <p align="center"> 1.0.0 </p> |
 | Starlink: Battle for Atlas™ Digital Edition | [01002CC003FE6000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01002CC003FE6000) | 13C816F2A273653C | <p align="center"> 1.0.6 </p> | <p align="center"> ✅ </p> |
