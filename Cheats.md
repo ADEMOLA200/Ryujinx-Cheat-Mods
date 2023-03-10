@@ -508,7 +508,7 @@
 | Ninja Gaiden 3: Razor's Edge | [01002AF014F4C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01002AF014F4C000) | F20FDC280AF01CBE | <p align="center"> 1.0.1 </p> | <p align="center"> ✅ </p> |
 | Oceanhorn - Monster of Uncharted Seas | [01007D7001D0E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01007D7001D0E000) | 3ad80bd8cfcb3423 | <p align="center"> 1.0.1 </p> |
 | Octogeddon | [0100E6E00AF44000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100E6E00AF44000) | 51ae5df244c2f1ee | <p align="center"> 1.0.0 </p> |
-| Octopath Traveler™ | [010057D006492000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010057D006492000) | B88A8D8E5516DDE9 | <p align="center"> 1.4.0 </p> |
+| Octopath Traveler™ | [010057D006492000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010057D006492000) | B88A8D8E5516DDE9 | <p align="center"> 1.4.0 </p> | <p align="center"> ✅ </p> | <p align="center"> ✅ </p> |
 | OCTOPATH TRAVELER II | [0100A3501946E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100A3501946E000) | BB891294DA55675E | <p align="center"> 1.0.2 </p> | <p align="center"> ✅ </p> | <p align="center"> ✅ </p> |
 | Oddworld: Stranger's Wrath | [01002EA00ABBA000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01002EA00ABBA000) | 542b1d1d14978b82 | <p align="center"> 1.0.3 </p> |
 | Omega Labyrinth Life | [010079200E85C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010079200E85C000) | e50048278d47174f | <p align="center"> 1.0.4 </p> |
