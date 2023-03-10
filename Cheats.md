@@ -313,6 +313,7 @@
 | F.I.S.T.: Forged In Shadow Torch (JP) | [01008EB017F3E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01008EB017F3E000) | 599334AD9E47C19D | <p align="center"> 1.0.1 </p> |
 | F.I.S.T.: Forged In Shadow Torch| [01009F8017F48000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01009F8017F48000) | 69EE5F71F187EAA9  | <p align="center"> 1.0.4 </p> | <p align="center"> ✅ </p> | <p align="center"> ✅ </p> |
 | Fairune Collection | [01008A6009758000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01008A6009758000) | ea5c70af7f4d8a4f | <p align="center"> 1.0.2 </p> |
+| Fate/EXTELLA: The Umbral Star | [010053E002EA2000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010053E002EA2000) | 76EC789B99A25BA5 | <p align="center"> 1.0.0 </p> | <p align="center"> ✅ </p> |
 | Fear Effect Sedna | [01005AC0068F6000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01005AC0068F6000) | 89647E6361E7CD48 | <p align="center"> 1.1.1 </p> |
 | Feral Fury | [010097E00ADC2000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010097E00ADC2000) | E3D0BA009ED53707 | <p align="center"> 1.0.1 </p> |
 | Fight | [0100995013404000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100995013404000) | 4fcdb74dfd8ba740  | <p align="center"> 1.0.0 </p> |
@@ -650,6 +651,7 @@
 | Snack World: The Dungeon Crawl – Gold (EU) | [0100F2800D46E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100F2800D46E000) | 929C0BEA2BF097F7 | <p align="center"> 1.0.0 </p> |
 | SNACK WORLD: THE DUNGEON CRAWL — GOLD | [010010400D46A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010010400D46A000) | d3fa3aa21a0eb48c | <p align="center"> 1.0.0 </p> |
 | Snack World Treasurers Gold (JP) | [010072B007418000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010072B007418000) | 26d8482bad9998b2 | <p align="center"> 1.6.0 </p> |
+| Sniper Elite 3 Ultimate Edition | [010075A00BA14000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010075A00BA14000) | 6888027D61CF603D | <p align="center"> 1.0.1 </p> | <p align="center"> ✅ </p> |
 | Sniper Elite 4 | [010007B010FCC000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010007B010FCC000) | 4EEA2970DF38ECE1 | <p align="center"> 1.0.3 </p> | <p align="center"> ✅ </p> |
 | Sniper Elite V2 Remastered | [0100BB000A3AA000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100BB000A3AA000) | b61f280560a937d2 | <p align="center"> 1.0.5 </p> | <p align="center"> ✅ </p> |
 | SNK HEROINES Tag Team Frenzy (EU) | [010007C00B508000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010007C00B508000) | 27EEB113FD1FC102 | <p align="center"> 1.4.1 </p> |
@@ -679,6 +681,7 @@
 | Steel Assault | [01001C6014772000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01001C6014772000) | 077E6C9060518627 | <p align="center"> 1.0.2 </p> |
 | Stela | [01002DE01043E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01002DE01043E000) | 7aca9116672a7795 | <p align="center"> 1.0.0 </p> |
 | Stitchy in Tooki Trouble | [010077B014518000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010077B014518000) | 511C939D3EA8A74A | <p align="center"> 1.0.0 </p> |
+| STORY OF SEASONS: Pioneers Of Olive Town | [010082E012A84000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010082E012A84000) | BEBC5ACDDB4E124F | <p align="center"> 1.1.0 </p> |
 | Straimium Immortaly | [0100DA000D71A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100DA000D71A000) | 1cc83aea9778d972 | <p align="center"> 1.0.0 </p> |
 | Strange Monster World: The Mystery of the Black Cloak (JP) | [01004A40167C2000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01004A40167C2000) | 9BED1358D3166D88 | <p align="center"> 1.0.1 </p> |
 | Street Racing: Tokyo Rush | [01001E901482A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01001E901482A000) | AD575E1C5D3E414B | <p align="center"> 1.0.0 </p> |
