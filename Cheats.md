@@ -554,7 +554,7 @@
 | Pokémon™ Violet | [01008F6008C5E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01008F6008C5E000) | 92A2F1DDB9523799 | <p align="center"> 1.2.0 </p> | <p align="center"> ✅ </p> | <p align="center"> ✅ </p> |
 | Pokkén Tournament™ DX | [0100B3F000BE2000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100b3f000be2000) | 49690ba2efdcd7a7 | <p align="center"> 1.3.3 </p> |
 | Portal Knights| [0100437004170000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100437004170000) | d59d81c06f923846  | <p align="center"> 1.7.2 </p> |
-| Potion Permit | [010025F0126FE000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010025F0126FE000) | D0D456EE7DCF0FEE | <p align="center"> 1.0.7 |
+| Potion Permit | [010025F0126FE000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010025F0126FE000) | D0D456EE7DCF0FEE | <p align="center"> 1.0.7 | <p align="center"> ✅ </p> |
 | Prehistoric Dude | [010054F01266C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010054F01266C000) | afeea14ff3229a77 | <p align="center"> 1.0.0 </p> |
 | Project Warlock | [0100BDB01150E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100BDB01150E000) | D597DE8544D8ED4F | <p align="center"> 1.0.3 </p> | <p align="center"> ✅ </p> |
 | Pumpkin Jack | [01006C10131F6000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01006C10131F6000) | 0f73f1d52820f90b | <p align="center"> 1.4.4 </p> |
