@@ -790,7 +790,7 @@
 | War Of Stealth - assassin | [01004FA01391A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01004FA01391A000) | 4C328C448D094A41 | <p align="center"> 1.1.1 </p> |
 | Warp Drive | [0100EED010722000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100EED010722000) | 613A885E8F37A1C7 | <p align="center"> 2.3.0 </p> |
 | WarriOrb | [010032700EAC4000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010032700EAC4000) | e8e018bf25229ee3 | <p align="center"> 1.0.0 </p> |
-| WARRIORS OROCHI 4 | [010016A00AEC0000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010016A00AEC0000) | 5c9ccd358be85fc9 | <p align="center"> 1.0.13 |
+| WARRIORS OROCHI 4 | [010016A00AEC0000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010016A00AEC0000) | 5c9ccd358be85fc9 | <p align="center"> 1.0.13 | <p align="center"> ✅ </p> |
 | Wavetale | [01001FB017B36000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01001FB017B36000) | B2AA768E3A7B894D | <p align="center"> 1.0.2.0 </p> |
 | WeakWood Throne | [0100011012A70000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100011012A70000) | ce353ad90855ec51 | <p align="center"> 1.0.0 </p> |
 | Whipseey and the Lost Atlas | [010017500E7E0000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010017500E7E0000) | 25CE48F161DDF0CB | <p align="center"> 1.3.0.0 </p> |
