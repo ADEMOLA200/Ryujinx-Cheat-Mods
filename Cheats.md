@@ -249,6 +249,7 @@
 | Death's Gambit: Afterlife | [01006A0015812000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01006A0015812000) | 82BF132698A09A49 | <p align="center"> 1.0.6 |
 | DEATHRUN TV | [010025B01585A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010025B01585A000) | B7115DE9A751F050 | <p align="center"> 1.2.1 </p> |
 | Demon Crystal 4 (JP) | [01002130150A2000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01002130150A2000) | 27efbb8fa331c148 | <p align="center"> 1.0.0 </p> |
+| Destroy All Humans! | [01009E701356A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01009E701356A000) | 72E8F20EBBDBA296 | <p align="center"> 1.0.1 </p> | <p align="center"> ✅ </p> | <p align="center"> ✅ </p> |
 | Devil Engine | [010031B00CF66000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010031B00CF66000) | BB1817C904CD13FE | <p align="center"> 1.0.2C |
 | Devil May Cry 2 | [01007CF00D5BA000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01007CF00D5BA000) | f8c066a1e59d8cce | <p align="center"> 1.0.0 </p> |
 | Devil May Cry 3 Special Edition | [01007B600D5BC000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01007B600D5BC000) | 258d8ba560cfa34c | <p align="center"> 1.0.1 </p> |
@@ -562,6 +563,7 @@
 | Rad Rodgers Radical Edition | [010000600CD54000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010000600CD54000) | 78885a1ca987c04c | <p align="center"> 1.2.0 </p> |
 | Radiation City | [0100DA400E07E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100DA400E07E000) | 8ac5ab12589a13be | <p align="center"> 1.0.1 </p> |
 | Raiden V: Director's Cut | [01002B000D97E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01002B000D97E000) | 941057a850e286df | <p align="center"> 1.0.0 </p> |
+| Raji: An Ancient Epic | [010010B00DDA2000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010010B00DDA2000) | 8A39E660F956BB00 | <p align="center"> 1.0.3 </p> | <p align="center"> ✅ </p> | <p align="center"> ✅ </p> |
 | Rayman® Legends Definitive Edition | [01005FF002E2A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01005FF002E2A000) | F466DA1D713533C2 | <p align="center"> 1.0.2 </p> |
 | Record of Lodoss War -Deedlit in Wonder Labyrinth- | [0100EF0015A9A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100EF0015A9A000) | 667484A8F759B6FD | <p align="center"> 1.0.2 </p> |
 | Redeemer Enhanced Edition | [01000D100DCF8000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01000D100DCF8000) | 86AA48E1585F2EE7 | <p align="center"> 1.2.0 </p> |
@@ -646,6 +648,7 @@
 | Snack World: The Dungeon Crawl – Gold (EU) | [0100F2800D46E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100F2800D46E000) | 929C0BEA2BF097F7 | <p align="center"> 1.0.0 </p> |
 | SNACK WORLD: THE DUNGEON CRAWL — GOLD | [010010400D46A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010010400D46A000) | d3fa3aa21a0eb48c | <p align="center"> 1.0.0 </p> |
 | Snack World Treasurers Gold (JP) | [010072B007418000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010072B007418000) | 26d8482bad9998b2 | <p align="center"> 1.6.0 </p> |
+| Sniper Elite 4 | [010007B010FCC000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010007B010FCC000) | 4EEA2970DF38ECE1 | <p align="center"> 1.0.3 </p> | <p align="center"> ✅ </p> |
 | Sniper Elite V2 Remastered | [0100BB000A3AA000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100BB000A3AA000) | b61f280560a937d2 | <p align="center"> 1.0.5 </p> | <p align="center"> ✅ </p> |
 | SNK HEROINES Tag Team Frenzy (EU) | [010007C00B508000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010007C00B508000) | 27EEB113FD1FC102 | <p align="center"> 1.4.1 </p> |
 | Snow Battle Princess Sayuki | [0100ADF00CB64000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100ADF00CB64000) | 24620f1b3f64d649 | <p align="center"> 1.0.0 </p> |
@@ -830,7 +833,7 @@
 | Zoids Wild Blast Unleashed | [010069C0123D8000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010069C0123D8000) | f894caf55083a245 | <p align="center"> 1.0.0 </p> |
 | Zombie Army Trilogy | [0100C7300EEE4000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100C7300EEE4000) | 54211726d36a8d9c | <p align="center"> 1.0.2 </p> | <p align="center"> ✅ </p> |
 
-| Atelier Ryza 2: Lost Legends & the Secret Fairy | [01009A9012022000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01009A9012022000) | C2979457A5785216 | <p align="center"> 1.0.7 </p> |
+| Raji: An Ancient Epic | [010010B00DDA2000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010010B00DDA2000) | 8A39E660F956BB00 | <p align="center"> 1.0.3 </p> | <p align="center"> ✅ </p> |
 
 ## Cheats Sources
 - https://github.com/LordApple/SXOS-CheatDB
