@@ -548,6 +548,7 @@
 | Pokémon Mystery Dungeon™: Rescue Team DX | [01003D200BAA2000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01003D200BAA2000) | 3AB632DEE82D5944 | <p align="center"> 1.0.2 </p> |
 | Pokémon™ Scarlet | [0100A3D008C5C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100A3D008C5C000) | 8382EAA890A804FD | <p align="center"> 1.2.0 </p> | <p align="center"> ✅ </p> | <p align="center"> ✅ </p> |
 | Pokémon™ Shield | [01008DB008C2C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01008DB008C2C000) | A16802625E7826BF | <p align="center"> 1.3.2 </p> |
+| Pokémon™ Shining Pearl | [0100000011D90000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100000011D90000) | 94CEAE325C205C4B | <p align="center"> 1.3.0 </p> |
 | Pokémon™ Sword | [0100ABF008968000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100ABF008968000) | A3B75BCD3311385A | <p align="center"> 1.3.2 </p> |
 | Pokémon™ Violet | [01008F6008C5E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01008F6008C5E000) | 92A2F1DDB9523799 | <p align="center"> 1.2.0 </p> | <p align="center"> ✅ </p> | <p align="center"> ✅ </p> |
 | Pokkén Tournament™ DX | [0100B3F000BE2000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100b3f000be2000) | 49690ba2efdcd7a7 | <p align="center"> 1.3.3 </p> |
@@ -833,7 +834,7 @@
 | Zoids Wild Blast Unleashed | [010069C0123D8000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010069C0123D8000) | f894caf55083a245 | <p align="center"> 1.0.0 </p> |
 | Zombie Army Trilogy | [0100C7300EEE4000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100C7300EEE4000) | 54211726d36a8d9c | <p align="center"> 1.0.2 </p> | <p align="center"> ✅ </p> |
 
-| Raji: An Ancient Epic | [010010B00DDA2000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010010B00DDA2000) | 8A39E660F956BB00 | <p align="center"> 1.0.3 </p> | <p align="center"> ✅ </p> |
+
 
 ## Cheats Sources
 - https://github.com/LordApple/SXOS-CheatDB
