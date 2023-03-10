@@ -631,7 +631,7 @@
 | Shattered: Tale of the Forgotten King |  [0100A0F0180D6000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100A0F0180D6000) | 4D42A2CA8232E8EB | <p align="center"> 1.0.0 </p> | <p align="center"> ✅ </p> |
 | Shieldmaiden: Remix Edition | [01005C0016188000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01005C0016188000) | 81BC80747439C04C | <p align="center"> 1.0.0 </p> |
 | Shieldwall Chronicles: Swords of the North | [0100C7E01442C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100C7E01442C000) | f822b545f3b71a4e | <p align="center"> 1.0.0 </p> |
-| Shin Megami Tensei V | [010063B012DC6000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010063B012DC6000) | 68FED4970010ACF3 | <p align="center"> 1.0.2 </p> |
+| Shin Megami Tensei V | [010063B012DC6000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010063B012DC6000) | 68FED4970010ACF3 | <p align="center"> 1.0.2 </p> | <p align="center"> ✅ </p> | <p align="center"> ✅ </p> |
 | Shinobi Spirits S: Legend of Heroes | [0100B0300E8B6000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100B0300E8B6000) | 3e251d14861e7b4d | <p align="center"> 1.0.0 </p> |
 | Shinsekai Into the Depths™ | [01004EE0104F6000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01004EE0104F6000) | A94795507E338446 | <p align="center"> 1.0.0 </p> |
 | Shio | [0100C2F00A568000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100C2F00A568000) | 98FFC4D49752C04A | <p align="center"> 1.0.1 </p> |
