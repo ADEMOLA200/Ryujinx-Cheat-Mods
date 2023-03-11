@@ -84,8 +84,8 @@
 | ANNO: Mutationem | [0100846018258000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100846018258000) | 4C62556988DC9342  | <p align="center"> 1.05.07 |
 | Apple Knight | [01004C1013548000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01004C1013548000) | 769F21BB2405DB89 | <p align="center"> 2.2.6 |
 | Aragami: Shadow Edition | [010071800BA74000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010071800BA74000) | F3315F8027A9B24A | <p align="center"> 1.0.1 </p> |
-| Aragami 2 (Asia) | [0100021019A18000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100021019A18000) | BF27B8C6E997C22D | <p align="center"> 1.0.30195.0 </p> |
-| Aragami 2 | [0100787018198000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100787018198000) | 3FFD52E56DD8ADB3  | <p align="center"> 1.0.30195.0 </p> |
+| Aragami 2 (Asia) | [0100021019A18000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100021019A18000) | BF27B8C6E997C22D | <p align="center"> 1.0.30195.0 </p> |  <p align="center"> ✅ </p> |
+| Aragami 2 | [0100787018198000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100787018198000) | 3FFD52E56DD8ADB3  | <p align="center"> 1.0.30195.0 </p> |  <p align="center"> ✅ </p> |
 | Arc of Alchemist | [0100C7D00E6A0000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100C7D00E6A0000) | 3873D07A0F36F124 | <p align="center"> 1.0.2 </p> |
 | Arcade Archives ATHENA | [0100BEC00C7A2000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100BEC00C7A2000) | 2769E70ED09EA790 | <p align="center"> 1.0.0 </p> |
 | Arcade Archives BUBBLE BOBBLE | [0100A77019FBA000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100A77019FBA000) | 282F0CDC676A9158 | <p align="center"> 1.0.0 </p> |
