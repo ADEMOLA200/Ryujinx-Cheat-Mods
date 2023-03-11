@@ -237,7 +237,7 @@
 | Dariusburst: Another Chronicle EX+ | [010043F013044000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010043F013044000) | FF3B532334E35F08 | <p align="center"> 1.0.2 </p> |
 | DARK SOULS™: REMASTERED | [01004AB00A260000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01004AB00A260000) | df3766a2bb651a3e | <p align="center"> 1.0.3 </p> | <p align="center"> ✅ </p> |
 | Dark Witch Music Episode: Rudymical | [01001FA0034E2000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01001FA0034E2000) | 9f751801449b6d7a | <p align="center"> 1.0.1 </p> |
-| Darksiders II Deathinitive Edition | [010071800BA98000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010071800BA98000) | 173e2edea9e5d940 | <p align="center"> 1.0.0 </p> |
+| Darksiders II Deathinitive Edition | [010071800BA98000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010071800BA98000) | 173e2edea9e5d940 | <p align="center"> 1.0.0 </p> | <p align="center"> ✅ </p> |
 | Darksiders III | [0100F8F014190000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100F8F014190000) | AF7114F019CE6E1D | <p align="center"> 1.0.1 </p> |  | <p align="center"> ✅ </p> |
 | Darksiders Genesis | [0100F2300D4BA000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100F2300D4BA000) | DB17131624D04A9C | <p align="center"> 1.0.3 </p> | <p align="center"> ✅ </p> | <p align="center"> ✅ </p> |
 | Darksiders Warmastered Edition | [0100E1400BA96000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100E1400BA96000) | A4CC4C44C07AEC14 | <p align="center"> 1.0.0 </p> | <p align="center"> ✅ </p> |
