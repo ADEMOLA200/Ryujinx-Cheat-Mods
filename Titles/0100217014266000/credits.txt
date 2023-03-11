@@ -1,2 +1,4 @@
 Dragon Quest Treasures Blue Eyes and the Compass of the Sky (JP) v1.0.1
 @Eiffel2018
+@retole
+@sds
