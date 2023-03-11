@@ -160,7 +160,7 @@
 | BE-A Walker | [01003A1010E3C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01003A1010E3C000) | dc7a206287057848 | <p align="center"> 1.0.0 </p> |
 | Beast Quest | [01001EB00E9FE000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01001EB00E9FE000) | 1dd68befb8b47446 | <p align="center"> 1.0.2 </p> |
 | Ben 10 | [01006E1004404000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01006E1004404000) | 312a6760655ac64a | <p align="center"> 1.0.2 </p> |
-| BioShock 2 Remastered | [01002620102C6000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01002620102C6000) | 7D1714279435589C | <p align="center"> 1.0.2 </p> |
+| BioShock 2 Remastered | [01002620102C6000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01002620102C6000) | 7D1714279435589C | <p align="center"> 1.0.2 </p> | <p align="center"> ✅ </p> |
 | BioShock Infinite: The Complete Edition | [0100D560102C8000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100D560102C8000) | 48681F1D90704F6C | <p align="center"> 1.0.2 </p> |
 | BioShock Remastered | [0100AD10102B2000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100AD10102B2000) | d89ffaa2062e373d | <p align="center"> 1.0.2 </p> |
 | Bit Dungeon+ (JP) | [01004770079BA000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01004770079BA000) | DFA48A2646766742 | <p align="center"> 1.0 </p> |
