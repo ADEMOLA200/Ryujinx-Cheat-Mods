@@ -374,8 +374,8 @@
 | Gunvolt Chronicles: Luminous Avenger iX | [01008C800E654000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01008C800E654000) | 735DD6F91756FC48 | <p align="center"> 1.4.0 </p> |
 | Habroxia | [01007E100EFA8000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01007E100EFA8000) | 6bc96ab409d90d32 | <p align="center"> 1.0.1 </p> |
 | Hades | [0100535012974000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100535012974000) | D41357A3DA356B09  | <p align="center"> 1.0.38233 |
-| HARVESTELLA (Asia) | [0100EDD018032000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100EDD018032000) | 898404C26E7EA75B | <p align="center"> 1.0.2 </p> |
-| HARVESTELLA | [0100521017B2A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100521017B2A000) | 249EAB9BF046C5EA | <p align="center"> 1.0.2 </p> |
+| HARVESTELLA (Asia) | [0100EDD018032000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100EDD018032000) | 898404C26E7EA75B | <p align="center"> 1.0.2 </p> | <p align="center"> ✅ </p> | <p align="center"> ✅ </p> |
+| HARVESTELLA | [0100521017B2A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100521017B2A000) | 249EAB9BF046C5EA | <p align="center"> 1.0.2 </p> | <p align="center"> ✅ </p> | <p align="center"> ✅ </p> |
 | Hatchwell | [0100F29018F9C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100F29018F9C000) | 8e5e5bd4a33bc647 | <p align="center"> 2.0.17 |
 | Helvetii | [010089701934C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010089701934C000) | 5AEA32C501E4C03B | <p align="center"> 1.0.0 </p> |
 | HEROINE ANTHEM ZERO episode 1 | [01001B70080F0000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01001B70080F0000) | 45b257c493eeb045 | <p align="center"> 1.0.0 </p> |
