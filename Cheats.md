@@ -746,7 +746,7 @@
 | The Messenger | [0100DC300AC78000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100DC300AC78000) | fb6206b43c698a4b | <p align="center"> 2.0.2 </p> |
 | The Mummy Demastered | [0100496004194000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100496004194000) | fe343c581ba5b49f  | <p align="center"> 1.0.2 </p> |
 | The Ninja Warriors Once Again (JP) | [010036200CF6A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010036200CF6A000) | 61d93ce7139cd44e | <p align="center"> 1.0.1 </p> |
-| The Outer Worlds | [0100626011656000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100626011656000) | 761CD556AB357C87  | <p align="center"> 1.0.5 </p> |
+| The Outer Worlds | [0100626011656000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100626011656000) | 761CD556AB357C87  | <p align="center"> 1.0.5 </p> | <p align="center"> ✅ </p> | <p align="center"> ✅ </p> |
 | The Pathless | [0100D5501522C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100D5501522C000) | 54E89AF3414E549A | <p align="center"> 1.0.0 </p> | <p align="center"> ✅ </p> | <p align="center"> ✅ </p> |
 | The Pinball Arcade | [0100CD300880E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100CD300880E000) | fadc5bb443b6d715 | <p align="center"> 1.0.3 </p> |
 | The Princess Guide | [0100E6A00B960000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100E6A00B960000) | 1d20c4a989b37608 | <p align="center"> 1.0.0 </p> |
