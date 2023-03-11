@@ -669,7 +669,7 @@
 | Sparklite | [01007ED00C032000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01007ED00C032000) | D0E79C23F66C2C42 | <p align="center"> 1.6.12 </p> |
 | Spelunker Party | [010021F004270000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010021F004270000) | 65457968DAE86A45 | <p align="center"> 1.1.0 </p> |
 | Sphinx and the Cursed Mummy | [0100BD500BA94000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100BD500BA94000) | B73BF75FEB33ABC5 | <p align="center"> 1.1.0 </p> |
-| SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated | [010062800D39C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010062800D39C000) | 28240EE1884416AE | <p align="center"> 1.0.5 </p> |
+| SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated | [010062800D39C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010062800D39C000) | 28240EE1884416AE | <p align="center"> 1.0.5 </p> |  | <p align="center"> ✅ </p> |
 | SpongeBob SquarePants: The Cosmic Shake | [01009FB0172F4000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01009FB0172F4000) | F61911B562195493 | <p align="center"> 1.0.3 </p> | <p align="center"> ✅ </p> | <p align="center"> ✅ </p> |
 | Spyro™ Reignited Trilogy | [010077B00E046000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010077B00E046000) | d2775fafcf4835cb | <p align="center"> 1.0.1 </p> | <p align="center"> ✅ </p> | <p align="center"> ✅ </p> |
 | STAR OCEAN First Departure R | [0100EBF00E702000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100EBF00E702000) | 5EC132F471291B7E | <p align="center"> 1.0.0 </p> |
