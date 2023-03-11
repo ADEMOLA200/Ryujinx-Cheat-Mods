@@ -356,7 +356,7 @@
 | Gas Station: Highway Services | [010032D012602000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010032D012602000) | ee18a97637d15740 | <p align="center"> 1.0.0 </p> |
 | Gear.Club Unlimited | [010065E003FD8000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010065E003FD8000) | cd94fcb8cc23b24a | <p align="center"> 1.2.0 </p> |
 | Ghost 1.0 </p> | [0100EEB005ACC000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100EEB005ACC000) | 5441813A911B7B45 | <p align="center"> 1.1.0 </p> |
-| Ghost Song | [010096801809A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010096801809A000) | 230439B784CD7724 | <p align="center"> 1.1.8 |
+| Ghost Song | [010096801809A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010096801809A000) | 230439B784CD7724 | <p align="center"> 1.1.8 | <p align="center"> ✅ </p> | <p align="center"> ✅ </p> |
 | Ghostbusters: The Video Game Remastered | [0100EAE00D9EC000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100EAE00D9EC000) | 0FE6747D03EBA4E3 | <p align="center"> 1.2.0 </p> |
 | Gigantosaurus The Game | [01002C400E526000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01002C400E526000) | EF7B49570430043E | <p align="center"> 1.0.0 </p> |
 | Goblin Sword | [010067C010f88000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010067C010f88000) | 3EB41EC2FCAD4D68 | <p align="center"> 1.0.3 </p> |
