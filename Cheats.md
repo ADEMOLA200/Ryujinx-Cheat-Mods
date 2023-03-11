@@ -211,7 +211,7 @@
 | Cities: Skylines - Nintendo Switch™ Edition | [0100D8800B87C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100D8800B87C000) | 9c010911589c624f | <p align="center"> 1.0.3.37670 |
 | Clive 'N' Wrench | [0100C6C010AE4000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100C6C010AE4000) | 598DB82B41744B4C | <p align="center"> 1.285.397 </p> |
 | Cloudbase Prime | [010023800FE12000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010023800FE12000) | ABA1020691A6D248 | <p align="center"> 1.4.3 </p> |
-| Cobra Kai: The Karate Kid Saga Continues | [01005790110F0000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01005790110F0000) | 97e45918d2113640 | <p align="center"> 1.0.2 </p> |
+| Cobra Kai: The Karate Kid Saga Continues | [01005790110F0000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01005790110F0000) | 97e45918d2113640 | <p align="center"> 1.0.2 </p> | <p align="center"> ✅ </p> |
 | Concept Destruction | [0100971011224000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100971011224000) | 16f03a8a9ff95742  | <p align="center"> 1.0.0 </p> |
 | Conjurer Andy’s Repeatable Dungeon | [0100C8500CBC4000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100C8500CBC4000) | 6E6053566CFBC210 | <p align="center"> 2.0.0 </p> |
 | Copperbell | [0100C5A0115C4000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100C5A0115C4000) | b35a2167f134094d | <p align="center"> 1.0.0 </p> |
