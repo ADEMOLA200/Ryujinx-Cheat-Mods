@@ -77,7 +77,7 @@
 | Airheart - Tales of broken Wings | [01003DD00BFEE000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01003DD00BFEE000) | 803f74b0bc347d44 | <p align="center"> 1.0.0 </p> |
 | Akai Katana Shin (JP) | [0100BE6017C7A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100BE6017C7A000) | D9C7864AB8C45C61 | <p align="center"> 1.0.1 </p> |
 | Akane | [01007F100DE52000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01007F100DE52000) | 469A52D777C7104D | <p align="center"> 1.0.1 </p> |
-| Alan Wake Remastered | [0100623017A58000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100623017A58000) | 6520258D00AEA915 | <p align="center"> 1.0.1 </p> |
+| Alan Wake Remastered | [0100623017A58000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100623017A58000) | 6520258D00AEA915 | <p align="center"> 1.0.1 </p> |  <p align="center"> ✅ </p> |
 | Alchemist’s Castle | [010001E00F75A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010001E00F75A000) | c689afb3decb9e45 | <p align="center"> 1.0.0 </p> |
 | Alwa's Legacy | [01001B7012214000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01001B7012214000) | 3825003B418CF448 | <p align="center"> 1.3.3.7440 |
 | ANIMUS: Revenant | [01009C60152B6000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01009C60152B6000) | 4EF86EE130D9AE72 | <p align="center"> 1.0.5 </p> |
