@@ -563,7 +563,7 @@
 | Quest of Dungeons | [01001DE005012000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01001DE005012000) | b01d8ea969dc1ccc | <p align="center"> 1.0.2 </p> |
 | R-Type Dimensions EX | [0100E5400BE64000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100E5400BE64000) | a9bab930855ced47 | <p align="center"> 1.2.0 </p> |
 | Rack N Ruin | [0100B8100C54A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100B8100C54A000) | 4E587FE27A463D4C | <p align="center"> 1.0.3-5 </p> |
-| Rad Rodgers Radical Edition | [010000600CD54000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010000600CD54000) | 78885a1ca987c04c | <p align="center"> 1.2.0 </p> |
+| Rad Rodgers Radical Edition | [010000600CD54000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010000600CD54000) | 78885a1ca987c04c | <p align="center"> 1.2.0 </p> | <p align="center"> ✅ </p> |
 | Radiation City | [0100DA400E07E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100DA400E07E000) | 8ac5ab12589a13be | <p align="center"> 1.0.1 </p> |
 | Raiden V: Director's Cut | [01002B000D97E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01002B000D97E000) | 941057a850e286df | <p align="center"> 1.0.0 </p> |
 | Raji: An Ancient Epic | [010010B00DDA2000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010010B00DDA2000) | 8A39E660F956BB00 | <p align="center"> 1.0.3 </p> | <p align="center"> ✅ </p> | <p align="center"> ✅ </p> |
