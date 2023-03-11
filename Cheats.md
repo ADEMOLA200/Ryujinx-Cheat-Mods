@@ -122,6 +122,9 @@
 | Asdivine Kamura | [0100C8E00F50A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100C8E00F50A000) | 7ac8cbfa0d59a04c | <p align="center"> 1.0.0 </p> |
 | Ashen | [010027B00E40E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010027B00E40E000) | 663E05AB067861EC | <p align="center"> 1.0.0 </p> |  | <p align="center"> ✅ </p> |
 | Ashwalkers | [01002AE014006000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01002AE014006000) | 19DA9CDFDD52EA4A | <p align="center"> 1.0.0.6 |
+| ASSASSIN’S CREED® THE EZIO COLLECTION: II | [0100670014482000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100670014482000) | 824B38A25986B2AB | <p align="center"> 1.3 </p> | <p align="center"> ✅ </p> |
+| ASSASSIN’S CREED® THE EZIO COLLECTION: Brotherhood | [0100670014482001](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100670014482001) | 2B59D6C677258A2A | <p align="center"> 1.3 </p> | <p align="center"> ✅ </p> |
+| ASSASSIN’S CREED® THE EZIO COLLECTION: Revelations | [0100670014482002](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100670014482002) | 0AE4D1770B196094 | <p align="center"> 1.3 </p> | <p align="center"> ✅ </p> |
 | Assassin’s Creed®: The Rebel Collection - IV Black Flag | [010044700DEB0000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010044700DEB0000) | 85F5D5AB6187F602 | <p align="center"> 1.0.0 </p> | <p align="center"> ✅ </p> |
 | Assassin’s Creed®: The Rebel Collection - Rogue | [010044700DEB0001](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010044700DEB0001) | 3DEF0E36AA8C6592 | <p align="center"> 1.0.1 </p> |  <p align="center"> ✅ </p> |
 | Assault Android Cactus+ | [0100DF200B24C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100DF200B24C000) | 7ad47ba04885eb42 | <p align="center"> 1.0.1 </p> |
@@ -847,7 +850,7 @@
 | Zoids Wild Blast Unleashed | [010069C0123D8000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010069C0123D8000) | f894caf55083a245 | <p align="center"> 1.0.0 </p> |
 | Zombie Army Trilogy | [0100C7300EEE4000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100C7300EEE4000) | 54211726d36a8d9c | <p align="center"> 1.0.2 </p> | <p align="center"> ✅ </p> |
 
-| Monster Hunter Rise: Sunbreak (JP) | [0100559011740000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100559011740000) | 639F1DC48C1B6F11 | <p align="center"> 14.0.0 </p> | <p align="center"> ✅ </p> |
+
 
 ## Cheats Sources
 - https://github.com/LordApple/SXOS-CheatDB
