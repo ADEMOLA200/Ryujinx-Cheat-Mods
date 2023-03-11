@@ -1,4 +1,3 @@
 Aragami 2 v1.0.30195.0
-@letmeknow
-@GBAtemp
-@Edizon
+@patjenova
+@TomVita
