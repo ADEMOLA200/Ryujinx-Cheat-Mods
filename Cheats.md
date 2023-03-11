@@ -248,6 +248,7 @@
 | DEAD OR SCHOOL | [0100E7100C52C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100E7100C52C000) | d29fa0c8b15e7842 | <p align="center"> 1.0.0 </p> |
 | Death's Gambit: Afterlife | [01006A0015812000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01006A0015812000) | 82BF132698A09A49 | <p align="center"> 1.0.6 |
 | DEATHRUN TV | [010025B01585A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010025B01585A000) | B7115DE9A751F050 | <p align="center"> 1.2.1 </p> |
+| Decay of Logos | [010027700FD2E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010027700FD2E000) | B77B17D7A517384F | <p align="center"> 1.0.1 </p> | <p align="center"> ✅ </p> |
 | Demon Crystal 4 (JP) | [01002130150A2000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01002130150A2000) | 27efbb8fa331c148 | <p align="center"> 1.0.0 </p> |
 | Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles | [0100309016E7A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100309016E7A000) | 083096496C84976C | <p align="center"> 1.5.2 </p> |
 | Destroy All Humans! | [01009E701356A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01009E701356A000) | 72E8F20EBBDBA296 | <p align="center"> 1.0.1 </p> | <p align="center"> ✅ </p> | <p align="center"> ✅ </p> |
@@ -265,6 +266,7 @@
 | Digimon World: Next Order | [01007EA015520000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01007EA015520000) | 002190DECA0E9A4B  | <p align="center"> 1.0.0 </p> |
 | Disgaea 4 Complete + | [0100A9800E9B4000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100A9800E9B4000) | 6a1bf67d25fc2ed0 | <p align="center"> 1.1.0 </p> |
 | Disgaea 5 Complete | [01005700031AE000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01005700031AE000) | CC9ABDFA887F316D | <p align="center"> 1.0.4 </p> |
+| Divinity Original Sin 2 | [010027400CDC6000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010027400CDC6000) | 4979B200D53BB282 | <p align="center"> 1.0.10 </p> | <p align="center"> ✅ </p> |
 | Donkey Kong Country: Tropical Freeze | [0100C1F0051B6000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100C1F0051B6000) | F48BD40D89B529C1 | <p align="center"> 1.0.2 </p> |
 | DOOM (2016) | [0100416004C00000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100416004C00000) | 01ace43e724259c3 | <p align="center"> 1.2 </p> |
 | DOOM 64 | [01005D700E742000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01005D700E742000) | 1F45F195FB7468C5 | <p align="center"> 1.0.2 </p> |
@@ -816,7 +818,7 @@
 | Wonder Blade | [010037A00F5E2000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010037A00F5E2000) | D5E27670148BA14A | <p align="center"> 1.0.0 </p> |
 | Wonder Boy Asha in Monster World | [0100EB2012E36000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100EB2012E36000) | FF72D70018425549 | <p align="center"> 1.1.0 </p> |
 | Wonder Boy The Dragons Trap | [0100A6300150C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100A6300150C000) | 13793f02e257147f | <p align="center"> 1.0.3e </p> |
-| WORLD OF FINAL FANTASY MAXIMA | [010072000BD32000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010072000BD32000) | 5767fd44c331b44b | <p align="center"> 1.0.1 </p> |
+| WORLD OF FINAL FANTASY MAXIMA | [010072000BD32000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010072000BD32000) | 5767FD44C331B44B | <p align="center"> 1.0.1 </p> | <p align="center"> ✅ </p> |
 | WWE 2K Battlegrounds | [010081700EDF4000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010081700EDF4000) | EED1291D86692DD3 | <p align="center"> 1.6.0.0 </p> |
 | X-Morph: Defense | [0100DF100B97C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100DF100B97C000) | b0d911bc4c9a3760 | <p align="center"> 1.0.1 </p> |
 | Xenoblade 2 (JP) | [0100F3400332C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100F3400332C000) | e3938fa78579c1ca | <p align="center"> 2.0.2 </p> | <p align="center"> ✅ </p> |
@@ -841,7 +843,7 @@
 | Zoids Wild Blast Unleashed | [010069C0123D8000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010069C0123D8000) | f894caf55083a245 | <p align="center"> 1.0.0 </p> |
 | Zombie Army Trilogy | [0100C7300EEE4000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100C7300EEE4000) | 54211726d36a8d9c | <p align="center"> 1.0.2 </p> | <p align="center"> ✅ </p> |
 
-| Digimon Survive (Asia) | [0100FE601545A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100FE601545A000) | D4DDFD82E5D30F43 | <p align="center"> 1.0.4 </p> | <p align="center"> ✅ </p> |
+
 
 ## Cheats Sources
 - https://github.com/LordApple/SXOS-CheatDB
