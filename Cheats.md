@@ -787,7 +787,7 @@
 | Unravel Two | [0100E5D00CC0C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100E5D00CC0C000) | F04D4FE8BF580369 | <p align="center"> 1.0.1 </p> |
 | Up Cliff Drive | [0100D86012928000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100D86012928000) | 2d3c44ad39aafd46 | <p align="center"> 1.0.0 </p> |
 | Urban Trial Playground | [01001B10068EC000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01001B10068EC000) | 1caa05a4630e7769 | <p align="center"> 1.4.0 </p> |
-| V-Rally 4 | [010064400B138000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010064400B138000) | EB8A679B5DDD0060 | <p align="center"> 1.2.0 </p> |
+| V-Rally 4 | [010064400B138000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010064400B138000) | EB8A679B5DDD0060 | <p align="center"> 1.2.0 </p> | <p align="center"> ✅ </p> |
 | Vaccine | [01009E2003FE2000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01009E2003FE2000) | 34441E3E5ED09859 | <p align="center"> 1.0.0 </p> |
 | Valfaris | [010089700F30C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010089700F30C000) | C0A75CFE9B9B814A | <p align="center"> 1.0.2 </p> |
 | Valkyria Chronicles™ | [0100CAF00B744000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100CAF00B744000) | fe77ffb8cbfb3a5c | <p align="center"> 1.0.0 </p> | <p align="center"> ✅ </p> |
