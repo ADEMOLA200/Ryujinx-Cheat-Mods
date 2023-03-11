@@ -257,6 +257,9 @@
 | Dex | [01003F601025E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01003F601025E000) | f0a4874a7fa53947 | <p align="center"> 1.0.0 </p> |
 | Diabolic | [0100F73011456000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100F73011456000) | 7FE0A7323D2E968A | <p align="center"> 1.0.0 </p> |
 | Digimon Story Cyber Sleuth: Complete Edition | [010014E00DB56000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010014E00DB56000) | bedae701dd8565cd | <p align="center"> 1.0.3 </p> |
+| Digimon Survive (Asia) | [0100FE601545A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100FE601545A000) | D4DDFD82E5D30F43 | <p align="center"> 1.0.4 </p> | <p align="center"> ✅ </p> |
+| Digimon Survive (JP) | [010002400B770000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010002400B770000) | DA7031694C1A704F | <p align="center"> 1.0.5 </p> | <p align="center"> ✅ </p> |
+| Digimon Survive | [010047500B7B2000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010047500B7B2000) | 68B9365EC9FDEF47 | <p align="center"> 1.0.4 </p> | <p align="center"> ✅ </p> |
 | Digimon World -Next Order- (Asia) | [01007EA015520000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01007EA015520000) | 002190DECA0E9A4B | <p align="center"> 1.0.0 </p> |
 | Digimon World: Next Order (EU) | [0100F00014254000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100F00014254000) | 018F3A9582C69140  | <p align="center"> 1.0.0 </p> |
 | Digimon World: Next Order | [01007EA015520000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01007EA015520000) | 002190DECA0E9A4B  | <p align="center"> 1.0.0 </p> |
@@ -838,7 +841,7 @@
 | Zoids Wild Blast Unleashed | [010069C0123D8000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010069C0123D8000) | f894caf55083a245 | <p align="center"> 1.0.0 </p> |
 | Zombie Army Trilogy | [0100C7300EEE4000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100C7300EEE4000) | 54211726d36a8d9c | <p align="center"> 1.0.2 </p> | <p align="center"> ✅ </p> |
 
-
+| Digimon Survive (Asia) | [0100FE601545A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100FE601545A000) | D4DDFD82E5D30F43 | <p align="center"> 1.0.4 </p> | <p align="center"> ✅ </p> |
 
 ## Cheats Sources
 - https://github.com/LordApple/SXOS-CheatDB
