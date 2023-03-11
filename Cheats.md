@@ -419,6 +419,7 @@
 | Johnny Turbo's Arcade: Night Slashers | [0100F7300C90E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100F7300C90E000) | 64B19FA91081374F | <p align="center"> 1.0.0 </p> |
 | Johnny Turbo's Arcade: Two Crude Dudes | [010080D002CC6000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010080D002CC6000) | A08736D63A033846 | <p align="center"> 1.0.0 
 | JYDGE | [010035A0044E8000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010035A0044E8000) | 8728EFBC0732AA2F | <p align="center"> 1.1.0 </p> |
+| Kamigokutou Mary Skelter Finale (JP) | [010042C011736000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010042C011736000) | 2AAE0A81D2DD489C | <p align="center"> 1.0.4 </p> |
 | Kangokutou Mary Skelter 2 (JP) | [0100C3500D956000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100C3500D956000) | B1FC6FB94ECE1DF1 | <p align="center"> 1.0.3 </p> |
 | Katana ZERO | [010029600D56A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010029600D56A000) | 158A7F586431982E | <p align="center"> 1.0.5 </p> |
 | Kingdom Rush Frontiers | [010046200FC62000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010046200FC62000) | b1c0e2f9dbf2adfb | <p align="center"> 3.2.23 |
@@ -468,6 +469,8 @@
 | Mario Tennis™ Aces | [0100BDE00862A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100BDE00862A000) | 32487e7e3d94954e | <p align="center"> 1.0.3 </p> |
 | MARVEL ULTIMATE ALLIANCE 3: The Black Order | [010060700AC50000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010060700AC50000) | E853C44FDF18B88F | <p align="center"> 4.0.1 </p> | <p align="center"> ✅ </p> |
 | MARY SKELTER 2 | [01003DE00C95E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01003DE00C95e000) | c16e154e683d7eb8 | <p align="center"> 1.0.4 </p> |
+| Mary Skelter Finale (EU) | [0100419014456000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100419014456000) | FBE4C2EAE551F40A | <p align="center"> 1.0.1 </p> |
+| Mary Skelter Finale | [0100530014438000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100530014438000) | B1AFBB02475AD7E3 | <p align="center"> 1.0.1 </p> | <p align="center"> ✅ </p> |
 | Max And The Book Of Chaos | [0100A8C011F26000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100A8C011F26000) | 7A0D43680365424E | <p align="center"> 1.0.0 </p> |
 | Maximus 2 | [01000FE0164AA000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01000FE0164AA000) | 9D8382D802511043 | <p align="center"> 4.1.0 </p> |
 | Mega Man 11 | [0100B0C0086B0000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100B0C0086B0000) | 047fdd0c5af5f1c5 | <p align="center"> 1.0.1 </p> |
@@ -843,7 +846,7 @@
 | Zoids Wild Blast Unleashed | [010069C0123D8000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010069C0123D8000) | f894caf55083a245 | <p align="center"> 1.0.0 </p> |
 | Zombie Army Trilogy | [0100C7300EEE4000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100C7300EEE4000) | 54211726d36a8d9c | <p align="center"> 1.0.2 </p> | <p align="center"> ✅ </p> |
 
-
+| Mary Skelter Finale | [0100530014438000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100530014438000) | B1AFBB02475AD7E3 | <p align="center"> 1.0.1 </p> | <p align="center"> ✅ </p> |
 
 ## Cheats Sources
 - https://github.com/LordApple/SXOS-CheatDB
