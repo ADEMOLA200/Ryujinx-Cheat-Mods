@@ -142,7 +142,7 @@
 | Atelier Ryza 2: Lost Legends & the Secret Fairy | [01009A9012022000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01009A9012022000) | C2979457A5785216 | <p align="center"> 1.0.7 </p> | <p align="center"> ✅ </p> |
 | Atelier Sophie: The Alchemist of the Mysterious Book DX | [0100D8701421C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100D8701421C000) | 9C95108FD8F7464A | <p align="center"> 1.0.3 </p> | <p align="center"> ✅ </p> |
 | Atelier Totori: The Adventurer of Arland DX | [01009BC00C6F6000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01009BC00C6F6000) | 4fd4bfe66c5353d4 | <p align="center"> 1.0.1 </p> |
-| Attack on Titan 2 | [010034500641A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010034500641A000) | 586ea519c1cdfae7 | <p align="center"> 1.0.14 |
+| Attack on Titan 2 | [010034500641A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010034500641A000) | 586ea519c1cdfae7 | <p align="center"> 1.0.14 | <p align="center"> ✅ </p> |
 | AvoCuddle | [01008FB011248000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01008FB011248000) | 9906622a5b311548 | <p align="center"> 1.0.0 </p> |
 | Awakening of Cthulhu | [0100085012D64000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100085012D64000) | 9da80cf7e4903ec4 | <p align="center"> 1.0.0 </p> |
 | Ayo the Clown | [01006C6014878000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01006C6014878000) | 2CF49E4270162942 | <p align="center"> 1.0.0 </p> |
