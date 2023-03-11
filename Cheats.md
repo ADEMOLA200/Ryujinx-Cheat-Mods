@@ -487,7 +487,7 @@
 | Mononoke SlashDown | [0100F3A00FB78000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100f3a00fb78000) | 6911a0b8b685e532 | <p align="center"> 1.0.2 </p> |
 | Monster Boy and the Cursed Kingdom | [01006F7001D10000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01006F7001D10000) | 7dd8afc6a77afbb3 | <p align="center"> 1.0.5 </p> |
 | Monster Hunter Generations Ultimate™ | [0100770008DD8000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100770008DD8000) | FB08F1D20FD1204F | <p align="center"> 1.4.0 </p> | <p align="center"> ✅ </p> |
-| Monster Hunter Rise: Sunbreak | [0100B04011742000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100B04011742000) | 3003EF061E91DCB4 | <p align="center"> 13.0.0 </p> | <p align="center"> ✅ </p> |
+| Monster Hunter Rise: Sunbreak | [0100B04011742000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100B04011742000) | 11C9CE3F0676EEFD | <p align="center"> 14.0.0 </p> | <p align="center"> ✅ </p> |
 | Monster Hunter Stories 2: Wings of Ruin | [0100E21011446000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100E21011446000) | E0CCC6BB309EBB8D | <p align="center"> 1.5.2 </p> | <p align="center"> ✅ </p> |
 | Monster Sanctuary | [0100A0F00DA68000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100A0F00DA68000) | 65EEA5A401B6F042 | <p align="center"> 1.3.0 </p> |
 | Monster Slayers | [0100D1700C732000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100D1700C732000) | 341CD937B9A177A5 | <p align="center"> 1.0.0 </p> |
