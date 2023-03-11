@@ -490,6 +490,7 @@
 | Mononoke SlashDown | [0100F3A00FB78000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100f3a00fb78000) | 6911a0b8b685e532 | <p align="center"> 1.0.2 </p> |
 | Monster Boy and the Cursed Kingdom | [01006F7001D10000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01006F7001D10000) | 7dd8afc6a77afbb3 | <p align="center"> 1.0.5 </p> |
 | Monster Hunter Generations Ultimate™ | [0100770008DD8000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100770008DD8000) | FB08F1D20FD1204F | <p align="center"> 1.4.0 </p> | <p align="center"> ✅ </p> |
+| Monster Hunter Rise: Sunbreak (JP) | [0100559011740000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100559011740000) | 639F1DC48C1B6F11 | <p align="center"> 14.0.0 </p> | <p align="center"> ✅ </p> |
 | Monster Hunter Rise: Sunbreak | [0100B04011742000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100B04011742000) | 11C9CE3F0676EEFD | <p align="center"> 14.0.0 </p> | <p align="center"> ✅ </p> |
 | Monster Hunter Stories 2: Wings of Ruin | [0100E21011446000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100E21011446000) | E0CCC6BB309EBB8D | <p align="center"> 1.5.2 </p> | <p align="center"> ✅ </p> |
 | Monster Sanctuary | [0100A0F00DA68000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100A0F00DA68000) | 65EEA5A401B6F042 | <p align="center"> 1.3.0 </p> |
@@ -846,7 +847,7 @@
 | Zoids Wild Blast Unleashed | [010069C0123D8000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010069C0123D8000) | f894caf55083a245 | <p align="center"> 1.0.0 </p> |
 | Zombie Army Trilogy | [0100C7300EEE4000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100C7300EEE4000) | 54211726d36a8d9c | <p align="center"> 1.0.2 </p> | <p align="center"> ✅ </p> |
 
-| Mary Skelter Finale | [0100530014438000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100530014438000) | B1AFBB02475AD7E3 | <p align="center"> 1.0.1 </p> | <p align="center"> ✅ </p> |
+| Monster Hunter Rise: Sunbreak (JP) | [0100559011740000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100559011740000) | 639F1DC48C1B6F11 | <p align="center"> 14.0.0 </p> | <p align="center"> ✅ </p> |
 
 ## Cheats Sources
 - https://github.com/LordApple/SXOS-CheatDB
