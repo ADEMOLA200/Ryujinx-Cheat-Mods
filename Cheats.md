@@ -177,7 +177,7 @@
 | Bloons TD 5 | [0100B8400A1C6000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100B8400A1C6000) | a514b9687031515d | <p align="center"> 3.8.1 </p> |
 | Blossom Tales: The Sleeping King | [0100C1000706C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100C1000706C000) | 05F6F8467F81D8D0 | <p align="center"> 1.0.2 </p> |
 | Blue Rider | [01006A600B5E6000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01006A600B5E6000) | ffd5e4043b659545 | <p align="center"> 1.0.0 </p> |
-| Bokujou Monogatari Welcome! wonderful life (JP) | [0100936018EB4000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100936018EB4000) | ECF483EF8F957D50 | <p align="center"> 1.0.1 </p> |
+| Bokujou Monogatari Welcome! wonderful life (JP) | [0100936018EB4000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100936018EB4000) | ECF483EF8F957D50 | <p align="center"> 1.0.1 </p> | <p align="center"> ✅ </p> |
 | Bomber Crew | [01007900080B6000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01007900080B6000) | 2b039c01b7596146 | <p align="center"> 1.2.0 </p> |
 | Borderlands: Game of the Year Edition | [010064800F66A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010064800F66A000) | 1C37C3673E0E4E7A | <p align="center"> 1.0.2 </p> |
 | Boss Rush Mitologhy | [0100AB9013564000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100AB9013564000) | 5D4EAB46AACE1242 | <p align="center"> 1.0.0 </p> |
