@@ -1,4 +1,4 @@
-# Ryujinx CHEATS-MODS-SAVES DATABASE 
+# Ryujinx CheatsS-Mods-Saves Database 
 
 Work in Progress for Ryujinx Team
 
