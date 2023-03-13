@@ -467,7 +467,7 @@
 | Mages of Mystralia | [0100549008C9C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100549008C9C000) | de32b7731b63fe48 | <p align="center"> 1.0.1 </p> |
 | Magic Scroll Tactics (JP) | [010013800BE2C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010013800BE2C000) | E4473CEEDCC3CC4F | <p align="center"> 1.0.0 </p> |
 | Mario + Rabbids Kingdom Battle | [010067300059A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010067300059A000) | 3B39E0C06B8841F1 | <p align="center"> 1.9.589692 | <p align="center"> ✅ </p> |
-| Mario Kart™ 8 Deluxe | [0100152000022000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100152000022000) | 381F6BF6894F3C33 | <p align="center"> 2.2.1 </p> |
+| Mario Kart™ 8 Deluxe | [0100152000022000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100152000022000) | 13296B64DFA7A131 | <p align="center"> 2.3.0 </p> |
 | Mario Party™ Superstars | [01006FE013472000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01006FE013472000) | 2841E26D7FB8AA17 | <p align="center"> 1.1.1 </p> |
 | Mario Tennis™ Aces | [0100BDE00862A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100BDE00862A000) | 32487e7e3d94954e | <p align="center"> 1.0.3 </p> |
 | MARVEL ULTIMATE ALLIANCE 3: The Black Order | [010060700AC50000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010060700AC50000) | E853C44FDF18B88F | <p align="center"> 4.0.1 </p> | <p align="center"> ✅ </p> |
