@@ -6,7 +6,7 @@ Work in Progress for Ryujinx Team
 ## GAMES INDEX
 
 ## [Cheats Index](Cheats.md)
-### COMPLETED/UPDATED TO MAR/11/2023
+### COMPLETED/UPDATED TO MAR/12/2023
 - Will update once a week if new cheats release (sometimes on the day cheats are updated on certain scrapes).
 </br>
 
