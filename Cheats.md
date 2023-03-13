@@ -582,6 +582,7 @@
 | Rayman® Legends Definitive Edition | [01005FF002E2A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01005FF002E2A000) | F466DA1D713533C2 | <p align="center"> 1.0.2 </p> |
 | Record of Lodoss War -Deedlit in Wonder Labyrinth- | [0100EF0015A9A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100EF0015A9A000) | 667484A8F759B6FD | <p align="center"> 1.0.2 </p> |
 | Redeemer Enhanced Edition | [01000D100DCF8000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01000D100DCF8000) | 86AA48E1585F2EE7 | <p align="center"> 1.2.0 </p> |
+| Redemption Reapers | [010073F0197DA000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010073F0197DA000) | ABB7BFBFD88E76CD | <p align="center"> 1.0.1 </p> | <p align="center"> ✅ </p> | <p align="center"> ✅ </p> |
 | Redout: Space Assault | [0100326010B98000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100326010B98000) | 606f37176b3dd269 | <p align="center"> 1.0.2 </p> |
 | Reed 2 | [01003EF0118D2000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01003EF0118D2000) | d93fa66964036f0e | <p align="center"> 1.0.0 </p> |
 | RemiLore | [010095900B436000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010095900B436000) | 39FBFC95E715944A | <p align="center"> 1.0.3 </p> |
