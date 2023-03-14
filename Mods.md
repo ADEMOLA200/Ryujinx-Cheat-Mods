@@ -56,10 +56,16 @@ Work in Progress
 | [60FPS](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/raw/main/Mods/01003DD00D658000/Bulletstorm60FPS.rar) | Changes the games max framerate to 60FPS | IPS Patch | 32FC35DF1C50E1F1 | <p align="center"> 1.14.0 </p> | [MasaGratoR](https://github.com/masagrator/NXGraphicsPatches) |
 </BR>
 
-## Call of Juarez: Gunslinger [0100B4700BFC6000]
+## Call of Juarez: Gunslinger [010073401175E000]
 | MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
 | --- | --- | --- | --- | --- | --- |
-| [60FPS](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/raw/main/Mods/0100B4700BFC6000/CallofJuarez60FPS.rar) | Changes the games max framerate to 60FPS | IPS Patch | ebf7de558d554c7e | <p align="center"> 1.0.4_5 </p> | [MasaGratoR](https://github.com/masagrator/NXGraphicsPatches) |
+| [60FPS](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/raw/main/Mods/010073401175E000/CallofJuarez60FPS.rar) | Changes the games max framerate to 60FPS | IPS Patch | ebf7de558d554c7e | <p align="center"> 1.0.4_5 </p> | [MasaGratoR](https://github.com/masagrator/NXGraphicsPatches) |
+</BR>
+
+## Crash Bandicoot™ N. Sane Trilogy [0100D1B006744000]
+| MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
+| --- | --- | --- | --- | --- | --- |
+| [60FPS](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/raw/main/Mods/0100D1B006744000/CBNT60FPS.rar) | Changes the games max framerate to 60FPS | IPS Patch | 29E1A37D84227147 | <p align="center"> 1.0.0 </p> | [MasaGratoR](https://github.com/masagrator/NXGraphicsPatches) |
 </BR>
 
 ## Sonic Frontiers [01004AD014BF0000]
