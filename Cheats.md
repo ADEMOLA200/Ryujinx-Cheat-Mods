@@ -183,7 +183,9 @@
 | Blue Rider | [01006A600B5E6000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01006A600B5E6000) | ffd5e4043b659545 | <p align="center"> 1.0.0 </p> |
 | Bokujou Monogatari Welcome! wonderful life (JP) | [0100936018EB4000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100936018EB4000) | ECF483EF8F957D50 | <p align="center"> 1.0.1 </p> | <p align="center"> ✅ </p> |
 | Bomber Crew | [01007900080B6000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01007900080B6000) | 2b039c01b7596146 | <p align="center"> 1.2.0 </p> |
+| Borderlands 2 | [010096F00FF22000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010096F00FF22000) | f7c233469f20ee3f | <p align="center"> 1.0.2 </p> |
 | Borderlands: Game of the Year Edition | [010064800F66A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010064800F66A000) | 1C37C3673E0E4E7A | <p align="center"> 1.0.2 </p> |
+| Borderlands: The Pre-sequel | [010007400FF24000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010007400FF24000) | 090b1f7f7af35d00 | <p align="center"> 1.0.1 </p> |
 | Boss Rush Mitologhy | [0100AB9013564000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100AB9013564000) | 5D4EAB46AACE1242 | <p align="center"> 1.0.0 </p> |
 | Braveland Trilogy | [0100A5B00D3D2000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100A5B00D3D2000) | 438D108A71CC054F | <p align="center"> 1.0.0 </p> |
 | BRAVELY DEFAULT™ II | [01006DC010326000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01006DC010326000) | 05DE5A7F20BD1532 | <p align="center"> 1.0.0 </p> |
@@ -744,8 +746,6 @@
 | The Copper Canyon Dixie Dash | [01000F20102AC000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01000F20102AC000) | 2fbe522f4dbad51e | <p align="center"> 1.0.2 </p> |
 | The Count Lucanor | [01000850037C0000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01000850037C0000) | 2EAAF5F168F363D9 | <p align="center"> 1.0.2 </p> |
 | The Elder Scrolls V: Skyrim | [01000A10041EA000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01000A10041EA000) | 771BDFB65F8D0AF7 | <p align="center"> 1.1.177. 3285177 </p> | <p align="center"> ✅ </p> |
-| The Handsome Collection - Borderlands 2: GOTY | [010096F00FF22000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010096F00FF22000) | f7c233469f20ee3f | <p align="center"> 1.0.2 </p> |
-| The Handsome Collection - Borderlands The Pre-sequel | [010007400FF24000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010007400FF24000) | 090b1f7f7af35d00 | <p align="center"> 1.0.1 </p> |
 | The Last Kids On Earth and the Staff of Doom | [0100C27011544000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100C27011544000) | 562F197C579E7A45 | <p align="center"> 1.0.1 </p> |
 | The Legend of Heroes Ao no Kiseki: Kai (JP) | [010085B01388A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010085B01388A000) | C5F61671A83CC8B0 | <p align="center"> 1.0.1 </p> |
 | The Legend of Heroes: Trails of Cold Steel III | [01005420101DA000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01005420101DA000) | 134EC3D8BE75126F | <p align="center"> 1.0.1 </p> |
