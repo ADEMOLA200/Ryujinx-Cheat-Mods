@@ -10,8 +10,8 @@ Work in Progress
 ## Assassin’s Creed®: The Rebel Collection [010044700DEB0000] 
 | MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
 | --- | --- | --- | --- | --- | --- |
-| [60FPS](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/010044700DEB0000/AssassinsCreedRebelIVBlackFlag60FPS.rar) | Changes the games max framerate to 60FPS for Assassin's Creed IV Black Flag [010044700DEB0000] | IPS Patch | 85F5D5AB6187F602 | <p align="center"> 1.0.0 </p> | [MasaGratoR](https://github.com/masagrator/NXGraphicsPatches)
-| [60FPS](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/010044700DEB0001/AssassinsCreedRebelRogue60FPS.rar) | Changes the games max framerate to 60FPS for Assassin's creed Rogue [010044700DEB0001] | IPS Patch | 3DEF0E36AA8C6592 | <p align="center"> 1.0.1 </p> | [MasaGratoR](https://github.com/masagrator/NXGraphicsPatches)
+| [60FPS](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/010044700DEB0000/AssassinsCreedRebelIVBlackFlag60FPS.rar) | Changes the games max framerate to 60FPS for </BR> Assassin's Creed IV Black Flag [010044700DEB0000] | IPS Patch | 85F5D5AB6187F602 | <p align="center"> 1.0.0 </p> | [MasaGratoR](https://github.com/masagrator/NXGraphicsPatches)
+| [60FPS](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/010044700DEB0001/AssassinsCreedRebelRogue60FPS.rar) | Changes the games max framerate to 60FPS for </BR> Assassin's Creed Rogue [010044700DEB0001] | IPS Patch | 3DEF0E36AA8C6592 | <p align="center"> 1.0.1 </p> | [MasaGratoR](https://github.com/masagrator/NXGraphicsPatches)
 </BR>
 
 ## Sonic Frontiers [01004AD014BF0000]
