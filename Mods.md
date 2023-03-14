@@ -32,6 +32,12 @@ Work in Progress
 | [60FPS](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/raw/main/Mods/0100AD10102B2000/Bioshock_60FPS.rar) | Changes the games max framerate to 60FPS | IPS Patch | d89ffaa2062e373d | <p align="center"> 1.0.2 </p> | [MasaGratoR](https://github.com/masagrator/NXGraphicsPatches) |
 </BR>
 
+## Borderlands: Game of the Year Edition [010064800F66A000]
+| MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
+| --- | --- | --- | --- | --- | --- |
+| [60FPS](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/raw/main/Mods/010064800F66A000/Borderlands1GOTY60FPS.rar) | Changes the games max framerate to 60FPS | IPS Patch | 1C37C3673E0E4E7A | <p align="center"> 1.0.2 </p> | [MasaGratoR](https://github.com/masagrator/NXGraphicsPatches) |
+</BR>
+
 ## Borderlands: The Pre-sequel [010007400FF24000]
 | MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
 | --- | --- | --- | --- | --- | --- |
