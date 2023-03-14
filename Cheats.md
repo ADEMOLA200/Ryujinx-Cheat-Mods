@@ -198,6 +198,7 @@
 | BurgerTime Party! | [01006BB00E8FA000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01006BB00E8FA000) | aa4b3c8e4ace0f47 | <p align="center"> 1.0.0 </p> |
 | Burst Shooter | [0100870012912000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100870012912000) | 983e28b1198ae349  | <p align="center"> 1.0.0 </p> |
 | Caladrius Blaze | [01004FD00D66A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01004FD00D66A000) | cdd1c03d9879b8c4 | <p align="center"> 1.0.0 </p> |
+| Call of Juarez: Gunslinger | [0100B4700BFC6000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100B4700BFC6000) | ebf7de558d554c7e | <p align="center"> 1.0.4_5 </p> |
 | Candleman | [010034400CB5E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010034400CB5E000) | 55aa8d007faec044 | <p align="center"> 1.0.1 </p> |
 | Capcom Beat 'Em Up Bundle | [010094E00B52E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010094E00B52E000) | fde56d0d80cf091d | <p align="center"> 1.0.1 </p> |
 | Captain Toad™: Treasure Tracker | [01009BF0072D4000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01009BF0072D4000) | 8f75c9b8b7ff69d9 | <p align="center"> 1.3.0 </p> |
