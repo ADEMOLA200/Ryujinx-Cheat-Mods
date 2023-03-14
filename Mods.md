@@ -59,7 +59,7 @@ Work in Progress
 ## Call of Juarez: Gunslinger [010073401175E000]
 | MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
 | --- | --- | --- | --- | --- | --- |
-| [60FPS](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/raw/main/Mods/010073401175E000/CallofJuarez60FPS.rar) | Changes the games max framerate to 60FPS | IPS Patch | ebf7de558d554c7e | <p align="center"> 1.0.4_5 </p> | [MasaGratoR](https://github.com/masagrator/NXGraphicsPatches) |
+| [60FPS](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/raw/main/Mods/010073401175E000/CallofJuarez60FPS.rar) | Changes the games max framerate to 60FPS | IPS Patch | EBF7DE558d554C7E | <p align="center"> 1.0.4_5 </p> | [MasaGratoR](https://github.com/masagrator/NXGraphicsPatches) |
 </BR>
 
 ## Crash Bandicoot™ N. Sane Trilogy [0100D1B006744000]
