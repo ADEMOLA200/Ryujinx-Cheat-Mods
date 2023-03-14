@@ -32,6 +32,12 @@ Work in Progress
 | [60FPS](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/raw/main/Mods/0100AD10102B2000/Bioshock_60FPS.rar) | Changes the games max framerate to 60FPS | IPS Patch | d89ffaa2062e373d | <p align="center"> 1.0.2 </p> | [MasaGratoR](https://github.com/masagrator/NXGraphicsPatches) |
 </BR>
 
+## Borderlands: The Pre-sequel [010007400FF24000]
+| MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
+| --- | --- | --- | --- | --- | --- |
+| [60FPS](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/raw/main/Mods/010007400FF24000/BorderlandsPreSequel60FPS.rar) | Changes the games max framerate to 60FPS | IPS Patch | 090b1f7f7af35d00 | <p align="center"> 1.0.1 </p> | [MasaGratoR](https://github.com/masagrator/NXGraphicsPatches) |
+</BR>
+
 ## Sonic Frontiers [01004AD014BF0000]
 | MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
 | --- | --- | --- | --- | --- | --- |
