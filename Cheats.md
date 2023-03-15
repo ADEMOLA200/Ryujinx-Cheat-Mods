@@ -1,4 +1,4 @@
-# Ryujinx Cheats Index [854 Titles]
+# Ryujinx Cheats Index [858 Titles]
 
 
 | NAME | TITLE ID | BUILD ID | VERSION |  60 FPS | GFX |
@@ -109,6 +109,7 @@
 | Arcade Archives PHELIOS | [01009C9019DB6000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01009C9019DB6000) | 0FB01096C008B3AC | <p align="center"> 1.0.1 </p> |
 | Arcade Archives SENJYO | [0100BF8019FEC000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100BF8019FEC000) | 43BB1DF86BBC9380 | <p align="center"> 1.0.0 </p> |
 | Arcade Archives Solomon's Key | [01008C900982E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01008C900982E000) | 44f1b4597bf9050e | <p align="center"> 1.0.0 </p> |
+| Arcade Archives STAR FORCE | [010069F008A38000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010069F008A38000) | 17BDA7A970B681FF | <p align="center"> 1.0.1 </p> |
 | Arcade Archives SUNSETRIDERS | [0100D90011534000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100D90011534000) | 814bb22a30cb2d84 | <p align="center"> 1.0.0 </p> |
 | Arcade Archives TETRIS THE GRAND MASTER | [0100DFD016B7A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100DFD016B7A000) | 872316DADD2D4D9D | <p align="center"> 1.0.2 </p> |
 | Arcade Archives THE ASTYANAX! | [0100A7B01450C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100A7B01450C000) | 51CDBC2DF99AC20E | <p align="center"> 1.0.0 </p> |
@@ -134,6 +135,8 @@
 | Asterix & Obelix XXL 3 - The Crystal Menhir | [010081500EA1E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010081500EA1E000) | 57F46046A792060D | <p align="center"> 1.1.59.1 </p> |
 | ASTRAL CHAIN | [01007300020FA000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01007300020FA000) | 4B159F0F7A360669 | <p align="center"> 1.0.1 </p> |
 | Astro Aqua Kitty | [01007210128C0000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01007210128C0000) | B5F6DE166AD55D7E | <p align="center"> 1.0.5 </p> |
+| ASTRONEER (JP) | [010080E016282000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010080E016282000) | DC07FB9B6EF61B45 | <p align="center"> 1.0.1 </p> |
+| ASTRONEER | [0100E63013E60000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100E63013E60000) | 828E3F510E5075E6 | <p align="center"> 1.0.1 </p> |
 | Astronite | [0100FD6018690000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100FD6018690000) | C00BC721EEAC5AC2 | <p align="center"> 1.0.3 </p> |
 | AstroWings: Space War | [0100DF401249C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100DF401249C000) | 161d40765906024c | <p align="center"> 1.0.0 </p> |
 | Atelier Ayesha: The Alchemist of Dusk DX | [0100D9D00EE8C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100D9D00EE8C000) | b9146e1cad9e36ba | <p align="center"> 1.0.0 </p> |
@@ -161,6 +164,7 @@
 | Battle Princess Madelyn | [0100C4D0093EA000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100C4D0093EA000) | 8C853C65D7FF824F | <p align="center"> 1.0.5 </p> |
 | Bayonetta™ 2 | [01007960049A0000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01007960049A0000) | F19B2E01E1794F93 | <p align="center"> 1.2.0 </p> |
 | Bayonetta™ 3 | [01004A4010FEA000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01004A4010FEA000) | 4104F9C7041985F4 | <p align="center"> 1.0.0 </p> |
+| Bayonetta Origins: Cereza and the Lost Demon™ | [0100CF5010FEC000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100CF5010FEC000) | A1CE2940D813ACAB | <p align="center"> 1.0.0 </p> |
 | BE-A Walker | [01003A1010E3C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01003A1010E3C000) | dc7a206287057848 | <p align="center"> 1.0.0 </p> |
 | Beast Quest | [01001EB00E9FE000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01001EB00E9FE000) | 1dd68befb8b47446 | <p align="center"> 1.0.2 </p> |
 | Ben 10 | [01006E1004404000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01006E1004404000) | 312a6760655ac64a | <p align="center"> 1.0.2 </p> |
@@ -856,7 +860,7 @@
 | ZIC: Zombies in City | [010049E017598000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010049E017598000) | AE9B62EBE7664970 | <p align="center"> 1.0 </p> |
 | Zoids Wild: King of Blast (JP) | [0100E43009320000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100E43009320000) | bcc92811606bd64f | <p align="center"> 1.0.0 </p> |
 | Zoids Wild Blast Unleashed | [010069C0123D8000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010069C0123D8000) | f894caf55083a245 | <p align="center"> 1.0.0 </p> |
-| Zombie Army Trilogy | [0100C7300EEE4000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100C7300EEE4000) | 54211726d36a8d9c | <p align="center"> 1.0.2 </p> | <p align="center"> ✅ </p> |
+| Zombie Army Trilogy | [0100C7300EEE4000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100C7300EEE4000) | 54211726d36a8d9c | <p align="center"> 1.27.301.0 </p> | <p align="center"> ✅ </p> |
 
 
 
