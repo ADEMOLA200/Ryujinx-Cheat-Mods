@@ -86,6 +86,12 @@ Work in Progress
 | [60FPS](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/raw/main/Mods/0100416004C00000/DOOM201660FPS.rar) | Changes the games max framerate to 60FPS | IPS Patch | 01ACE43E724259C3 | <p align="center"> 1.2 </p> | [MasaGratoR](https://github.com/masagrator/NXGraphicsPatches) |
 </BR>
 
+## Fire Emblem™: Three Houses [010055D009F78000]
+| MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
+| --- | --- | --- | --- | --- | --- |
+| [60FPS](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/raw/main/Mods/010055D009F78000/FireEmblem3Houses-60FPS.rar) | Changes the games max framerate to 60FPS | IPS Patch | 89048449ba238c8c | <p align="center"> 1.2.0 </p> | [MasaGratoR](https://github.com/masagrator/NXGraphicsPatches) |
+</BR>
+
 ## Sonic Frontiers [01004AD014BF0000]
 | MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
 | --- | --- | --- | --- | --- | --- |
