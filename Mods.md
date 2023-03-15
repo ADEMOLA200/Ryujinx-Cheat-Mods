@@ -74,6 +74,12 @@ Work in Progress
 | [60FPS](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/raw/main/Mods/0100F9F00C696000/CTR60FPS.rar) | Changes the games max framerate to 60FPS | IPS Patch | 1C68951840693051 | <p align="center"> 1.0.15 </p> | [MasaGratoR](https://github.com/masagrator/NXGraphicsPatches) |
 </BR>
 
+## Darksiders II Deathinitive Edition [010071800BA98000]
+| MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
+| --- | --- | --- | --- | --- | --- |
+| [60FPS](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/raw/main/Mods/010071800BA98000/Darksiders260FPS.rar) | Changes the games max framerate to 60FPS | IPS Patch | 173e2edea9e5d940 | <p align="center"> 1.0.0 </p> | [MasaGratoR](https://github.com/masagrator/NXGraphicsPatches) |
+</BR>
+
 ## Sonic Frontiers [01004AD014BF0000]
 | MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
 | --- | --- | --- | --- | --- | --- |
