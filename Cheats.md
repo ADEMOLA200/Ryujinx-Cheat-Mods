@@ -1,4 +1,4 @@
-# Ryujinx Cheats Index [859 Titles]
+# Ryujinx Cheats Index [860 Titles]
 
 
 | NAME | TITLE ID | BUILD ID | VERSION |  60 FPS | GFX |
@@ -727,6 +727,7 @@
 | Super Robot Wars V (JP) | [0100CA400E300000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100CA400E300000) | 736EB95ACA241014 | <p align="center"> 1.0.2 </p> |
 | Super Robot Wars X (JP) | [010026800E304000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010026800E304000) | 4873aa2e8514685f | <p align="center"> 1.0.1 </p> |
 | Super Saurio Fly | [01004CF00A60E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01004CF00A60E000) | 6c8970071ef11148 | <p align="center"> 2.0.0 </p> |
+| Super Smash Bros.™ Ultimate | [01006A800016E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01006A800016E000) | B9B166DF1DB90BAF  | <p align="center"> 13.0.1 </p> |
 | Super Toy Cars | [0100384009344000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100384009344000) | f8c08ad2cda26a46  | <p align="center"> 1.0.0 </p> |
 | Super Toy Cars Offroad | [0100B65013636000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100B65013636000) | 664244C1CBABE8B7 | <p align="center"> 1.0.0 </p> |
 | Superpanda 2 | [0100B75018A6E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100B75018A6E000) | 6BEB59A0ABBD15AD | <p align="center"> 1.0.0 </p> |
