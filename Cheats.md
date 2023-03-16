@@ -135,8 +135,8 @@
 | Asterix & Obelix XXL 3 - The Crystal Menhir | [010081500EA1E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010081500EA1E000) | 57F46046A792060D | <p align="center"> 1.1.59.1 </p> |
 | ASTRAL CHAIN | [01007300020FA000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01007300020FA000) | 4B159F0F7A360669 | <p align="center"> 1.0.1 </p> |
 | Astro Aqua Kitty | [01007210128C0000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01007210128C0000) | B5F6DE166AD55D7E | <p align="center"> 1.0.5 </p> |
-| ASTRONEER (JP) | [010080E016282000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010080E016282000) | DC07FB9B6EF61B45 | <p align="center"> 1.0.1 </p> |
-| ASTRONEER | [0100E63013E60000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100E63013E60000) | 828E3F510E5075E6 | <p align="center"> 1.0.1 </p> |
+| ASTRONEER (JP) | [010080E016282000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010080E016282000) | DC07FB9B6EF61B45 | <p align="center"> 1.27.301.0 </p> |
+| ASTRONEER | [0100E63013E60000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100E63013E60000) | 828E3F510E5075E6 | <p align="center"> 1.27.301.0 </p> |
 | Astronite | [0100FD6018690000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100FD6018690000) | C00BC721EEAC5AC2 | <p align="center"> 1.0.3 </p> |
 | AstroWings: Space War | [0100DF401249C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100DF401249C000) | 161d40765906024c | <p align="center"> 1.0.0 </p> |
 | Atelier Ayesha: The Alchemist of Dusk DX | [0100D9D00EE8C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100D9D00EE8C000) | b9146e1cad9e36ba | <p align="center"> 1.0.0 </p> |
@@ -567,6 +567,7 @@
 | Pinstripe (JP) | [01000C1011960000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01000C1011960000) | 802040931b870548 | <p align="center"> 1.0.0 </p> |
 | Pinstripe! | [010041100B148000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010041100B148000) | 99576dd9532d5d47 | <p align="center"> 1.0.0 </p> |
 | Pokémon™ Brilliant Diamond | [0100000011D90000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100000011D90000) | 94CEAE325C205C4B | <p align="center"> 1.3.0 </p> | <p align="center"> ✅ </p> |
+| Pokémon™ Legends: Arceus | [01001F5010DFA000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01001F5010DFA000) | BEF291F2639F7AFE | <p align="center"> 1.0.2 </p> | 
 | Pokémon™: Let’s Go, Eevee! | [0100187003A36000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100187003A36000) | 5831EC64D6B696FD | <p align="center"> 1.0.2 </p> |
 | Pokémon™: Let’s Go, Pikachu! | [010003F003A34000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010003F003A34000) | c208db6a4ef4361f | <p align="center"> 1.0.2 </p> |
 | Pokémon Mystery Dungeon™: Rescue Team DX | [01003D200BAA2000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01003D200BAA2000) | 3AB632DEE82D5944 | <p align="center"> 1.0.2 </p> |
@@ -860,7 +861,7 @@
 | ZIC: Zombies in City | [010049E017598000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010049E017598000) | AE9B62EBE7664970 | <p align="center"> 1.0 </p> |
 | Zoids Wild: King of Blast (JP) | [0100E43009320000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100E43009320000) | bcc92811606bd64f | <p align="center"> 1.0.0 </p> |
 | Zoids Wild Blast Unleashed | [010069C0123D8000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010069C0123D8000) | f894caf55083a245 | <p align="center"> 1.0.0 </p> |
-| Zombie Army Trilogy | [0100C7300EEE4000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100C7300EEE4000) | 54211726d36a8d9c | <p align="center"> 1.27.301.0 </p> | <p align="center"> ✅ </p> |
+| Zombie Army Trilogy | [0100C7300EEE4000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100C7300EEE4000) | 54211726d36a8d9c | <p align="center"> 1.0.2 </p> | <p align="center"> ✅ </p> |
 
 
 
