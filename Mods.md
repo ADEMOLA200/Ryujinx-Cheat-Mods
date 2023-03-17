@@ -65,13 +65,13 @@ Work in Progress
 ## Crash Bandicoot™ N. Sane Trilogy [0100D1B006744000]
 | MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
 | --- | --- | --- | --- | --- | --- |
-| [60FPS](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/raw/main/Mods/0100D1B006744000/CBNT60FPS.rar) | Changes the games max framerate to 60FPS | IPS Patch | 29E1A37D84227147 | <p align="center"> 1.0.0 </p> | [MasaGratoR](https://github.com/masagrator/NXGraphicsPatches) |
+| [60FPS](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/raw/main/Mods/0100D1B006744000/CBNT60FPS.rar) | Changes the games max framerate to 60FPS | IPS Patch | 29E1A37D84227147 | <p align="center"> 1.0.0 </p> | [Kirby567fan](https://github.com/masagrator/NXGraphicsPatches) |
 </BR>
 
 ## Crash™ Team Racing Nitro-Fueled [0100F9F00C696000]
 | MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
 | --- | --- | --- | --- | --- | --- |
-| [60FPS](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/raw/main/Mods/0100F9F00C696000/CTR60FPS.rar) | Changes the games max framerate to 60FPS | IPS Patch | 1C68951840693051 | <p align="center"> 1.0.15 </p> | [MasaGratoR](https://github.com/masagrator/NXGraphicsPatches) |
+| [60FPS](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/raw/main/Mods/0100F9F00C696000/CTR60FPS.rar) | Changes the games max framerate to 60FPS | IPS Patch | 1C68951840693051 | <p align="center"> 1.0.15 </p> | [Kirby567fan](https://github.com/masagrator/NXGraphicsPatches) |
 </BR>
 
 ## Darksiders II Deathinitive Edition [010071800BA98000]
