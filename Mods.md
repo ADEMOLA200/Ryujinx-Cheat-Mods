@@ -53,13 +53,13 @@ Work in Progress
 ## Bulletstorm: Duke of Switch Edition [01003DD00D658000]
 | MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
 | --- | --- | --- | --- | --- | --- |
-| [60FPS](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/raw/main/Mods/01003DD00D658000/Bulletstorm60FPS.rar) | Changes the games max framerate to 60FPS | IPS Patch | 32FC35DF1C50E1F1 | <p align="center"> 1.14.0 </p> | [MasaGratoR](https://github.com/masagrator/NXGraphicsPatches) |
+| [60FPS](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/raw/main/Mods/01003DD00D658000/Bulletstorm60FPS.rar) | Changes the games max framerate to 60FPS | IPS Patch | 32FC35DF1C50E1F1 | <p align="center"> 1.14.0 </p> | [Kirby567fan](https://github.com/masagrator/NXGraphicsPatches) |
 </BR>
 
 ## Call of Juarez: Gunslinger [010073401175E000]
 | MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
 | --- | --- | --- | --- | --- | --- |
-| [60FPS](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/raw/main/Mods/010073401175E000/CallofJuarez60FPS.rar) | Changes the games max framerate to 60FPS | IPS Patch | EBF7DE558d554C7E | <p align="center"> 1.0.4_5 </p> | [MasaGratoR](https://github.com/masagrator/NXGraphicsPatches) |
+| [60FPS](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/raw/main/Mods/010073401175E000/CallofJuarez60FPS.rar) | Changes the games max framerate to 60FPS | IPS Patch | EBF7DE558d554C7E | <p align="center"> 1.0.4_5 </p> | [Kirby567fan](https://github.com/masagrator/NXGraphicsPatches) |
 </BR>
 
 ## Crash Bandicoot™ N. Sane Trilogy [0100D1B006744000]
