@@ -92,6 +92,12 @@ Work in Progress
 | [60FPS](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/raw/main/Mods/010055D009F78000/FireEmblem3Houses-60FPS.rar) | Changes the games max framerate to 60FPS | IPS Patch | 89048449BA238C8C | <p align="center"> 1.2.0 </p> | [MasaGratoR](https://github.com/masagrator/NXGraphicsPatches) |
 </BR>
 
+## Mario + Rabbids® Kingdom Battle [010067300059A000]
+| MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
+| --- | --- | --- | --- | --- | --- |
+| [60FPS](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/raw/main/Mods/010067300059A000/Mario+RabbidsKB60FPS.rar) | Changes the games max framerate to 60FPS | IPS Patch | 3B39E0C06B8841F1 | <p align="center"> 1.9.589692 </p> | [Kirby567fan](https://github.com/masagrator/NXGraphicsPatches) |
+</BR>
+
 ## Sonic Frontiers [01004AD014BF0000]
 | MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
 | --- | --- | --- | --- | --- | --- |
