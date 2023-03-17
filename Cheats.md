@@ -475,7 +475,7 @@
 | MachiKnights -Blood bagos- | [0100F2400D434000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100F2400D434000) | 8EB9F6FB15B3428B | <p align="center"> 1.0.6 |
 | Mages of Mystralia | [0100549008C9C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100549008C9C000) | de32b7731b63fe48 | <p align="center"> 1.0.1 </p> |
 | Magic Scroll Tactics (JP) | [010013800BE2C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010013800BE2C000) | E4473CEEDCC3CC4F | <p align="center"> 1.0.0 </p> |
-| Mario + Rabbids Kingdom Battle | [010067300059A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010067300059A000) | 3B39E0C06B8841F1 | <p align="center"> 1.9.589692 | <p align="center"> ✅ </p> |
+| Mario + Rabbids® Kingdom Battle | [010067300059A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010067300059A000) | 3B39E0C06B8841F1 | <p align="center"> 1.9.589692 | <p align="center"> ✅ </p> |
 | MARIO + RABBIDS SPARKS OF HOPE | [0100317013770000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100317013770000) | 553C2A1818237255 | <p align="center"> 1.3.2145477 </p> |
 | Mario Kart™ 8 Deluxe | [0100152000022000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100152000022000) | 13296B64DFA7A131 | <p align="center"> 2.3.0 </p> |
 | Mario Party™ Superstars | [01006FE013472000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01006FE013472000) | 2841E26D7FB8AA17 | <p align="center"> 1.1.1 </p> |
