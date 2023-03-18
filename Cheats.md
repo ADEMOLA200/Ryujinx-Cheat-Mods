@@ -758,6 +758,7 @@
 | The Last Kids On Earth and the Staff of Doom | [0100C27011544000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100C27011544000) | 562F197C579E7A45 | <p align="center"> 1.0.1 </p> |
 | The Legend of Heroes Ao no Kiseki: Kai (JP) | [010085B01388A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010085B01388A000) | C5F61671A83CC8B0 | <p align="center"> 1.0.1 </p> |
 | The Legend of Heroes: Trails of Cold Steel III | [01005420101DA000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01005420101DA000) | 134EC3D8BE75126F | <p align="center"> 1.0.1 </p> |
+| The Legend of Heroes: Trails from Zero | [01001920156C2000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01001920156C2000) | 628A2092EB0079A3 | <p align="center"> 1.4.5 </p> |
 | The Legend of Zelda™: Breath of the Wild | [01007EF00011E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01007EF00011E000) | 8e9978d50bdd20b4 | <p align="center"> 1.6.0 </p> | <p align="center"> ✅ </p> | <p align="center"> ✅ </p> |
 | The Legend of Zelda™: Link’s Awakening | [01006BB00C6F0000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01006BB00C6F0000) | 909e904af78ac1b8 | <p align="center"> 1.0.1 </p> |
 | The Legend of Zelda™: Skyward Sword HD | [01002DA013484000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01002DA013484000) | 5441AF3C89F97E1D | <p align="center"> 1.0.1 </p> |
@@ -867,7 +868,7 @@
 | Zoids Wild Blast Unleashed | [010069C0123D8000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010069C0123D8000) | f894caf55083a245 | <p align="center"> 1.0.0 </p> |
 | Zombie Army Trilogy | [0100C7300EEE4000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100C7300EEE4000) | 54211726d36a8d9c | <p align="center"> 1.0.2 </p> | <p align="center"> ✅ </p> |
 
-| The Caligula Effect 2 | [0100CC3014886000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100CC3014886000) | 094BD2CDF388A1DB | <p align="center"> 1.0.0 </p> |
+
 
 ## Cheats Sources
 - https://github.com/LordApple/SXOS-CheatDB
