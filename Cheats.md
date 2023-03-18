@@ -748,6 +748,7 @@
 | The Alliance Alive HD Remastered | [01003CF00DCFA000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01003CF00DCFA000) | 4DF9DA0BD7A61546 | <p align="center"> 1.0.3 </p> |
 | The Binding of Isaac: Afterbirth+ | [010021C000B6A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010021C000B6A000) | 40506B6C03196447 | <p align="center"> 1.7.0 </p> |
 | The Bug Butcher | [01008D700AB14000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01008D700AB14000) | 1763c8105148364a | <p align="center"> 1.0.1 </p> |
+| The Caligula Effect 2 | [0100CC3014886000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100CC3014886000) | 094BD2CDF388A1DB | <p align="center"> 1.0.0 </p> |
 | The Captain | [0100562018716000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100562018716000) | 6A907254EAE4594D  | <p align="center"> 1.1.1 </p> |
 | The Colonists (Asia) | [0100506016586000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100506016586000) | 83092FBDF5F6AD4C  | <p align="center"> 1.0.1.7 </p> |
 | The Coma: Recut | [0100451012918000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100451012918000) | 5136f141b1639f4e  | <p align="center"> 1.0.0 </p> |
@@ -866,7 +867,7 @@
 | Zoids Wild Blast Unleashed | [010069C0123D8000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010069C0123D8000) | f894caf55083a245 | <p align="center"> 1.0.0 </p> |
 | Zombie Army Trilogy | [0100C7300EEE4000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100C7300EEE4000) | 54211726d36a8d9c | <p align="center"> 1.0.2 </p> | <p align="center"> ✅ </p> |
 
-
+| The Caligula Effect 2 | [0100CC3014886000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100CC3014886000) | 094BD2CDF388A1DB | <p align="center"> 1.0.0 </p> |
 
 ## Cheats Sources
 - https://github.com/LordApple/SXOS-CheatDB
