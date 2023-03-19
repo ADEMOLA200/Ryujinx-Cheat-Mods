@@ -1,4 +1,4 @@
-# Ryujinx Cheats Index [865 Titles]
+# Ryujinx Cheats Index [870 Titles]
 
 
 | NAME | TITLE ID | BUILD ID | VERSION |  60 FPS | GFX |
@@ -87,6 +87,7 @@
 | Aragami 2 (Asia) | [0100021019A18000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100021019A18000) | BF27B8C6E997C22D | <p align="center"> 1.0.30195.0 </p> |  <p align="center"> ✅ </p> |
 | Aragami 2 | [0100787018198000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100787018198000) | 3FFD52E56DD8ADB3  | <p align="center"> 1.0.30195.0 </p> |  <p align="center"> ✅ </p> |
 | Arc of Alchemist | [0100C7D00E6A0000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100C7D00E6A0000) | 3873D07A0F36F124 | <p align="center"> 1.0.2 </p> |
+| Arcade Archives 10-Yard Fight | [0100BE80097FA000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100BE80097FA000) | 24B914A613DD2511 | <p align="center"> 1.0.1 </p> |
 | Arcade Archives ATHENA | [0100BEC00C7A2000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100BEC00C7A2000) | 2769E70ED09EA790 | <p align="center"> 1.0.0 </p> |
 | Arcade Archives BUBBLE BOBBLE | [0100A77019FBA000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100A77019FBA000) | 282F0CDC676A9158 | <p align="center"> 1.0.0 </p> |
 | Arcade Archives CHAMPION WRESTLER | [01005FD018DCE000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01005FD018DCE000) | 031067227AEB664E | <p align="center"> 1.0.2 </p> |
@@ -104,10 +105,13 @@
 | Arcade Archives LIFE FORCE | [0100F380105A4000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100F380105A4000) | c1524d35c1d101ee | <p align="center"> 1.0.0 </p> |
 | Arcade Archives Mario Bros | [0100755004608000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100755004608000) | CD197B478B92DAE8 | <p align="center"> 1.0.1 </p> |
 | Arcade Archives MARVEL LAND (JP) | [0100B67018B98000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100B67018B98000) | EDB7D47483CD6F10 | <p align="center"> 1.0.1 </p> |
+| Arcade Archives MOON PATROL | [01003000097FE000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01003000097FE000) | C8FADC5AF4CD1DFC | <p align="center"> 1.0.1 </p> |
 | Arcade Archives P-47 | [010067A011FF0000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010067A011FF0000) | 71ff1076b315216c | <p align="center"> 1.0.0 </p> |
 | Arcade Archives P.O.W. -PRISONERS OF WAR- | [0100547010920000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100547010920000) | 4f61b94412a715ba  | <p align="center"> 1.0.0 </p> |
 | Arcade Archives PHELIOS | [01009C9019DB6000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01009C9019DB6000) | 0FB01096C008B3AC | <p align="center"> 1.0.1 </p> |
+| Arcade Archives PUNCH-OUT!! | [01001530097F8000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01001530097F8000) | EFA7C305C7475BE2 | <p align="center"> 1.0.1 </p> |
 | Arcade Archives SENJYO | [0100BF8019FEC000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100BF8019FEC000) | 43BB1DF86BBC9380 | <p align="center"> 1.0.0 </p> |
+| Arcade Archives SKY KID DX | [0100387019ECA000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100387019ECA000) | F4C0CBC58671D714 | <p align="center"> 1.0.1 </p> |
 | Arcade Archives Solomon's Key | [01008C900982E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01008C900982E000) | 44f1b4597bf9050e | <p align="center"> 1.0.0 </p> |
 | Arcade Archives STAR FORCE | [010069F008A38000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010069F008A38000) | 17BDA7A970B681FF | <p align="center"> 1.0.1 </p> |
 | Arcade Archives SUNSETRIDERS | [0100D90011534000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100D90011534000) | 814bb22a30cb2d84 | <p align="center"> 1.0.0 </p> |
@@ -485,6 +489,7 @@
 | MARY SKELTER 2 | [01003DE00C95E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01003DE00C95e000) | c16e154e683d7eb8 | <p align="center"> 1.0.4 </p> |
 | Mary Skelter Finale (EU) | [0100419014456000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100419014456000) | FBE4C2EAE551F40A | <p align="center"> 1.0.1 </p> |
 | Mary Skelter Finale | [0100530014438000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100530014438000) | B1AFBB02475AD7E3 | <p align="center"> 1.0.1 </p> | <p align="center"> ✅ </p> |
+| Mato Anomalies | [01006320174AE000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01006320174AE000) | 81D1A2E2C2BB7BF8 | <p align="center"> 1.01 </p> |
 | Max And The Book Of Chaos | [0100A8C011F26000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100A8C011F26000) | 7A0D43680365424E | <p align="center"> 1.0.0 </p> |
 | Maximus 2 | [01000FE0164AA000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01000FE0164AA000) | 9D8382D802511043 | <p align="center"> 4.1.0 </p> |
 | Mega Man 11 | [0100B0C0086B0000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100B0C0086B0000) | 047fdd0c5af5f1c5 | <p align="center"> 1.0.1 </p> |
