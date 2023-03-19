@@ -104,6 +104,12 @@ Work in Progress
 | [60FPS](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/raw/main/Mods/0100D4900E82C000/Metro2033Redux60FPS.rar) | Changes the games max framerate to 60FPS | IPS Patch | 85C362CC9790F0ED | <p align="center"> 1.0.0 </p> | [Kirby567fan](https://github.com/masagrator/NXGraphicsPatches) |
 </BR>
 
+## Metro: Last Light Redux [0100F0400E850000]
+| MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
+| --- | --- | --- | --- | --- | --- |
+| [60FPS](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/raw/main/Mods/0100F0400E850000/MetroLastLightRedux60FPS.rar) | Changes the games max framerate to 60FPS | IPS Patch | 85C362CC9790F0ED | <p align="center"> 1.0.0 </p> | [Kirby567fan](https://github.com/masagrator/NXGraphicsPatches) |
+</BR>
+
 ## Sonic Frontiers [01004AD014BF0000]
 | MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
 | --- | --- | --- | --- | --- | --- |
