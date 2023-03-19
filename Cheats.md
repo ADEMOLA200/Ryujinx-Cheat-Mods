@@ -124,6 +124,7 @@
 | Asdivine Kamura | [0100C8E00F50A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100C8E00F50A000) | 7ac8cbfa0d59a04c | <p align="center"> 1.0.0 </p> |
 | Ashen | [010027B00E40E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010027B00E40E000) | 663E05AB067861EC | <p align="center"> 1.0.0 </p> |  | <p align="center"> ✅ </p> |
 | Ashwalkers | [01002AE014006000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01002AE014006000) | 19DA9CDFDD52EA4A | <p align="center"> 1.0.0.6 |
+| Assassin's Creed® III: Remastered | [01007F600B134000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01007F600B134000) | 43ddf3aed0e7e500 | <p align="center"> 1.0.2 </p> | <p align="center"> ✅ </p> |
 | ASSASSIN’S CREED® THE EZIO COLLECTION - Assassin’s Creed II | [0100670014482000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100670014482000) | 824B38A25986B2AB | <p align="center"> 1.3 </p> | <p align="center"> ✅ </p> |
 | ASSASSIN’S CREED® THE EZIO COLLECTION - Assassin’s Creed Brotherhood | [0100670014482001](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100670014482001) | 2B59D6C677258A2A | <p align="center"> 1.3 </p> | <p align="center"> ✅ </p> |
 | ASSASSIN’S CREED® THE EZIO COLLECTION - Assassin’s Creed Revelations | [0100670014482002](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100670014482002) | 0AE4D1770B196094 | <p align="center"> 1.3 </p> | <p align="center"> ✅ </p> |
