@@ -1,4 +1,4 @@
-# Ryujinx Cheats Index [870 Titles]
+# Ryujinx Cheats Index [871 Titles]
 
 
 | NAME | TITLE ID | BUILD ID | VERSION |  60 FPS | GFX |
@@ -277,7 +277,8 @@
 | Digimon Survive (Asia) | [0100FE601545A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100FE601545A000) | D4DDFD82E5D30F43 | <p align="center"> 1.0.4 </p> | <p align="center"> ✅ </p> |
 | Digimon Survive (JP) | [010002400B770000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010002400B770000) | DA7031694C1A704F | <p align="center"> 1.0.5 </p> | <p align="center"> ✅ </p> |
 | Digimon Survive | [010047500B7B2000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010047500B7B2000) | 68B9365EC9FDEF47 | <p align="center"> 1.0.4 </p> | <p align="center"> ✅ </p> |
-| Digimon World -Next Order- (Asia) | [01007EA015520000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01007EA015520000) | 002190DECA0E9A4B | <p align="center"> 1.0.0 </p> |
+| Digimon World -NEXT 0RDER- (Asia) | [0100DE2015522000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100DE2015522000) | 6B31D2952C15E949 | <p align="center"> 1.0.0 </p> |
+| Digimon World -NEXT 0RDER- INTERNATIONAL EDITION (JP) | [010057B014252000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010057B014252000) | 196BE4DB8F6E4A4C | <p align="center"> 1.0.0 </p> |
 | Digimon World: Next Order (EU) | [0100F00014254000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100F00014254000) | 018F3A9582C69140  | <p align="center"> 1.0.0 </p> |
 | Digimon World: Next Order | [01007EA015520000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01007EA015520000) | 002190DECA0E9A4B  | <p align="center"> 1.0.0 </p> |
 | Disgaea 4 Complete + | [0100A9800E9B4000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100A9800E9B4000) | 6a1bf67d25fc2ed0 | <p align="center"> 1.1.0 </p> |
