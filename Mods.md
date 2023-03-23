@@ -127,3 +127,9 @@ Work in Progress
 | --- | --- | --- | --- | --- | --- |
 | [60FPS](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/raw/main/Mods/01004AD014BF0000/SonicFrontiers60fps.rar) | Changes the games max framerate to 60FPS | IPS Patch | DD7FF70188B281D9 | <p align="center"> 1.1.1 </p> | <p align="center"> gwog  </p> (systemdev) |
 </BR>
+
+## Team Sonic Racing	[010092B0091D0000]
+| MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
+| --- | --- | --- | --- | --- | --- |
+| [60FPS](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/raw/main/Mods/010092B0091D0000/TeamSonicRacing60FPS.rar) | Changes the games max framerate to 60FPS | IPS Patch | AD75285A65EB6FFD | <p align="center"> 1.0.3 </p> | [MasaGratoR](https://github.com/masagrator/NXGraphicsPatches) |
+</BR>
