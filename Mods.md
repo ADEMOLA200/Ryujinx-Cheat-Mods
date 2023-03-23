@@ -35,19 +35,19 @@ Work in Progress
 ## Borderlands 2 [010096F00FF22000]
 | MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
 | --- | --- | --- | --- | --- | --- |
-| [60FPS](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/raw/main/Mods/010096F00FF22000/Borderlands2GOTY60FPS.rar) | Changes the games max framerate to 60FPS | IPS Patch | F7C233469F20DD3F | <p align="center"> 1.0.2 </p> | [Kirby567fan](https://github.com/masagrator/NXGraphicsPatches) |
+| [60FPS](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/raw/main/Mods/010096F00FF22000/1.0.2/Borderlands2GOTY60FPS.rar) | Changes the games max framerate to 60FPS | IPS Patch | F7C233469F20DD3F | <p align="center"> 1.0.2 </p> | [Kirby567fan](https://github.com/masagrator/NXGraphicsPatches) |
 </BR>
 
 ## Borderlands: Game of the Year Edition [010064800F66A000]
 | MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
 | --- | --- | --- | --- | --- | --- |
-| [60FPS](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/raw/main/Mods/010064800F66A000/Borderlands1GOTY60FPS.rar) | Changes the games max framerate to 60FPS | IPS Patch | 1C37C3673E0E4E7A | <p align="center"> 1.0.2 </p> | [Kirby567fan](https://github.com/masagrator/NXGraphicsPatches) |
+| [60FPS](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/raw/main/Mods/010064800F66A000/1.0.2/BorderlandsGOTY60FPS.rar) | Changes the games max framerate to 60FPS | IPS Patch | 1C37C3673E0E4E7A | <p align="center"> 1.0.2 </p> | [Kirby567fan](https://github.com/masagrator/NXGraphicsPatches) |
 </BR>
 
 ## Borderlands: The Pre-sequel [010007400FF24000]
 | MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
 | --- | --- | --- | --- | --- | --- |
-| [60FPS](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/raw/main/Mods/010007400FF24000/BorderlandsPreSequel60FPS.rar) | Changes the games max framerate to 60FPS | IPS Patch | 090B1F7F7AF35D00 | <p align="center"> 1.0.1 </p> | [Kirby567fan](https://github.com/masagrator/NXGraphicsPatches) |
+| [60FPS](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/raw/main/Mods/010007400FF24000/1.0.2/BorderlandsPreSequel60FPS.rar) | Changes the games max framerate to 60FPS | IPS Patch | 090B1F7F7AF35D00 | <p align="center"> 1.0.1 </p> | [Kirby567fan](https://github.com/masagrator/NXGraphicsPatches) |
 </BR>
 
 ## Bulletstorm: Duke of Switch Edition [01003DD00D658000]
