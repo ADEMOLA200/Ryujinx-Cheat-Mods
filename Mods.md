@@ -133,3 +133,9 @@ Work in Progress
 | --- | --- | --- | --- | --- | --- |
 | [60FPS](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/raw/main/Mods/010092B0091D0000/TeamSonicRacing60FPS.rar) | Changes the games max framerate to 60FPS | IPS Patch | AD75285A65EB6FFD | <p align="center"> 1.0.3 </p> | [MasaGratoR](https://github.com/masagrator/NXGraphicsPatches) |
 </BR>
+
+## The Witcher 3: Wild Hunt — Complete Edition	[All Regions]
+| MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
+| --- | --- | --- | --- | --- | --- |
+| [60FPS](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/raw/main/Mods/0100BFE00E9CA000/TW360FPS3.7.rar) | Changes the games max framerate to 60FPS | IPS Patch | 4ffb62f1cd9e17f8 | <p align="center"> 3.7 </p> | [MasaGratoR](https://github.com/masagrator/NXGraphicsPatches) |
+</BR>
