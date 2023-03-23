@@ -17,19 +17,19 @@ Work in Progress
 ## BioShock 2 Remastered [01002620102C6000]
 | MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
 | --- | --- | --- | --- | --- | --- |
-| [60FPS](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/raw/main/Mods/01002620102C6000/Bioshock2_60FPS.rar) | Changes the games max framerate to 60FPS | IPS Patch | 7D1714279435589C | <p align="center"> 1.0.2 </p> | [MasaGratoR](https://github.com/masagrator/NXGraphicsPatches) |
+| [60FPS](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/raw/main/Mods/01002620102C6000/1.0.2/Bioshock2_60FPS.rar) | Changes the games max framerate to 60FPS | IPS Patch | 7D1714279435589C | <p align="center"> 1.0.2 </p> | [MasaGratoR](https://github.com/masagrator/NXGraphicsPatches) |
 </BR>
 
 ## BioShock Infinite: The Complete Edition [0100D560102C8000]
 | MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
 | --- | --- | --- | --- | --- | --- |
-| [60FPS](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/raw/main/Mods/0100D560102C8000/BioshockInf_60FPS.rar) | Changes the games max framerate to 60FPS | IPS Patch | 48681F1D90704F6C | <p align="center"> 1.0.2 </p> | [MasaGratoR](https://github.com/masagrator/NXGraphicsPatches) |
+| [60FPS](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/raw/main/Mods/0100D560102C8000/1.0.2/BioshockInf_60FPS.rar) | Changes the games max framerate to 60FPS | IPS Patch | 48681F1D90704F6C | <p align="center"> 1.0.2 </p> | [MasaGratoR](https://github.com/masagrator/NXGraphicsPatches) |
 </BR>
 
 ## BioShock Remastered [0100AD10102B2000]
 | MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
 | --- | --- | --- | --- | --- | --- |
-| [60FPS](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/raw/main/Mods/0100AD10102B2000/Bioshock_60FPS.rar) | Changes the games max framerate to 60FPS | IPS Patch | D89FFAA2062E373D | <p align="center"> 1.0.2 </p> | [MasaGratoR](https://github.com/masagrator/NXGraphicsPatches) |
+| [60FPS](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/raw/main/Mods/0100AD10102B2000/1.0.2/Bioshock_60FPS.rar) | Changes the games max framerate to 60FPS | IPS Patch | D89FFAA2062E373D | <p align="center"> 1.0.2 </p> | [MasaGratoR](https://github.com/masagrator/NXGraphicsPatches) |
 </BR>
 
 ## Borderlands 2 [010096F00FF22000]
