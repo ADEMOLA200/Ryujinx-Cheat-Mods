@@ -10,9 +10,16 @@ Work in Progress
 ## ARMS™ [01009B500007C000]
 | MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
 | --- | --- | --- | --- | --- | --- |
-| [1080p](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01009B500007C000/5.4.0/1080pv2.rar) | Changes the games resolution to 1080p | ipswitch | 501924B7C22129E5 | <p align="center"> 5.4.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
-| [Disable Dynamic Resolution](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01009B500007C000/5.4.0/DisableDynamicResolutionv2.rar) | Disables the games Dynamic Resolution | ipswitch | 501924B7C22129E5 | <p align="center"> 5.4.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
-| [Disable FXAA](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01009B500007C000/5.4.0/DisableFXAA.rar) | Disables the games FXAA | ipswitch | 501924B7C22129E5 | <p align="center"> 5.4.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
+| <p align="center"> [1080p](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01009B500007C000/5.4.0/1080pv2.rar) </p> | Changes the games resolution to 1080p | ipswitch | 501924B7C22129E5 | <p align="center"> 5.4.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
+| <p align="center"> [Disable Dynamic Resolution](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01009B500007C000/5.4.0/DisableDynamicResolutionv2.rar) </p> | Disables the games Dynamic Resolution | ipswitch | 501924B7C22129E5 | <p align="center"> 5.4.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
+| <p align="center"> [Disable FXAA](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01009B500007C000/5.4.0/DisableFXAA.rar) </p> | Disables the games FXAA | ipswitch | 501924B7C22129E5 | <p align="center"> 5.4.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
+</BR>
+
+## ASTRAL CHAIN [01007300020FA000]
+| MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
+| --- | --- | --- | --- | --- | --- |
+| <p align="center"> [21:9](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01007300020FA000/1.0.1/21'9.rar) </p> | Changes the games Aspect Ratio to 21:9 (Change Aspect Ratio in emulator settings) | ipswitch | 501924B7C22129E5 | <p align="center"> 1.0.1 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
+| <p align="center"> [60FPS with Cutscene Fix](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01007300020FA000/1.0.1/AstralChain60fps30fpsCutscenes.rar) </p> | Changes the max framerate to 60FPS with a cheat to fix Cutscenes | ipswitch | 501924B7C22129E5 | <p align="center"> 1.0.1 </p> | MrComputerRevo Hazerou |
 </BR>
 
 ## Assassin’s Creed®: The Rebel Collection [010044700DEB0000] 
