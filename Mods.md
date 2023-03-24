@@ -12,7 +12,7 @@ Work in Progress
 | --- | --- | --- | --- | --- | --- |
 | <p align="center"> [1080p](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01009B500007C000/5.4.0/1080pv2.rar) </p> | Changes the games resolution to 1080p | ipswitch | 501924B7C22129E5 | <p align="center"> 5.4.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
 | <p align="center"> [Disable Dynamic Resolution](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01009B500007C000/5.4.0/DisableDynamicResolutionv2.rar) </p> | Disables the games Dynamic Resolution | ipswitch | 501924B7C22129E5 | <p align="center"> 5.4.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
-| <p align="center"> [Disable FXAA](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01009B500007C000/5.4.0/DisableFXAA.rar) </p> | Disables the games FXAA | ipswitch | 501924B7C22129E5 | <p align="center"> 5.4.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
+| <p align="center"> [Disable FXAA](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01009B500007C000/5.4.0/DisableFXAA.rar) </p> | Disables the games FXAA | ipswitch | 501924B7C22129E5 | <p align="center"> 5.4.0 </p> | <p align="center"> [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) </p> |
 </BR>
 
 ## ASTRAL CHAIN [01007300020FA000]
