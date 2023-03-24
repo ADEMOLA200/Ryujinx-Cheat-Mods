@@ -19,7 +19,7 @@ Work in Progress
 | MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
 | --- | --- | --- | --- | --- | --- |
 | <p align="center"> [21:9](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01007300020FA000/1.0.1/21'9.rar) </p> | Changes the games Aspect Ratio to 21:9 (Change Aspect Ratio in emulator settings) | ipswitch | 501924B7C22129E5 | <p align="center"> 1.0.1 </p> | <p align="center"> [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) </p> |
-| <p align="center"> [60FPS with Cutscene Fix](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01007300020FA000/1.0.1/AstralChain60fps30fpsCutscenes.rar) </p> | Changes the max framerate to 60FPS with a cheat to fix Cutscenes | ipswitch | 501924B7C22129E5 | <p align="center"> 1.0.1 </p> | <p align="center"> MrComputerRevo Hazerou </p> |
+| <p align="center"> [60FPS with Cutscene Fix](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01007300020FA000/1.0.1/AstralChain60fps30fpsCutscenes.rar) </p> | Changes the max framerate to 60FPS with a cheat to fix Cutscenes | IPS Patch | 501924B7C22129E5 | <p align="center"> 1.0.1 </p> | <p align="center"> MrComputerRevo Hazerou </p> |
 </BR>
 
 ## Assassin’s Creed®: The Rebel Collection [010044700DEB0000] 
@@ -27,6 +27,15 @@ Work in Progress
 | --- | --- | --- | --- | --- | --- |
 | [60FPS](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/010044700DEB0000/1.0.0/AssassinsCreedRebelIVBlackFlag60FPS.rar) | Changes the games max framerate to 60FPS </BR> Assassin's Creed IV Black Flag [010044700DEB0000] | IPS Patch | 85F5D5AB6187F602 | <p align="center"> 1.0.0 </p> | [MasaGratoR](https://github.com/masagrator/NXGraphicsPatches) |
 | [60FPS](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/010044700DEB0001/1.0.1/AssassinsCreedRebelRogue60FPS.rar) | Changes the games max framerate to 60FPS </BR> Assassin's Creed Rogue [010044700DEB0001] | IPS Patch | 3DEF0E36AA8C6592 | <p align="center"> 1.0.1 </p> | [MasaGratoR](https://github.com/masagrator/NXGraphicsPatches) |
+</BR>
+
+## Bayonetta™ 3 [01004A4010FEA000]
+| MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
+| --- | --- | --- | --- | --- | --- |
+| <p align="center"> [60FPS](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01004A4010FEA000/1.2.0/60fps.rar) </p> | Changes the games max framerate to 60FPS | ipswitch | 4104F9C7041985F4 | <p align="center"> 1.2.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
+| <p align="center"> [900p](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01004A4010FEA000/1.2.0/ForceScaling900pv3.rar) </p> | Increases the games Resolution to 900p | ipswitch | 4104F9C7041985F4 | <p align="center"> 5.4.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
+| <p align="center"> [Improve LOD](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01004A4010FEA000/1.2.0/ImprovedLODv2.rar) </p> | Improves the games Object and Level detail | ipswitch | 4104F9C7041985F4 | <p align="center"> 1.2.0</p> | <p align="center"> [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
+| <p align="center"> [Remove Film Grain](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01004A4010FEA000/1.2.0/1080pv2.rar) </p> | Disables the games Film Grain filter | ipswitch | 4104F9C7041985F4 | <p align="center"> 1.2.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
 </BR>
 
 ## BioShock 2 Remastered [01002620102C6000]
