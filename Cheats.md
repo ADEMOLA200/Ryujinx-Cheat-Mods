@@ -441,7 +441,7 @@
 | Kangokutou Mary Skelter 2 (JP) | [0100C3500D956000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100C3500D956000) | B1FC6FB94ECE1DF1 | <p align="center"> 1.0.3 </p> |
 | Katana ZERO | [010029600D56A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010029600D56A000) | 158A7F586431982E | <p align="center"> 1.0.5 </p> |
 | Kingdom Rush Frontiers | [010046200FC62000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010046200FC62000) | b1c0e2f9dbf2adfb | <p align="center"> 3.2.23 |
-| Kingdoms of Amalur: Re-Reckoning | [0100EF50132BE000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100EF50132BE000) | 5B3112FD2C83E1AC | <p align="center"> 1.0.4 </p> | <p align="center"> ✅ </p> |
+| Kingdoms of Amalur: Re-Reckoning | [0100EF50132BE000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100EF50132BE000) | F69D419BCF791019 | <p align="center"> 1.0.6 </p> |
 | Kirby™ and the Forgotten Land | [01004D300C5AE000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01004D300C5AE000) | D9BA7DB72FFAFECD | <p align="center"> 1.0.0 </p> | <p align="center"> ✅ </p> |
 | Kirby Fighters™ 2 | [0100227010460000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100227010460000) | 738ae024b3aecb69 | <p align="center"> 1.0.0 </p> |
 | Kirby™ Star Allies | [01007E3006DDA000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01007E3006DDA000) | D55608916FA56C18 | <p align="center"> 4.0.0 </p> | <p align="center"> ✅ </p> |
