@@ -4,9 +4,9 @@ Work in Progress
 ## ARMS™ [01009B500007C000]
 | MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
 | --- | --- | --- | --- | --- | --- |
-| [1080p](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01009B500007C000/5.4.0/1080pv2.rar) | Changes the games resolution to 1080p | ipswitch | 15DCB7935B84A141 | <p align="center"> 5.4.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
-| [Disable Dynamic Resolution](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01009B500007C000/5.4.0/DisableDynamicResolutionv2.rar) | Disables the games Dynamic Resolution | ipswitch | 15DCB7935B84A141 | <p align="center"> 5.4.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
-| [Disable FXAA](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01009B500007C000/5.4.0/DisableFXAA.rar) | Disables the games FXAA | ipswitch | 15DCB7935B84A141 | <p align="center"> 5.4.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
+| [1080p](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01009B500007C000/5.4.0/1080pv2.rar) | Changes the games resolution to 1080p | ipswitch | 501924B7C22129E5 | <p align="center"> 5.4.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
+| [Disable Dynamic Resolution](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01009B500007C000/5.4.0/DisableDynamicResolutionv2.rar) | Disables the games Dynamic Resolution | ipswitch | 501924B7C22129E5 | <p align="center"> 5.4.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
+| [Disable FXAA](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01009B500007C000/5.4.0/DisableFXAA.rar) | Disables the games FXAA | ipswitch | 501924B7C22129E5 | <p align="center"> 5.4.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
 </BR>
 
 ## AER Memories of Old [0100A0400DDE0000]
