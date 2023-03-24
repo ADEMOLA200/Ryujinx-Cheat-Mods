@@ -168,7 +168,7 @@
 | Battle of Elementals BURST (JP) | [0100F9E00ED30000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100F9E00ED30000) | c5c3a5df6275b3cd | <p align="center"> 1.0.0 </p> |
 | Battle Princess Madelyn | [0100C4D0093EA000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100C4D0093EA000) | 8C853C65D7FF824F | <p align="center"> 1.0.5 </p> |
 | Bayonetta™ 2 | [01007960049A0000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01007960049A0000) | F19B2E01E1794F93 | <p align="center"> 1.2.0 </p> |
-| Bayonetta™ 3 | [01004A4010FEA000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01004A4010FEA000) | 4104F9C7041985F4 | <p align="center"> 1.0.0 </p> |
+| Bayonetta™ 3 | [01004A4010FEA000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01004A4010FEA000) | 4104F9C7041985F4 | <p align="center"> 1.2.0 </p> |
 | Bayonetta Origins: Cereza and the Lost Demon™ | [0100CF5010FEC000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100CF5010FEC000) | A1CE2940D813ACAB | <p align="center"> 1.0.0 </p> |
 | BE-A Walker | [01003A1010E3C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01003A1010E3C000) | dc7a206287057848 | <p align="center"> 1.0.0 </p> |
 | Beast Quest | [01001EB00E9FE000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01001EB00E9FE000) | 1dd68befb8b47446 | <p align="center"> 1.0.2 </p> |
