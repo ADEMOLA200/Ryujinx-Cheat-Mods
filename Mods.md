@@ -56,86 +56,86 @@ Work in Progress
 | [60FPS](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/raw/main/Mods/01003DD00D658000/1.14.0/Bulletstorm60FPS.rar) | Changes the games max framerate to 60FPS | IPS Patch | 32FC35DF1C50E1F1 | <p align="center"> 1.14.0 </p> | [Kirby567fan](https://github.com/masagrator/NXGraphicsPatches) |
 </BR>
 
-## Call of Juarez: Gunslinger [010073401175E000]
+## Call of Juarez: Gunslinger [0100B4700BFC6000]
 | MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
 | --- | --- | --- | --- | --- | --- |
-| [60FPS](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/raw/main/Mods/010073401175E000/CallofJuarez60FPS.rar) | Changes the games max framerate to 60FPS | IPS Patch | EBF7DE558d554C7E | <p align="center"> 1.0.4_5 </p> | [Kirby567fan](https://github.com/masagrator/NXGraphicsPatches) |
+| [60FPS](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/raw/main/Mods/0100B4700BFC6000/1.0.4_5/CallofJuarez60FPS.rar) | Changes the games max framerate to 60FPS | IPS Patch | EBF7DE558d554C7E | <p align="center"> 1.0.4_5 </p> | [Kirby567fan](https://github.com/masagrator/NXGraphicsPatches) |
 </BR>
 
 ## Crash Bandicoot™ N. Sane Trilogy [0100D1B006744000]
 | MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
 | --- | --- | --- | --- | --- | --- |
-| [60FPS](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/raw/main/Mods/0100D1B006744000/CBNT60FPS.rar) | Changes the games max framerate to 60FPS | IPS Patch | 29E1A37D84227147 | <p align="center"> 1.0.0 </p> | [Kirby567fan](https://github.com/masagrator/NXGraphicsPatches) |
+| [60FPS](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/raw/main/Mods/0100D1B006744000/1.0.0/CBNT60FPS.rar) | Changes the games max framerate to 60FPS | IPS Patch | 29E1A37D84227147 | <p align="center"> 1.0.0 </p> | [Kirby567fan](https://github.com/masagrator/NXGraphicsPatches) |
 </BR>
 
 ## Crash™ Team Racing Nitro-Fueled [0100F9F00C696000]
 | MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
 | --- | --- | --- | --- | --- | --- |
-| [60FPS](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/raw/main/Mods/0100F9F00C696000/CTR60FPS.rar) | Changes the games max framerate to 60FPS | IPS Patch | 1C68951840693051 | <p align="center"> 1.0.15 </p> | [Kirby567fan](https://github.com/masagrator/NXGraphicsPatches) |
+| [60FPS](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/raw/main/Mods/0100F9F00C696000/1.0.15/CTR60FPS.rar) | Changes the games max framerate to 60FPS | IPS Patch | 1C68951840693051 | <p align="center"> 1.0.15 </p> | [Kirby567fan](https://github.com/masagrator/NXGraphicsPatches) |
 </BR>
 
 ## Darksiders II Deathinitive Edition [010071800BA98000]
 | MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
 | --- | --- | --- | --- | --- | --- |
-| [60FPS](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/raw/main/Mods/010071800BA98000/Darksiders260FPS.rar) | Changes the games max framerate to 60FPS | IPS Patch | 173E2EDEA9E5D940 | <p align="center"> 1.0.0 </p> | [MasaGratoR](https://github.com/masagrator/NXGraphicsPatches) |
+| [60FPS](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/raw/main/Mods/010071800BA98000/1.0.0/Darksiders260FPS.rar) | Changes the games max framerate to 60FPS | IPS Patch | 173E2EDEA9E5D940 | <p align="center"> 1.0.0 </p> | [MasaGratoR](https://github.com/masagrator/NXGraphicsPatches) |
 </BR>
 
 ## DOOM (2016) [0100416004C00000]
 | MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
 | --- | --- | --- | --- | --- | --- |
-| [60FPS](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/raw/main/Mods/0100416004C00000/DOOM201660FPS.rar) | Changes the games max framerate to 60FPS | IPS Patch | 01ACE43E724259C3 | <p align="center"> 1.2 </p> | [Kirby567fan](https://github.com/masagrator/NXGraphicsPatches) |
+| [60FPS](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/raw/main/Mods/0100416004C00000/1.2/DOOM201660FPS.rar) | Changes the games max framerate to 60FPS | IPS Patch | 01ACE43E724259C3 | <p align="center"> 1.2 </p> | [Kirby567fan](https://github.com/masagrator/NXGraphicsPatches) |
 </BR>
 
 ## Fire Emblem™: Three Houses [010055D009F78000]
 | MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
 | --- | --- | --- | --- | --- | --- |
-| [60FPS](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/raw/main/Mods/010055D009F78000/FireEmblem3Houses-60FPS.rar) | Changes the games max framerate to 60FPS | IPS Patch | 89048449BA238C8C | <p align="center"> 1.2.0 </p> | [MasaGratoR](https://github.com/masagrator/NXGraphicsPatches) |
+| [60FPS](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/raw/main/Mods/010055D009F78000/1.2.0/FireEmblem3Houses-60FPS.rar) | Changes the games max framerate to 60FPS | IPS Patch | 89048449BA238C8C | <p align="center"> 1.2.0 </p> | [MasaGratoR](https://github.com/masagrator/NXGraphicsPatches) |
 </BR>
 
 ## Mario + Rabbids® Kingdom Battle [010067300059A000]
 | MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
 | --- | --- | --- | --- | --- | --- |
-| [60FPS](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/raw/main/Mods/010067300059A000/Mario+RabbidsKB60FPS.rar) | Changes the games max framerate to 60FPS | IPS Patch | 3B39E0C06B8841F1 | <p align="center"> 1.9.589692 </p> | [Kirby567fan](https://github.com/masagrator/NXGraphicsPatches) |
+| [60FPS](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/raw/main/Mods/010067300059A000/1.9.589692/Mario+RabbidsKB60FPS.rar) | Changes the games max framerate to 60FPS | IPS Patch | 3B39E0C06B8841F1 | <p align="center"> 1.9.589692 </p> | [Kirby567fan](https://github.com/masagrator/NXGraphicsPatches) |
 </BR>
 
 ## Metro 2033 Redux [0100D4900E82C000]
 | MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
 | --- | --- | --- | --- | --- | --- |
-| [60FPS](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/raw/main/Mods/0100D4900E82C000/Metro2033Redux60FPS.rar) | Changes the games max framerate to 60FPS | IPS Patch | 85C362CC9790F0ED | <p align="center"> 1.0.0 </p> | [Kirby567fan](https://github.com/masagrator/NXGraphicsPatches) |
+| [60FPS](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/raw/main/Mods/0100D4900E82C000/1.0.0/Metro2033Redux60FPS.rar) | Changes the games max framerate to 60FPS | IPS Patch | 85C362CC9790F0ED | <p align="center"> 1.0.0 </p> | [Kirby567fan](https://github.com/masagrator/NXGraphicsPatches) |
 </BR>
 
 ## Metro: Last Light Redux [0100F0400E850000]
 | MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
 | --- | --- | --- | --- | --- | --- |
-| [60FPS](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/raw/main/Mods/0100F0400E850000/MetroLastLightRedux60FPS.rar) | Changes the games max framerate to 60FPS | IPS Patch | 85C362CC9790F0ED | <p align="center"> 1.0.0 </p> | [Kirby567fan](https://github.com/masagrator/NXGraphicsPatches) |
+| [60FPS](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/raw/main/Mods/0100F0400E850000/1.0.0/MetroLastLightRedux60FPS.rar) | Changes the games max framerate to 60FPS | IPS Patch | 85C362CC9790F0ED | <p align="center"> 1.0.0 </p> | [Kirby567fan](https://github.com/masagrator/NXGraphicsPatches) |
 </BR>
 
 ## ONINAKI [01001AF00CE54000]
 | MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
 | --- | --- | --- | --- | --- | --- |
-| [60FPS](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/raw/main/Mods/01001AF00CE54000/Oninaki60FPS.rar) | Changes the games max framerate to 60FPS | IPS Patch | C949E2576F532C43 | <p align="center"> 1.0.2 </p> | [MasaGratoR](https://github.com/masagrator/NXGraphicsPatches) |
+| [60FPS](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/raw/main/Mods/01001AF00CE54000/1.0.2/Oninaki60FPS.rar) | Changes the games max framerate to 60FPS | IPS Patch | C949E2576F532C43 | <p align="center"> 1.0.2 </p> | [MasaGratoR](https://github.com/masagrator/NXGraphicsPatches) |
 </BR>
 
 ## Pokémon Mystery Dungeon™: Rescue Team DX	 [01003D200BAA2000]
 | MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
 | --- | --- | --- | --- | --- | --- |
-| [60FPS](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/raw/main/Mods/01003D200BAA2000/PKMMDRTDX60FPS.rar) | Changes the games max framerate to 60FPS | IPS Patch | 3AB632DEE82D5944 | <p align="center"> 1.0.2 </p> | [MasaGratoR](https://github.com/masagrator/NXGraphicsPatches) |
+| [60FPS](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/raw/main/Mods/01003D200BAA2000/1.0.2/PKMMDRTDX60FPS.rar) | Changes the games max framerate to 60FPS | IPS Patch | 3AB632DEE82D5944 | <p align="center"> 1.0.2 </p> | [MasaGratoR](https://github.com/masagrator/NXGraphicsPatches) |
 </BR>
 
 ## Sonic Frontiers [01004AD014BF0000]
 | MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
 | --- | --- | --- | --- | --- | --- |
-| [60FPS](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/raw/main/Mods/01004AD014BF0000/SonicFrontiers60fps.rar) | Changes the games max framerate to 60FPS | IPS Patch | DD7FF70188B281D9 | <p align="center"> 1.1.1 </p> | <p align="center"> gwog  </p> (systemdev) |
+| [60FPS](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/raw/main/Mods/01004AD014BF0000/1.1.1/SonicFrontiers60fps.rar) | Changes the games max framerate to 60FPS | IPS Patch | DD7FF70188B281D9 | <p align="center"> 1.1.1 </p> | <p align="center"> gwog  </p> (systemdev) |
 </BR>
 
 ## Team Sonic Racing	[010092B0091D0000]
 | MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
 | --- | --- | --- | --- | --- | --- |
-| [60FPS](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/raw/main/Mods/010092B0091D0000/TeamSonicRacing60FPS.rar) | Changes the games max framerate to 60FPS | IPS Patch | AD75285A65EB6FFD | <p align="center"> 1.0.3 </p> | [MasaGratoR](https://github.com/masagrator/NXGraphicsPatches) |
+| [60FPS](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/raw/main/Mods/010092B0091D0000/1.0.3/TeamSonicRacing60FPS.rar) | Changes the games max framerate to 60FPS | IPS Patch | AD75285A65EB6FFD | <p align="center"> 1.0.3 </p> | [MasaGratoR](https://github.com/masagrator/NXGraphicsPatches) |
 </BR>
 
 ## The Witcher 3: Wild Hunt — Complete Edition	[All Regions]
 | MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
 | --- | --- | --- | --- | --- | --- |
-| [60FPS](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/raw/main/Mods/0100BFE00E9CA000/TW360FPS3.7.rar) | Changes the games max framerate to 60FPS | IPS Patch | 4ffb62f1cd9e17f8 | <p align="center"> 3.7 </p> | [MasaGratoR](https://github.com/masagrator/NXGraphicsPatches) |
+| [60FPS](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/raw/main/Mods/0100BFE00E9CA000/3.7/TW360FPS3.7.rar) | Changes the games max framerate to 60FPS | IPS Patch | 4ffb62f1cd9e17f8 | <p align="center"> 3.7 </p> | [MasaGratoR](https://github.com/masagrator/NXGraphicsPatches) |
 </BR>
