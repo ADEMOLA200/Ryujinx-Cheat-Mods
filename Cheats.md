@@ -437,7 +437,7 @@
 | Johnny Turbo's Arcade: Night Slashers | [0100F7300C90E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100F7300C90E000) | 64B19FA91081374F | <p align="center"> 1.0.0 </p> |
 | Johnny Turbo's Arcade: Two Crude Dudes | [010080D002CC6000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010080D002CC6000) | A08736D63A033846 | <p align="center"> 1.0.0 
 | JYDGE | [010035A0044E8000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010035A0044E8000) | 8728EFBC0732AA2F | <p align="center"> 1.1.0 </p> |
-| Kamigokutou Mary Skelter Finale (JP) | [010042C011736000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010042C011736000) | 2AAE0A81D2DD489C | <p align="center"> 1.0.4 </p> |
+| Kamigokutou Mary Skelter Finale (JP) | [010042C011736000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010042C011736000) | 2AAE0A81D2DD489C | <p align="center"> 1.0.4 </p> | <p align="center"> ✅ </p> |
 | Kangokutou Mary Skelter 2 (JP) | [0100C3500D956000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100C3500D956000) | B1FC6FB94ECE1DF1 | <p align="center"> 1.0.3 </p> |
 | Katana ZERO | [010029600D56A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010029600D56A000) | 158A7F586431982E | <p align="center"> 1.0.5 </p> |
 | Kingdom Rush Frontiers | [010046200FC62000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010046200FC62000) | b1c0e2f9dbf2adfb | <p align="center"> 3.2.23 |
