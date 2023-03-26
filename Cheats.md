@@ -598,7 +598,7 @@
 | Rack N Ruin | [0100B8100C54A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100B8100C54A000) | 4E587FE27A463D4C | <p align="center"> 1.0.3-5 </p> |
 | Rad Rodgers Radical Edition | [010000600CD54000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010000600CD54000) | 78885a1ca987c04c | <p align="center"> 1.2.0 </p> | <p align="center"> ✅ </p> |
 | Radiation City | [0100DA400E07E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100DA400E07E000) | 8ac5ab12589a13be | <p align="center"> 1.0.1 </p> |
-| Raiden III × MIKADO MANIAX (JP) | [010089F015FC4000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010089F015FC4000) | 30BA6F1A40C48257 | <p align="center"> 1.0.1 </p> |
+| Raiden III × MIKADO MANIAX (JP) | [010089F015FC4000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010089F015FC4000) | DA4F9AB45CFF5D11 | <p align="center"> 1.0.2 </p> |
 | Raiden V: Director's Cut | [01002B000D97E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01002B000D97E000) | 941057a850e286df | <p align="center"> 1.0.0 </p> |
 | Raji: An Ancient Epic | [010010B00DDA2000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010010B00DDA2000) | 8A39E660F956BB00 | <p align="center"> 1.0.3 </p> | <p align="center"> ✅ </p> | <p align="center"> ✅ </p> |
 | Rayman® Legends Definitive Edition | [01005FF002E2A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01005FF002E2A000) | F466DA1D713533C2 | <p align="center"> 1.0.2 </p> |
