@@ -1,2 +1,2 @@
-FATAL FRAME: Mask of the Lunar Eclipse v1.0.0
+FATAL FRAME: Mask of the Lunar Eclipse v1.0.1
 @Eiffel2018
