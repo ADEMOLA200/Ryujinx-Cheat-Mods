@@ -335,7 +335,9 @@
 | F.I.S.T.: Forged In Shadow Torch (JP) | [01008EB017F3E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01008EB017F3E000) | 599334AD9E47C19D | <p align="center"> 1.0.1 </p> |
 | F.I.S.T.: Forged In Shadow Torch| [01009F8017F48000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01009F8017F48000) | 69EE5F71F187EAA9  | <p align="center"> 1.0.4 </p> | <p align="center"> ✅ </p> | <p align="center"> ✅ </p> |
 | Fairune Collection | [01008A6009758000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01008A6009758000) | ea5c70af7f4d8a4f | <p align="center"> 1.0.2 </p> |
-| FATAL FRAME: Maiden of Black Water | [0100DAE019110000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100DAE019110000) | A113BFF8D52F6CE9 | <p align="center"> 1.0.0 </p> |
+| FATAL FRAME: Mask of the Lunar Eclipse (JP) | [010064C0190F8000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010064C0190F8000) | AD3B998ED6253A43 | <p align="center"> 1.0.1 </p> |
+| FATAL FRAME: Mask of the Lunar Eclipse (Asia) | [010091B01A438000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010091B01A438000) | 348A591EB153405B | <p align="center"> 1.0.1 </p> |
+| FATAL FRAME: Mask of the Lunar Eclipse | [0100DAE019110000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100DAE019110000) | 0318B8AC0526D3BC | <p align="center"> 1.0.1 </p> |
 | Fate/EXTELLA: The Umbral Star | [010053E002EA2000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010053E002EA2000) | 76EC789B99A25BA5 | <p align="center"> 1.0.0 </p> | <p align="center"> ✅ </p> |
 | Fear Effect Sedna | [01005AC0068F6000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01005AC0068F6000) | 89647E6361E7CD48 | <p align="center"> 1.1.1 </p> |
 | Feral Fury | [010097E00ADC2000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010097E00ADC2000) | E3D0BA009ED53707 | <p align="center"> 1.0.1 </p> |
@@ -868,8 +870,6 @@
 | Yu-Gi-Oh! Legacy of the Duelist : Link Evolution | [010022400BE5A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010022400BE5A000) | cdc49702ee3df923 | <p align="center"> 1.0.1 </p> |
 | Zelda Musou: Hyrule All Stars DX (JP) | [01002AB007FD2000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01002AB007FD2000) | 3F8FFAD9352A760A | <p align="center"> 1.0.1 </p> |
 | Zengeon | [0100057011E50000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100057011E50000) | 11ac5288ea1bb24e | <p align="center"> 1.6.1 </p> |
-| Zero -Lunar Eclipse Mask- (JP) | [010064C0190F8000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010064C0190F8000) | 20C4515F374FD10D | <p align="center"> 1.0.0 </p> |
-| Zero -Masque of Lunar Eclipse- (Asia) | [010091B01A438000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010091B01A438000) | 30A61812075B2AD6 | <p align="center"> 1.0.0 </p> |
 | Zero Strain | [01004B001058C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01004B001058C000) | f3d71b69aae71376 | <p align="center"> 1.0.0 </p> |
 | ZIC: Zombies in City | [010049E017598000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010049E017598000) | AE9B62EBE7664970 | <p align="center"> 1.0 </p> |
 | Zoids Wild: King of Blast (JP) | [0100E43009320000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100E43009320000) | bcc92811606bd64f | <p align="center"> 1.0.0 </p> |
