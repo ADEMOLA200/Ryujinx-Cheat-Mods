@@ -122,6 +122,13 @@ Work in Progress
 | <p align="center"> [4K-2K](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01008D800AE4A000/1.0.0/4K-2K.rar) </p> | Changes the games Resolution to 4K Docked, 2K Handheld | ipswitch | 06EEF8687F1DE042 | <p align="center"> 1.0.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
 </BR>
 
+## Hollow Knight [0100633007D48000]
+| MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
+| --- | --- | --- | --- | --- | --- |
+| <p align="center"> [4K-2K](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/0100633007D48000/1.4.3.2/4K-2K.rar) </p> | Changes the games Resolution to 4K Docked, 2K Handheld | ipswitch | FB968CFB649A5842 | <p align="center"> 1.4.3.2 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
+| <p align="center"> [120FPS](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/0100633007D48000/1.4.3.2/120fps.rar) </p> | Changes the games max Framerate to 120FPS | ipswitch | FB968CFB649A5842 | <p align="center"> 1.4.3.2 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
+</BR>
+
 ## Mario + Rabbids® Kingdom Battle [010067300059A000]
 | MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
 | --- | --- | --- | --- | --- | --- |
