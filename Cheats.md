@@ -1,4 +1,4 @@
-# Ryujinx Cheats Index [871 Titles]
+# Ryujinx Cheats Index [879 Titles]
 
 
 | NAME | TITLE ID | BUILD ID | VERSION |  60 FPS | GFX |
@@ -91,8 +91,10 @@
 | Arcade Archives ATHENA | [0100BEC00C7A2000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100BEC00C7A2000) | 2769E70ED09EA790 | <p align="center"> 1.0.0 </p> |
 | Arcade Archives BUBBLE BOBBLE | [0100A77019FBA000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100A77019FBA000) | 282F0CDC676A9158 | <p align="center"> 1.0.0 </p> |
 | Arcade Archives CHAMPION WRESTLER | [01005FD018DCE000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01005FD018DCE000) | 031067227AEB664E | <p align="center"> 1.0.2 </p> |
+| Arcade Archives City CONNECTION | [010007A00980C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010007A00980C000) | 569E54D9BC7638D0 | <p align="center"> 1.0.3 </p> |
 | Arcade Archives CONTRA | [01007F4012B84000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01007F4012B84000) | 3012eb62b098d6db | <p align="center"> 1.0.0 </p> |
 | Arcade Archives CRAZY CLIMBER | [0100BB1001DD6000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100BB1001DD6000) | 88E11D3D8A79074F | <p align="center"> 1.0.0 </p> |
+| Arcade Archives DONKEY KONG | [0100E9E00B052000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100E9E00B052000) | 5392C476ED03CF20 | <p align="center"> 1.0.0 </p> |
 | Arcade Archives DOUBLE DRAGON | [0100F25001DD0000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100F25001DD0000) | EE8FF8AB280B735F | <p align="center"> 1.0.0 </p> |
 | Arcade Archives DOUBLE DRAGON II The Revenge | [01009E3001DDE000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01009E3001DDE000) | 7BB496830FBAEFB5 | <p align="center"> 1.0.0 </p> |
 | Arcade Archives ELEVATOR ACTION | [0100BF8006EC6000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100BF8006EC6000) | 577ACAADDD8D907B | <p align="center"> 1.0.0 </p> |
@@ -100,6 +102,7 @@
 | Arcade Archives FROGGER | [010047100f978000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010047100f978000) | 7d6224f7125ce217 | <p align="center"> 1.0.0 </p> |
 | Arcade Archives GRADIUS III | [01006230131A4000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01006230131A4000) | A9E99D1CFFC554C7 | <p align="center"> 1.0.5 </p> |
 | Arcade Archives IKARI III -THE RESCUE- | [01004B1010E58000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01004B1010E58000) | 78c93f31319080e0 | <p align="center"> 1.0.0 </p> |
+| Arcade Archives Ikki | [01000DB00980A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01000DB00980A000) | ECA7BCDC056188AD | <p align="center"> 1.0.0 </p> |
 | Arcade Archives IMAGE FIGHT | [010008300C978000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010008300C978000) | 607440A612128046 | <p align="center"> 1.0.1 </p> |
 | Arcade Archives KOUTETSU YOUSAI STRAHL | [01005370123D0000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01005370123D0000) | 4c32b4f0cdc19592 | <p align="center"> 1.0.0 </p> |
 | Arcade Archives LIFE FORCE | [0100F380105A4000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100F380105A4000) | c1524d35c1d101ee | <p align="center"> 1.0.0 </p> |
@@ -110,6 +113,7 @@
 | Arcade Archives P.O.W. -PRISONERS OF WAR- | [0100547010920000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100547010920000) | 4f61b94412a715ba  | <p align="center"> 1.0.0 </p> |
 | Arcade Archives PHELIOS | [01009C9019DB6000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01009C9019DB6000) | 0FB01096C008B3AC | <p align="center"> 1.0.1 </p> |
 | Arcade Archives PUNCH-OUT!! | [01001530097F8000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01001530097F8000) | EFA7C305C7475BE2 | <p align="center"> 1.0.1 </p> |
+| Arcade Archives Renegade | [010081E001DD2000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010081E001DD2000) | 440BA52CE133424A | <p align="center"> 1.0.0 </p> |
 | Arcade Archives SENJYO | [0100BF8019FEC000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100BF8019FEC000) | 43BB1DF86BBC9380 | <p align="center"> 1.0.0 </p> |
 | Arcade Archives SKY KID DX | [0100387019ECA000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100387019ECA000) | F4C0CBC58671D714 | <p align="center"> 1.0.1 </p> |
 | Arcade Archives Solomon's Key | [01008C900982E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01008C900982E000) | 44f1b4597bf9050e | <p align="center"> 1.0.0 </p> |
@@ -219,6 +223,7 @@
 | Catherine: Full Body | [0100BF00112C0000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100BF00112C0000) | 93A79C77DA81F7F1 | <p align="center"> 1.0.1 </p> |
 | Caveman Chuck | [010080C00AC3C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010080C00AC3C000) | d1a4590fbb68204b | <p align="center"> 1.0.0 </p> |
 | Caveman Warriors | [01006DB004566000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01006DB004566000) | AA14F75E7C738844 | <p align="center"> 2.0.0 </p> |
+| Caverns of Mars: Recharged | [01009B201A10E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01009B201A10E000) | D3F53669DDC6AB45 | <p align="center"> 1.0.1 </p> |
 | CHAOS CODE -NEW SIGN OF CATASTROPHE- | [01007600115CE000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01007600115CE000) | 9101cd39a5d71c29 | <p align="center"> 1.1.1 </p> |
 | Chenso Club | [0100276018002000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100276018002000) | 314761C8FD30894F | <p align="center"> 1.0.1 </p> |
 | Child of Light® Ultimate Edition | [01007D000AD8A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01007D000AD8A000) | A8D1F8391E7D4D31 | <p align="center"> 1.0.0 </p> |
@@ -249,6 +254,7 @@
 | Dandy Dungeon -Legend of Brave Yamada | [0100DFB00D808000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100DFB00D808000) | 29410CA2711A4145 | <p align="center"> 2.0.3 </p> |
 | Danmaku Unlimited 3 | [0100417007F78000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100417007F78000) | 35177D3968ACA808 | <p align="center"> 1.1.2 </p> |
 | Darius Burst Another Chronicle EX+ (JP) | [010015800F93C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010015800F93C000) | E6AF25ECBD97A207 | <p align="center"> 1.0.2 </p> |
+| Darius Cozmic Collection Arcade | [01001D20105C0000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01001D20105C0000) | 3CAA8A15D6B681FF | <p align="center"> 1.0.0 </p> |
 | Darius Cozmic Collection Console | [01000330105BE000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01000330105BE000) | ded774f05f23a7e9 | <p align="center"> 1.0.0 </p> |
 | Dariusburst: Another Chronicle EX+ | [010043F013044000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010043F013044000) | FF3B532334E35F08 | <p align="center"> 1.0.2 </p> |
 | DARK SOULS™: REMASTERED | [01004AB00A260000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01004AB00A260000) | df3766a2bb651a3e | <p align="center"> 1.0.3 </p> | <p align="center"> ✅ </p> |
@@ -259,6 +265,7 @@
 | Darksiders Warmastered Edition | [0100E1400BA96000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100E1400BA96000) | A4CC4C44C07AEC14 | <p align="center"> 1.0.0 </p> | <p align="center"> ✅ </p> |
 | Darkwood | [010033500B7B6000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010033500B7B6000) | 250CE7C4A4DE1940 | <p align="center"> 1.0.4 </p> |
 | DC Super Hero Girls™: Teen Power | [0100F8F00C4F2000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100F8F00C4F2000) | BC714E2D7D32AB41 | <p align="center"> 1.0.1 </p> |
+| DC's Justice League: Cosmic Chaos | [0100157015DD8000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100157015DD8000) | 2BFC784E7E10DD89 | <p align="center"> 1.0.1 </p> |
 | Dead Cells | [0100646009FBE000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100646009FBE000) | 4E539F27FF8B38EB | <p align="center"> 1.23.1 </p> |
 | Dead Effect 2 | [01007860152EE000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01007860152EE000) | 630ab427cb952e4d | <p align="center"> 1.0.0 </p> |
 | DEAD OR SCHOOL | [0100E7100C52C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100E7100C52C000) | d29fa0c8b15e7842 | <p align="center"> 1.0.0 </p> |
@@ -608,6 +615,7 @@
 | Redout: Space Assault | [0100326010B98000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100326010B98000) | 606f37176b3dd269 | <p align="center"> 1.0.2 </p> |
 | Reed 2 | [01003EF0118D2000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01003EF0118D2000) | d93fa66964036f0e | <p align="center"> 1.0.0 </p> |
 | RemiLore | [010095900B436000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010095900B436000) | 39FBFC95E715944A | <p align="center"> 1.0.3 </p> |
+| Remnant: From the Ashes | [010010F01418E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010010F01418E000) | 49CF6B0B0A62F9E2 | <p align="center"> 1.0.1 </p> |
 | Remothered: Tormented Fathers | [01008F600F2D0000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01008F600F2D0000) | eb57cf3434044523 | <p align="center"> 1.0.3 </p> |
 | Resident Evil | [010050F00BC1A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010050F00BC1A000) | 6bec9b23b09df46c | <p align="center"> 1.0.0 </p> |
 | Resident Evil 0 | [010097000BC10000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010097000BC10000) | fb4239aa962b429b | <p align="center"> 1.0.0 </p> |
@@ -876,7 +884,7 @@
 | Zoids Wild Blast Unleashed | [010069C0123D8000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010069C0123D8000) | f894caf55083a245 | <p align="center"> 1.0.0 </p> |
 | Zombie Army Trilogy | [0100C7300EEE4000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100C7300EEE4000) | 54211726d36a8d9c | <p align="center"> 1.0.2 </p> | <p align="center"> ✅ </p> |
 
-
+| DC's Justice League: Cosmic Chaos | [0100157015DD8000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100157015DD8000) | 2BFC784E7E10DD89 | <p align="center"> 1.0.1 </p> |
 
 ## Cheats Sources
 - https://github.com/LordApple/SXOS-CheatDB
