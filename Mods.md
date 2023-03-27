@@ -113,7 +113,7 @@ Work in Progress
 ## FullBlast [01008D800AE4A000]
 | MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
 | --- | --- | --- | --- | --- | --- |
-| <p align="center"> [4K-2K](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01008D800AE4A000/1.0.0/4K-2K.rar) </p> | Changes the games Resolution to 2160p Docked, 720p Handheld. | ipswitch | 06EEF8687F1DE042 | <p align="center"> 1.0.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
+| <p align="center"> [4K-2K](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01008D800AE4A000/1.0.0/4K-2K.rar) </p> | Changes the games Resolution to 2160p Docked, 1440p Handheld. | ipswitch | 06EEF8687F1DE042 | <p align="center"> 1.0.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
 </BR>
 
 ## Fire Emblem™: Three Houses [010055D009F78000]
