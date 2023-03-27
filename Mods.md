@@ -110,16 +110,16 @@ Work in Progress
 | [60FPS](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/raw/main/Mods/0100416004C00000/1.2/DOOM201660FPS.rar) | Changes the games max Framerate to 60FPS | IPS Patch | 01ACE43E724259C3 | <p align="center"> 1.2 </p> | [Kirby567fan](https://github.com/masagrator/NXGraphicsPatches) |
 </BR>
 
-## FullBlast [01008D800AE4A000]
-| MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
-| --- | --- | --- | --- | --- | --- |
-| <p align="center"> [4K-2K](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01008D800AE4A000/1.0.0/4K-2K.rar) </p> | Changes the games Resolution to 2160p Docked, 1440p Handheld. | ipswitch | 06EEF8687F1DE042 | <p align="center"> 1.0.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
-</BR>
-
 ## Fire Emblem™: Three Houses [010055D009F78000]
 | MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
 | --- | --- | --- | --- | --- | --- |
 | [60FPS](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/raw/main/Mods/010055D009F78000/1.2.0/FireEmblem3Houses-60FPS.rar) | Changes the games max Framerate to 60FPS | IPS Patch | 89048449BA238C8C | <p align="center"> 1.2.0 </p> | [MasaGratoR](https://github.com/masagrator/NXGraphicsPatches) |
+</BR>
+
+## FullBlast [01008D800AE4A000]
+| MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
+| --- | --- | --- | --- | --- | --- |
+| <p align="center"> [4K-2K](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01008D800AE4A000/1.0.0/4K-2K.rar) </p> | Changes the games Resolution to 4K Docked, 2K Handheld. | ipswitch | 06EEF8687F1DE042 | <p align="center"> 1.0.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
 </BR>
 
 ## Mario + Rabbids® Kingdom Battle [010067300059A000]
