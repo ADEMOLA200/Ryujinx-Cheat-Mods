@@ -129,6 +129,14 @@ Work in Progress
 | <p align="center"> [120FPS](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/0100633007D48000/1.4.3.2/120fps.rar) </p> | Changes the games max Framerate to 120FPS | ipswitch | FB968CFB649A5842 | <p align="center"> 1.4.3.2 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
 </BR>
 
+## Kirby™ and the Forgotten Land [01004D300C5AE000]
+| MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
+| --- | --- | --- | --- | --- | --- |
+| <p align="center"> [21:9](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01004D300C5AE000/1.0.0/21.9.rar) </p> | Changes the games Aspect Ratio to 21:9 (Change Aspect Ratio in emulator settings) | ipswitch | D9BA7DB72FFAFECD | <p align="center"> 1.0.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
+| <p align="center"> [60FPS](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01004D300C5AE000/1.0.0/60fps.rar) </p> | Changes the games max Framerate to 60FPS | ipswitch | D9BA7DB72FFAFECD | <p align="center"> 1.0.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
+| <p align="center"> [Disable Dynamic Resolution](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01004D300C5AE000/1.0.0/DisableFXAA.rar) </p> | Disables the games Dynamic Resolution | ipswitch | D9BA7DB72FFAFECD | <p align="center"> 1.0.0 </p> | <p align="center"> [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
+</BR>
+
 ## Mario + Rabbids® Kingdom Battle [010067300059A000]
 | MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
 | --- | --- | --- | --- | --- | --- |
