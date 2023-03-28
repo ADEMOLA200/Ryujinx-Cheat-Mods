@@ -10,15 +10,15 @@ Work in Progress
 ## ARMS™ [01009B500007C000]
 | MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
 | --- | --- | --- | --- | --- | --- |
-| <p align="center"> [1080p](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01009B500007C000/5.4.0/1080pv2.rar) </p> | Changes the games Resolution to 1080p | ipswitch | 501924B7C22129E5 | <p align="center"> 5.4.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
-| <p align="center"> [Disable Dynamic Resolution](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01009B500007C000/5.4.0/DisableDynamicResolutionv2.rar) </p> | Disables the games Dynamic Resolution | ipswitch | 501924B7C22129E5 | <p align="center"> 5.4.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
-| <p align="center"> [Disable FXAA](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01009B500007C000/5.4.0/DisableFXAA.rar) </p> | Disables the games FXAA | ipswitch | 501924B7C22129E5 | <p align="center"> 5.4.0 </p> | <p align="center"> [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
+| <p align="center"> [1080p](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01009B500007C000/5.4.0/1080pv2.rar) </p> | Changes the games Resolution to 1080p | IPSwitch | 501924B7C22129E5 | <p align="center"> 5.4.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
+| <p align="center"> [Disable Dynamic Resolution](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01009B500007C000/5.4.0/DisableDynamicResolutionv2.rar) </p> | Disables the games Dynamic Resolution | IPSwitch | 501924B7C22129E5 | <p align="center"> 5.4.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
+| <p align="center"> [Disable FXAA](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01009B500007C000/5.4.0/DisableFXAA.rar) </p> | Disables the games FXAA | IPSwitch | 501924B7C22129E5 | <p align="center"> 5.4.0 </p> | <p align="center"> [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
 </BR>
 
 ## ASTRAL CHAIN [01007300020FA000]
 | MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
 | --- | --- | --- | --- | --- | --- |
-| <p align="center"> [21:9](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01007300020FA000/1.0.1/21'9.rar) </p> | Changes the games Aspect Ratio to 21:9 (Change Aspect Ratio in emulator settings) | ipswitch | 501924B7C22129E5 | <p align="center"> 1.0.1 </p> | <p align="center"> [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) </p> |
+| <p align="center"> [21:9](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01007300020FA000/1.0.1/21'9.rar) </p> | Changes the games Aspect Ratio to 21:9 (Change Aspect Ratio in emulator settings) | IPSwitch | 501924B7C22129E5 | <p align="center"> 1.0.1 </p> | <p align="center"> [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) </p> |
 | <p align="center"> [60FPS with Cutscene Fix](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01007300020FA000/1.0.1/AstralChain60fps30fpsCutscenes.rar) </p> | Changes the max Framerate to 60FPS with a cheat to lock Cutscenes to 30FPS | IPS Patch | 501924B7C22129E5 | <p align="center"> 1.0.1 </p> | <p align="center"> MrComputerRevo Hazerou </p> |
 </BR>
 
@@ -32,10 +32,10 @@ Work in Progress
 ## Bayonetta™ 3 [01004A4010FEA000]
 | MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
 | --- | --- | --- | --- | --- | --- |
-| <p align="center"> [60FPS](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01004A4010FEA000/1.2.0/60fps.rar) </p> | Changes the games max Framerate to 60FPS | ipswitch | 4104F9C7041985F4 | <p align="center"> 1.2.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
-| <p align="center"> [900p](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01004A4010FEA000/1.2.0/ForceScaling900pv3.rar) </p> | Increases the games Resolution to 900p | ipswitch | 4104F9C7041985F4 | <p align="center"> 1.2.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
-| <p align="center"> [Improve LOD](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01004A4010FEA000/1.2.0/ImprovedLODv2.rar) </p> | Improves the games Object and Level detail | ipswitch | 4104F9C7041985F4 | <p align="center"> 1.2.0</p> | <p align="center"> [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
-| <p align="center"> [Remove Film Grain](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01004A4010FEA000/1.2.0/1080pv2.rar) </p> | Disables the games Film Grain filter | ipswitch | 4104F9C7041985F4 | <p align="center"> 1.2.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
+| <p align="center"> [60FPS](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01004A4010FEA000/1.2.0/60fps.rar) </p> | Changes the games max Framerate to 60FPS | IPSwitch | 4104F9C7041985F4 | <p align="center"> 1.2.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
+| <p align="center"> [900p](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01004A4010FEA000/1.2.0/ForceScaling900pv3.rar) </p> | Increases the games Resolution to 900p | IPSwitch | 4104F9C7041985F4 | <p align="center"> 1.2.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
+| <p align="center"> [Improve LOD](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01004A4010FEA000/1.2.0/ImprovedLODv2.rar) </p> | Improves the games Object and Level detail | IPSwitch | 4104F9C7041985F4 | <p align="center"> 1.2.0</p> | <p align="center"> [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
+| <p align="center"> [Remove Film Grain](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01004A4010FEA000/1.2.0/1080pv2.rar) </p> | Disables the games Film Grain filter | IPSwitch | 4104F9C7041985F4 | <p align="center"> 1.2.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
 </BR>
 
 ## BioShock 2 Remastered [01002620102C6000]
@@ -119,53 +119,53 @@ Work in Progress
 ## FullBlast [01008D800AE4A000]
 | MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
 | --- | --- | --- | --- | --- | --- |
-| <p align="center"> [4K-2K](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01008D800AE4A000/1.0.0/4K-2K.rar) </p> | Changes the games Resolution to 4K Docked, 2K Handheld | ipswitch | 06EEF8687F1DE042 | <p align="center"> 1.0.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
+| <p align="center"> [4K-2K](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01008D800AE4A000/1.0.0/4K-2K.rar) </p> | Changes the games Resolution to 4K Docked, 2K Handheld | IPSwitch | 06EEF8687F1DE042 | <p align="center"> 1.0.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
 </BR>
 
 ## Hollow Knight [0100633007D48000]
 | MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
 | --- | --- | --- | --- | --- | --- |
-| <p align="center"> [4K-2K](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/0100633007D48000/1.4.3.2/4K-2K.rar) </p> | Changes the games Resolution to 4K Docked, 2K Handheld | ipswitch | FB968CFB649A5842 | <p align="center"> 1.4.3.2 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
-| <p align="center"> [120FPS](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/0100633007D48000/1.4.3.2/120fps.rar) </p> | Changes the games max Framerate to 120FPS | ipswitch | FB968CFB649A5842 | <p align="center"> 1.4.3.2 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
+| <p align="center"> [4K-2K](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/0100633007D48000/1.4.3.2/4K-2K.rar) </p> | Changes the games Resolution to 4K Docked, 2K Handheld | IPSwitch | FB968CFB649A5842 | <p align="center"> 1.4.3.2 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
+| <p align="center"> [120FPS](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/0100633007D48000/1.4.3.2/120fps.rar) </p> | Changes the games max Framerate to 120FPS | IPSwitch | FB968CFB649A5842 | <p align="center"> 1.4.3.2 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
 </BR>
 
 ## Kirby™ and the Forgotten Land [01004D300C5AE000]
 | MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
 | --- | --- | --- | --- | --- | --- |
-| <p align="center"> [21:9](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01004D300C5AE000/1.0.0/21.9.rar) </p> | Changes the games Aspect Ratio to 21:9 (Change Aspect Ratio in emulator settings) | ipswitch | D9BA7DB72FFAFECD | <p align="center"> 1.0.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
-| <p align="center"> [60FPS](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01004D300C5AE000/1.0.0/60fps.rar) </p> | Changes the games max Framerate to 60FPS | ipswitch | D9BA7DB72FFAFECD | <p align="center"> 1.0.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
-| <p align="center"> [Disable Dynamic Resolution](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01004D300C5AE000/1.0.0/DisableDynamicResolution.rar) </p> | Disables the games Dynamic Resolution | ipswitch | D9BA7DB72FFAFECD | <p align="center"> 1.0.0 </p> | <p align="center"> [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
+| <p align="center"> [21:9](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01004D300C5AE000/1.0.0/21.9.rar) </p> | Changes the games Aspect Ratio to 21:9 (Change Aspect Ratio in emulator settings) | IPSwitch | D9BA7DB72FFAFECD | <p align="center"> 1.0.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
+| <p align="center"> [60FPS](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01004D300C5AE000/1.0.0/60fps.rar) </p> | Changes the games max Framerate to 60FPS | IPSwitch | D9BA7DB72FFAFECD | <p align="center"> 1.0.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
+| <p align="center"> [Disable Dynamic Resolution](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01004D300C5AE000/1.0.0/DisableDynamicResolution.rar) </p> | Disables the games Dynamic Resolution | IPSwitch | D9BA7DB72FFAFECD | <p align="center"> 1.0.0 </p> | <p align="center"> [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
 </BR>
 
 ## Kirby™ Star Allies [01007E3006DDA000]
 | MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
 | --- | --- | --- | --- | --- | --- |
-| <p align="center"> [60FPS](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01007E3006DDA000/4.0.0/60FPS.rar) </p> | Changes the games max Framerate to 60FPS | ipswitch | D55608916FA56C18 | <p align="center"> 4.0.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
+| <p align="center"> [60FPS](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01007E3006DDA000/4.0.0/60FPS.rar) </p> | Changes the games max Framerate to 60FPS | IPSwitch | D55608916FA56C18 | <p align="center"> 4.0.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
 </BR>
 
 ## Luigi's Mansion™ 3 [0100DCA0064A6000]
 | MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
 | --- | --- | --- | --- | --- | --- |
-| <p align="center"> [60FPS](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/0100DCA0064A6000/1.0.0/60FPS.rar) </p> | Changes the games max Framerate to 60FPS | ipswitch | 486F6A3B2D6BCF5C | <p align="center"> 1.0.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
-| <p align="center"> [Disable Dynamic Resolution](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/0100DCA0064A6000/1.0.0/Disable-Dynamic-Resoluiton.rar) </p> | Disables the games Dynamic Resolution | ipswitch | 486F6A3B2D6BCF5C | <p align="center"> 1.0.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
-| <p align="center"> [Disable Lens Flare](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/0100DCA0064A6000/1.0.0/Disable-Lens-Flare.rar) </p> | Disables the games Lens Flare | ipswitch | 486F6A3B2D6BCF5C | <p align="center"> 1.0.0</p> | <p align="center"> [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
-| <p align="center"> [21:9](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/0100DCA0064A6000/1.4.0/21.9.rar) </p> | Changes the games Aspect Ratio to 21:9 (Change Aspect Ratio in emulator settings) | ipswitch | 79E5950FFA85ACF6 | <p align="center"> 1.4.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
-| <p align="center"> [60FPS](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/0100DCA0064A6000/1.4.0/60fps.rar) </p> | Changes the games max Framerate to 60FPS | ipswitch | 79E5950FFA85ACF6 | <p align="center"> 1.4.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
-| <p align="center"> [120FPS](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/0100DCA0064A6000/1.4.0/120FPS.rar) </p> | Changes the games max Framerate to 120FPS | ipswitch | 79E5950FFA85ACF6 | <p align="center"> 1.4.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
-| <p align="center"> [Disable Dynamic Resolution](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/0100DCA0064A6000/1.4.0/Disable-Dynamic-Resoluiton.rar) </p> | Disables the games Dynamic Resolution | ipswitch | 79E5950FFA85ACF6 | <p align="center"> 1.4.0</p> | <p align="center"> [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
-| <p align="center"> [Disable Lens Flare](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01004A4010FEA000/1.2.0/1080pv2.rar) </p> | Disables the games Lens Flare | ipswitch | 79E5950FFA85ACF6 | <p align="center"> 1.4.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
+| <p align="center"> [60FPS](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/0100DCA0064A6000/1.0.0/60FPS.rar) </p> | Changes the games max Framerate to 60FPS | IPSwitch | 486F6A3B2D6BCF5C | <p align="center"> 1.0.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
+| <p align="center"> [Disable Dynamic Resolution](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/0100DCA0064A6000/1.0.0/Disable-Dynamic-Resoluiton.rar) </p> | Disables the games Dynamic Resolution | IPSwitch | 486F6A3B2D6BCF5C | <p align="center"> 1.0.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
+| <p align="center"> [Disable Lens Flare](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/0100DCA0064A6000/1.0.0/Disable-Lens-Flare.rar) </p> | Disables the games Lens Flare | IPSwitch | 486F6A3B2D6BCF5C | <p align="center"> 1.0.0</p> | <p align="center"> [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
+| <p align="center"> [21:9](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/0100DCA0064A6000/1.4.0/21.9.rar) </p> | Changes the games Aspect Ratio to 21:9 (Change Aspect Ratio in emulator settings) | IPSwitch | 79E5950FFA85ACF6 | <p align="center"> 1.4.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
+| <p align="center"> [60FPS](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/0100DCA0064A6000/1.4.0/60fps.rar) </p> | Changes the games max Framerate to 60FPS | IPSwitch | 79E5950FFA85ACF6 | <p align="center"> 1.4.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
+| <p align="center"> [120FPS](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/0100DCA0064A6000/1.4.0/120FPS.rar) </p> | Changes the games max Framerate to 120FPS | IPSwitch | 79E5950FFA85ACF6 | <p align="center"> 1.4.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
+| <p align="center"> [Disable Dynamic Resolution](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/0100DCA0064A6000/1.4.0/Disable-Dynamic-Resoluiton.rar) </p> | Disables the games Dynamic Resolution | IPSwitch | 79E5950FFA85ACF6 | <p align="center"> 1.4.0</p> | <p align="center"> [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
+| <p align="center"> [Disable Lens Flare](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01004A4010FEA000/1.2.0/1080pv2.rar) </p> | Disables the games Lens Flare | IPSwitch | 79E5950FFA85ACF6 | <p align="center"> 1.4.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
 </BR>
 
 ## Metroid Prime™ Remastered [0100DCA0064A6000]
 | MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
 | --- | --- | --- | --- | --- | --- |
-| <p align="center"> [21:9](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/010012101468C000/1.0.0/21'9.rar) </p> | Changes the games Aspect Ratio to 21:9 (Change Aspect Ratio in emulator settings) | ipswitch | 67C9CA1428222752 | <p align="center"> 1.0.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
-| <p align="center"> [1080p-720p](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/010012101468C000/1.0.0/1080p-720p.rar) </p> | Changes the games Resolution to 1080p Docked, 720p Handheld | ipswitch | 67C9CA1428222752 | <p align="center"> 1.0.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
-| <p align="center"> [2K-1080p](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/010012101468C000/1.0.0/2K-1080p.rar) </p> | Changes the games Resolution to 2K Docked, 1080p Handheld | ipswitch | 67C9CA1428222752 | <p align="center"> 1.0.0</p> | <p align="center"> [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
-| <p align="center"> [4K-2K](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/010012101468C000/1.0.0/4K-2K.rar) </p> | Changes the games Resolution to 4K Docked, 2K Handheld | ipswitch | 67C9CA1428222752 | <p align="center"> 1.0.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
-| <p align="center"> [Disable Anti-Aliasing](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/010012101468C000/1.0.0/DisableAA.rar) </p> | Disables the games Native Anti-Aliasing | ipswitch | 67C9CA1428222752 | <p align="center"> 1.0.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
-| <p align="center"> [Improved Level of Detail](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/010012101468C000/1.0.0/ImprovedLOD.rar) </p> | Improves the LOD of the terrain, and other objects | ipswitch | 67C9CA1428222752 | <p align="center"> 1.0.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
-| <p align="center"> [Increase Field of View](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/010012101468C000/1.0.0/IncreasedFOV.rar) </p> | Changes the games FOV from 55 to 75 | ipswitch | 67C9CA1428222752 | <p align="center"> 1.0.0</p> | <p align="center"> [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
+| <p align="center"> [21:9](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/010012101468C000/1.0.0/21'9.rar) </p> | Changes the games Aspect Ratio to 21:9 (Change Aspect Ratio in emulator settings) | IPSwitch | 67C9CA1428222752 | <p align="center"> 1.0.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
+| <p align="center"> [1080p-720p](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/010012101468C000/1.0.0/1080p-720p.rar) </p> | Changes the games Resolution to 1080p Docked, 720p Handheld | IPSwitch | 67C9CA1428222752 | <p align="center"> 1.0.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
+| <p align="center"> [2K-1080p](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/010012101468C000/1.0.0/2K-1080p.rar) </p> | Changes the games Resolution to 2K Docked, 1080p Handheld | IPSwitch | 67C9CA1428222752 | <p align="center"> 1.0.0</p> | <p align="center"> [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
+| <p align="center"> [4K-2K](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/010012101468C000/1.0.0/4K-2K.rar) </p> | Changes the games Resolution to 4K Docked, 2K Handheld | IPSwitch | 67C9CA1428222752 | <p align="center"> 1.0.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
+| <p align="center"> [Disable Anti-Aliasing](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/010012101468C000/1.0.0/DisableAA.rar) </p> | Disables the games Native Anti-Aliasing | IPSwitch | 67C9CA1428222752 | <p align="center"> 1.0.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
+| <p align="center"> [Improved Level of Detail](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/010012101468C000/1.0.0/ImprovedLOD.rar) </p> | Improves the LOD of the terrain, and other objects | IPSwitch | 67C9CA1428222752 | <p align="center"> 1.0.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
+| <p align="center"> [Increase Field of View](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/010012101468C000/1.0.0/IncreasedFOV.rar) </p> | Changes the games FOV from 55 to 75 | IPSwitch | 67C9CA1428222752 | <p align="center"> 1.0.0</p> | <p align="center"> [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
 </BR>
 
 ## Mario + Rabbids® Kingdom Battle [010067300059A000]
