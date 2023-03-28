@@ -153,7 +153,7 @@ Work in Progress
 | <p align="center"> [60FPS](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/0100DCA0064A6000/1.4.0/60fps.rar) </p> | Changes the games max Framerate to 60FPS | ipswitch | 79E5950FFA85ACF6 | <p align="center"> 1.4.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
 | <p align="center"> [120FPS](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/0100DCA0064A6000/1.4.0/120FPS.rar) </p> | Changes the games max Framerate to 120FPS | ipswitch | 79E5950FFA85ACF6 | <p align="center"> 1.4.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
 | <p align="center"> [Disable Dynamic Resolution](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/0100DCA0064A6000/1.4.0/Disable-Dynamic-Resoluiton.rar) </p> | Disables the games Dynamic Resolution | ipswitch | 79E5950FFA85ACF6 | <p align="center"> 1.4.0</p> | <p align="center"> [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
-| <p align="center"> [Disable Lens Flare](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01004A4010FEA000/1.2.0/1080pv2.rar) </p> | Disables the games Lens Flare | ipswitch | 79E5950FFA85ACF6 | <p align="center"> 1.2.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
+| <p align="center"> [Disable Lens Flare](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01004A4010FEA000/1.2.0/1080pv2.rar) </p> | Disables the games Lens Flare | ipswitch | 79E5950FFA85ACF6 | <p align="center"> 1.4.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
 </BR>
 
 ## Mario + Rabbids® Kingdom Battle [010067300059A000]
