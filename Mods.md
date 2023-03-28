@@ -156,6 +156,18 @@ Work in Progress
 | <p align="center"> [Disable Lens Flare](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01004A4010FEA000/1.2.0/1080pv2.rar) </p> | Disables the games Lens Flare | ipswitch | 79E5950FFA85ACF6 | <p align="center"> 1.4.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
 </BR>
 
+## Metroid Prime™ Remastered [0100DCA0064A6000]
+| MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
+| --- | --- | --- | --- | --- | --- |
+| <p align="center"> [21:9](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/010012101468C000/1.0.0/21'9.rar) </p> | Changes the games Aspect Ratio to 21:9 (Change Aspect Ratio in emulator settings) | ipswitch | 67C9CA1428222752 | <p align="center"> 1.0.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
+| <p align="center"> [1080p-720p](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/010012101468C000/1.0.0/1080p-720p.rar) </p> | Changes the games Resolution to 1080p Docked, 720p Handheld | ipswitch | 67C9CA1428222752 | <p align="center"> 1.0.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
+| <p align="center"> [2K-1080p](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/010012101468C000/1.0.0/2K-1080p.rar) </p> | Changes the games Resolution to 2K Docked, 1080p Handheld | ipswitch | 67C9CA1428222752 | <p align="center"> 1.0.0</p> | <p align="center"> [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
+| <p align="center"> [4K-2K](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/010012101468C000/1.0.0/4K-2K.rar) </p> | Changes the games Resolution to 4K Docked, 2K Handheld | ipswitch | 67C9CA1428222752 | <p align="center"> 1.0.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
+| <p align="center"> [Disable Anti-Aliasing](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/010012101468C000/1.0.0/DisableAA.rar) </p> | Disables the games Native Anti-Aliasing | ipswitch | 67C9CA1428222752 | <p align="center"> 1.0.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
+| <p align="center"> [Improved Level of Detail](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/010012101468C000/1.0.0/ImprovedLOD.rar) </p> | Improves the LOD of the terrain, and other objects | ipswitch | 67C9CA1428222752 | <p align="center"> 1.0.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
+| <p align="center"> [Increase Field of View](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/010012101468C000/1.0.0/IncreasedFOV.rar) </p> | Changes the games FOV from 55 to 75 | ipswitch | 67C9CA1428222752 | <p align="center"> 1.0.0</p> | <p align="center"> [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
+</BR>
+
 ## Mario + Rabbids® Kingdom Battle [010067300059A000]
 | MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
 | --- | --- | --- | --- | --- | --- |
