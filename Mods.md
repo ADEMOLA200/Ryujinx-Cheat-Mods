@@ -137,6 +137,12 @@ Work in Progress
 | <p align="center"> [Disable Dynamic Resolution](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01004D300C5AE000/1.0.0/DisableDynamicResolution.rar) </p> | Disables the games Dynamic Resolution | ipswitch | D9BA7DB72FFAFECD | <p align="center"> 1.0.0 </p> | <p align="center"> [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
 </BR>
 
+## Kirby™ Star Allies [01007E3006DDA000]
+| MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
+| --- | --- | --- | --- | --- | --- |
+| <p align="center"> [60FPS](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01007E3006DDA000/4.0.0/60fps.rar) </p> | Changes the games max Framerate to 60FPS | ipswitch | D55608916FA56C18 | <p align="center"> 4.0.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
+</BR>
+
 ## Mario + Rabbids® Kingdom Battle [010067300059A000]
 | MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
 | --- | --- | --- | --- | --- | --- |
