@@ -201,6 +201,12 @@ Work in Progress
 | <p align="center"> [21:9](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01002AF014F4C000/1.0.1/21'9.rar) </p> | Changes the games Aspect Ratio to 21:9 (Change Aspect Ratio in emulator settings) | IPSwitch | F20FDC280AF01CBE | <p align="center"> 1.0.1 </p> | <p align="center"> [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
 </BR>
 
+## No More Heroes [0100F0400F202000]
+| MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
+| --- | --- | --- | --- | --- | --- |
+| <p align="center"> [60FPS](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/0100F0400F202000/1.2.0/4K.rar) </p> | Changes the games Resolution to 4K | IPSwitch | 0359DC95A1454D05 | <p align="center"> 1.2.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
+</BR>
+
 ## ONINAKI [01001AF00CE54000]
 | MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
 | --- | --- | --- | --- | --- | --- |
