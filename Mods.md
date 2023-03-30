@@ -190,7 +190,7 @@ Work in Progress
 | MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
 | --- | --- | --- | --- | --- | --- |
 | <p align="center"> [4K-2K](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/0100770008DD8000/1.4.0/4K-2K.rar) </p> | Changes the games Resolution to 4K Docked, 2K Handheld | IPSwitch | FB08F1D20FD1204F | <p align="center"> 1.4.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
-| <p align="center"> [60FPS](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/0100770008DD8000/1.4.0/60fps.rar) </p> | Changes the games max Framerate to 600FPS | IPSwitch | FB08F1D20FD1204F | <p align="center"> 1.4.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
+| <p align="center"> [60FPS](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/0100770008DD8000/1.4.0/60fps.rar) </p> | Changes the games max Framerate to 60FPS | IPSwitch | FB08F1D20FD1204F | <p align="center"> 1.4.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
 </BR>
 
 ## ONINAKI [01001AF00CE54000]
