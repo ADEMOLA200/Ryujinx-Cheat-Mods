@@ -130,13 +130,16 @@
 
 [Always Encounter (Unobtainable): #077 Ponyta]
 08000000 00766F58 0000004D 00000000
+
 [Always Encounter (Shield Exclusive): #077 Galar-Ponyta]
 08000000 00766F58 0000004D 00000001
 
 [Encounter (Trade Only): #052 Meowth]
 08000000 00766F58 00000034 00000000
+
 [Always Encounter (Unobtainable): #052 Alola-Meowth]
 08000000 00766F58 00000034 00000001
+
 [Always Encounter: #052 Galar-Meowth]
 08000000 00766F58 00000034 00000002
 
@@ -148,6 +151,7 @@
 
 [Always Encounter (Unobtainable): #222 Corsola]
 08000000 00766F58 000000DE 00000000
+
 [Always Encounter (Shield Exclusive): #222 Galar-Corsola]
 08000000 00766F58 000000DE 00000001
 
@@ -171,8 +175,10 @@
 
 [Always Encounter (Shield Exclusive): #453 Croagunk]
 08000000 00766F58 000001C5 00000000
+
 [Always Encounter (Shield Exclusive): #577 Solosis]
 08000000 00766F58 00000241 00000000
+
 [Always Encounter (Shield Exclusive): #629 Vullaby]
 08000000 00766F58 00000275 00000000
 
@@ -220,10 +226,13 @@
 
 [Always Encounter (Event only): #789 Cosmog]
 08000000 00766F58 00000315 00000000
+
 [Always Encounter (Event only): #790 Cosmoem]
 08000000 00766F58 00000316 00000000
+
 [Always Encounter (Event only): #791 Solgaleo]
 08000000 00766F58 00000317 00000000
+
 [Always Encounter (Event only): #792 Lunala]
 08000000 00766F58 00000318 00000000
 
