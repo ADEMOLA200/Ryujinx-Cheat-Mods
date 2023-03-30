@@ -196,8 +196,8 @@ Work in Progress
 ## Ninja Gaiden 3: Razor's Edge [01002AF014F4C000]
 | MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
 | --- | --- | --- | --- | --- | --- |
-| <p align="center"> [2K](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01002AF014F4C000/1.0.1/21.9.rar) </p> | Changes the games Resolution to 2K | IPSwitch | F20FDC280AF01CBE | <p align="center"> 1.0.1 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
-| <p align="center"> [4K](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01002AF014F4C000/1.0.1/60fps.rar) </p> | Changes the games Resolution to 4K | IPSwitch | F20FDC280AF01CBE | <p align="center"> 1.0.1 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
+| <p align="center"> [2K](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01002AF014F4C000/1.0.1/2K.rar) </p> | Changes the games Resolution to 2K | IPSwitch | F20FDC280AF01CBE | <p align="center"> 1.0.1 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
+| <p align="center"> [4K](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01002AF014F4C000/1.0.1/4K.rar) </p> | Changes the games Resolution to 4K | IPSwitch | F20FDC280AF01CBE | <p align="center"> 1.0.1 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
 | <p align="center"> [21:9](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01002AF014F4C000/1.0.1/21'9.rar) </p> | Changes the games Aspect Ratio to 21:9 (Change Aspect Ratio in emulator settings) | IPSwitch | F20FDC280AF01CBE | <p align="center"> 1.0.1 </p> | <p align="center"> [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
 </BR>
 
