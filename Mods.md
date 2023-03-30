@@ -201,6 +201,15 @@ Work in Progress
 | <p align="center"> [21:9](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01002AF014F4C000/1.0.1/21'9.rar) </p> | Changes the games Aspect Ratio to 21:9 (Change Aspect Ratio in emulator settings) | IPSwitch | F20FDC280AF01CBE | <p align="center"> 1.0.1 </p> | <p align="center"> [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
 </BR>
 
+## Ninja Gaiden Σ2 [0100696014F4A000]
+| MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
+| --- | --- | --- | --- | --- | --- |
+| <p align="center"> [2K](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/0100696014F4A000/1.0.1/2K.rar) </p> | Changes the games Resolution to 2K | IPSwitch | DC27156B7AB58D31 | <p align="center"> 1.0.1 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
+| <p align="center"> [4K](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/0100696014F4A000/1.0.1/4K.rar) </p> | Changes the games Resolution to 4K | IPSwitch | DC27156B7AB58D31 | <p align="center"> 1.0.1 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
+| <p align="center"> [21:9](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/0100696014F4A000/1.0.1/21'9.rar) </p> | Changes the games Aspect Ratio to 21:9 (Change Aspect Ratio in emulator settings) | IPSwitch | DC27156B7AB58D31 | <p align="center"> 1.0.1</p> | <p align="center"> [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
+| <p align="center"> [60FPS](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/0100696014F4A000/1.0.1/60fps.rar) </p> | Changes the games max Framerate to 60FPS | IPSwitch | DC27156B7AB58D31 | <p align="center"> 1.0.1 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
+</BR>
+
 ## ONINAKI [01001AF00CE54000]
 | MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
 | --- | --- | --- | --- | --- | --- |
