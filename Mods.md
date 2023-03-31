@@ -34,7 +34,7 @@ Work in Progress
 | --- | --- | --- | --- | --- | --- |
 | <p align="center"> [60FPS](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01004A4010FEA000/1.2.0/60fps.rar) </p> | Changes the games max Framerate to 60FPS | IPSwitch | 4104F9C7041985F4 | <p align="center"> 1.2.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
 | <p align="center"> [900p](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01004A4010FEA000/1.2.0/ForceScaling900pv3.rar) </p> | Increases the games Resolution to 900p | IPSwitch | 4104F9C7041985F4 | <p align="center"> 1.2.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
-| <p align="center"> [Improve LOD](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01004A4010FEA000/1.2.0/ImprovedLODv2.rar) </p> | Improves the games Object and Level detail | IPSwitch | 4104F9C7041985F4 | <p align="center"> 1.2.0</p> | <p align="center"> [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
+| <p align="center"> [Improved Level of Detail](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01004A4010FEA000/1.2.0/ImprovedLODv2.rar) </p> | Improves the games Object and Level detail | IPSwitch | 4104F9C7041985F4 | <p align="center"> 1.2.0</p> | <p align="center"> [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
 | <p align="center"> [Remove Film Grain](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01004A4010FEA000/1.2.0/1080pv2.rar) </p> | Disables the games Film Grain filter | IPSwitch | 4104F9C7041985F4 | <p align="center"> 1.2.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
 </BR>
 
@@ -255,4 +255,11 @@ Work in Progress
 | MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
 | --- | --- | --- | --- | --- | --- |
 | [60FPS](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/raw/main/Mods/0100BFE00E9CA000/3.7/TW360FPS3.7.rar) | Changes the games max Framerate to 60FPS | IPS Patch | 4ffb62f1cd9e17f8 | <p align="center"> 3.7 </p> | [MasaGratoR](https://github.com/masagrator/NXGraphicsPatches) |
+</BR>
+
+## Xenoblade Chronicles™ 2 [0100E95004038000]
+| MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
+| --- | --- | --- | --- | --- | --- |
+| <p align="center"> [Improved Level of Detail](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/0100E95004038000/2.1.0/ImprovedLOD.rar) </p> | Sets the MAX LOD for all charaters improving the visuals of the game | IPSwitch | F77F1559371C0EC6 | <p align="center"> 2.1.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
+| <p align="center"> [Super Sampling 2x](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/0100E95004038000/2.1.0/SuperSamplingx2.rar) </p> | Increases the internal resolution x2 | IPSwitch | F77F1559371C0EC6 | <p align="center"> 2.1.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
 </BR>
