@@ -19,7 +19,7 @@ Work in Progress
 | MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
 | --- | --- | --- | --- | --- | --- |
 | <p align="center"> [60FPS with Cutscene Fix](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01007300020FA000/1.0.1/AstralChain60fps30fpsCutscenes.rar) </p> | Changes the max Framerate to 60FPS with a Cheat to lock Cutscenes to 30FPS | IPS Patch | 501924B7C22129E5 | <p align="center"> 1.0.1 </p> | <p align="center"> MrComputerRevo Hazerou </p> |
-| <p align="center"> [21:9](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01007300020FA000/1.0.1/21'9.rar) </p> | Changes the games Aspect Ratio to 21:9 (Change Aspect Ratio in emulator settings) | IPSwitch | 501924B7C22129E5 | <p align="center"> 1.0.1 </p> | <p align="center"> [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) </p> |
+| <p align="center"> [21:9](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01007300020FA000/1.0.1/21'9.rar) </p> | Changes the games Aspect Ratio to 21:9 </BR> (Change Aspect Ratio in emulator settings) | IPSwitch | 501924B7C22129E5 | <p align="center"> 1.0.1 </p> | <p align="center"> [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) </p> |
 </BR>
 
 ## Assassin’s Creed®: The Rebel Collection [010044700DEB0000] 
@@ -133,7 +133,7 @@ Work in Progress
 | MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
 | --- | --- | --- | --- | --- | --- |
 | <p align="center"> [60FPS](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01004D300C5AE000/1.0.0/60fps.rar) </p> | Changes the games max Framerate to 60FPS | IPSwitch | D9BA7DB72FFAFECD | <p align="center"> 1.0.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
-| <p align="center"> [21:9](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01004D300C5AE000/1.0.0/21.9.rar) </p> | Changes the games Aspect Ratio to 21:9 (Change Aspect Ratio in emulator settings) | IPSwitch | D9BA7DB72FFAFECD | <p align="center"> 1.0.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
+| <p align="center"> [21:9](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01004D300C5AE000/1.0.0/21.9.rar) </p> | Changes the games Aspect Ratio to 21:9 </BR> (Change Aspect Ratio in emulator settings) | IPSwitch | D9BA7DB72FFAFECD | <p align="center"> 1.0.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
 | <p align="center"> [Disable Dynamic Resolution](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01004D300C5AE000/1.0.0/DisableDynamicResolution.rar) </p> | Disables the games Dynamic Resolution | IPSwitch | D9BA7DB72FFAFECD | <p align="center"> 1.0.0 </p> | <p align="center"> [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
 </BR>
 
@@ -150,7 +150,7 @@ Work in Progress
 | <p align="center"> [Disable Dynamic Resolution](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/0100DCA0064A6000/1.0.0/Disable-Dynamic-Resoluiton.rar) </p> | Disables the games Dynamic Resolution | IPSwitch | 486F6A3B2D6BCF5C | <p align="center"> 1.0.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
 | <p align="center"> [Disable Lens Flare](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/0100DCA0064A6000/1.0.0/Disable-Lens-Flare.rar) </p> | Disables the games Lens Flare | IPSwitch | 486F6A3B2D6BCF5C | <p align="center"> 1.0.0</p> | <p align="center"> [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
 | <p align="center"> [60FPS](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/0100DCA0064A6000/1.4.0/60fps.rar) </p> | Changes the games max Framerate to 60FPS | IPSwitch | 79E5950FFA85ACF6 | <p align="center"> 1.4.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
-| <p align="center"> [21:9](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/0100DCA0064A6000/1.4.0/21.9.rar) </p> | Changes the games Aspect Ratio to 21:9 (Change Aspect Ratio in emulator settings) | IPSwitch | 79E5950FFA85ACF6 | <p align="center"> 1.4.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
+| <p align="center"> [21:9](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/0100DCA0064A6000/1.4.0/21.9.rar) </p> | Changes the games Aspect Ratio to 21:9 </BR> (Change Aspect Ratio in emulator settings) | IPSwitch | 79E5950FFA85ACF6 | <p align="center"> 1.4.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
 | <p align="center"> [120FPS](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/0100DCA0064A6000/1.4.0/120FPS.rar) </p> | Changes the games max Framerate to 120FPS | IPSwitch | 79E5950FFA85ACF6 | <p align="center"> 1.4.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
 | <p align="center"> [Disable Dynamic Resolution](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/0100DCA0064A6000/1.4.0/Disable-Dynamic-Resoluiton.rar) </p> | Disables the games Dynamic Resolution | IPSwitch | 79E5950FFA85ACF6 | <p align="center"> 1.4.0</p> | <p align="center"> [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
 | <p align="center"> [Disable Lens Flare](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01004A4010FEA000/1.2.0/1080pv2.rar) </p> | Disables the games Lens Flare | IPSwitch | 79E5950FFA85ACF6 | <p align="center"> 1.4.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
@@ -159,7 +159,7 @@ Work in Progress
 ## Metroid Prime™ Remastered [0100DCA0064A6000]
 | MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
 | --- | --- | --- | --- | --- | --- |
-| <p align="center"> [21:9](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/010012101468C000/1.0.0/21'9.rar) </p> | Changes the games Aspect Ratio to 21:9 (Change Aspect Ratio in emulator settings) | IPSwitch | 67C9CA1428222752 | <p align="center"> 1.0.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
+| <p align="center"> [21:9](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/010012101468C000/1.0.0/21'9.rar) </p> | Changes the games Aspect Ratio to 21:9 </BR> (Change Aspect Ratio in emulator settings) | IPSwitch | 67C9CA1428222752 | <p align="center"> 1.0.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
 | <p align="center"> [1080p-720p](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/010012101468C000/1.0.0/1080p-720p.rar) </p> | Changes the games Resolution to 1080p Docked, 720p Handheld | IPSwitch | 67C9CA1428222752 | <p align="center"> 1.0.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
 | <p align="center"> [2K-1080p](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/010012101468C000/1.0.0/2K-1080p.rar) </p> | Changes the games Resolution to 2K Docked, 1080p Handheld | IPSwitch | 67C9CA1428222752 | <p align="center"> 1.0.0</p> | <p align="center"> [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
 | <p align="center"> [4K-2K](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/010012101468C000/1.0.0/4K-2K.rar) </p> | Changes the games Resolution to 4K Docked, 2K Handheld | IPSwitch | 67C9CA1428222752 | <p align="center"> 1.0.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
@@ -198,7 +198,7 @@ Work in Progress
 | --- | --- | --- | --- | --- | --- |
 | <p align="center"> [2K](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01002AF014F4C000/1.0.1/2K.rar) </p> | Changes the games Resolution to 2K | IPSwitch | F20FDC280AF01CBE | <p align="center"> 1.0.1 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
 | <p align="center"> [4K](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01002AF014F4C000/1.0.1/4K.rar) </p> | Changes the games Resolution to 4K | IPSwitch | F20FDC280AF01CBE | <p align="center"> 1.0.1 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
-| <p align="center"> [21:9](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01002AF014F4C000/1.0.1/21'9.rar) </p> | Changes the games Aspect Ratio to 21:9 (Change Aspect Ratio in emulator settings) | IPSwitch | F20FDC280AF01CBE | <p align="center"> 1.0.1 </p> | <p align="center"> [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
+| <p align="center"> [21:9](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01002AF014F4C000/1.0.1/21'9.rar) </p> | Changes the games Aspect Ratio to 21:9 </BR> (Change Aspect Ratio in emulator settings) | IPSwitch | F20FDC280AF01CBE | <p align="center"> 1.0.1 </p> | <p align="center"> [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
 </BR>
 
 ## No More Heroes [0100F0400F202000]
@@ -242,7 +242,7 @@ Work in Progress
 ## Super Mario Odyssey™ [0100000000010000]
 | MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
 | --- | --- | --- | --- | --- | --- |
-| <p align="center"> [21:9](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/0100000000010000/1.0.0/21'9.rar) </p> | Changes the games Aspect Ratio to 21:9 (Change Aspect Ratio in emulator settings | IPSwitch | 3CA12DFAAF9C82DA | <p align="center"> 1.0.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
+| <p align="center"> [21:9](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/0100000000010000/1.0.0/21'9.rar) </p> | Changes the games Aspect Ratio to 21:9 </BR> (Change Aspect Ratio in emulator settings) | IPSwitch | 3CA12DFAAF9C82DA | <p align="center"> 1.0.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
 </BR>
 
 ## Team Sonic Racing	[010092B0091D0000]
@@ -267,7 +267,7 @@ Work in Progress
 ## Xenoblade Chronicles™ 3 [010074F013262000]
 | MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
 | --- | --- | --- | --- | --- | --- |
-| <p align="center"> [21:9](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/010074F013262000/1.3.0/21'9.rar) </p> | Changes the games Aspect Ratio to 21:9 (Change Aspect Ratio in emulator settings) | IPSwitch | B76CD24AF02ACEA2 | <p align="center"> 1.3.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
+| <p align="center"> [21:9](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/010074F013262000/1.3.0/21'9.rar) </p> | Changes the games Aspect Ratio to 21:9 </BR> (Change Aspect Ratio in emulator settings) | IPSwitch | B76CD24AF02ACEA2 | <p align="center"> 1.3.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
 | <p align="center"> [1080p](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/010074F013262000/1.3.0/1080p.rar) </p> | Changes the games Resolution to 1080p | IPSwitch | B76CD24AF02ACEA2 | <p align="center"> 1.3.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
 | <p align="center"> [2K](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/010074F013262000/1.3.0/2K.rar) </p> | Changes the games Resolution to 2K | IPSwitch | B76CD24AF02ACEA2 | <p align="center"> 1.3.0</p> | <p align="center"> [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
 | <p align="center"> [Disable DOF](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/010074F013262000/1.3.0/DisableDOF.rar) </p> | Disables the games Depth of Field effect | IPSwitch | B76CD24AF02ACEA2 | <p align="center"> 1.3.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
