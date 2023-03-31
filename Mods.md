@@ -230,7 +230,7 @@ Work in Progress
 | MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
 | --- | --- | --- | --- | --- | --- |
 | <p align="center"> [60FPS](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/0100AFE012BA2000/1.1.0/60fps.rar) </p> | Changes the games max Framerate to 60FPS | IPSwitch | 1D327B699C913A47 | <p align="center"> 1.1.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
-| <p align="center"> [4K-2K](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/0100AFE012BA2000/1.1.0/1080p-720p.rar) </p> | Changes the games Resolution to 4K Docked, 2K Handheld | IPSwitch | 1D327B699C913A47 | <p align="center"> 1.1.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
+| <p align="center"> [4K-2K](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/0100AFE012BA2000/1.1.0/4K-2K.rar) </p> | Changes the games Resolution to 4K Docked, 2K Handheld | IPSwitch | 1D327B699C913A47 | <p align="center"> 1.1.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
 </BR>
 
 ## Sonic Frontiers [01004AD014BF0000]
