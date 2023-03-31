@@ -239,6 +239,12 @@ Work in Progress
 | [60FPS](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/raw/main/Mods/01004AD014BF0000/1.1.1/SonicFrontiers60fps.rar) | Changes the games max Framerate to 60FPS | IPS Patch | DD7FF70188B281D9 | <p align="center"> 1.1.1 </p> | <p align="center"> gwog  </p> (systemdev) |
 </BR>
 
+## Super Mario Odyssey™ [0100000000010000]
+| MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
+| --- | --- | --- | --- | --- | --- |
+| <p align="center"> [21:9](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/0100000000010000/1.0.0/21'9.rar) </p> | Changes the games Aspect Ratio to 21:9 (Change Aspect Ratio in emulator settings | IPSwitch | 3CA12DFAAF9C82DA | <p align="center"> 1.0.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
+</BR>
+
 ## Team Sonic Racing	[010092B0091D0000]
 | MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
 | --- | --- | --- | --- | --- | --- |
