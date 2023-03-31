@@ -213,6 +213,13 @@ Work in Progress
 | [60FPS](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/raw/main/Mods/01001AF00CE54000/1.0.2/Oninaki60FPS.rar) | Changes the games max Framerate to 60FPS | IPS Patch | C949E2576F532C43 | <p align="center"> 1.0.2 </p> | [MasaGratoR](https://github.com/masagrator/NXGraphicsPatches) |
 </BR>
 
+## Persona® 5 Strikers [0100801011C3E000]
+| MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
+| --- | --- | --- | --- | --- | --- |
+| <p align="center"> [60FPS](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/0100801011C3E000/1.0.0/60fps.rar) </p> | Changes the games max Framerate to 60FPS | IPSwitch | C4DF04F647BDC727 | <p align="center"> 1.0.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
+| <p align="center"> [1080p-720p](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/0100801011C3E000/1.0.0/1080p-720p.rar) </p> | Changes the games Resolution to 1080p Docked, 720p Handheld | IPSwitch | C4DF04F647BDC727 | <p align="center"> 1.0.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
+</BR>
+
 ## Pokémon Mystery Dungeon™: Rescue Team DX	 [01003D200BAA2000]
 | MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
 | --- | --- | --- | --- | --- | --- |
