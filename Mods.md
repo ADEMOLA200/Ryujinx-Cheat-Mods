@@ -170,7 +170,7 @@ Work in Progress
 |<p align="center"> [32:9](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/0100DCA0064A6000/1.4.0/32.9SuperUltrawide.zip) </p> | Changes the games Aspect Ratio to 32:9 </BR> (Change Aspect Ratio in emulator settings)  | IPSwitch | 79E5950FFA85ACF6 | <p align="center"> 1.4.0 </p> | <p align="center"> [victoria4dx](https://github.com/victoria4dx/switch-mods) </p> |
 | <p align="center"> [120FPS](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/0100DCA0064A6000/1.4.0/120FPS.rar) </p> | Changes the games max Framerate to 120FPS | IPSwitch | 79E5950FFA85ACF6 | <p align="center"> 1.4.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
 | <p align="center"> [Disable Dynamic Resolution](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/0100DCA0064A6000/1.4.0/Disable-Dynamic-Resoluiton.rar) </p> | Disables the games Dynamic Resolution | IPSwitch | 79E5950FFA85ACF6 | <p align="center"> 1.4.0</p> | <p align="center"> [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
-| <p align="center"> [Disable Lens Flare](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01004A4010FEA000/1.2.0/1080pv2.rar) </p> | Disables the games Lens Flare | IPSwitch | 79E5950FFA85ACF6 | <p align="center"> 1.4.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
+| <p align="center"> [Disable Lens Flare](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/0100DCA0064A6000/1.4.0/1080pv2.rar) </p> | Disables the games Lens Flare | IPSwitch | 79E5950FFA85ACF6 | <p align="center"> 1.4.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
 </BR>
 
 ## Metroid Prime™ Remastered [0100DCA0064A6000]
