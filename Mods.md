@@ -112,6 +112,13 @@ Work in Progress
 | [60FPS](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/raw/main/Mods/010071800BA98000/1.0.0/Darksiders260FPS.rar) | Changes the games max Framerate to 60FPS | IPS Patch | 173E2EDEA9E5D940 | <p align="center"> 1.0.0 </p> | [MasaGratoR](https://github.com/masagrator/NXGraphicsPatches) |
 </BR>
 
+## Donkey Kong Country: Tropical Freeze [0100C1F0051B6000] 
+| MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
+| --- | --- | --- | --- | --- | --- |
+|  <p align="center"> [21:9](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/0100C1F0051B6000/1.0.2/21.9Ultrawide.zip) </p> | Changes the games Aspect Ratio to 21:9 </BR> (Change Aspect Ratio in emulator settings) | IPSwitch | F48BD40D89B529C1 | <p align="center"> 1.0.2 </p> | <p align="center"> [victoria4dx](https://github.com/victoria4dx/switch-mods) </p> |
+|<p align="center"> [32:9](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/0100C1F0051B6000/1.0.2/32.9SuperUltrawide.zip) </p> | Changes the games Aspect Ratio to 32:9 </BR> (Change Aspect Ratio in emulator settings)  | IPSwitch | F48BD40D89B529C1 | <p align="center"> 1.0.2 </p> | <p align="center"> [victoria4dx](https://github.com/victoria4dx/switch-mods) </p> |
+</BR>
+
 ## DOOM (2016) [0100416004C00000]
 | MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
 | --- | --- | --- | --- | --- | --- |
