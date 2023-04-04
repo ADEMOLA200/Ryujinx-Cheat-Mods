@@ -20,7 +20,7 @@ Work in Progress
 | --- | --- | --- | --- | --- | --- |
 | <p align="center"> [60FPS with Cutscene Fix](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01007300020FA000/1.0.1/AstralChain60fps30fpsCutscenes.rar) </p> | Changes the max Framerate to 60FPS with a Cheat to lock Cutscenes to 30FPS | IPS Patch | 501924B7C22129E5 | <p align="center"> 1.0.1 </p> | <p align="center"> MrComputerRevo Hazerou </p> |
 | <p align="center"> [21:9](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01007300020FA000/1.0.1/21'9.rar) </p> | Changes the games Aspect Ratio to 21:9 </BR> (Change Aspect Ratio in emulator settings) | IPSwitch | 501924B7C22129E5 | <p align="center"> 1.0.1 </p> | <p align="center"> [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) </p> |
-| <p align="center"> [32:9](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01007300020FA000/1.0.1/32.9Ultrawide) </p> | Changes the games Aspect Ratio to 32:9 </BR> (Change Aspect Ratio in emulator settings) | IPSwitch | 501924B7C22129E5 | <p align="center"> 1.0.1 </p> | <p align="center"> [victoria4dx](https://github.com/victoria4dx/switch-mods) </p> |
+| <p align="center"> [32:9](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01007300020FA000/1.0.1/32.9Ultrawide.zip) </p> | Changes the games Aspect Ratio to 32:9 </BR> (Change Aspect Ratio in emulator settings) | IPSwitch | 501924B7C22129E5 | <p align="center"> 1.0.1 </p> | <p align="center"> [victoria4dx](https://github.com/victoria4dx/switch-mods) </p> |
 </BR>
 
 ## Assassin’s Creed®: The Rebel Collection [010044700DEB0000] 
