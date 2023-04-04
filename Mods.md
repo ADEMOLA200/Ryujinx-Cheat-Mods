@@ -149,6 +149,7 @@ Work in Progress
 | --- | --- | --- | --- | --- | --- |
 | <p align="center"> [60FPS](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01004D300C5AE000/1.0.0/60fps.rar) </p> | Changes the games max Framerate to 60FPS | IPSwitch | D9BA7DB72FFAFECD | <p align="center"> 1.0.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
 | <p align="center"> [21:9](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01004D300C5AE000/1.0.0/21.9.rar) </p> | Changes the games Aspect Ratio to 21:9 </BR> (Change Aspect Ratio in emulator settings) | IPSwitch | D9BA7DB72FFAFECD | <p align="center"> 1.0.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
+|<p align="center"> [32:9](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01004D300C5AE000/1.0.0/32.9SuperUltrawide.zip) </p> | Changes the games Aspect Ratio to 32:9 </BR> (Change Aspect Ratio in emulator settings)  | IPSwitch | D9BA7DB72FFAFECD | <p align="center"> 1.0.0 </p> | <p align="center"> [victoria4dx](https://github.com/victoria4dx/switch-mods) </p> |
 | <p align="center"> [Disable Dynamic Resolution](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01004D300C5AE000/1.0.0/DisableDynamicResolution.rar) </p> | Disables the games Dynamic Resolution | IPSwitch | D9BA7DB72FFAFECD | <p align="center"> 1.0.0 </p> | <p align="center"> [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
 </BR>
 
