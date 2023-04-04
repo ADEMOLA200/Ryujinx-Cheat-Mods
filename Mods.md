@@ -90,8 +90,8 @@ Work in Progress
 ## Captain Toad™: Treasure Tracker [01009BF0072D4000] 
 | MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
 | --- | --- | --- | --- | --- | --- |
-|  <p align="center"> [21:9](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01009BF0072D4000/1.3.0/21.9Ultrawide.zip) </p> | Changes the games Aspect Ratio to 21:9 </BR> (Change Aspect Ratio in emulator settings) | IPS Patch | 8F75C9B8B7FF69D9 | <p align="center"> 1.3.0 </p> | <p align="center"> [victoria4dx](https://github.com/victoria4dx/switch-mods) </p> |
-|<p align="center"> [32:9](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01009BF0072D4000/1.3.0/32.9SuperUltrawide.zip) </p> | Changes the games Aspect Ratio to 32:9 </BR> (Change Aspect Ratio in emulator settings)  | IPS Patch | 8F75C9B8B7FF69D9 | <p align="center"> 1.3.0 </p> | <p align="center"> [victoria4dx](https://github.com/victoria4dx/switch-mods) </p> |
+|  <p align="center"> [21:9](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01009BF0072D4000/1.3.0/21.9Ultrawide.zip) </p> | Changes the games Aspect Ratio to 21:9 </BR> (Change Aspect Ratio in emulator settings) | IPSwitch | 8F75C9B8B7FF69D9 | <p align="center"> 1.3.0 </p> | <p align="center"> [victoria4dx](https://github.com/victoria4dx/switch-mods) </p> |
+|<p align="center"> [32:9](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01009BF0072D4000/1.3.0/32.9SuperUltrawide.zip) </p> | Changes the games Aspect Ratio to 32:9 </BR> (Change Aspect Ratio in emulator settings)  | IPSwitch | 8F75C9B8B7FF69D9 | <p align="center"> 1.3.0 </p> | <p align="center"> [victoria4dx](https://github.com/victoria4dx/switch-mods) </p> |
 </BR>
 
 ## Crash Bandicoot™ N. Sane Trilogy [0100D1B006744000]
