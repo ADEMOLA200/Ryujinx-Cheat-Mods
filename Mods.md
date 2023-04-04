@@ -87,6 +87,13 @@ Work in Progress
 | [60FPS](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/raw/main/Mods/0100B4700BFC6000/1.0.4_5/CallofJuarez60FPS.rar) | Changes the games max Framerate to 60FPS | IPS Patch | EBF7DE558d554C7E | <p align="center"> 1.0.4_5 </p> | [Kirby567fan](https://github.com/masagrator/NXGraphicsPatches) |
 </BR>
 
+## Captain Toad™: Treasure Tracker [01009BF0072D4000] 
+| MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
+| --- | --- | --- | --- | --- | --- |
+|  <p align="center"> [21:9](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01009BF0072D4000/1.3.0/21.9Ultrawide.zip) </p> | Changes the games Aspect Ratio to 21:9 </BR> (Change Aspect Ratio in emulator settings) | IPS Patch | 8F75C9B8B7FF69D9 | <p align="center"> 1.3.0 </p> | <p align="center"> [victoria4dx](https://github.com/victoria4dx/switch-mods) </p> |
+|<p align="center"> [32:9](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01009BF0072D4000/1.3.0/32.9SuperUltrawide.zip) </p> | Changes the games Aspect Ratio to 32:9 </BR> (Change Aspect Ratio in emulator settings)  | IPS Patch | 8F75C9B8B7FF69D9 | <p align="center"> 1.3.0 </p> | <p align="center"> [victoria4dx](https://github.com/victoria4dx/switch-mods) </p> |
+</BR>
+
 ## Crash Bandicoot™ N. Sane Trilogy [0100D1B006744000]
 | MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
 | --- | --- | --- | --- | --- | --- |
