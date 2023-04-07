@@ -1,4 +1,4 @@
-# Ryujinx Cheats Index [885 Titles]
+# Ryujinx Cheats Index [891 Titles]
 
 
 | NAME | TITLE ID | BUILD ID | VERSION |  60 FPS | GFX |
@@ -82,6 +82,7 @@
 | Alwa's Legacy | [01001B7012214000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01001B7012214000) | 3825003B418CF448 | <p align="center"> 1.3.3.7440 |
 | ANIMUS: Revenant | [01009C60152B6000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01009C60152B6000) | 4EF86EE130D9AE72 | <p align="center"> 1.0.5 </p> |
 | ANNO: Mutationem | [0100846018258000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100846018258000) | 4C62556988DC9342  | <p align="center"> 1.05.07 |
+| Anyaroth: The Queen's Tyranny | [010057C018A62000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010057C018A62000) | B72E50654484B5C1 | <p align="center"> 1.0 </p> |
 | Apple Knight | [01004C1013548000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01004C1013548000) | 769F21BB2405DB89 | <p align="center"> 2.2.6 |
 | Aragami: Shadow Edition | [010071800BA74000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010071800BA74000) | F3315F8027A9B24A | <p align="center"> 1.0.1 </p> |
 | Aragami 2 (Asia) | [0100021019A18000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100021019A18000) | BF27B8C6E997C22D | <p align="center"> 1.0.30195.0 </p> |  <p align="center"> ✅ </p> |
@@ -104,11 +105,13 @@
 | Arcade Archives IKARI III -THE RESCUE- | [01004B1010E58000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01004B1010E58000) | 78c93f31319080e0 | <p align="center"> 1.0.0 </p> |
 | Arcade Archives Ikki | [01000DB00980A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01000DB00980A000) | ECA7BCDC056188AD | <p align="center"> 1.0.0 </p> |
 | Arcade Archives IMAGE FIGHT | [010008300C978000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010008300C978000) | 607440A612128046 | <p align="center"> 1.0.1 </p> |
+| Arcade Archives Kid's Horehore Daisakusen | [0100E7C001DE0000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100E7C001DE0000) | AF0DD1DB8E3F7DAE | <p align="center"> 1.0.0 </p> |
 | Arcade Archives KOUTETSU YOUSAI STRAHL | [01005370123D0000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01005370123D0000) | 4c32b4f0cdc19592 | <p align="center"> 1.0.0 </p> |
 | Arcade Archives LIFE FORCE | [0100F380105A4000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100F380105A4000) | c1524d35c1d101ee | <p align="center"> 1.0.0 </p> |
 | Arcade Archives Mario Bros | [0100755004608000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100755004608000) | CD197B478B92DAE8 | <p align="center"> 1.0.1 </p> |
 | Arcade Archives MARVEL LAND (JP) | [0100B67018B98000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100B67018B98000) | EDB7D47483CD6F10 | <p align="center"> 1.0.1 </p> |
 | Arcade Archives MOON PATROL | [01003000097FE000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01003000097FE000) | C8FADC5AF4CD1DFC | <p align="center"> 1.0.1 </p> |
+| Arcade Archives OMEGA FIGHTER | [01004A200BB48000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01004A200BB48000) | 7AA664ADA81CC54B | <p align="center"> 1.0.0 </p> |
 | Arcade Archives P-47 | [010067A011FF0000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010067A011FF0000) | 71ff1076b315216c | <p align="center"> 1.0.0 </p> |
 | Arcade Archives P.O.W. -PRISONERS OF WAR- | [0100547010920000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100547010920000) | 4f61b94412a715ba  | <p align="center"> 1.0.0 </p> |
 | Arcade Archives PHELIOS | [01009C9019DB6000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01009C9019DB6000) | 0FB01096C008B3AC | <p align="center"> 1.0.1 </p> |
@@ -127,6 +130,7 @@
 | Arcade Archives TIME PILOT '84 | [01003200144CA000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01003200144CA000) | F215A4A152BA0C0A | <p align="center"> 1.0.0 </p> |
 | Arcade Archives VS. CASTLEVANIA | [010029600EAE4000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010029600EAE4000) | 7B4F8C2530BB4564 | <p align="center"> 1.0.0 </p> |
 | Arcade Archives VS. GRADIUS | [01004EC00E634000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01004EC00E634000) | 5052c4b099581ae2 | <p align="center"> 1.0.0 </p> |
+| Arcade Archives VS. SUPER MARIO BROS. | [010021D00812A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010021D00812A000) | 35244CBEA8258FCD | <p align="center"> 1.0.2 </p> |
 | Arcade Archives Yie Ar KUNG-FU | [01003FB00E954000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01003FB00E954000) | ca6a651294cf3fd4 | <p align="center"> 1.0.1 </p> |
 | Arkham Horror: Mother's Embrace | [010069A010606000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010069A010606000) | 3B60E2E7E6D1F348 | <p align="center"> 1.0.0 </p> |
 | Asdivine Kamura | [0100C8E00F50A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100C8E00F50A000) | 7ac8cbfa0d59a04c | <p align="center"> 1.0.0 </p> |
@@ -176,6 +180,7 @@
 | Bayonetta™ 3 | [01004A4010FEA000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01004A4010FEA000) | 4104F9C7041985F4 | <p align="center"> 1.2.0 </p> |
 | Bayonetta Origins: Cereza and the Lost Demon™ | [0100CF5010FEC000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100CF5010FEC000) | A1CE2940D813ACAB | <p align="center"> 1.0.0 </p> |
 | BE-A Walker | [01003A1010E3C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01003A1010E3C000) | dc7a206287057848 | <p align="center"> 1.0.0 </p> |
+| Beast Breaker | [010042401436C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010042401436C000) | E23BCB7A015C8437 | <p align="center"> 1.0.6 </p> |
 | Beast Quest | [01001EB00E9FE000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01001EB00E9FE000) | 1dd68befb8b47446 | <p align="center"> 1.0.2 </p> |
 | Ben 10 | [01006E1004404000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01006E1004404000) | 312a6760655ac64a | <p align="center"> 1.0.2 </p> |
 | BioShock 2 Remastered | [01002620102C6000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01002620102C6000) | 7D1714279435589C | <p align="center"> 1.0.2 </p> | <p align="center"> ✅ </p> |
@@ -251,6 +256,7 @@
 | Cruis n Blast | [0100B41013C82000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100B41013C82000) | 9346D69ABD4CC24B | <p align="center"> 1.0.7 |
 | Crystal Ortha | [01008FA012FC0000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01008FA012FC0000) | 9B192F49CDBC0746 | <p align="center"> 1.0.0 </p> |
 | Cuphead | [0100A5C00D162000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100a5c00d162000) | D02CD50295124A48 | <p align="center"> 1.3.4 </p> |
+| Curse of the Sea Rats | [0100B970138FA000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100B970138FA000) | 1E5A8ACF2BC55652 | <p align="center"> 1.0.14 </p> |
 | Cyber Shadow (JP) | [0100C1F0141AA000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100C1F0141AA000) | 8c4ec67060489192 | <p align="center"> 1.0.4 </p> |
 | Damsel | [0100BD2009A1C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100BD2009A1C000) | F6B9D27B867F2B4F | <p align="center"> 1.1.2.453 |
 | Dandy Dungeon -Legend of Brave Yamada | [0100DFB00D808000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100DFB00D808000) | 29410CA2711A4145 | <p align="center"> 2.0.3 </p> |
