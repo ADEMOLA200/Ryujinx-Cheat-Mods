@@ -125,10 +125,16 @@ Work in Progress
 | [60FPS](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/raw/main/Mods/0100416004C00000/1.2/DOOM201660FPS.rar) | Changes the games max Framerate to 60FPS | IPS Patch | 01ACE43E724259C3 | <p align="center"> 1.2 </p> | [Kirby567fan](https://github.com/masagrator/NXGraphicsPatches) |
 </BR>
 
+## Fire Emblem™ Engage [0100A6301214E000]
+| MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
+| --- | --- | --- | --- | --- | --- |
+| [60FPS Menu Fix](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/raw/main/Mods/01004AD014BF0000/2.0.0/SonicFrontiers60fps.rar) | Changes the games max Framerate to 60FPS with normal menu speed | IPSwitch | 8C08B9719E085F91 | <p align="center"> 2.0.0 </p> | <p align="center"> gwog  </p> (systemdev) |
+</BR>
+
 ## Fire Emblem™: Three Houses [010055D009F78000]
 | MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
 | --- | --- | --- | --- | --- | --- |
-| [60FPS](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/raw/main/Mods/010055D009F78000/1.2.0/FireEmblem3Houses-60FPS.rar) | Changes the games max Framerate to 60FPS | IPS Patch | 89048449BA238C8C | <p align="center"> 1.2.0 </p> | [MasaGratoR](https://github.com/masagrator/NXGraphicsPatches) |
+| [60FPS](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/raw/main/Mods/010055D009F78000/1.2.0/Fire_Emblem_Engage_2.0.0_-_Force_60FPSS.rar) | Changes the games max Framerate to 60FPS | IPS Patch | 89048449BA238C8C | <p align="center"> 1.2.0 </p> | [MasaGratoR](https://github.com/masagrator/NXGraphicsPatches) |
 </BR>
 
 ## FullBlast [01008D800AE4A000]
