@@ -90,8 +90,8 @@ Work in Progress
 ## Captain Toad™: Treasure Tracker [01009BF0072D4000] 
 | MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
 | --- | --- | --- | --- | --- | --- |
-|  <p align="center"> [21:9](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01009BF0072D4000/1.3.0/21.9Ultrawide.zip) </p> | Changes the games Aspect Ratio to 21:9 </BR> (Change Aspect Ratio in emulator settings) | IPSwitch | 8F75C9B8B7FF69D9 | <p align="center"> 1.3.0 </p> | <p align="center"> [victoria4dx](https://github.com/victoria4dx/switch-mods) </p> |
-|<p align="center"> [32:9](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01009BF0072D4000/1.3.0/32.9SuperUltrawide.zip) </p> | Changes the games Aspect Ratio to 32:9 </BR> (Change Aspect Ratio in emulator settings)  | IPSwitch | 8F75C9B8B7FF69D9 | <p align="center"> 1.3.0 </p> | <p align="center"> [victoria4dx](https://github.com/victoria4dx/switch-mods) </p> |
+| <p align="center"> [21:9](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01009BF0072D4000/1.3.0/21.9Ultrawide.zip) </p> | Changes the games Aspect Ratio to 21:9 </BR> (Change Aspect Ratio in emulator settings) | IPSwitch | 8F75C9B8B7FF69D9 | <p align="center"> 1.3.0 </p> | <p align="center"> [victoria4dx](https://github.com/victoria4dx/switch-mods) </p> |
+| <p align="center"> [32:9](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01009BF0072D4000/1.3.0/32.9SuperUltrawide.zip) </p> | Changes the games Aspect Ratio to 32:9 </BR> (Change Aspect Ratio in emulator settings)  | IPSwitch | 8F75C9B8B7FF69D9 | <p align="center"> 1.3.0 </p> | <p align="center"> [victoria4dx](https://github.com/victoria4dx/switch-mods) </p> |
 </BR>
 
 ## Crash Bandicoot™ N. Sane Trilogy [0100D1B006744000]
@@ -115,7 +115,7 @@ Work in Progress
 ## Donkey Kong Country: Tropical Freeze [0100C1F0051B6000] 
 | MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
 | --- | --- | --- | --- | --- | --- |
-|  <p align="center"> [21:9](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/0100C1F0051B6000/1.0.2/21.9Ultrawide.zip) </p> | Changes the games Aspect Ratio to 21:9 </BR> (Change Aspect Ratio in emulator settings) | IPSwitch | F48BD40D89B529C1 | <p align="center"> 1.0.2 </p> | <p align="center"> [victoria4dx](https://github.com/victoria4dx/switch-mods) </p> |
+| <p align="center"> [21:9](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/0100C1F0051B6000/1.0.2/21.9Ultrawide.zip) </p> | Changes the games Aspect Ratio to 21:9 </BR> (Change Aspect Ratio in emulator settings) | IPSwitch | F48BD40D89B529C1 | <p align="center"> 1.0.2 </p> | <p align="center"> [victoria4dx](https://github.com/victoria4dx/switch-mods) </p> |
 |<p align="center"> [32:9](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/0100C1F0051B6000/1.0.2/32.9SuperUltrawide.zip) </p> | Changes the games Aspect Ratio to 32:9 </BR> (Change Aspect Ratio in emulator settings)  | IPSwitch | F48BD40D89B529C1 | <p align="center"> 1.0.2 </p> | <p align="center"> [victoria4dx](https://github.com/victoria4dx/switch-mods) </p> |
 </BR>
 
@@ -134,7 +134,7 @@ Work in Progress
 ## Fire Emblem™: Three Houses [010055D009F78000]
 | MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
 | --- | --- | --- | --- | --- | --- |
-| [60FPS](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/raw/main/Mods/010055D009F78000/1.2.0/FireEmblem3Houses-60FPS.rar) | Changes the games max Framerate to 60FPS | IPS Patch | 89048449BA238C8C | <p align="center"> 1.2.0 </p> | [MasaGratoR](https://github.com/masagrator/NXGraphicsPatches) |
+| <p align="center"> [60FPS](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/raw/main/Mods/010055D009F78000/1.2.0/FireEmblem3Houses-60FPS.rar) </p> | Changes the games max Framerate to 60FPS | IPS Patch | 89048449BA238C8C | <p align="center"> 1.2.0 </p> | [MasaGratoR](https://github.com/masagrator/NXGraphicsPatches) |
 | [Remove Outlines](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/raw/main/Mods/010055D009F78000/1.2.0/RemoveOutlines.zip) | Removes outlines around character models | IPS Patch | 89048449BA238C8C | <p align="center"> 1.2.0 </p> | MegaMagikarp |
 </BR>
 
