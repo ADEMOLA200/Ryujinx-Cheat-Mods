@@ -134,7 +134,7 @@ Work in Progress
 ## Fire Emblem™: Three Houses [010055D009F78000]
 | MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
 | --- | --- | --- | --- | --- | --- |
-| [60FPS](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/raw/main/Mods/010055D009F78000/1.2.0/FireEmblem3Houses-60FPS.rar) | Changes the games max Framerate to 60FPS | IPS Patch | 89048449BA238C8C | <p align="center"> 1.2.0 </p> | [MasaGratoR](https://github.com/masagrator/NXGraphicsPatches) |
+| [60FPS](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/raw/main/Mods/010055D009F78000/1.2.0/FireEmblem3Houses-60FPS.zip) | Changes the games max Framerate to 60FPS | IPS Patch | 89048449BA238C8C | <p align="center"> 1.2.0 </p> | [MasaGratoR](https://github.com/masagrator/NXGraphicsPatches) |
 </BR>
 
 ## FullBlast [01008D800AE4A000]
