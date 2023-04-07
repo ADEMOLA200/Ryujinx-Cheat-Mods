@@ -128,7 +128,7 @@ Work in Progress
 ## Fire Emblem™ Engage [0100A6301214E000]
 | MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
 | --- | --- | --- | --- | --- | --- |
-| [60FPS </BR> Menu Fix](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/raw/main/Mods/0100A6301214E000/2.0.0/Fire_Emblem_Engage_2.0.0_-_Force_60FPS.zip) | Changes the games max Framerate to 60FPS with normal menu speed | IPSwitch | 8C08B9719E085F91 | <p align="center"> 2.0.0 </p> | <p align="center"> gwog  </p> (systemdev) |
+| [60FPS with </BR> Menu Fix](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/raw/main/Mods/0100A6301214E000/2.0.0/Fire_Emblem_Engage_2.0.0_-_Force_60FPS.zip) | Changes the games max Framerate to 60FPS with normal menu speed | IPSwitch | 8C08B9719E085F91 | <p align="center"> 2.0.0 </p> | <p align="center"> gwog  </p> (systemdev) |
 </BR>
 
 ## Fire Emblem™: Three Houses [010055D009F78000]
