@@ -1,4 +1,4 @@
-# Ryujinx Cheats Index [891 Titles]
+# Ryujinx Cheats Index [892 Titles]
 
 
 | NAME | TITLE ID | BUILD ID | VERSION |  60 FPS | GFX |
@@ -419,6 +419,7 @@
 | HARVESTELLA (Asia) | [0100EDD018032000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100EDD018032000) | 898404C26E7EA75B | <p align="center"> 1.0.2 </p> | <p align="center"> ✅ </p> | <p align="center"> ✅ </p> |
 | HARVESTELLA | [0100521017B2A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100521017B2A000) | 249EAB9BF046C5EA | <p align="center"> 1.0.2 </p> | <p align="center"> ✅ </p> | <p align="center"> ✅ </p> |
 | Hatchwell | [0100F29018F9C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100F29018F9C000) | 8e5e5bd4a33bc647 | <p align="center"> 2.0.17 |
+| Have a Nice Death | [0100125019A14000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100125019A14000) | F06D8090C0E5E688 | <p align="center"> 1.02 </p> |
 | Helvetii | [010089701934C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010089701934C000) | 5AEA32C501E4C03B | <p align="center"> 1.0.0 </p> |
 | HEROINE ANTHEM ZERO episode 1 | [01001B70080F0000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01001B70080F0000) | 45b257c493eeb045 | <p align="center"> 1.0.0 </p> |
 | Hill Climbing Mania | [0100147011F4E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100147011F4E000) | b2a838fe966cb54e | <p align="center"> 1.0.0 </p> |
