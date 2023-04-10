@@ -214,7 +214,7 @@ Work in Progress
 | MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
 | --- | --- | --- | --- | --- | --- |
 | <p align="center"> [60FPS](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/0100770008DD8000/1.4.0/60fps.rar) </p> | Changes the games max Framerate to 60FPS | IPSwitch | FB08F1D20FD1204F | <p align="center"> 1.4.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
-| <p align="center"> [4K-2K](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/0100770008DD8000/1.4.0/4K-2K.rar) </p> | Increases the games Resolution to 4K Docked, 2K Handheld </BR> (Might need use alternative memory layout enabled) | IPSwitch | FB08F1D20FD1204F | <p align="center"> 1.4.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
+| <p align="center"> [4K-2K](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/0100770008DD8000/1.4.0/4K-2K.rar) </p> | Increases the games Resolution to 4K Docked, 2K Handheld </BR> (May require Use alternative memory layout (Developer) | IPSwitch | FB08F1D20FD1204F | <p align="center"> 1.4.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
 | <p align="center"> [Connection Error Fix](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/0100770008DD8000/1.4.0/Connecting-Error-Fix.rar) </p> | Disables the ability to Connect to the internet | IPSwitch | FB08F1D20FD1204F | <p align="center"> 1.4.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
 </BR>
 
