@@ -595,7 +595,7 @@
 | Pinstripe (JP) | [01000C1011960000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01000C1011960000) | 802040931b870548 | <p align="center"> 1.0.0 </p> |
 | Pinstripe! | [010041100B148000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010041100B148000) | 99576dd9532d5d47 | <p align="center"> 1.0.0 </p> |
 | Pokémon™ Brilliant Diamond | [0100000011D90000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100000011D90000) | 94CEAE325C205C4B | <p align="center"> 1.3.0 </p> | <p align="center"> ✅ </p> |
-| Pokémon™ Legends: Arceus | [01001F5010DFA000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01001F5010DFA000) | BEF291F2639F7AFE | <p align="center"> 1.0.2 </p> | 
+| Pokémon™ Legends: Arceus | [01001F5010DFA000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01001F5010DFA000) | AEE8F150DDA1B5A8 | <p align="center"> 1.1.1 </p> | 
 | Pokémon™: Let’s Go, Eevee! | [0100187003A36000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100187003A36000) | 5831EC64D6B696FD | <p align="center"> 1.0.2 </p> |
 | Pokémon™: Let’s Go, Pikachu! | [010003F003A34000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010003F003A34000) | c208db6a4ef4361f | <p align="center"> 1.0.2 </p> |
 | Pokémon Mystery Dungeon™: Rescue Team DX | [01003D200BAA2000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01003D200BAA2000) | 3AB632DEE82D5944 | <p align="center"> 1.0.2 </p> |
