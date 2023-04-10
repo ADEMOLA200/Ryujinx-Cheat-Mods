@@ -251,6 +251,12 @@ Work in Progress
 | [Remove DOF + Lowered Bloom + No FXAA](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/0100000011D90000/Any/No_DoF-Lowered_Bloom-No_FXAA.7z) | Removes some post-processing effects which can help resolution scaling. | Engine | <p align="center"> Any </p> | <p align="center"> Any </p> | Edgarska |
 </BR>
 
+## Pokémon™ Legends: Arceus	 [01001F5010DFA000]
+| MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
+| --- | --- | --- | --- | --- | --- |
+| [60FPS](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/raw/main/Mods/01001F5010DFA000/1.1.1/60FPS.rar) | Changes the games max Framerate to 60FPS | IPSwitch | AEE8F150DDA1B5A8 | <p align="center"> 1.1.1 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
+</BR>
+
 ## Pokémon Mystery Dungeon™: Rescue Team DX	 [01003D200BAA2000]
 | MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
 | --- | --- | --- | --- | --- | --- |
