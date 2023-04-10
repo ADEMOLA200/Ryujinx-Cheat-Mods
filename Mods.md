@@ -198,6 +198,11 @@ Work in Progress
 | [60FPS](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/raw/main/Mods/0100F0400E850000/1.0.0/MetroLastLightRedux60FPS.rar) | Changes the games max Framerate to 60FPS | IPS Patch | 85C362CC9790F0ED | <p align="center"> 1.0.0 </p> | [Kirby567fan](https://github.com/masagrator/NXGraphicsPatches) |
 </BR>
 
+## Metroid™ Dread [010093801237C000]
+| MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
+| --- | --- | --- | --- | --- | --- |
+| <p align="center"> [Disable FXAA](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/010093801237C000/Any/21'9.rar) </p> | Disables the in-game FXAA shader to improve resolution scaling | Engine | Any | <p align="center"> Any </p> | Unknown |
+
 ## Metroid Prime™ Remastered [0100DCA0064A6000]
 | MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
 | --- | --- | --- | --- | --- | --- |
