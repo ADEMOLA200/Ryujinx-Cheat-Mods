@@ -180,18 +180,6 @@ Work in Progress
 | <p align="center"> [Disable Lens Flare](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/0100DCA0064A6000/1.4.0/Disable-Lens-Flare.rar) </p> | Disables the games Lens Flare | IPSwitch | 79E5950FFA85ACF6 | <p align="center"> 1.4.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
 </BR>
 
-## Metroid Prime™ Remastered [0100DCA0064A6000]
-| MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
-| --- | --- | --- | --- | --- | --- |
-| <p align="center"> [21:9](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/010012101468C000/1.0.0/21'9.rar) </p> | Changes the games Aspect Ratio to 21:9 </BR> (Change Aspect Ratio in emulator settings) | IPSwitch | 67C9CA1428222752 | <p align="center"> 1.0.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
-| <p align="center"> [1080p-720p](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/010012101468C000/1.0.0/1080p-720p.rar) </p> | Increases the games Resolution to 1080p Docked, 720p Handheld | IPSwitch | 67C9CA1428222752 | <p align="center"> 1.0.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
-| <p align="center"> [2K-1080p](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/010012101468C000/1.0.0/2K-1080p.rar) </p> | Increases the games Resolution to 2K Docked, 1080p Handheld | IPSwitch | 67C9CA1428222752 | <p align="center"> 1.0.0</p> | <p align="center"> [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
-| <p align="center"> [4K-2K](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/010012101468C000/1.0.0/4K-2K.rar) </p> | Increases the games Resolution to 4K Docked, 2K Handheld | IPSwitch | 67C9CA1428222752 | <p align="center"> 1.0.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
-| <p align="center"> [Disable Anti-Aliasing](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/010012101468C000/1.0.0/DisableAA.rar) </p> | Disables the games Native Anti-Aliasing | IPSwitch | 67C9CA1428222752 | <p align="center"> 1.0.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
-| <p align="center"> [Improved LOD](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/010012101468C000/1.0.0/ImprovedLOD.rar) </p> | Improves the Level of Detail of the terrain, and other objects | IPSwitch | 67C9CA1428222752 | <p align="center"> 1.0.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
-| <p align="center"> [Increase Field of View](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/010012101468C000/1.0.0/IncreasedFOV.rar) </p> | Changes the games FOV from 55 to 75 | IPSwitch | 67C9CA1428222752 | <p align="center"> 1.0.0</p> | <p align="center"> [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
-</BR>
-
 ## Mario + Rabbids® Kingdom Battle [010067300059A000]
 | MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
 | --- | --- | --- | --- | --- | --- |
@@ -208,6 +196,18 @@ Work in Progress
 | MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
 | --- | --- | --- | --- | --- | --- |
 | [60FPS](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/raw/main/Mods/0100F0400E850000/1.0.0/MetroLastLightRedux60FPS.rar) | Changes the games max Framerate to 60FPS | IPS Patch | 85C362CC9790F0ED | <p align="center"> 1.0.0 </p> | [Kirby567fan](https://github.com/masagrator/NXGraphicsPatches) |
+</BR>
+
+## Metroid Prime™ Remastered [0100DCA0064A6000]
+| MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
+| --- | --- | --- | --- | --- | --- |
+| <p align="center"> [21:9](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/010012101468C000/1.0.0/21'9.rar) </p> | Changes the games Aspect Ratio to 21:9 </BR> (Change Aspect Ratio in emulator settings) | IPSwitch | 67C9CA1428222752 | <p align="center"> 1.0.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
+| <p align="center"> [1080p-720p](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/010012101468C000/1.0.0/1080p-720p.rar) </p> | Increases the games Resolution to 1080p Docked, 720p Handheld | IPSwitch | 67C9CA1428222752 | <p align="center"> 1.0.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
+| <p align="center"> [2K-1080p](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/010012101468C000/1.0.0/2K-1080p.rar) </p> | Increases the games Resolution to 2K Docked, 1080p Handheld | IPSwitch | 67C9CA1428222752 | <p align="center"> 1.0.0</p> | <p align="center"> [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
+| <p align="center"> [4K-2K](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/010012101468C000/1.0.0/4K-2K.rar) </p> | Increases the games Resolution to 4K Docked, 2K Handheld | IPSwitch | 67C9CA1428222752 | <p align="center"> 1.0.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
+| <p align="center"> [Disable Anti-Aliasing](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/010012101468C000/1.0.0/DisableAA.rar) </p> | Disables the games Native Anti-Aliasing | IPSwitch | 67C9CA1428222752 | <p align="center"> 1.0.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
+| <p align="center"> [Improved LOD](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/010012101468C000/1.0.0/ImprovedLOD.rar) </p> | Improves the Level of Detail of the terrain, and other objects | IPSwitch | 67C9CA1428222752 | <p align="center"> 1.0.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
+| <p align="center"> [Increase Field of View](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/010012101468C000/1.0.0/IncreasedFOV.rar) </p> | Changes the games FOV from 55 to 75 | IPSwitch | 67C9CA1428222752 | <p align="center"> 1.0.0</p> | <p align="center"> [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
 </BR>
 
 ## Monster Hunter Generations Ultimate™ [0100770008DD8000]
