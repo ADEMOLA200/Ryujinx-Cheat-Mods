@@ -254,7 +254,7 @@ Work in Progress
 ## Pokémon™ Legends: Arceus	 [01001F5010DFA000]
 | MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
 | --- | --- | --- | --- | --- | --- |
-| [60FPS](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/raw/main/Mods/01001F5010DFA000/1.1.1/60FPS.rar) | Changes the games max Framerate to 60FPS | IPSwitch | AEE8F150DDA1B5A8 | <p align="center"> 1.1.1 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
+| [60FPS](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/raw/main/Mods/01001F5010DFA000/1.1.1/60FPS.zip) | Changes the games max Framerate to 60FPS | IPSwitch | AEE8F150DDA1B5A8 | <p align="center"> 1.1.1 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
 </BR>
 
 ## Pokémon Mystery Dungeon™: Rescue Team DX	 [01003D200BAA2000]
