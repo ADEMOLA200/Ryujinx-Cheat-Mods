@@ -232,6 +232,14 @@ Work in Progress
 | <p align="center"> [4K](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/0100F0400F202000/1.2.0/4K.rar) </p> | Increases the games Resolution to 4K | IPSwitch | 0359DC95A1454D05 | <p align="center"> 1.2.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
 </BR>
 
+## No More Heroes 3 [01007C600EB42000]
+| MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
+| --- | --- | --- | --- | --- | --- |
+| <p align="center"> [60FPS](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01007C600EB42000/1.0.2/NMH3_60FPS.zip) </p> | Changes the games max Framerate to 60FPS | IPS Patch | C94F5CB8D1D43807 | <p align="center"> 1.0.2 </p> | Kirby567Fan |
+| <p align="center"> [240FPS](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01007C600EB42000/1.0.2/NMH3_240FPS.zip) </p> | Changes the games max Framerate to 240FPS | IPS Patch | C94F5CB8D1D43807 | <p align="center"> 1.0.2 </p> | Kirby567Fan |
+| <p align="center"> [Graphics Mod](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01007C600EB42000/1.0.2/NMH3GraphicsModV2.zip) </p> | Various graphical changes (See Readme in Archive)  | Engine | C94F5CB8D1D43807 | <p align="center"> 1.0.2</p> | <p align="center"> NikkMann |
+</BR>
+
 ## ONINAKI [01001AF00CE54000]
 | MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
 | --- | --- | --- | --- | --- | --- |
