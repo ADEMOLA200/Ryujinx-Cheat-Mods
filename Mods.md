@@ -248,7 +248,7 @@ Work in Progress
 ## Pokémon™ Brilliant Diamond [0100000011D90000]
 | MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
 | --- | --- | --- | --- | --- | --- |
-| [Remove DOF + Lowered Bloom + No FXAA](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/0100000011D90000/Any/No_DoF-Lowered_Bloom-No_FXAA.7z) | Removes some post-processing effects which can help resolution scaling. | Engine | Any | <p align="center"> Any </p> | Edgarska |
+| [Remove DOF + Lowered Bloom + No FXAA](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/0100000011D90000/Any/No_DoF-Lowered_Bloom-No_FXAA.7z) | Removes some post-processing effects which can help resolution scaling. | Engine | <p align="center"> Any </p> | <p align="center"> Any </p> | Edgarska |
 </BR>
 
 ## Pokémon Mystery Dungeon™: Rescue Team DX	 [01003D200BAA2000]
@@ -260,7 +260,7 @@ Work in Progress
 ## Pokémon™ Shining Pearl [010018E011D92000]
 | MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
 | --- | --- | --- | --- | --- | --- |
-| [Remove DOF + Lowered Bloom + No FXAA](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/010018E011D92000/Any/No_DoF-Lowered_Bloom-No_FXAA.7z) | Removes some post-processing effects which can help resolution scaling. | Engine | Any | <p align="center"> Any </p> | Edgarska |
+| [Remove DOF + Lowered Bloom + No FXAA](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/010018E011D92000/Any/No_DoF-Lowered_Bloom-No_FXAA.7z) | Removes some post-processing effects which can help resolution scaling. | Engine | <p align="center"> Any </p> | <p align="center"> Any </p> | Edgarska |
 </BR>
 
 ## Sea of Solitude: The Director’s Cut [0100AFE012BA2000]
