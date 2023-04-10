@@ -254,7 +254,7 @@ Work in Progress
 ## Pokémon™ Shining Pearl [010018E011D92000]
 | MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
 | --- | --- | --- | --- | --- | --- |
-| [60FPS](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/010018E011D92000/Any/No_DoF-Lowered_Bloom-No_FXAAS.7z) | Changes the games max Framerate to 60FPS | Engine | 15DCB7935B84A141 | <p align="center"> Any </p> | Edgarska |
+| [Remove DOF + Lowered Bloom + No FXAA](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/010018E011D92000/Any/No_DoF-Lowered_Bloom-No_FXAAS.7z) | Removes some post-processing effects which can help resolution scaling. | Engine | 15DCB7935B84A141 | <p align="center"> Any </p> | Edgarska |
 
 ## Sea of Solitude: The Director’s Cut [0100AFE012BA2000]
 | MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
