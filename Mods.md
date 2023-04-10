@@ -261,8 +261,8 @@ Work in Progress
 ## Shin Megami Tensei V [010063B012DC6000]
 | MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
 | --- | --- | --- | --- | --- | --- |
-| <p align="center"> [60FPS + 1080p](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/010063B012DC6000/Any/1080p-defaultlod.yz) </p> | Changes the games max Framerate to 60FPS and Increases resolution to 1080p | Pak | Any | <p align="center"> Any </p> | u/pantysyman (reddit) |
-| <p align="center"> [60FPS + 1080p + Improved LOD](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/010063B012DC6000/Any/1080p-medlod.7z) </p> | Changes the games max Framerate to 60FPS and Increases resolution to 1080p and Levil of Detail | Pak | Any | <p align="center"> Any </p> | u/pantysyman (reddit) |
+| <p align="center"> [60FPS + 1080p](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/010063B012DC6000/Any/1080p-defaultlod.7z) </p> | Changes the games max Framerate to 60FPS and Increases resolution to 1080p | Pak | Any | <p align="center"> Any </p> | <p align="center"> u/pantysyman (reddit) |
+| <p align="center"> [60FPS + 1080p + Improved LOD](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/010063B012DC6000/Any/1080p-medlod.7z) </p> | Changes the games max Framerate to 60FPS and Increases resolution to 1080p and Levil of Detail | Pak | Any | <p align="center"> Any </p> | <p align="center"> u/pantysyman (reddit) |
 | <p align="center"> [ 60FPS + 1440p + Improved LOD](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/010063B012DC6000/Any/1440p.7z) </p> | Changes the games max Framerate to 60FPS and Increases resolution to 1440p and Levil of Detail | Pak | Any | <p align="center"> Any </p> | <p align="center"> u/pantysyman (reddit) |
 </BR>
 
