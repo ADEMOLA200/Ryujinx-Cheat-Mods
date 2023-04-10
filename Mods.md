@@ -258,6 +258,14 @@ Work in Progress
 | <p align="center"> [4K-2K](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/0100AFE012BA2000/1.1.0/4K-2K.rar) </p> | Increases the games Resolution to 4K Docked, 2K Handheld | IPSwitch | 1D327B699C913A47 | <p align="center"> 1.1.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
 </BR>
 
+## ARMS™ [010063B012DC6000]
+| MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
+| --- | --- | --- | --- | --- | --- |
+| <p align="center"> [60FPS + 1080p](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/010063B012DC6000/Any/1080p-defaultlod.yz) </p> | Changes the games max Framerate to 60FPS and Increases resolution to 1080p | Pak | Any | <p align="center"> Any </p> | u/pantysyman (reddit) |
+| <p align="center"> [60FPS + 1080p + Improved LOD](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/010063B012DC6000/Any/1080p-medlod.7z) </p> | Changes the games max Framerate to 60FPS and Increases resolution to 1080p and Levil of Detail | Pak | Any | <p align="center"> Any </p> | u/pantysyman (reddit) |
+| <p align="center"> [ 60FPS + 1440p + Improved LOD](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/010063B012DC6000/Any/1440p.7z) </p> | Changes the games max Framerate to 60FPS and Increases resolution to 1440p and Levil of Detail | Pak | Any | <p align="center"> Any </p> | <p align="center"> u/pantysyman (reddit) |
+</BR>
+
 ## Sonic Frontiers [01004AD014BF0000]
 | MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
 | --- | --- | --- | --- | --- | --- |
