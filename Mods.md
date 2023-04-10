@@ -251,6 +251,11 @@ Work in Progress
 | [60FPS](https://github.com/OldManKain/Ryujinx-Mods-Cheats-Saves/raw/main/Mods/01003D200BAA2000/1.0.2/PKMMDRTDX60FPS.rar) | Changes the games max Framerate to 60FPS | IPS Patch | 3AB632DEE82D5944 | <p align="center"> 1.0.2 </p> | [MasaGratoR](https://github.com/masagrator/NXGraphicsPatches) |
 </BR>
 
+## Pokémon™ Shining Pearl [010018E011D92000]
+| MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
+| --- | --- | --- | --- | --- | --- |
+| [60FPS](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/010018E011D92000/Any/No_DoF-Lowered_Bloom-No_FXAAS.7z) | Changes the games max Framerate to 60FPS | Engine | 15DCB7935B84A141 | <p align="center"> Any </p> | Edgarska |
+
 ## Sea of Solitude: The Director’s Cut [0100AFE012BA2000]
 | MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
 | --- | --- | --- | --- | --- | --- |
