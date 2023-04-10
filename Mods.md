@@ -269,6 +269,11 @@ Work in Progress
 | [Remove DOF + Lowered Bloom + No FXAA](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/010018E011D92000/Any/No_DoF-Lowered_Bloom-No_FXAA.7z) | Removes some post-processing effects which can help resolution scaling. | Engine | <p align="center"> Any </p> | <p align="center"> Any </p> | Edgarska |
 </BR>
 
+## Pokémon™ Shield [01008DB008C2C000]
+| MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
+| --- | --- | --- | --- | --- | --- |
+| [No Outlines](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01008DB008C2C000/Any/No_Outlines.zip) | Disables outline effect around some models and characters | Engine | <p align="center"> Any </p> | <p align="center"> Any </p> | [MelonSpeedruns]([https://github.com/masagrator/NXGraphicsPatches](https://github.com/MelonSpeedruns)) |
+
 ## Pokémon™ Sword [0100ABF008968000]
 | MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
 | --- | --- | --- | --- | --- | --- |
