@@ -11,7 +11,7 @@ Work in Progress for Ryujinx Team
 </br>
 
 ## [Mods Index](Mods.md)
-### COMPLETED [54 Titles] - UPDATED TO APR/10/2023
+### COMPLETED [55 Titles] - UPDATED TO APR/10/2023
 - Will update once a week if new mods release.
 </br>
 
