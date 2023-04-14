@@ -472,7 +472,7 @@
 | Krut: The Mythic Wings | [0100E4F016262000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100E4F016262000) | 93FBA1F3BEB581CD | <p align="center"> 1.0.3 </p> |
 | Kukoos: Lost Pets | [01000AF019464000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01000AF019464000) | F6E93F2192062A44 | <p align="center"> 1.0 </p> |
 | Labyrinth Legend (JP) | [01003D60131DE000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01003D60131DE000) | 5d37985ffd683d9a | <p align="center"> 1.0.3 </p> |
-| Labyrinth of Galleria: The Moon Society | [0100001017216000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100001017216000) | 5B8A84D880998114 | <p align="center"> 1.0.1 </p> | <p align="center"> ✅ </p> |
+| Labyrinth of Galleria: The Moon Society | [0100001017216000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100001017216000) | 28CA9267FD93E850 | <p align="center"> 1.0.2 </p> | <p align="center"> ✅ </p> |
 | Labyrinth of Refrain: Coven of Dusk | [010058500B3E0000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010058500B3E0000) | a70b9eb509780b4a | <p align="center"> 1.0.4 </p> |
 | Labyrinth of the Witch | [010022D0089AE000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010022D0089AE000) | 5FC92359462FAD47 | <p align="center"> 1.3.0 </p> |
 | Landflix Odyssey | [0100BE3013A38000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100BE3013A38000) | C55DF60AEBBB4EAE | <p align="center"> 1.0.2 </p> |
