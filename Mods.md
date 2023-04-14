@@ -23,10 +23,15 @@ Work in Progress
 | <p align="center"> [32:9](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01007300020FA000/1.0.1/32.9Ultrawide.zip) </p> | Changes the games Aspect Ratio to 32:9 </BR> (Change Aspect Ratio in emulator settings) | IPSwitch | 501924B7C22129E5 | <p align="center"> 1.0.1 </p> | <p align="center"> [victoria4dx](https://github.com/victoria4dx/switch-mods) </p> |
 </BR>
 
-## Assassin’s Creed®: The Rebel Collection [010044700DEB0000] 
+## Assassin’s Creed®: IV Black Flag [010044700DEB0000] 
 | MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
 | --- | --- | --- | --- | --- | --- |
-| [60FPS](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/010044700DEB0000/1.0.0/AssassinsCreedRebelIVBlackFlag60FPS.rar) | Changes the games max Framerate to 60FPS </BR> Assassin's Creed IV Black Flag [010044700DEB0000] | IPS Patch | 85F5D5AB6187F602 | <p align="center"> 1.0.0 </p> | [MasaGratoR](https://github.com/masagrator/NXGraphicsPatches) |
+| [60FPS](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/010044700DEB0000/1.0.0/AssassinsCreedRebelIVBlackFlag60FPS.rar) | Changes the games max Framerate to 60FPS | [010044700DEB0000] | IPS Patch | 85F5D5AB6187F602 | <p align="center"> 1.0.0 </p> | [MasaGratoR](https://github.com/masagrator/NXGraphicsPatches) |
+</BR>
+
+## Assassin’s Creed®: Rogue [010044700DEB0001] 
+| MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
+| --- | --- | --- | --- | --- | --- |
 | [60FPS](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/010044700DEB0001/1.0.1/AssassinsCreedRebelRogue60FPS.rar) | Changes the games max Framerate to 60FPS </BR> Assassin's Creed Rogue [010044700DEB0001] | IPS Patch | 3DEF0E36AA8C6592 | <p align="center"> 1.0.1 </p> | [MasaGratoR](https://github.com/masagrator/NXGraphicsPatches) |
 </BR>
 
