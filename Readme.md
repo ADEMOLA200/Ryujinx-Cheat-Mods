@@ -17,4 +17,4 @@ Work in Progress for Ryujinx Team
 
 ## [Saves Index](Saves.md)
 ### WIP [4 Titles] 
-- Still Searching for Saves.
+- Still Sorting Saves
