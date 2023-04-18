@@ -1,4 +1,4 @@
-# Ryujinx Cheats Index [892 Titles]
+# Ryujinx Cheats Index [898 Titles]
 
 
 | NAME | TITLE ID | BUILD ID | VERSION |  60 FPS | GFX |
@@ -132,6 +132,7 @@
 | Arcade Archives VS. GRADIUS | [01004EC00E634000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01004EC00E634000) | 5052c4b099581ae2 | <p align="center"> 1.0.0 </p> |
 | Arcade Archives VS. SUPER MARIO BROS. | [010021D00812A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010021D00812A000) | 35244CBEA8258FCD | <p align="center"> 1.0.2 </p> |
 | Arcade Archives Yie Ar KUNG-FU | [01003FB00E954000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01003FB00E954000) | ca6a651294cf3fd4 | <p align="center"> 1.0.1 </p> |
+| Arcane Vale | [0100256019A88000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100256019A88000) | 3B3B5BDB05211183 | <p align="center"> 1.0.0 </p> |
 | Arkham Horror: Mother's Embrace | [010069A010606000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010069A010606000) | 3B60E2E7E6D1F348 | <p align="center"> 1.0.0 </p> |
 | Asdivine Kamura | [0100C8E00F50A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100C8E00F50A000) | 7ac8cbfa0d59a04c | <p align="center"> 1.0.0 </p> |
 | Ashen | [010027B00E40E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010027B00E40E000) | 663E05AB067861EC | <p align="center"> 1.0.0 </p> |  | <p align="center"> ✅ </p> |
@@ -172,6 +173,7 @@
 | Bacon Man: An Adventure | [0100EAF00E32E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100EAF00E32E000) | 3ff8fe0ccfb2348b | <p align="center"> 1.0.0 </p> |
 | Baldur's Gate: Dark Alliance | [0100FD1014726000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100FD1014726000) | d0b3501dc634c120 | <p align="center"> 1.0.1 </p> |
 | Bastion | [010038600B27E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010038600B27E000) | 26a2d0ccaee5f39e | <p align="center"> 1.0.0 </p> |
+| Batora: Lost Haven | [0100A93016BF4000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100A93016BF4000) | 1F36B8B8F6CD8DFC | <p align="center"> 1.0.0 </p> |
 | Battle Axe | [0100747011890000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100747011890000) | 47841761051e4741  | <p align="center"> 1.0.0 </p> |
 | Battle Chasers: Nightwar | [0100551001D88000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100551001D88000) | d0222f29ab9bb64c | <p align="center"> 1.0.2 </p> |
 | Battle of Elementals BURST (JP) | [0100F9E00ED30000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100F9E00ED30000) | c5c3a5df6275b3cd | <p align="center"> 1.0.0 </p> |
@@ -373,6 +375,7 @@
 | Fire Emblem Warriors: Three Hopes | [010071F0143EA000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010071F0143EA000) | F62A7D41CAAC7D6D | <p align="center"> 1.0.2 </p> |
 | Fit Boxing Fist of the North Star -You are already thin- (JP) | [0100205017398000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100205017398000) | 9C5D6E39780F23BB | <p align="center"> 1.0.1 </p> |
 | Flame Dragon Sacred Fist Xiaomei (JP) | [01002390154C6000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01002390154C6000) | 690F8CC19CFC6D25 | <p align="center"> 1.0.3 </p> |
+| Flame Keeper | [0100034019A9A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100034019A9A000) | 4B4A72D51461E41A | <p align="center"> 1.0.1 </p> |
 | FLASHBACK™ | [01000A0004C50000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01000A0004C50000) | 4427C1B4902C4449 | <p align="center"> 1.0.3 </p> |
 | Flinthook | [0100307004B4C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100307004B4C000) | 6cb9aa4d4e880356 | <p align="center"> 1.0.0 </p> |
 | For The King | [010069400B6BE000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010069400B6BE000) | 5105F83D319C8143 | <p align="center"> 1.0.4 </p> |
@@ -488,6 +491,7 @@
 | Life is Strange 2 | [0100FD101186C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100FD101186C000) | BF0088C59D7E97C0 | <p align="center"> 1.1.0 </p> |
 | Light Fairytale Episode 1 | [0100558017FD8000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100558017FD8000) | fbd60e9240c3f26d | <p align="center"> 1.0.0 </p> |
 | Lila's Sky Ark | [01006C3017146000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01006C3017146000) | ddd922368815845e | <p align="center"> 1.0.4.1 </p> |
+| Little Witch Nobeta | [01005FA019DC8000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01005FA019DC8000) | AA429D4DC7181C96 | <p align="center"> 1.0.5 </p> |
 | LIVE A LIVE (JP) | [0100C29017106000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100C29017106000) | 74F3CEDA545E5DEE | <p align="center"> 1.0.1 </p> | <p align="center"> ✅ </p> | <p align="center"> ✅ </p> |
 | LIVE A LIVE | [0100CF801776C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100CF801776C000) | CF22083371DDACB2 | <p align="center"> 1.0.1 </p> | <p align="center"> ✅ </p> | <p align="center"> ✅ </p> |
 | LOL Surprise! Remix: We Rule The World | [0100F2B0123AE000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100F2B0123AE000) | 821623d5241ab14b | <p align="center"> 1.0.4 </p> |
@@ -834,6 +838,7 @@
 | Trine Enchanted Edition | [0100D9000A930000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100D9000A930000) | 32b4bbe0d88214d3 | <p align="center"> 1.0.2 </p> |
 | Trine 2: Complete Story | [010064E00A932000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010064E00A932000) | 525B902E6F916EA5 | <p align="center"> 1.0.1 </p> |
 | Trine 4: The Nightmare Prince | [010055E00CA68000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010055E00CA68000) | b70f06eac87fa2af | <p align="center"> 1.0.3 </p> |
+| TRON: Identity | [010007501A588000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010007501A588000) | 0DA3F0F5C3C04A6C | <p align="center"> 1.0.1 </p> |
 | Trouserheart | [01001EF00BF3A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01001EF00BF3A000) | 1dfd2b4fe2198e4a | <p align="center"> 1.0.0 </p> |
 | Tyr : Chains of Valhalla | [01003B200C6CA000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01003B200C6CA000) | 8eb5b7c66fc82a42 | <p align="center"> 1.0.0 </p> |
 | Ultra Age ウルトラエージ (JP)| [01006DD00FE16000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01006DD00FE16000) | 7769608A9494E5DB  | <p align="center"> 1.0.2 </p> |
@@ -863,6 +868,7 @@
 | WeakWood Throne | [0100011012A70000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100011012A70000) | ce353ad90855ec51 | <p align="center"> 1.0.0 </p> |
 | Whipseey and the Lost Atlas | [010017500E7E0000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010017500E7E0000) | 25CE48F161DDF0CB | <p align="center"> 1.3.0.0 </p> |
 | Wild Guns™ Reloaded | [0100CFC00A1D8000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100CFC00A1D8000) | ce3e20fbad467949 | <p align="center"> 1.0.0 </p> |
+| Wildfrost | [0100DE2016376000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100DE2016376000) | D60AE1680E254177 | <p align="center"> 1.0.1 </p> |
 | Witcheye | [0100BD4011FFE000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100BD4011FFE000) | c8627e913deb5943 | <p align="center"> 1.0.2 </p> |
 | Wizard of Legend | [0100522007AAA000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100522007AAA000) | f0b56a498c439946 | <p align="center"> 1.23.4 </p> |
 | Wizards of Brandel | [010081900F9E2000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010081900F9E2000) | 122ebf9e18e9db4b | <p align="center"> 1.0.0 </p> |
