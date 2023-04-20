@@ -284,10 +284,10 @@ Work in Progress
 ## Pokémon™ Shield [01008DB008C2C000]
 | MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
 | --- | --- | --- | --- | --- | --- |
-| <p align="center"> [60FPS](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01008DB008C2C000/1.3.2/60-FPS-shield.zip) </p> | Changes the games max Framerate to 60FPS </BR> (Some game elements are 2x speed) | IPSwitch | <p align="center"> Any </p> | <p align="center"> Any </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
-| <p align="center"> [Force 1080p](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01008DB008C2C000/1.3.2/Force-1080p-shield.zip) </p> | Forces the game to render at 1080p resolution | IPSwitch | <p align="center"> Any </p> | <p align="center"> Any </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
-| <p align="center"> [Remove Outlines](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01008DB008C2C000/1.3.2/Remove-Outlines-Shield.zip) </p> | Removes outlines around character models| IPSwitch | <p align="center"> Any </p> | <p align="center"> Any </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
-| <p align="center"> [Y Comm Wi-Fi Fix](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01008DB008C2C000/1.3.2/Pokemon-Shield-Wifi-Fix.zip) </p> | Disables error message when pressing Ycomm Button | IPSwitch | <p align="center"> Any </p> | <p align="center"> Any </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
+| <p align="center"> [60FPS](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01008DB008C2C000/1.3.2/60-FPS-shield.zip) </p> | Changes the games max Framerate to 60FPS </BR> (Some game elements are 2x speed) | IPSwitch | <p align="center"> 1.3.2 </p> | <p align="center"> Any </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
+| <p align="center"> [Force 1080p](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01008DB008C2C000/1.3.2/Force-1080p-shield.zip) </p> | Forces the game to render at 1080p resolution | IPSwitch | <p align="center"> Any </p> | <p align="center"> 1.3.2  </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
+| <p align="center"> [Remove Outlines](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01008DB008C2C000/1.3.2/Remove-Outlines-Shield.zip) </p> | Removes outlines around character models| IPSwitch | <p align="center"> Any </p> | <p align="center"> 1.3.2  </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
+| <p align="center"> [Y Comm Wi-Fi Fix](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/01008DB008C2C000/1.3.2/Pokemon-Shield-Wifi-Fix.zip) </p> | Disables error message when pressing Ycomm Button | IPSwitch | <p align="center"> Any </p> | <p align="center"> 1.3.2  </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
 </BR>
 
 ## Pokémon™ Shining Pearl [010018E011D92000]
@@ -299,7 +299,10 @@ Work in Progress
 ## Pokémon™ Sword [0100ABF008968000]
 | MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
 | --- | --- | --- | --- | --- | --- |
-| [No Outlines](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/0100ABF008968000/Any/No_Outlines.zip) | Disables outline effect around some models and characters | Engine | <p align="center"> Any </p> | <p align="center"> Any </p> | [MelonSpeedruns]([https://github.com/masagrator/NXGraphicsPatches](https://github.com/MelonSpeedruns)) |
+| <p align="center"> [60FPS](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/0100ABF008968000/1.3.2/60-FPS-Sword.zip) </p> | Changes the games max Framerate to 60FPS </BR> (Some game elements are 2x speed) | IPSwitch | <p align="center"> 1.3.2 </p> | <p align="center"> Any </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
+| <p align="center"> [Force 1080p](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/0100ABF008968000/1.3.2/Force-1080p-Sword.zip) </p> | Forces the game to render at 1080p resolution | IPSwitch | <p align="center"> Any </p> | <p align="center"> 1.3.2  </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
+| <p align="center"> [Remove Outlines](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/0100ABF008968000/1.3.2/Remove-Outlines-Sword.zip) </p> | Removes outlines around character models| IPSwitch | <p align="center"> Any </p> | <p align="center"> 1.3.2  </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
+| <p align="center"> [Y Comm Wi-Fi Fix](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/0100ABF008968000/1.3.2/Pokemon-Sword-Wifi-Fix.zip) </p> | Disables error message when pressing Ycomm Button | IPSwitch | <p align="center"> Any </p> | <p align="center"> 1.3.2  </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
 </BR>
 
 ## Sea of Solitude: The Director’s Cut [0100AFE012BA2000]
