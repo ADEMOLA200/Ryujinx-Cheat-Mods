@@ -1,6 +1,5 @@
 # Ryujinx Mods Index [56 Titles]
 </BR>
-</BR>
 
 ## AER Memories of Old [0100A0400DDE0000]
 | MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
