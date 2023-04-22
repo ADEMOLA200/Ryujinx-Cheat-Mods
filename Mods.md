@@ -384,4 +384,4 @@
 ## Xenoblade Chronicles™ Definitive Edition [0100FF500E34A000]
 | MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
 | --- | --- | --- | --- | --- | --- |
-| <p align="center"> [60FPS](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/0100FF500E34A000/1.1.2/60fps.rar) </p> | Changes the games max Framerate to 60FPS | IPSwitch | 92C78BB3DCBBC3F7 | <p align="center"> 1.1.2 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
+| <p align="center"> [60FPS](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/0100FF500E34A000/1.1.2/XBDE_60FPS_Proper.rar) </p> | Changes the games max Framerate to 60FPS | IPSwitch | 92C78BB3DCBBC3F7 | <p align="center"> 1.1.2 </p> | moddingiscool |
