@@ -1,4 +1,4 @@
-# Ryujinx Cheats Index [898 Titles]
+# Ryujinx Cheats Index [899 Titles]
 
 
 | NAME | TITLE ID | BUILD ID | VERSION |  60 FPS | GFX |
@@ -7,6 +7,7 @@
 | 20XX | [0100749009844000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100749009844000) | 77B806340F2AF13B  | <p align="center"> 1.1.0 </p> |
 | 9 Monkeys of Shaolin | [010005E00E2BC000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010005E00E2BC000) | 0d78053374218caa | <p align="center"> 1.0.1 </p> |
 | 13 Sentinels: Aegis Rim | [01003FC01670C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01003FC01670C000) | 4B632573CA5C160E | <p align="center"> 1.10 |
+| Advance Wars™ 1+2: Re-Boot Camp | [0100300012F2A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100300012F2A000) | 320A17744AEFD67F | <p align="center"> 1.0.0 </p> |
 | A Hat In Time | [010056E00853A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010056E00853A000) | 746F0D697EEEE2DD | <p align="center"> 1.0.4 </p> |
 | A Knight's Quest | [01005EF00CFDA000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01005EF00CFDA000) | 0df02ab1aa74ad0a | <p align="center"> 1.0.0 </p> |
 | A Long Way Down | [01006A90144E4000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01006A90144E4000) | f80363545eaa634a | <p align="center"> 1.0.0 </p> |
