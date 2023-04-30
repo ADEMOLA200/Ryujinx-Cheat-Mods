@@ -6,12 +6,12 @@ Work in Progress for Ryujinx Team
 ## GAMES INDEX
 
 ## [Cheats Index](Cheats.md)
-### COMPLETED [899 Titles] - UPDATED TO APR/27/2023
+### COMPLETED [899 Titles] - UPDATED TO APR/29/2023
 - Will update once a week if new cheats release (sometimes on the day cheats are updated on certain scrapes).
 </br>
 
 ## [Mods Index](Mods.md)
-### COMPLETED [56 Titles] - UPDATED TO APR/27/2023
+### COMPLETED [56 Titles] - UPDATED TO APR/29/2023
 - Will update once a week if new mods release.
 </br>
 
