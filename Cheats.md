@@ -1,4 +1,4 @@
-# Ryujinx Cheats Index [899 Titles]
+# Ryujinx Cheats Index [900 Titles]
 
 
 | NAME | TITLE ID | BUILD ID | VERSION |  60 FPS | GFX |
@@ -72,8 +72,9 @@
 | Adventures of Pip | [01002B5012004000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01002B5012004000) | 27e9e9dd95465d4e | <p align="center"> 1.0.0 </p> |
 | Aegis Defenders | [01008E6006502000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01008E6006502000) | 3785b9800028344e | <p align="center"> 1.0.4 </p> |
 | Aeon Must Die! | [01000B600F918000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01000B600F918000) | 10AC397225817D31 | <p align="center"> 1.0.2 </p> |
-| Aeterna Noctis | [0100EB60159E4000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100EB60159E4000) | 0CBD71E6D09C0C3E | <p align="center"> 1.1.005 |
-| Age of Heroes: The Beginning | [01007810199E4000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01007810199E4000) | a1c395f26a0144f7 | <p align="center"> 1.8 |
+| Aeterna Noctis | [0100EB60159E4000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100EB60159E4000) | 0CBD71E6D09C0C3E | <p align="center"> 1.1.005 </p> |
+| Afterimage | [010095E01A12A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010095E01A12A000) | 872BD0CCED31F664 | <p align="center"> 1.0.3 </p> |
+| Age of Heroes: The Beginning | [01007810199E4000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01007810199E4000) | a1c395f26a0144f7 | <p align="center"> 1.8 </p> |
 | Ailment | [01006E8011C1E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01006E8011C1E000) | 437d1636aa93d390 | <p align="center"> 1.0.0 </p> |
 | Airheart - Tales of broken Wings | [01003DD00BFEE000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01003DD00BFEE000) | 803f74b0bc347d44 | <p align="center"> 1.0.0 </p> |
 | Akai Katana Shin (JP) | [0100BE6017C7A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100BE6017C7A000) | D9C7864AB8C45C61 | <p align="center"> 1.0.1 </p> |
