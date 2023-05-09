@@ -1,4 +1,4 @@
-# Ryujinx Cheats Index [901 Titles]
+# Ryujinx Cheats Index [908 Titles]
 
 
 | NAME | TITLE ID | BUILD ID | VERSION |  60 FPS | GFX |
@@ -246,6 +246,7 @@
 | Cobra Kai: The Karate Kid Saga Continues | [01005790110F0000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01005790110F0000) | 97e45918d2113640 | <p align="center"> 1.0.2 </p> | <p align="center"> ✅ </p> |
 | Concept Destruction | [0100971011224000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100971011224000) | 16f03a8a9ff95742  | <p align="center"> 1.0.0 </p> |
 | Conjurer Andy’s Repeatable Dungeon | [0100C8500CBC4000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100C8500CBC4000) | 6E6053566CFBC210 | <p align="center"> 2.0.0 </p> |
+| Contract Killer | [010014D017C38000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010014D017C38000) | 17c0a0e68dfd834f | <p align="center"> 1.0 </p> |
 | Copperbell | [0100C5A0115C4000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100C5A0115C4000) | b35a2167f134094d | <p align="center"> 1.0.0 </p> |
 | Cotton Reboot! (JP) | [01003DD00F94A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01003DD00F94A000) | 6743a37fce1e9be4 | <p align="center"> 1.0.0 </p> |
 | Crash Bandicoot™ 4: It’s About Time | [010073401175E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010073401175E000) | E8DB38F170B0149D | <p align="center"> 1.2 </p> | <p align="center"> ✅ </p> | <p align="center"> ✅ </p> |
@@ -450,6 +451,7 @@
 | Intrepid Izzy | [0100897019402000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100897019402000) | 4A242ED7F31DB4F6  | <p align="center"> 1.0.0 </p> |
 | Ion Fury | [010041C00D086000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010041C00D086000) | 9d2efcf198f2247f | <p align="center"> 1.07.1 </p> |
 | Is It Wrong to Try to Pick Up Girls in a Dungeon? Familia Myth Infinite Combate | [010063E0104BE000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010063E0104BE000) | bf4a86cc45871342 | <p align="center"> 1.0.1 </p> |
+| Itorah | [01003B7018446000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01003B7018446000) | 9e13cd2da8cfcf47 | <p align="center"> 1.0.1 </p> |
 | Ittle Dew 2+ | [01004070022F0000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01004070022F0000) | fbb317949968ac41 | <p align="center"> 1.0.2 </p> |
 | Jack Axe | [0100EF500EF42000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100EF500EF42000) | BAA6DB7690E723BC | <p align="center"> 1.0.19 |
 | Jack 'n' Hat | [0100CF001426A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100CF001426A000) | BFBCA454BDC81C38 | <p align="center"> 1.0.1 </p> |
@@ -564,6 +566,7 @@
 | Nine Parchments | [0100D03003F0E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100D03003F0E000) | f7893e37fc10c803 | <p align="center"> 1.1.1 </p> | <p align="center"> ✅ </p> |
 | Ninja Gaiden 3: Razor's Edge | [01002AF014F4C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01002AF014F4C000) | F20FDC280AF01CBE | <p align="center"> 1.0.1 </p> | <p align="center"> ✅ </p> |
 | Oceanhorn - Monster of Uncharted Seas | [01007D7001D0E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01007D7001D0E000) | 3ad80bd8cfcb3423 | <p align="center"> 1.0.1 </p> |
+| Oceanhorn 2: Knights of the Lost Realm | [01006CB010840000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01006CB010840000) | 9F2F187D1C6E44EC | <p align="center"> 1.2 </p> |
 | Octogeddon | [0100E6E00AF44000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100E6E00AF44000) | 51ae5df244c2f1ee | <p align="center"> 1.0.0 </p> |
 | Octopath Traveler™ | [010057D006492000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010057D006492000) | B88A8D8E5516DDE9 | <p align="center"> 1.4.0 </p> | <p align="center"> ✅ </p> | <p align="center"> ✅ </p> |
 | OCTOPATH TRAVELER II | [0100A3501946E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100A3501946E000) | BB891294DA55675E | <p align="center"> 1.0.2 </p> | <p align="center"> ✅ </p> | <p align="center"> ✅ </p> |
@@ -662,6 +665,7 @@
 | Romancing SaGa 2 (JP) | [01002A1004B34000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01002A1004B34000) | 16d2c9fdc70e9d41 | <p align="center"> 1.0.0 </p> |
 | Romancing SaGa 2 | [01001F600829A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01001F600829A000) | BA25511843AC1948 | <p align="center"> 1.0.0 </p> |
 | Romancing SaGa -Minstrel Song- Remastered | [01004A6017E8A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01004A6017E8A000) | 07A2419DE0A62D94 | <p align="center"> 1.0.1 </p> |
+| RUINER | [01006EC00F2CC000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01006EC00F2CC000) | F199FFD7D83F399E | <p align="center"> 1.3 </p> |
 | Rune Factory 3 Special (JP) | [01001EF017BE6000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01001EF017BE6000) | D446B00CFA1EED5B | <p align="center"> 1.0.1 </p> |
 | Rune Factory 4 Special | [010051D00E3A4000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010051D00E3A4000) | c03c9f6a862543f9 | <p align="center"> 1.0.1 </p> |
 | Rune Factory 5 | [01002F7013224000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01002F7013224000) | 54DE72AFB1AFCC43 | <p align="center"> 1.0.2 </p> | <p align="center"> ✅ </p> |
@@ -744,6 +748,7 @@
 | Stitchy in Tooki Trouble | [010077B014518000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010077B014518000) | 511C939D3EA8A74A | <p align="center"> 1.0.0 </p> |
 | STORY OF SEASONS: Pioneers Of Olive Town | [010082E012A84000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010082E012A84000) | BEBC5ACDDB4E124F | <p align="center"> 1.1.0 </p> |
 | Straimium Immortaly | [0100DA000D71A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100DA000D71A000) | 1cc83aea9778d972 | <p align="center"> 1.0.0 </p> |
+| Strange Brigade| [01001DC012E7E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01001DC012E7E000) | A10395220968AFA4 | <p align="center"> 1.0.3 </p> |
 | Strange Monster World: The Mystery of the Black Cloak (JP) | [01004A40167C2000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01004A40167C2000) | 9BED1358D3166D88 | <p align="center"> 1.0.1 </p> |
 | Street Racing: Tokyo Rush | [01001E901482A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01001E901482A000) | AD575E1C5D3E414B | <p align="center"> 1.0.0 </p> |
 | Streets of Rage 4 | [0100EC9010258000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100EC9010258000) | c4725c8a6bcc1b29 | <p align="center"> 1.0.7 </p> |
@@ -766,6 +771,7 @@
 | Super Smash Bros.™ Ultimate | [01006A800016E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01006A800016E000) | B9B166DF1DB90BAF  | <p align="center"> 13.0.1 </p> |
 | Super Toy Cars | [0100384009344000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100384009344000) | f8c08ad2cda26a46  | <p align="center"> 1.0.0 </p> |
 | Super Toy Cars Offroad | [0100B65013636000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100B65013636000) | 664244C1CBABE8B7 | <p align="center"> 1.0.0 </p> |
+| Super Trunko Go | [010028801AFE8000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010028801AFE8000) | 2A4C1E3F532C3A46 | <p align="center"> 1.0.1 </p> |
 | Superpanda 2 | [0100B75018A6E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100B75018A6E000) | 6BEB59A0ABBD15AD | <p align="center"> 1.0.0 </p> |
 | SWORD ART ONLINE Alicization Lycoris | [010034501225C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010034501225C000) | 63ED5B87B7B3A354 | <p align="center"> 2.0.1 </p> | <p align="center"> ✅ </p> |
 | SWORD ART ONLINE FATAL BULLET Complete Edition | [01005DF00DC26000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01005DF00DC26000) | 029c2837b0eee8a9 | <p align="center"> 1.0.2 </p> |
@@ -790,6 +796,7 @@
 | The Copper Canyon Dixie Dash | [01000F20102AC000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01000F20102AC000) | 2fbe522f4dbad51e | <p align="center"> 1.0.2 </p> |
 | The Count Lucanor | [01000850037C0000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01000850037C0000) | 2EAAF5F168F363D9 | <p align="center"> 1.0.2 </p> |
 | The Elder Scrolls V: Skyrim | [01000A10041EA000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01000A10041EA000) | 771BDFB65F8D0AF7 | <p align="center"> 1.1.177. 3285177 </p> | <p align="center"> ✅ </p> |
+| The Last Dragon Slayer v1.1 | [010000501492E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010000501492E000) | C8A261F5EF9CCB88 | <p align="center"> 1.1 </p> |
 | The Last Kids On Earth and the Staff of Doom | [0100C27011544000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100C27011544000) | 562F197C579E7A45 | <p align="center"> 1.0.1 </p> |
 | The Legend of Heroes Ao no Kiseki: Kai (JP) | [010085B01388A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010085B01388A000) | C5F61671A83CC8B0 | <p align="center"> 1.0.1 </p> |
 | The Legend of Heroes: Trails from Zero | [01001920156C2000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01001920156C2000) | 628A2092EB0079A3 | <p align="center"> 1.4.5 </p> |
