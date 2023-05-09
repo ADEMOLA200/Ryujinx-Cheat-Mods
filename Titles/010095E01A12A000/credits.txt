@@ -1,2 +1,2 @@
-Afterimage v1.0.3
+Afterimage v1.0.4
 @Eiffel2018
