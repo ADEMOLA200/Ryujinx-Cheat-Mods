@@ -206,7 +206,7 @@
 ## Metroid™ Dread [010093801237C000]
 | MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
 | --- | --- | --- | --- | --- | --- |
-| <p align="center"> [Disable FXAA](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/010093801237C000/Any/Metroid_Dread_-_Disable_FXAA.zip) </p> | Disables the in-game FXAA shader to improve resolution scaling | Engine | Any | <p align="center"> Any </p> | Unknown |
+| <p align="center"> [Disable FXAA](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/010093801237C000/Any/Metroid_Dread_-_Disable_FXAA.zip) </p> | Disables the in-game FXAA shader to improve resolution scaling | Engine | Any | <p align="center"> Any </p> | Edgarska |
 </BR>
 
 ## Metroid Prime™ Remastered [0100DCA0064A6000]
