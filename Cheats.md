@@ -79,6 +79,7 @@
 | Airheart - Tales of broken Wings | [01003DD00BFEE000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01003DD00BFEE000) | 803f74b0bc347d44 | <p align="center"> 1.0.0 </p> |
 | Akai Katana Shin (JP) | [0100BE6017C7A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100BE6017C7A000) | D9C7864AB8C45C61 | <p align="center"> 1.0.1 </p> |
 | Akane | [01007F100DE52000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01007F100DE52000) | 469A52D777C7104D | <p align="center"> 1.0.1 </p> |
+| Akiba's Trip 2: Director's Cut (Asia) | [0100ACB01A1B2000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100ACB01A1B2000) | AA55D3B417DF098B | <p align="center"> 1.0.1 </p> |
 | Alan Wake Remastered | [0100623017A58000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100623017A58000) | 6520258D00AEA915 | <p align="center"> 1.0.1 </p> |  <p align="center"> ✅ </p> |
 | Alchemist’s Castle | [010001E00F75A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010001E00F75A000) | c689afb3decb9e45 | <p align="center"> 1.0.0 </p> |
 | Alwa's Legacy | [01001B7012214000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01001B7012214000) | 3825003B418CF448 | <p align="center"> 1.3.3.7440 |
@@ -240,6 +241,7 @@
 | Child of Light® Ultimate Edition | [01007D000AD8A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01007D000AD8A000) | A8D1F8391E7D4D31 | <p align="center"> 1.0.0 </p> |
 | Chocobo's Mystery Dungeon: Every Buddy! | [0100BF600BF26000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100BF600BF26000) | C51FC4337E825148 | <p align="center"> 1.0.1 </p> |
 | Chroma Squad | [010012E00EA66000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010012E00EA66000) | 2D502DEF7E95E447 | <p align="center"> 1.0.3 </p> |
+| CHRONO CROSS: THE RADICAL DREAMERS EDITION | [0100AC20128AC000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100AC20128AC000) | 7A54FB69872AA45A | <p align="center"> 1.0.3 </p> |
 | Cities: Skylines - Nintendo Switch™ Edition | [0100D8800B87C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100D8800B87C000) | 9c010911589c624f | <p align="center"> 1.0.3.37670 |
 | Clive 'N' Wrench | [0100C6C010AE4000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100C6C010AE4000) | 598DB82B41744B4C | <p align="center"> 1.285.397 </p> |
 | Cloudbase Prime | [010023800FE12000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010023800FE12000) | ABA1020691A6D248 | <p align="center"> 1.4.3 </p> |
@@ -366,6 +368,9 @@
 | Fight | [0100995013404000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100995013404000) | 4fcdb74dfd8ba740  | <p align="center"> 1.0.0 </p> |
 | Fight of Steel: Infinity Warrior | [010021901966C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010021901966C000) | 3B2968EF6B4C4741 | <p align="center"> 1.0.1 </p> |
 | FINAL FANTASY® CRYSTAL CHRONICLES™ Remastered Edition | [0100CE4010AAC000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100CE4010AAC000) | e1d8b399b787ae41 | <p align="center"> 1.0.3 </p> |
+| FINAL FANTASY III Pixel Remaster | [01002E2014158000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01002E2014158000) | 3D4F465A7DD52DEC | <p align="center"> 1.0.1 </p> |
+| FINAL FANTASY IV Pixel Remaster | [01004B301415A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01004B301415A000) | 627B2080FAF2D5F3 | <p align="center"> 1.0.2 </p> |
+| FINAL FANTASY V Pixel Remaster | [0100AA201415C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100AA201415C000) | C0486719B31F9CDD | <p align="center"> 1.0.2 </p> |
 | FINAL FANTASY VII | [0100A5B00BDC6000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100a5b00bdc6000) | CA4ED0693797F529 | <p align="center"> 1.0.2_5 |
 | FINAL FANTASY IX | [01007EF00B094000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01007EF00B094000) | A49A739C07989244 | <p align="center"> 1.0.1_5 |
 | FINAL FANTASY X/X-2 HD Remaster (JP) | [0100FE500D0CA000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100FE500D0CA000) | C581C65CD5743ADF | <p align="center"> 1.0.0 </p> |
@@ -805,6 +810,7 @@
 | The Legend of Zelda™: Breath of the Wild | [01007EF00011E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01007EF00011E000) | 8e9978d50bdd20b4 | <p align="center"> 1.6.0 </p> | <p align="center"> ✅ </p> | <p align="center"> ✅ </p> |
 | The Legend of Zelda™: Link’s Awakening | [01006BB00C6F0000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01006BB00C6F0000) | 909e904af78ac1b8 | <p align="center"> 1.0.1 </p> |
 | The Legend of Zelda™: Skyward Sword HD | [01002DA013484000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01002DA013484000) | 5441AF3C89F97E1D | <p align="center"> 1.0.1 </p> |
+| The Legend of Zelda™: Tears of the Kingdom | [0100F2C0115B6000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100F2C0115B6000) | D5AD6AC71EF53E3E | <p align="center"> 1.1.0 </p> |
 | The LEGO Movie 2 | [0100A4400BE74000](https://github.com/OldManKain/CheatModsSavesDB/tree/main/Titles/0100A4400BE74000) | BAC1309DDF75B14D | <p align="center"> 1.0.3 </p> |
 | The Lost Child | [01008A000A404000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01008A000A404000) | c7209aeda44b0447 | <p align="center"> 1.0.1 </p> |
 | The Lost Cube | [01000F2013CF8000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01000F2013CF8000) | 7D646A32A37BF945 | <p align="center"> 1.0.0 </p> |
