@@ -365,8 +365,8 @@
 | F.I.S.T.: Forged In Shadow Torch (JP) | [01008EB017F3E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01008EB017F3E000) | 599334AD9E47C19D | <p align="center"> 1.0.1 </p> |
 | F.I.S.T.: Forged In Shadow Torch| [01009F8017F48000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01009F8017F48000) | 69EE5F71F187EAA9  | <p align="center"> 1.0.4 </p> | <p align="center"> ✅ </p> | <p align="center"> ✅ </p> |
 | Fairune Collection | [01008A6009758000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01008A6009758000) | ea5c70af7f4d8a4f | <p align="center"> 1.0.2 </p> |
-| FATAL FRAME: Mask of the Lunar Eclipse (JP) | [010064C0190F8000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010064C0190F8000) | AD3B998ED6253A43 | <p align="center"> 1.0.1 </p> |
 | FATAL FRAME: Mask of the Lunar Eclipse (Asia) | [010091B01A438000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010091B01A438000) | 348A591EB153405B | <p align="center"> 1.0.1 </p> |
+| FATAL FRAME: Mask of the Lunar Eclipse (JP) | [010064C0190F8000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010064C0190F8000) | AD3B998ED6253A43 | <p align="center"> 1.0.1 </p> |
 | FATAL FRAME: Mask of the Lunar Eclipse | [0100DAE019110000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100DAE019110000) | 0318B8AC0526D3BC | <p align="center"> 1.0.1 </p> |
 | Fate/EXTELLA: The Umbral Star | [010053E002EA2000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010053E002EA2000) | 76EC789B99A25BA5 | <p align="center"> 1.0.0 </p> | <p align="center"> ✅ </p> |
 | Fear Effect Sedna | [01005AC0068F6000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01005AC0068F6000) | 89647E6361E7CD48 | <p align="center"> 1.1.1 </p> |
