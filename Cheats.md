@@ -1,4 +1,4 @@
-# Ryujinx Cheats Index [914 Titles]
+# Ryujinx Cheats Index [921 Titles]
 
 
 | NAME | TITLE ID | BUILD ID | VERSION |  60 FPS | GFX |
@@ -351,6 +351,12 @@
 | Elliot Quest | [0100128003A24000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100128003A24000) | f35372f6362e4e05 | <p align="center"> 2.0.5 </p> |
 | Endurance - space action | [010045C011DF6000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010045C011DF6000) | 768520e5eb082918 | <p align="center"> 1.0.0 </p> |
 | Escape from Chernobyl | [0100FEF00F0AA000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100FEF00F0AA000) | 7725C643B39658F4 | <p align="center"> 1.0.2 </p> |
+| Etrian Odyssey HD (Asia) | [01007FC017FE2000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01007FC017FE2000) | 36EC4F5191787C51 | <p align="center"> 1.0.2a </p> |
+| Etrian Odyssey HD (JP) | [01008A3016162000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01008A3016162000) | AF3537015C767B5B | <p align="center"> 1.0.2a </p> |
+| Etrian Odyssey HD | [01008970176A6000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01008970176A6000) | 01CE9FF4CCED024F | <p align="center"> 1.0.2a </p> |
+| Etrian Odyssey II HD (Asia) | [0100680017FE4000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100680017FE4000) | 63A005992E8EF735 | <p align="center"> 1.0.2a </p> |
+| Etrian Odyssey II HD (JP) | [0100B0C016164000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100B0C016164000) | 1DDE90708AD5D6F9 | <p align="center"> 1.0.2a </p> |
+| Etrian Odyssey II HD | [0100B810176A8000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100B810176A8000) | 48BAB9E35370BC24 | <p align="center"> 1.0.2a </p> |
 | Everdark Tower | [010029500DFBA000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010029500DFBA000) | 94e79e909cd7d64b | <p align="center"> 1.0.0 </p> |
 | Everspace™ - Stellar Edition | [0100DCF0093EC000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100DCF0093EC000) | 71873feb4648fa39 | <p align="center"> 1.0.5 </p> |
 | Evil Defenders | [010080600B53E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010080600B53E000) | f82f507fb0c82b4d | <p align="center"> 1.0.0 </p> |
@@ -814,6 +820,7 @@
 | The LEGO Movie 2 | [0100A4400BE74000](https://github.com/OldManKain/CheatModsSavesDB/tree/main/Titles/0100A4400BE74000) | BAC1309DDF75B14D | <p align="center"> 1.0.3 </p> |
 | The Lost Child | [01008A000A404000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01008A000A404000) | c7209aeda44b0447 | <p align="center"> 1.0.1 </p> |
 | The Lost Cube | [01000F2013CF8000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01000F2013CF8000) | 7D646A32A37BF945 | <p align="center"> 1.0.0 </p> |
+| The Mageseeker: A League of Legends Story™ | [0100375019B2E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100375019B2E000) | 6BFE3AB84EE53B5E | <p align="center"> 1.0.2 </p> |
 | The Messenger | [0100DC300AC78000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100DC300AC78000) | fb6206b43c698a4b | <p align="center"> 2.0.2 </p> |
 | The Mummy Demastered | [0100496004194000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100496004194000) | fe343c581ba5b49f  | <p align="center"> 1.0.2 </p> |
 | The Ninja Warriors Once Again (JP) | [010036200CF6A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010036200CF6A000) | 61d93ce7139cd44e | <p align="center"> 1.0.1 </p> |
