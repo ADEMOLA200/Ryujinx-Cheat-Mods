@@ -1,4 +1,4 @@
-# Ryujinx Cheats Index [921 Titles]
+# Ryujinx Cheats Index [924 Titles]
 
 
 | NAME | TITLE ID | BUILD ID | VERSION |  60 FPS | GFX |
@@ -357,6 +357,9 @@
 | Etrian Odyssey II HD (Asia) | [0100680017FE4000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100680017FE4000) | 63A005992E8EF735 | <p align="center"> 1.0.2a </p> |
 | Etrian Odyssey II HD (JP) | [0100B0C016164000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100B0C016164000) | 1DDE90708AD5D6F9 | <p align="center"> 1.0.2a </p> |
 | Etrian Odyssey II HD | [0100B810176A8000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100B810176A8000) | 48BAB9E35370BC24 | <p align="center"> 1.0.2a </p> |
+| Etrian Odyssey III HD (Asia) | [010078A017FE6000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010078A017FE6000) | 2181B13F3C6DC754 | <p align="center"> 1.0.2 </p> |
+| Etrian Odyssey III HD (JP) | [0100D32015A52000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100D32015A52000) | E148A730C3F49770 | <p align="center"> 1.0.2 </p> |
+| Etrian Odyssey III HD | [010084A0176AA000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010084A0176AA000) | 0908A65F552F2E53 | <p align="center"> 1.0.2 </p> |
 | Everdark Tower | [010029500DFBA000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010029500DFBA000) | 94e79e909cd7d64b | <p align="center"> 1.0.0 </p> |
 | Everspace™ - Stellar Edition | [0100DCF0093EC000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100DCF0093EC000) | 71873feb4648fa39 | <p align="center"> 1.0.5 </p> |
 | Evil Defenders | [010080600B53E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010080600B53E000) | f82f507fb0c82b4d | <p align="center"> 1.0.0 </p> |
@@ -924,7 +927,6 @@
 | Zoids Wild: King of Blast (JP) | [0100E43009320000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100E43009320000) | bcc92811606bd64f | <p align="center"> 1.0.0 </p> |
 | Zoids Wild Blast Unleashed | [010069C0123D8000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010069C0123D8000) | f894caf55083a245 | <p align="center"> 1.0.0 </p> |
 | Zombie Army Trilogy | [0100C7300EEE4000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100C7300EEE4000) | 54211726d36a8d9c | <p align="center"> 1.0.2 </p> | <p align="center"> ✅ </p> |
-
 
 
 ## Cheats Sources
