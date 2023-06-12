@@ -288,7 +288,7 @@
 | DEATHRUN TV | [010025B01585A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010025B01585A000) | B7115DE9A751F050 | <p align="center"> 1.2.1 </p> |
 | Decay of Logos | [010027700FD2E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010027700FD2E000) | B77B17D7A517384F | <p align="center"> 1.0.1 </p> | <p align="center"> ✅ </p> |
 | Demon Crystal 4 (JP) | [01002130150A2000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01002130150A2000) | 27efbb8fa331c148 | <p align="center"> 1.0.0 </p> |
-| Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles | [0100309016E7A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100309016E7A000) | 083096496C84976C | <p align="center"> 1.5.2 </p> |
+| Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles | [0100309016E7A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100309016E7A000) | 14C878ECCA9D7CB5 | <p align="center"> 1.5.3 </p> | <p align="center"> ✅ </p> | <p align="center"> ✅ </p> |
 | Destroy All Humans! | [01009E701356A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01009E701356A000) | 72E8F20EBBDBA296 | <p align="center"> 1.0.1 </p> | <p align="center"> ✅ </p> | <p align="center"> ✅ </p> |
 | Devil Engine | [010031B00CF66000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010031B00CF66000) | BB1817C904CD13FE | <p align="center"> 1.0.2C |
 | Devil May Cry 2 | [01007CF00D5BA000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01007CF00D5BA000) | f8c066a1e59d8cce | <p align="center"> 1.0.0 </p> |
