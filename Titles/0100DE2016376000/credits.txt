@@ -1,2 +1,2 @@
-Wildfrost v1.0.1
+Wildfrost v1.0.4
 @Eiffel2018
