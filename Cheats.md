@@ -1,4 +1,4 @@
-# Ryujinx Cheats Index [924 Titles]
+# Ryujinx Cheats Index [927 Titles]
 
 
 | NAME | TITLE ID | BUILD ID | VERSION |  60 FPS | GFX |
@@ -324,6 +324,7 @@
 | DRAGON QUEST II: Luminaries of the Legendary Line | [010062200EFB4000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010062200EFB4000) | 10423bbc86d3bfde | <p align="center"> 1.0.0 </p> |
 | Dragon Quest III: and into the Legend (JP) | [01002A800E490000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01002A800E490000) | dc72232650d79885 | <p align="center"> 1.0.0 </p> |
 | DRAGON QUEST III: The Seeds of Salvation | [010015600EFB6000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010015600EFB6000) | 43d16253cd0bdd2a | <p align="center"> 1.0.0 </p> |
+| Dragon Quest X Offline | [0100E2E0152E4000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100E2E0152E4000) | 13F322A6161F787C | <p align="center"> 2.0.1 </p> |
 | DRAGON QUEST® XI S: Echoes of an Elusive Age – Definitive Edition | [01006C300E9F0000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01006C300E9F0000) | 1719aabfa5eae42b | <p align="center"> 1.0.3 </p> | <p align="center"> ✅ </p> | <p align="center"> ✅ </p> |
 |DRAGON QUEST BUILDERS™ Revive Alefgard! (JP) | [01007B5002F56000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01007B5002F56000) | 61FA6EEDA9A63672 | <p align="center"> 1.0.0 </p> |
 | Dragon Quest Builders™ | [010008900705C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010008900705C000) | 93A84D948C179001 | <p align="center"> 1.0.0 </p> |
@@ -864,6 +865,8 @@
 | Trine Enchanted Edition | [0100D9000A930000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100D9000A930000) | 32b4bbe0d88214d3 | <p align="center"> 1.0.2 </p> |
 | Trine 2: Complete Story | [010064E00A932000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010064E00A932000) | 525B902E6F916EA5 | <p align="center"> 1.0.1 </p> |
 | Trine 4: The Nightmare Prince | [010055E00CA68000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010055E00CA68000) | b70f06eac87fa2af | <p align="center"> 1.0.3 </p> |
+| Tristia: Legacy | [01001E50196F0000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01001E50196F0000) | DF6C59D3874991DB | <p align="center"> 1.1.0 </p> |
+| Tristia: Restore | [0100926017E00000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100926017E00000) | 302704F1B073434D | <p align="center"> 1.1.0 </p> |
 | TRON: Identity | [010007501A588000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010007501A588000) | 0DA3F0F5C3C04A6C | <p align="center"> 1.0.1 </p> |
 | Trouserheart | [01001EF00BF3A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01001EF00BF3A000) | 1dfd2b4fe2198e4a | <p align="center"> 1.0.0 </p> |
 | Tyr : Chains of Valhalla | [01003B200C6CA000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01003B200C6CA000) | 8eb5b7c66fc82a42 | <p align="center"> 1.0.0 </p> |
@@ -894,7 +897,7 @@
 | WeakWood Throne | [0100011012A70000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100011012A70000) | ce353ad90855ec51 | <p align="center"> 1.0.0 </p> |
 | Whipseey and the Lost Atlas | [010017500E7E0000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010017500E7E0000) | 25CE48F161DDF0CB | <p align="center"> 1.3.0.0 </p> |
 | Wild Guns™ Reloaded | [0100CFC00A1D8000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100CFC00A1D8000) | ce3e20fbad467949 | <p align="center"> 1.0.0 </p> |
-| Wildfrost | [0100DE2016376000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100DE2016376000) | D60AE1680E254177 | <p align="center"> 1.0.1 </p> |
+| Wildfrost | [0100DE2016376000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100DE2016376000) | 973EE422E0F9525B | <p align="center"> 1.0.4 </p> |
 | Witcheye | [0100BD4011FFE000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100BD4011FFE000) | c8627e913deb5943 | <p align="center"> 1.0.2 </p> |
 | Wizard of Legend | [0100522007AAA000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100522007AAA000) | f0b56a498c439946 | <p align="center"> 1.23.4 </p> |
 | Wizards of Brandel | [010081900F9E2000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010081900F9E2000) | 122ebf9e18e9db4b | <p align="center"> 1.0.0 </p> |
@@ -927,6 +930,7 @@
 | Zoids Wild: King of Blast (JP) | [0100E43009320000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100E43009320000) | bcc92811606bd64f | <p align="center"> 1.0.0 </p> |
 | Zoids Wild Blast Unleashed | [010069C0123D8000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010069C0123D8000) | f894caf55083a245 | <p align="center"> 1.0.0 </p> |
 | Zombie Army Trilogy | [0100C7300EEE4000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100C7300EEE4000) | 54211726d36a8d9c | <p align="center"> 1.0.2 </p> | <p align="center"> ✅ </p> |
+
 
 
 ## Cheats Sources
