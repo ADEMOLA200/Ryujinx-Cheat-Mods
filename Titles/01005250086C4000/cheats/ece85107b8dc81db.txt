@@ -220,3 +220,56 @@
 
 [Inf.Moving Wheel]
 01000000 05E6A812 00000031
+
+[-----Megaman X8-----]
+
+[Inf.Metals]
+04000000 05E916EC 0098967F 
+
+[Inf.Retry]
+01000000 05E91B42 00000005 
+
+[Always Spike Barrier]
+01000000 05E9187E 00000001 
+
+[AT always 100]
+01000000 06434F00 00000064 
+
+[Energy Tank Always Full]
+01000000 05E91A98 00000030 
+
+[Inf.Energy Main Character]
+01000000 05E96C7C 00000024 
+
+[Inf.Energy Sub Character]
+01000000 05E9699C 00000024 
+
+[Invincibility Main Character]
+01000000 05EAC9FC 00000001 
+
+[Invincibility Sub Character]
+01000000 05EAC8BC 00000001 
+
+[Inf.Shining Ray]
+01000000 063FAE94 00000090 
+
+[Inf.Sqeeze Bomb]
+01000000 063FAE96 00000090 
+
+[Inf.Shadow Runner]
+01000000 063FAE98 00000090 
+
+[Inf.Thunder Dancer]
+01000000 063FAE9A 00000090 
+
+[Inf.Melt Creeper]
+01000000 063FAE9C 00000090 
+
+[Inf.Drift Diamond]
+01000000 063FAE9E 00000090 
+
+[Inf.Crystal Wall]
+01000000 063FAEA0 00000090 
+
+[Inf.Green Spinner]
+01000000 063FAEA2 00000090 
