@@ -1,0 +1,50 @@
+[Gold coins 10 times]
+04000000 01642CE0 00005431
+
+[Gold coins do not decrease]
+04000000 01642D08 00005431
+
+[Unlimited bullets]
+04000000 01642D28 00005431
+
+[props without CD]
+04000000 01642D48 00005431
+
+[Infinite Jump]
+04000000 01642D68 00005431
+
+[no infection]
+04000000 01642D88 00005431
+
+[cell 10 times]
+04000000 01642DC8 00005431
+
+[Cells do not decrease]
+04000000 01642DA8 00005431
+
+[Kill the enemy in seconds]
+0400000001642E20 00005431
+
+[no harm to me]
+040000 00 01642DF0 00005431
+
+[Number of uninjured kills 5431]
+04000000 01642E50 00005431
+
+[level timing slows down]
+04000000 01642E70 00005431
+
+[The curse is quickly lifted]
+04000000 01642E90 00005431
+
+[Extra 10 red points at the start]
+04000000 01642EB0 00005431
+
+[Extra 10 green points at the start]
+04000000 0164 2ED0 00005431
+
+[Extra 10 purple points at the start]
+04000000 01642EF0 00005431
+
+[Movement speed increased]
+04000000 01642F10 00005431
