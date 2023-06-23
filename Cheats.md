@@ -281,7 +281,7 @@
 | Darkwood | [010033500B7B6000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010033500B7B6000) | 250CE7C4A4DE1940 | <p align="center"> 1.0.4 </p> |
 | DC Super Hero Girls™: Teen Power | [0100F8F00C4F2000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100F8F00C4F2000) | BC714E2D7D32AB41 | <p align="center"> 1.0.1 </p> |
 | DC's Justice League: Cosmic Chaos | [0100157015DD8000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100157015DD8000) | 2BFC784E7E10DD89 | <p align="center"> 1.0.1 </p> |
-| Dead Cells | [0100646009FBE000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100646009FBE000) | 4E539F27FF8B38EB | <p align="center"> 1.23.1 </p> |
+| Dead Cells | [0100646009FBE000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100646009FBE000) | 13C81A5CED4C4617 | <p align="center"> 1.24.0 </p> |
 | Dead Effect 2 | [01007860152EE000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01007860152EE000) | 630ab427cb952e4d | <p align="center"> 1.0.0 </p> |
 | DEAD OR SCHOOL | [0100E7100C52C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100E7100C52C000) | d29fa0c8b15e7842 | <p align="center"> 1.0.0 </p> |
 | Death's Gambit: Afterlife | [01006A0015812000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01006A0015812000) | 82BF132698A09A49 | <p align="center"> 1.0.6 |
