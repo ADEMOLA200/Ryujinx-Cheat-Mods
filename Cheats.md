@@ -1,4 +1,4 @@
-# Ryujinx Cheats Index [927 Titles]
+# Ryujinx Cheats Index [939 Titles]
 
 
 | NAME | TITLE ID | BUILD ID | VERSION |  60 FPS | GFX |
@@ -204,6 +204,8 @@
 | Bloody Zombies | [0100875008000000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100875008000000) | F3CD58B9B43F164F  | <p align="center"> 1.0.1 </p> |
 | Bloons TD 5 | [0100B8400A1C6000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100B8400A1C6000) | a514b9687031515d | <p align="center"> 3.8.1 </p> |
 | Blossom Tales: The Sleeping King | [0100C1000706C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100C1000706C000) | 05F6F8467F81D8D0 | <p align="center"> 1.0.2 </p> |
+| BLUE REFLECTION: Second Light (JP) | [0100F7901328E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100F7901328E000) | 54268CB72A5FFCE3 | <p align="center"> 1.0.7 </p> |
+| BLUE REFLECTION: Second Light | [010071C013390000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010071C013390000) | D8278814BC44E5D3 | <p align="center"> 1.0.7 </p> |
 | Blue Rider | [01006A600B5E6000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01006A600B5E6000) | ffd5e4043b659545 | <p align="center"> 1.0.0 </p> |
 | Bokujou Monogatari Welcome! wonderful life (JP) | [0100936018EB4000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100936018EB4000) | ECF483EF8F957D50 | <p align="center"> 1.0.1 </p> | <p align="center"> ✅ </p> |
 | Bomber Crew | [01007900080B6000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01007900080B6000) | 2b039c01b7596146 | <p align="center"> 1.2.0 </p> |
@@ -377,15 +379,18 @@
 | Feral Fury | [010097E00ADC2000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010097E00ADC2000) | E3D0BA009ED53707 | <p align="center"> 1.0.1 </p> |
 | Fight | [0100995013404000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100995013404000) | 4fcdb74dfd8ba740  | <p align="center"> 1.0.0 </p> |
 | Fight of Steel: Infinity Warrior | [010021901966C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010021901966C000) | 3B2968EF6B4C4741 | <p align="center"> 1.0.1 </p> |
-| FINAL FANTASY® CRYSTAL CHRONICLES™ Remastered Edition | [0100CE4010AAC000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100CE4010AAC000) | e1d8b399b787ae41 | <p align="center"> 1.0.3 </p> |
+| FINAL FANTASY Pixel Remaster | [01000EA014150000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01000EA014150000) | 0E49CA34926973BA | <p align="center"> 1.0.1 </p> |
+| FINAL FANTASY II Pixel Remaster | [01006B7014156000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01006B7014156000) | 47F6FE52BFF556A3 | <p align="center"> 1.0.1 </p> |
 | FINAL FANTASY III Pixel Remaster | [01002E2014158000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01002E2014158000) | 3D4F465A7DD52DEC | <p align="center"> 1.0.1 </p> |
 | FINAL FANTASY IV Pixel Remaster | [01004B301415A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01004B301415A000) | 627B2080FAF2D5F3 | <p align="center"> 1.0.2 </p> |
 | FINAL FANTASY V Pixel Remaster | [0100AA201415C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100AA201415C000) | C0486719B31F9CDD | <p align="center"> 1.0.2 </p> |
+| FINAL FANTASY VI Pixel Remaster | [0100AA001415E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100AA001415E000) | CC2F4D27F0C49FF1 | <p align="center"> 1.0.2 </p> |
 | FINAL FANTASY VII | [0100A5B00BDC6000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100a5b00bdc6000) | CA4ED0693797F529 | <p align="center"> 1.0.2_5 |
 | FINAL FANTASY IX | [01007EF00B094000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01007EF00B094000) | A49A739C07989244 | <p align="center"> 1.0.1_5 |
 | FINAL FANTASY X/X-2 HD Remaster (JP) | [0100FE500D0CA000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100FE500D0CA000) | C581C65CD5743ADF | <p align="center"> 1.0.0 </p> |
 | FINAL FANTASY X/X-2 HD Remaster | [0100BC300CB48000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100BC300CB48000) | 1ce9f39ddb8a1a93 | <p align="center"> 1.0.0 </p> |
 | FINAL FANTASY XII THE ZODIAC AGE | [0100EB100AB42000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100EB100AB42000) | C2932C4D1C84ED7D | <p align="center"> 1.1.0 </p> |
+| FINAL FANTASY® CRYSTAL CHRONICLES™ Remastered Edition | [0100CE4010AAC000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100CE4010AAC000) | e1d8b399b787ae41 | <p align="center"> 1.0.3 </p> |
 | Fire Emblem™ Engage | [0100A6301214E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100A6301214E000) | 8C08B9719E085F91 | <p align="center"> 2.0.0 </p> | <p align="center"> ✅ </p> |
 | Fire Emblem Musou (JP) | [0100EAE003A5A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100EAE003A5A000) | 316baf584d815ab7 | <p align="center"> 1.5.0 </p> |
 | Fire Emblem™: Three Houses | [010055D009F78000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010055D009F78000) | 89048449ba238c8c | <p align="center"> 1.2.0 </p> |
@@ -800,6 +805,7 @@
 | Tears of Avia | [010076E0150CC000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010076E0150CC000) | 98B20F02EF446776 | <p align="center"> 1.0.8 </p> |
 | Teenage Mutant Ninja Turtles: Shredder's Revenge | [0100FE701475A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100FE701475A000) | 2906ECBCEB6D88DC | <p align="center"> 1.0.6 </p> |
 | Tennis In The Face | [01002970080AA000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01002970080AA000) | 6a819ad63d809d95 | <p align="center"> 1.0.0 </p> |
+| Terracotta | [010042F01686C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010042F01686C000) | b9360479c445b355 | <p align="center"> 1.2.9 </p> |
 | Teslagrad | [01005C8005F34000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01005C8005F34000) | 6290d08ceb02ea4d | <p align="center"> 1.0.0 </p> |
 | The Alliance Alive HD Remastered | [01003CF00DCFA000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01003CF00DCFA000) | 4DF9DA0BD7A61546 | <p align="center"> 1.0.3 </p> |
 | The Binding of Isaac: Afterbirth+ | [010021C000B6A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010021C000B6A000) | 40506B6C03196447 | <p align="center"> 1.7.0 </p> |
@@ -812,6 +818,7 @@
 | The Count Lucanor | [01000850037C0000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01000850037C0000) | 2EAAF5F168F363D9 | <p align="center"> 1.0.2 </p> |
 | The Elder Scrolls V: Skyrim | [01000A10041EA000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01000A10041EA000) | 771BDFB65F8D0AF7 | <p align="center"> 1.1.177. 3285177 </p> | <p align="center"> ✅ </p> |
 | The Last Dragon Slayer v1.1 | [010000501492E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010000501492E000) | C8A261F5EF9CCB88 | <p align="center"> 1.1 </p> |
+| The Last Hero of Nostalgaia | [0100B1C019988000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100B1C019988000) | 16E367C68FA27E7D | <p align="center"> 2.0.22 </p> |
 | The Last Kids On Earth and the Staff of Doom | [0100C27011544000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100C27011544000) | 562F197C579E7A45 | <p align="center"> 1.0.1 </p> |
 | The Legend of Heroes Ao no Kiseki: Kai (JP) | [010085B01388A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010085B01388A000) | C5F61671A83CC8B0 | <p align="center"> 1.0.1 </p> |
 | The Legend of Heroes: Trails from Zero | [01001920156C2000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01001920156C2000) | 628A2092EB0079A3 | <p align="center"> 1.4.5 </p> |
@@ -894,6 +901,10 @@
 | WarriOrb | [010032700EAC4000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010032700EAC4000) | e8e018bf25229ee3 | <p align="center"> 1.0.0 </p> |
 | WARRIORS OROCHI 4 | [010016A00AEC0000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010016A00AEC0000) | 5c9ccd358be85fc9 | <p align="center"> 1.0.13 | <p align="center"> ✅ </p> |
 | Wavetale | [01001FB017B36000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01001FB017B36000) | B2AA768E3A7B894D | <p align="center"> 1.0.2.0 </p> |
+| We Love Katamari REROLL+ Royal Reverie (Asia) | [0100075018D24000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100075018D24000) | E32265E56EE025FB | <p align="center"> 1.0.2 </p> |
+| We Love Katamari REROLL+ Royal Reverie (EU) | [0100C22018D20000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100C22018D20000) | E32265E56EE025FB | <p align="center"> 1.0.2 </p> |
+| We Love Katamari REROLL+ Royal Reverie (JP) | [010089D018D18000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010089D018D18000) | E32265E56EE025FB | <p align="center"> 1.0.2 </p> |
+| We Love Katamari REROLL+ Royal Reverie | [0100E71018D1A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100E71018D1A000) | E32265E56EE025FB | <p align="center"> 1.0.2 </p> |
 | WeakWood Throne | [0100011012A70000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100011012A70000) | ce353ad90855ec51 | <p align="center"> 1.0.0 </p> |
 | Whipseey and the Lost Atlas | [010017500E7E0000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010017500E7E0000) | 25CE48F161DDF0CB | <p align="center"> 1.3.0.0 </p> |
 | Wild Guns™ Reloaded | [0100CFC00A1D8000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100CFC00A1D8000) | ce3e20fbad467949 | <p align="center"> 1.0.0 </p> |
@@ -919,6 +930,7 @@
 | Xposed Switched | [01001D5019BFA000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01001D5019BFA000) | B3D9968A24489C72 | <p align="center"> 1.0.0 </p> |
 | Yooka-Laylee and the Impossible Lair | [010022F00DA66000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010022F00DA66000) | 8432CEC51F882448 | <p align="center"> 1.0.4 </p> |
 | Yoshi’s Crafted World™ | [01006000040C2000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01006000040C2000) | 44ae9fd12897c702 | <p align="center"> 1.0.1 </p> |
+| Ys Memoire: The Oath in Felghana (JP) | [010070D01A192000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010070D01A192000) | 5310b77281a7e5ef | <p align="center"> 1.0.0 </p> |
 | Ys Origin | [0100F90010882000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100f90010882000) | 11c2b5b0961cd855 | <p align="center"> 1.0.1 </p> |
 | Ys VIII: Lacrimosa of DANA | [01007F200B0C0000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01007F200B0C0000) | F7C4835FD8AE9D10 | <p align="center"> 1.05 </p> | <p align="center"> ✅ </p> |
 | Yu-Gi-Oh! RUSH DUEL: Dawn of the Battle Royale!! | [0100261015BE2000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100261015BE2000) | 196AF69487ACB540 | <p align="center"> 1.0.3 </p> |
