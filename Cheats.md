@@ -235,7 +235,7 @@
 | Caveman Chuck | [010080C00AC3C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010080C00AC3C000) | d1a4590fbb68204b | <p align="center"> 1.0.0 </p> |
 | Caveman Warriors | [01006DB004566000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01006DB004566000) | AA14F75E7C738844 | <p align="center"> 2.0.0 </p> |
 | Caverns of Mars: Recharged | [01009B201A10E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01009B201A10E000) | D3F53669DDC6AB45 | <p align="center"> 1.0.1 </p> |
-| Chained Echoes | [0100C510166F0000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100C510166F0000) | 0917C85904AC7BC9 | <p align="center"> 1.1.6 </p> |
+| Chained Echoes | [0100C510166F0000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100C510166F0000) | 53AECA8D764401D4 | <p align="center"> 1.1.8 </p> |
 | CHAOS CODE -NEW SIGN OF CATASTROPHE- | [01007600115CE000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01007600115CE000) | 9101cd39a5d71c29 | <p align="center"> 1.1.1 </p> |
 | Chenso Club | [0100276018002000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100276018002000) | 314761C8FD30894F | <p align="center"> 1.0.1 </p> |
 | Child of Light® Ultimate Edition | [01007D000AD8A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01007D000AD8A000) | A8D1F8391E7D4D31 | <p align="center"> 1.0.0 </p> |
