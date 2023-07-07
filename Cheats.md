@@ -442,6 +442,8 @@
 | Gunvolt Chronicles: Luminous Avenger iX | [01008C800E654000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01008C800E654000) | 735DD6F91756FC48 | <p align="center"> 1.4.0 </p> |
 | Habroxia | [01007E100EFA8000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01007E100EFA8000) | 6bc96ab409d90d32 | <p align="center"> 1.0.1 </p> |
 | Hades | [0100535012974000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100535012974000) | D41357A3DA356B09  | <p align="center"> 1.0.38233 |
+| Harvest Moon Welcome! Wonderful Life (Asia) | [01001F0019804000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01001F0019804000) | 93747E10D2E58CB4 | <p align="center"> 1.0.1 </p> |
+| Harvest Moon Welcome! Wonderful Life (JP) | [0100936018EB4000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100936018EB4000) | 5E341429F2C9B2C5 | <p align="center"> 1.0.2 </p> |
 | HARVESTELLA (Asia) | [0100EDD018032000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100EDD018032000) | 898404C26E7EA75B | <p align="center"> 1.0.2 </p> | <p align="center"> ✅ </p> | <p align="center"> ✅ </p> |
 | HARVESTELLA | [0100521017B2A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100521017B2A000) | 249EAB9BF046C5EA | <p align="center"> 1.0.2 </p> | <p align="center"> ✅ </p> | <p align="center"> ✅ </p> |
 | Hatchwell | [0100F29018F9C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100F29018F9C000) | 8e5e5bd4a33bc647 | <p align="center"> 2.0.17 |
@@ -539,6 +541,9 @@
 | MARY SKELTER 2 | [01003DE00C95E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01003DE00C95e000) | c16e154e683d7eb8 | <p align="center"> 1.0.4 </p> |
 | Mary Skelter Finale (EU) | [0100419014456000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100419014456000) | FBE4C2EAE551F40A | <p align="center"> 1.0.1 </p> |
 | Mary Skelter Finale | [0100530014438000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100530014438000) | B1AFBB02475AD7E3 | <p align="center"> 1.0.1 </p> | <p align="center"> ✅ </p> |
+| Master Detective Archives: RAIN CODE (EU) | [01004800197F0000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01004800197F0000) | 2058227F80E9B40C | <p align="center"> 1.3.0 </p> |
+| Master Detective Archives: RAIN CODE (JP) | [0100F4401940A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100F4401940A000) | E20D79032180CF3C | <p align="center"> 1.3.0 </p> |
+| Master Detective Archives: RAIN CODE (EU) | [0100149019460000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100149019460000) | A3F25086D203D916 | <p align="center"> 1.3.0 </p> |
 | Mato Anomalies | [01006320174AE000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01006320174AE000) | 81D1A2E2C2BB7BF8 | <p align="center"> 1.01 </p> |
 | Max And The Book Of Chaos | [0100A8C011F26000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100A8C011F26000) | 7A0D43680365424E | <p align="center"> 1.0.0 </p> |
 | Maximus 2 | [01000FE0164AA000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01000FE0164AA000) | 9D8382D802511043 | <p align="center"> 4.1.0 </p> |
@@ -620,6 +625,8 @@
 | Persona® 5 Strikers | [0100801011C3E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100801011C3E000) | c4df04f647bdc727 | <p align="center"> 1.0.0 </p> | <p align="center"> ✅ </p> |
 | Pew Paw | [010045A01221E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010045A01221E000) | 8e52b43604cabae7 | <p align="center"> 1.0.0 </p> |
 | Phoenotopia : Awakening | [01005E100A4F0000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01005E100A4F0000) | 49FD30A3B6B16544 | <p align="center"> 1.3.3 </p> |
+| Pikmin™ 1 | [0100AA80194B0000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100AA80194B0000) | 342A165CC42E997E | <p align="center"> 1.0.0 </p> |
+| Pikmin™ 2 | [0100D680194B2000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100D680194B2000) | B23A43495191E7AD | <p align="center"> 1.0.0 </p> |
 | Pikmin™ 3 Deluxe | [0100F4C009322000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100F4C009322000) | D467F5AD367BBEE8 | <p align="center"> 1.1.0 </p> |
 | Pinball Jam| [0100AD50167EC000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100AD50167EC000) | A44E17749BAC250B | <p align="center"> 1.0.1 </p> |
 | Pinstripe (JP) | [01000C1011960000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01000C1011960000) | 802040931b870548 | <p align="center"> 1.0.0 </p> |
@@ -649,6 +656,7 @@
 | Raiden III × MIKADO MANIAX (JP) | [010089F015FC4000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010089F015FC4000) | DA4F9AB45CFF5D11 | <p align="center"> 1.0.2 </p> |
 | Raiden V: Director's Cut | [01002B000D97E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01002B000D97E000) | 941057a850e286df | <p align="center"> 1.0.0 </p> |
 | Raji: An Ancient Epic | [010010B00DDA2000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010010B00DDA2000) | 8A39E660F956BB00 | <p align="center"> 1.0.3 </p> | <p align="center"> ✅ </p> | <p align="center"> ✅ </p> |
+| Rascal Fight | [0100E73010754000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100E73010754000) | 7B9A17288E5DD344 | <p align="center"> 1.0.1 </p> |
 | Rayman® Legends Definitive Edition | [01005FF002E2A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01005FF002E2A000) | F466DA1D713533C2 | <p align="center"> 1.0.2 </p> |
 | Record of Lodoss War -Deedlit in Wonder Labyrinth- | [0100EF0015A9A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100EF0015A9A000) | 667484A8F759B6FD | <p align="center"> 1.0.2 </p> |
 | Redeemer Enhanced Edition | [01000D100DCF8000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01000D100DCF8000) | 86AA48E1585F2EE7 | <p align="center"> 1.2.0 </p> |
@@ -766,6 +774,8 @@
 | Steel Assault | [01001C6014772000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01001C6014772000) | 077E6C9060518627 | <p align="center"> 1.0.2 </p> |
 | Stela | [01002DE01043E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01002DE01043E000) | 7aca9116672a7795 | <p align="center"> 1.0.0 </p> |
 | Stitchy in Tooki Trouble | [010077B014518000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010077B014518000) | 511C939D3EA8A74A | <p align="center"> 1.0.0 </p> |
+| STORY OF SEASONS: A Wonderful Life (EU) | [0100F940192A0000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100F940192A0000) | D5256AE494F034C3 | <p align="center"> 1.0.1 </p> |
+| STORY OF SEASONS: A Wonderful Life | [010076801929A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010076801929A000) | 31F04134CF9813D8 | <p align="center"> 1.0.1 </p> |
 | STORY OF SEASONS: Pioneers Of Olive Town | [010082E012A84000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010082E012A84000) | BEBC5ACDDB4E124F | <p align="center"> 1.1.0 </p> |
 | Straimium Immortaly | [0100DA000D71A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100DA000D71A000) | 1cc83aea9778d972 | <p align="center"> 1.0.0 </p> |
 | Strange Brigade| [01001DC012E7E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01001DC012E7E000) | A10395220968AFA4 | <p align="center"> 1.0.3 </p> |
