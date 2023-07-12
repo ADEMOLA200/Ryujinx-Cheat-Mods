@@ -731,7 +731,7 @@
 | Shio | [0100C2F00A568000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100C2F00A568000) | 98FFC4D49752C04A | <p align="center"> 1.0.1 </p> |
 | Shovel Knight: Shovel of Hope | [01002D2011850000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01002D2011850000) | 6DA1D223E4557E3D | <p align="center"> 1.0.0 </p> |
 | Shu | [01001DE0076A4000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01001DE0076A4000) | 28cb1224495ddc4e | <p align="center"> 1.0.0 </p> |
-| Sifu | [01007B5017A12000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01007B5017A12000) | CE14D183190A44D2 | <p align="center"> 1.22 </p> |
+| Sifu | [01007B5017A12000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01007B5017A12000) | CE14D183190A44D2 | <p align="center"> 1.22 </p> | <p align="center"> ✅ </p> | <p align="center"> ✅ </p> |
 | Silver Nornir | [0100D1E018F26000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100D1E018F26000) | 40b99a5b8d3c5c48 | <p align="center"> 1.0.0 </p> |
 | Sine Mora EX | [01002820036A8000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01002820036A8000) | a30ff4807facdd60 | <p align="center"> 1.0.1 </p> |
 | Skatemasta Tcheco | [01001F101289A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01001F101289A000) | f84540a3289faf62 | <p align="center"> 1.0.0 </p> |
