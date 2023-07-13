@@ -1,6 +1,6 @@
 # Ryujinx Cheats-Mods-Saves Database
 
-### UPDATED TO JUL/12/2023
+### UPDATED TO JUL/13/2023
 
 Work in Progress for Ryujinx Team
 
