@@ -1,2 +1,2 @@
-FINAL FANTASY V Pixel Remaster v1.0.2
-@Eiffel2018
+FINAL FANTASY V Pixel Remaster v1.0.3
+@Khuong
