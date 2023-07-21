@@ -383,8 +383,8 @@
 | FINAL FANTASY II Pixel Remaster | [01006B7014156000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01006B7014156000) | 47F6FE52BFF556A3 | <p align="center"> 1.0.1 </p> |
 | FINAL FANTASY III Pixel Remaster | [01002E2014158000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01002E2014158000) | 3D4F465A7DD52DEC | <p align="center"> 1.0.1 </p> |
 | FINAL FANTASY IV Pixel Remaster | [01004B301415A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01004B301415A000) | 627B2080FAF2D5F3 | <p align="center"> 1.0.2 </p> |
-| FINAL FANTASY V Pixel Remaster | [0100AA201415C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100AA201415C000) | C0486719B31F9CDD | <p align="center"> 1.0.2 </p> |
-| FINAL FANTASY VI Pixel Remaster | [0100AA001415E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100AA001415E000) | CC2F4D27F0C49FF1 | <p align="center"> 1.0.2 </p> |
+| FINAL FANTASY V Pixel Remaster | [0100AA201415C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100AA201415C000) | 80E1E19A2C1E958E | <p align="center"> 1.0.3 </p> |
+| FINAL FANTASY VI Pixel Remaster | [0100AA001415E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100AA001415E000) | F997920E7A0EC6F6 | <p align="center"> 1.0.3 </p> |
 | FINAL FANTASY VII | [0100A5B00BDC6000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100a5b00bdc6000) | CA4ED0693797F529 | <p align="center"> 1.0.2_5 |
 | FINAL FANTASY IX | [01007EF00B094000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01007EF00B094000) | A49A739C07989244 | <p align="center"> 1.0.1_5 |
 | FINAL FANTASY X/X-2 HD Remaster (JP) | [0100FE500D0CA000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100FE500D0CA000) | C581C65CD5743ADF | <p align="center"> 1.0.0 </p> |
