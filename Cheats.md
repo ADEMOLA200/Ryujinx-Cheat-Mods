@@ -1,4 +1,4 @@
-# Ryujinx Cheats Index [949 Titles]
+# Ryujinx Cheats Index [953 Titles]
 
 
 | NAME | TITLE ID | BUILD ID | VERSION |  60 FPS | GFX |
@@ -159,6 +159,7 @@
 | Atelier Ayesha: The Alchemist of Dusk DX | [0100D9D00EE8C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100D9D00EE8C000) | b9146e1cad9e36ba | <p align="center"> 1.0.0 </p> |
 | Atelier Escha & Logy: Alchemists of the Dusk Sky DX | [0100E5600EE8E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100E5600EE8E000) | 4bbb3b3455d306c6 | <p align="center"> 1.0.0 </p> |
 | Atelier Lulua: The Scion of Arland  | [0100B1400CD50000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100B1400CD50000) | ca7facaec708311c | <p align="center"> 1.0.3 </p> |
+| Atelier Marie Remake: The Alchemist of Salburg | [0100EAE019904000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100EAE019904000) | 743CD6A40363900C | <p align="center"> 1.0.0a </p> |
 | Atelier Meruru: The Apprentice of Arland DX | [0100ADD00C6fA000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100ADD00C6fA000) | e76c3624d3ae3dce | <p align="center"> 1.0.2 </p> |
 | Atelier Shallie: Alchemists of the Dusk Sea DX | [010005C00EE90000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010005C00EE90000) | aab0450a965202ec | <p align="center"> 1.0.0 </p> |
 | Atelier Rorona: The Alchemist of Arland DX | [010088600C66E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010088600C66E000) | 967d32be4b10b67e | <p align="center"> 1.0.1 </p> |
@@ -809,6 +810,7 @@
 | Sword of The Guardian | [01001C900CAD0000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01001C900CAD0000) | 21b490c1f7d43b4b | <p align="center"> 1.0.0 </p> |
 | Sword of the Vagrant | [0100BD000CB2C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100BD000CB2C000) | 1F1363EC8CC83C73 | <p align="center"> 1.1.0 </p> | <p align="center"> ✅ </p> | <p align="center"> ✅ </p> |
 | Swords and Sandals: Spartacus | [0100241012432000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100241012432000) | 8729a8df5adf0646 | <p align="center"> 1.0.0 </p> |
+| Tactics Ogre: Reborn | [0100E12013C1A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100E12013C1A000) | 1EC4D1211FB1B975 | <p align="center"> 1.0.7 </p> |
 | Takotan | [0100761012B0C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100761012B0C000) | 89b21f067b29073a | <p align="center"> 1.0.0 </p> |
 | Tales of Symphonia Remastered (JP) | [01002B8014440000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01002B8014440000) | BCFDC7A6A7181E9F | <p align="center"> 1.1.0 </p> |
 | Tales of Vesperia™: Definitive Edition | [01002C0008E52000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01002c0008e52000) | F244B656B1CAFE52 | <p align="center"> 1.0.2 </p> |
@@ -826,12 +828,14 @@
 | The Coma: Recut | [0100451012918000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100451012918000) | 5136f141b1639f4e  | <p align="center"> 1.0.0 </p> |
 | The Copper Canyon Dixie Dash | [01000F20102AC000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01000F20102AC000) | 2fbe522f4dbad51e | <p align="center"> 1.0.2 </p> |
 | The Count Lucanor | [01000850037C0000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01000850037C0000) | 2EAAF5F168F363D9 | <p align="center"> 1.0.2 </p> |
+| The DioField Chronicle | [010032B015D66000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010032B015D66000) | 742C48981DBC4F2C | <p align="center"> 1.2.0 </p> |
 | The Elder Scrolls V: Skyrim | [01000A10041EA000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01000A10041EA000) | 771BDFB65F8D0AF7 | <p align="center"> 1.1.177. 3285177 </p> | <p align="center"> ✅ </p> |
 | The Last Dragon Slayer v1.1 | [010000501492E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010000501492E000) | C8A261F5EF9CCB88 | <p align="center"> 1.1 </p> |
 | The Last Hero of Nostalgaia | [0100B1C019988000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100B1C019988000) | 16E367C68FA27E7D | <p align="center"> 2.0.22 </p> |
 | The Last Kids On Earth and the Staff of Doom | [0100C27011544000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100C27011544000) | 562F197C579E7A45 | <p align="center"> 1.0.1 </p> |
 | The Legend of Heroes Ao no Kiseki: Kai (JP) | [010085B01388A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010085B01388A000) | C5F61671A83CC8B0 | <p align="center"> 1.0.1 </p> |
 | The Legend of Heroes: Trails from Zero | [01001920156C2000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01001920156C2000) | 628A2092EB0079A3 | <p align="center"> 1.4.5 </p> |
+| The Legend of Heroes: Trails into Reverie | [01008CB0156BC000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01008CB0156BC000) | A3E80F5FE073639D | <p align="center"> 1.0.2 </p> |
 | The Legend of Heroes: Trails of Cold Steel III | [01005420101DA000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01005420101DA000) | 134EC3D8BE75126F | <p align="center"> 1.0.1 </p> |
 | The Legend of Heroes: Trails to Azure | [0100FBE015910000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100FBE015910000) | F054AB2A083C1AA4 | <p align="center"> 1.1.3 </p> |
 | The Legend of Zelda™: Breath of the Wild | [01007EF00011E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01007EF00011E000) | 8e9978d50bdd20b4 | <p align="center"> 1.6.0 </p> | <p align="center"> ✅ </p> | <p align="center"> ✅ </p> |
