@@ -363,6 +363,7 @@
 ## Xenoblade Chronicles™ 2 [0100E95004038000]
 | MOD | MOD DESCRIPTION | Type | Build ID | VERSION | AUTHOR |
 | --- | --- | --- | --- | --- | --- |
+| <p align="center"> [DynFPS](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/0100E95004038000/2.1.0/XC2-DynFPSCLEAN-2.1.0-v1.0.0.zip) </p> | Changes the framerate to Dynamic 60fps  | Layered Exefs | F77F1559371C0EC6 | <p align="center"> 2.1.0 </p> | [MasaGratoR](https://github.com/masagrator/NXGraphicsPatches) |
 | <p align="center"> [Improved LOD](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/0100E95004038000/2.1.0/ImprovedLOD.rar) </p> | Sets the maximum Level of Detail for all 3D models  | IPSwitch | F77F1559371C0EC6 | <p align="center"> 2.1.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
 | <p align="center"> [Super Sampling 2x](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/raw/main/Mods/0100E95004038000/2.1.0/SuperSamplingx2.rar) </p> | Increases the internal resolution x2 | IPSwitch | F77F1559371C0EC6 | <p align="center"> 2.1.0 </p> | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
 </BR>
