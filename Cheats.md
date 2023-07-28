@@ -353,6 +353,7 @@
 | Earthlock | [01006E50042EA000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01006E50042EA000) | d75dbe0c21357141 | <p align="center"> 1.0.3 </p> |
 | Elderand | [0100239015C0E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100239015C0E000) | DFC4B34BD6C1BA24 | <p align="center"> 1.2.2.1 </p> |
 | Elliot Quest | [0100128003A24000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100128003A24000) | f35372f6362e4e05 | <p align="center"> 2.0.5 </p> |
+| Ember Knights | [010017A01AAB8000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010017A01AAB8000) | 0F21D514CFAAA662 | <p align="center"> 1.0.0 </p> |
 | Endurance - space action | [010045C011DF6000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010045C011DF6000) | 768520e5eb082918 | <p align="center"> 1.0.0 </p> |
 | Escape from Chernobyl | [0100FEF00F0AA000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100FEF00F0AA000) | 7725C643B39658F4 | <p align="center"> 1.0.2 </p> |
 | Etrian Odyssey HD (Asia) | [01007FC017FE2000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01007FC017FE2000) | 36EC4F5191787C51 | <p align="center"> 1.0.2a </p> |
@@ -474,7 +475,7 @@
 | Intrepid Izzy | [0100897019402000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100897019402000) | 4A242ED7F31DB4F6  | <p align="center"> 1.0.0 </p> |
 | Ion Fury | [010041C00D086000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010041C00D086000) | 9d2efcf198f2247f | <p align="center"> 1.07.1 </p> |
 | Is It Wrong to Try to Pick Up Girls in a Dungeon? Familia Myth Infinite Combate | [010063E0104BE000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010063E0104BE000) | bf4a86cc45871342 | <p align="center"> 1.0.1 </p> |
-| Itorah | [01003B7018446000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01003B7018446000) | 9e13cd2da8cfcf47 | <p align="center"> 1.0.1 </p> |
+| Itorah | [01003B7018446000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01003B7018446000) | 862E0624ED693D44 | <p align="center"> 1.0.2 </p> |
 | Ittle Dew 2+ | [01004070022F0000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01004070022F0000) | fbb317949968ac41 | <p align="center"> 1.0.2 </p> |
 | Jack Axe | [0100EF500EF42000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100EF500EF42000) | BAA6DB7690E723BC | <p align="center"> 1.0.19 |
 | Jack 'n' Hat | [0100CF001426A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100CF001426A000) | BFBCA454BDC81C38 | <p align="center"> 1.0.1 </p> |
@@ -557,6 +558,7 @@
 | Metro: Last Light Redux | [0100F0400E850000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100F0400E850000) | 85C362CC9790F0ED | <p align="center"> 1.0.0 </p> |
 | Metroid Prime™ Remastered | [010012101468C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010012101468C000) | 67C9CA1428222752 | <p align="center"> 1.0.0 </p> |
 | Miden Tower | [01001EB011D38000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01001EB011D38000) | 0d5d07181f8be84c | <p align="center"> 1.0.0 </p> |
+| Might & Magic: Clash of Heroes - Definitive Edition | [0100B2C0175C2000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100B2C0175C2000) | 58A71A8A87A2CA11 | <p align="center"> 1.0.2 </p> |
 | Mist Hunter | [010059200CC40000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010059200CC40000) | 5A12F43732856844 | <p align="center"> 1.0.2105 |
 | Moero Crystal H | [01004EB0119AC000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01004EB0119AC000) | f386b1aed15c029c | <p align="center"> 1.0.0 </p> |
 | MONARK | [0100E4A01548C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100E4A01548C000) | 85EB6295023DD394 | <p align="center"> 1.0.1 </p> | <p align="center"> ✅ </p> |
@@ -629,6 +631,7 @@
 | Pikmin™ 1 | [0100AA80194B0000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100AA80194B0000) | 342A165CC42E997E | <p align="center"> 1.0.0 </p> | <p align="center"> ✅ </p> |
 | Pikmin™ 2 | [0100D680194B2000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100D680194B2000) | B23A43495191E7AD | <p align="center"> 1.0.0 </p> |
 | Pikmin™ 3 Deluxe | [0100F4C009322000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100F4C009322000) | D467F5AD367BBEE8 | <p align="center"> 1.1.0 </p> |
+| Pikmin 4 | [0100B7C00933A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100B7C00933A000) | 3C8B5AEAA796F844 | <p align="center"> 1.0.1 </p> |
 | Pinball Jam| [0100AD50167EC000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100AD50167EC000) | A44E17749BAC250B | <p align="center"> 1.0.1 </p> |
 | Pinstripe (JP) | [01000C1011960000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01000C1011960000) | 802040931b870548 | <p align="center"> 1.0.0 </p> |
 | Pinstripe! | [010041100B148000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010041100B148000) | 99576dd9532d5d47 | <p align="center"> 1.0.0 </p> |
@@ -813,6 +816,7 @@
 | Tactics Ogre: Reborn | [0100E12013C1A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100E12013C1A000) | 1EC4D1211FB1B975 | <p align="center"> 1.0.7 </p> |
 | Takotan | [0100761012B0C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100761012B0C000) | 89b21f067b29073a | <p align="center"> 1.0.0 </p> |
 | Tales of Symphonia Remastered (JP) | [01002B8014440000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01002B8014440000) | BCFDC7A6A7181E9F | <p align="center"> 1.1.0 </p> |
+| Tales of Symphonia Remastered | [0100A410169A4000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100A410169A4000) | B3F4E7FF2A7F38B2 | <p align="center"> 1.2 </p> |
 | Tales of Vesperia™: Definitive Edition | [01002C0008E52000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01002c0008e52000) | F244B656B1CAFE52 | <p align="center"> 1.0.2 </p> |
 | Tears of Avia | [010076E0150CC000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010076E0150CC000) | 98B20F02EF446776 | <p align="center"> 1.0.8 </p> |
 | Teenage Mutant Ninja Turtles: Shredder's Revenge | [0100FE701475A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100FE701475A000) | 2906ECBCEB6D88DC | <p align="center"> 1.0.6 </p> |
