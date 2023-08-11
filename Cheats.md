@@ -630,7 +630,7 @@
 | Phoenotopia : Awakening | [01005E100A4F0000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01005E100A4F0000) | 49FD30A3B6B16544 | <p align="center"> 1.3.3 </p> |
 | Pikmin™ 1 | [0100AA80194B0000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100AA80194B0000) | 342A165CC42E997E | <p align="center"> 1.0.0 </p> | <p align="center"> ✅ </p> |
 | Pikmin™ 2 | [0100D680194B2000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100D680194B2000) | B23A43495191E7AD | <p align="center"> 1.0.0 </p> |
-| Pikmin™ 3 Deluxe | [0100F4C009322000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100F4C009322000) | D467F5AD367BBEE8 | <p align="center"> 1.1.0 </p> |
+| Pikmin™ 3 Deluxe | [0100F4C009322000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100F4C009322000) | D467F5AD367BBEE8 | <p align="center"> 1.1.1 </p> |
 | Pikmin 4 | [0100B7C00933A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100B7C00933A000) | 3C8B5AEAA796F844 | <p align="center"> 1.0.1 </p> |
 | Pinball Jam| [0100AD50167EC000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100AD50167EC000) | A44E17749BAC250B | <p align="center"> 1.0.1 </p> |
 | Pinstripe (JP) | [01000C1011960000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01000C1011960000) | 802040931b870548 | <p align="center"> 1.0.0 </p> |
