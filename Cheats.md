@@ -758,7 +758,7 @@
 | Songs for a Hero: Definitive Edition | [0100802012890000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100802012890000) | F20687CC1EACD0E2  | <p align="center"> 1.0.4 </p> |
 | SONIC FORCES™ (EU) | [0100111004460000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100111004460000) | 6d9ea94f8aac00a8 | <p align="center"> 1.1.0 </p> |
 | SONIC FORCES™ | [01001270012B6000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01001270012B6000) | 6d9ea94f8aac00a8 | <p align="center"> 1.1.0 </p> |
-| Sonic Frontiers | [01004AD014BF0000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01004AD014BF0000) | DD7FF70188B281D9 | <p align="center"> 1.1.1 </p> | <p align="center"> ✅ </p> |
+| Sonic Frontiers | [01004AD014BF0000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01004AD014BF0000) | 0B815AF775888406 | <p align="center"> 1.3.0 </p> | <p align="center"> ✅ </p> |
 | Sonic Mania | [01009AA000FAA000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01009AA000FAA000) | 03fd1524e17a841c | <p align="center"> 1.0.4 </p> |
 | South Park™: The Fractured but Whole™ - Standard Edition | [01008F2005154000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01008F2005154000) | df15edaaf603e00c | <p align="center"> 1.0.5 </p> | <p align="center"> ✅ </p> |
 | Space Invaders Forever | [0100F0C012C10000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100F0C012C10000) | 2E9D4A761AB93843 | <p align="center"> 1.0.0 </p> |
