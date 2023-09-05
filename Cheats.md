@@ -313,6 +313,7 @@
 | DOOM (2016) | [0100416004C00000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100416004C00000) | 01ace43e724259c3 | <p align="center"> 1.2 </p> |
 | DOOM 64 | [01005D700E742000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01005D700E742000) | 1F45F195FB7468C5 | <p align="center"> 1.0.2 </p> |
 | Doom Eternal | [0100B1A00D8CE000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100B1A00D8CE000) | 5AF6F31EAC42DBC0 | <p align="center"> 1.6.0 </p> |
+| Doomsday Hunters | [0100A2C00E916000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100A2C00E916000) | 8e247758ee52bb9d | <p align="center"> 1.0.0 </p> |
 | Door Kickers: Action Squad | [01005ED00CD70000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01005ED00CD70000) | 1d3380ee5cc8dc3a | <p align="center"> 1.2.8 |
 | Down to Hell | [0100B6600FE06000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100B6600FE06000) | 62C8976E3DEE9740 | <p align="center"> 1.0.0 </p> |
 | Drag Sim 2020 | [0100B59011A1C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100B59011A1C000) | fe87beb149f96c45 | <p align="center"> 1.0.0 </p> |
@@ -530,6 +531,7 @@
 | Lost Sea | [010071B00964A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010071B00964A000) | 53a7c333f5a5164e | <p align="center"> 1.0.0 </p> |
 | LOST SPHEAR | [010077B0038B2000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010077B0038B2000) | 641A9243BA35C638 | <p align="center"> 1.3.1 </p> |
 | Luigi's Mansion™ 3 | [0100DCA0064A6000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100DCA0064A6000) | 486f6a3b2d6bcf5c </br> 79E5950FFA85ACF6 | <p align="center"> 1.0.0 </br> 1.4.0 </p> |
+| Luna & Monsters Tower Defense -The deprived magical kingdom- | [0100B9501B7DE000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100B9501B7DE000) | A1CC011D984F2167 | <p align="center"> 2.3.2 </p> |
 | M.A.C.E. Space Shooter | [0100F02005D1E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100F02005D1E000) | 21CC83CF5A6C67AE | <p align="center"> 1.0.1 </p> |
 | MachiKnights -Blood bagos- | [0100F2400D434000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100F2400D434000) | 8EB9F6FB15B3428B | <p align="center"> 1.0.6 |
 | Mages of Mystralia | [0100549008C9C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100549008C9C000) | de32b7731b63fe48 | <p align="center"> 1.0.1 </p> |
@@ -961,7 +963,7 @@
 | Zoids Wild Blast Unleashed | [010069C0123D8000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010069C0123D8000) | f894caf55083a245 | <p align="center"> 1.0.0 </p> |
 | Zombie Army Trilogy | [0100C7300EEE4000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100C7300EEE4000) | 54211726d36a8d9c | <p align="center"> 1.0.2 </p> | <p align="center"> ✅ </p> |
 
-
+| Luna & Monsters Tower Defense -The deprived magical kingdom- | [0100B9501B7DE000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100B9501B7DE000) | A1CC011D984F2167 | <p align="center"> 2.3.2 </p> |
 
 ## Cheats Sources
 - https://github.com/LordApple/SXOS-CheatDB
