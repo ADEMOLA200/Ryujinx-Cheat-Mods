@@ -1,0 +1,13 @@
+[1.Change the number of materials to 96 when you get them.]
+04000000 0268F3AC 52800C08
+
+[2.ZR+A button Keep 96 materials on your body when storing them.]
+04000000 0268E6E4 52800C08 
+
+[3.Bullet energy does not decrease.]
+04000000 022FC444 1E212800 
+
+[4.Oxygen does not decrease.]
+
+[5.Shield energy does not decrease.]
+04000000 028475A0 D503201F 
