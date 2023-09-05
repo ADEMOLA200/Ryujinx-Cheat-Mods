@@ -1,6 +1,6 @@
 # Ryujinx Cheats-Mods-Saves Database
 
-### UPDATED TO Sep/01/2023
+### UPDATED TO Sep/05/2023
 
 Work in Progress for Ryujinx Team
 
@@ -8,7 +8,7 @@ Work in Progress for Ryujinx Team
 ## GAMES INDEX
 
 ## [Cheats Index](Cheats.md)
-### COMPLETED [957 Titles]
+### COMPLETED [979 Titles]
 - Will update once a week if new cheats release (sometimes on the day cheats are updated on certain scrapes).
 </br>
 
