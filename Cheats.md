@@ -678,7 +678,7 @@
 | Rascal Fight | [0100E73010754000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100E73010754000) | 7B9A17288E5DD344 | <p align="center"> 1.0.1 </p> |
 | Rayman® Legends Definitive Edition | [01005FF002E2A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01005FF002E2A000) | F466DA1D713533C2 | <p align="center"> 1.0.2 </p> |
 | Record of Lodoss War -Deedlit in Wonder Labyrinth- | [0100EF0015A9A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100EF0015A9A000) | 667484A8F759B6FD | <p align="center"> 1.0.2 </p> |
-| Red Dead Redemption | [01007820196A6000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01007820196A6000) | 90D38D285A365D9E | <p align="center"> 1.0.1 </p> |
+| Red Dead Redemption | [01007820196A6000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01007820196A6000) | F68A7D87ABAC6AAC | <p align="center"> 1.0.2 </p> |
 | Redeemer Enhanced Edition | [01000D100DCF8000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01000D100DCF8000) | 86AA48E1585F2EE7 | <p align="center"> 1.2.0 </p> |
 | Redemption Reapers | [010073F0197DA000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010073F0197DA000) | 610271135EB79DB0 | <p align="center"> 1.1.0 </p> |
 | Redout: Space Assault | [0100326010B98000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100326010B98000) | 606f37176b3dd269 | <p align="center"> 1.0.2 </p> |
