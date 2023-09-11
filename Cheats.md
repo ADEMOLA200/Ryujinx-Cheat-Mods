@@ -864,7 +864,7 @@
 | The Legend of Zelda™: Breath of the Wild | [01007EF00011E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01007EF00011E000) | 8e9978d50bdd20b4 | <p align="center"> 1.6.0 </p> | <p align="center"> ✅ </p> | <p align="center"> ✅ </p> |
 | The Legend of Zelda™: Link’s Awakening | [01006BB00C6F0000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01006BB00C6F0000) | 909e904af78ac1b8 | <p align="center"> 1.0.1 </p> |
 | The Legend of Zelda™: Skyward Sword HD | [01002DA013484000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01002DA013484000) | 5441AF3C89F97E1D | <p align="center"> 1.0.1 </p> |
-| The Legend of Zelda™: Tears of the Kingdom | [0100F2C0115B6000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100F2C0115B6000) | 6F32C68DD3BC7D77 | <p align="center"> 1.2.0 </p> |
+| The Legend of Zelda™: Tears of the Kingdom | [0100F2C0115B6000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100F2C0115B6000) | 9B4E43650501A4D4 | <p align="center"> 1.2.1 </p> |
 | The LEGO Movie 2 | [0100A4400BE74000](https://github.com/OldManKain/CheatModsSavesDB/tree/main/Titles/0100A4400BE74000) | BAC1309DDF75B14D | <p align="center"> 1.0.3 </p> |
 | The Lost Child | [01008A000A404000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01008A000A404000) | c7209aeda44b0447 | <p align="center"> 1.0.1 </p> |
 | The Lost Cube | [01000F2013CF8000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01000F2013CF8000) | 7D646A32A37BF945 | <p align="center"> 1.0.0 </p> |
