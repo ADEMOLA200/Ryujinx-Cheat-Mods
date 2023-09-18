@@ -1,6 +1,5 @@
 [-- Combat --]
 
-
 [HP does not decrease]
 400B0000 00000000 022B07F8
 640F01B0 00000000 1E283901
