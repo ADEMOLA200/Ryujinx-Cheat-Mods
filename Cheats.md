@@ -618,7 +618,7 @@
 | OMG Zombies! | [01006DB00D970000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01006DB00D970000) | 4291f2ae3b78c2de | <p align="center"> 1.0.0 </p> |
 | One Dog Story | [01009C301061A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01009C301061A000) | 17d0ca29336dd042 | <p align="center"> 1.0.0 </p> |
 | One Girl Army | [0100D7C01115E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100D7C01115E000) | 5a95eb5631c22043 | <p align="center"> 1.0.0 </p> |
-| ONE PIECE: PIRATE WARRIORS 4 | [01008FE00E2F6000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01008FE00E2F6000) | 740FA17EEEB5D6CC | <p align="center"> 1.4.0 </p> |
+| ONE PIECE: PIRATE WARRIORS 4 | [01008FE00E2F6000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01008FE00E2F6000) | 788E733D7B65E78B | <p align="center"> 1.6.0 </p> |
 | ONE PIECE: Unlimited World Red Deluxe Edition | [0100574002AF4000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100574002AF4000) | F1546B842FCF9D6C | <p align="center"> 1.0.0 </p> |
 | ONI : Road to be the Mightiest Oni | [0100E26019422000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100E26019422000) | FB152FB431677E62 | <p align="center"> 1.0.1 </p> |
 | Onimusha Warlords | [0100416008A12000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100416008A12000) | bdb65bae30a95abe | <p align="center"> 1.0.0 </p> |
