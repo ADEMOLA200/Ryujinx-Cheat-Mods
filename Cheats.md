@@ -634,7 +634,7 @@
 | Paper Mario: The Origami King | [0100A3900C3E2000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100A3900C3E2000) | e74395f066fd8ccb | <p align="center"> 1.0.1 </p> |
 | Part Time UFO™ | [01006B5012B32000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01006B5012B32000) | 3e13ee84f3a5f642 | <p align="center"> 1.0.0 </p> |
 | Penny-Punching Princes | [0100C510049E0000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100C510049E0000) | 84d19a943300e243 | <p align="center"> 1.0.0 </p> |
-| Persona 3 Portable | [0100DCD01525A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100DCD01525A000) | 663052C2C7E8C357 | <p align="center"> 1.0.0 </p> |
+| Persona 3 Portable | [0100DCD01525A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100DCD01525A000) | 4725D4306CFADAF3 | <p align="center"> 1.0.1 </p> |
 | Persona 4 Golden | [010062B01525C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010062B01525C000) | C433D980688380A6 | <p align="center"> 1.0.0 </p> |
 | Persona 5 Royal (Asia) | [01004B10157F2000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01004B10157F2000) | D4B150B29A931CD3 | <p align="center"> 1.0.1 </p> | <p align="center"> ✅ </p> |
 | Persona 5 Royal (JP) | [0100B880154FC000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100B880154FC000) | D4B150B29A931CD3 | <p align="center"> 1.0.1 </p> | <p align="center"> ✅ </p> |
