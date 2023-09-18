@@ -87,8 +87,8 @@
 400B0000 00000000 0218F634
 640F01B0 00000000 D503201F
 
-[-- EXP --]
 
+[-- EXP --]
 
 [Money 4x]
 400B0000 00000000 01F2DFD4
@@ -144,8 +144,8 @@
 400B0000 00000000 01C12814
 640F01B0 00000000 52800008
 
-[-- in Battle --]
 
+[-- in Battle --]
 
 [All skills unlocked]
 400B0000 00000000 037ACE3C
@@ -211,8 +211,8 @@
 400B0000 00000000 03FE498C
 640F01B0 00000000 9400444C
 
-[-- Adventure --]
 
+[-- Adventure --]
 
 [Movement speed increased]
 400B0000 00000000 03013654
@@ -240,7 +240,6 @@
 
 
 [ - TomSwitch Cheats Set - ]
-
 
 [Easy combo]
 04000000 03DFFA54 B9008261 
