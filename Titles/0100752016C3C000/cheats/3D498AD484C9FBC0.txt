@@ -1,0 +1,36 @@
+[Inf.Credits]
+01100000 00758403 00000099 
+
+[P1 Invincibility]
+01100000 0076A995 00000078 
+
+[P1 Inf.Energy]
+01100000 0075A464 00000028 
+
+[P1 Always Max Bullet Power]
+01100000 0075A444 00000004 
+
+[P1 Always Max Probe-Flint Power]
+01100000 0075A520 00000002 
+
+[P1 Always Max Homing Missile Power]
+01100000 0075A462 00000003 
+
+[P2 Inf.Energy]
+01100000 0075A864 00000028 
+
+[P2 Invincibility]
+01100000 0076AA95 00000078 
+
+[P2 Invincibility]
+01100000 0076AA95 00000078 
+
+[P2 Always Max Bullet Power]
+01100000 0075A844 00000004 
+
+[P2 Always Max Probe-Flint Power]
+01100000 0075A920 00000002 
+
+[P2 Always Max Homing Missile Power]
+01100000 0075A862 00000003 
+
