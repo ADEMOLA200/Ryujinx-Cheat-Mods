@@ -179,6 +179,8 @@
 | Bacon Man: An Adventure | [0100EAF00E32E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100EAF00E32E000) | 3ff8fe0ccfb2348b | <p align="center"> 1.0.0 </p> |
 | Baldur's Gate: Dark Alliance | [0100FD1014726000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100FD1014726000) | d0b3501dc634c120 | <p align="center"> 1.0.1 </p> |
 | Bastion | [010038600B27E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010038600B27E000) | 26a2d0ccaee5f39e | <p align="center"> 1.0.0 </p> |
+| Baten Kaitos I HD Remaster (Asia) | [0100A86018CA8001](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100A86018CA8001) | 7FB85C6328A6F9F3 | <p align="center"> 1.0.1 </p> |
+| Baten Kaitos II HD Remaster (Asia) | [0100A86018CA8002](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100A86018CA8002) | FCE85B0D85650CA6 | <p align="center"> 1.0.1 </p> |
 | Batora: Lost Haven | [0100A93016BF4000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100A93016BF4000) | 1F36B8B8F6CD8DFC | <p align="center"> 1.0.0 </p> |
 | Battle Axe | [0100747011890000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100747011890000) | 47841761051e4741  | <p align="center"> 1.0.0 </p> |
 | Battle Chasers: Nightwar | [0100551001D88000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100551001D88000) | d0222f29ab9bb64c | <p align="center"> 1.0.2 </p> |
@@ -537,6 +539,7 @@
 | Lost Castle | [0100581007068000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100581007068000) | 83f63a18c3490647  | <p align="center"> 1.0.0|
 | LOST EPIC | [010098F019A64000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010098F019A64000) | 9B8920A9247AD29C  | <p align="center"> 1.0.0|
 | Lost in Random™ | [01005FE01291A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01005FE01291A000) | 416914C121775277 | <p align="center"> 1.0.1 </p> | <p align="center"> ✅ </p> |
+| Lost Ruins | [01008AD013A86000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01008AD013A86000) | 5454F6FD2D27BD48 | <p align="center"> v1.0.10.12 </p> |
 | Lost Sea | [010071B00964A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010071B00964A000) | 53a7c333f5a5164e | <p align="center"> 1.0.0 </p> |
 | LOST SPHEAR | [010077B0038B2000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010077B0038B2000) | 641A9243BA35C638 | <p align="center"> 1.3.1 </p> |
 | Luigi's Mansion™ 3 | [0100DCA0064A6000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100DCA0064A6000) | 486f6a3b2d6bcf5c </br> 79E5950FFA85ACF6 | <p align="center"> 1.0.0 </br> 1.4.0 </p> |
@@ -571,6 +574,7 @@
 | Metroid Prime™ Remastered | [010012101468C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010012101468C000) | 67C9CA1428222752 | <p align="center"> 1.0.0 </p> |
 | Miden Tower | [01001EB011D38000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01001EB011D38000) | 0d5d07181f8be84c | <p align="center"> 1.0.0 </p> |
 | Might & Magic: Clash of Heroes - Definitive Edition | [0100B2C0175C2000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100B2C0175C2000) | 58A71A8A87A2CA11 | <p align="center"> 1.0.2 </p> |
+| Mighty Goose | [0100AD701344C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100AD701344C000) | A45E10D137D7FB6C | <p align="center"> 1.0.2 </p> |
 | Mist Hunter | [010059200CC40000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010059200CC40000) | 5A12F43732856844 | <p align="center"> 1.0.2105 |
 | Moero Crystal H | [01004EB0119AC000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01004EB0119AC000) | f386b1aed15c029c | <p align="center"> 1.0.0 </p> |
 | MONARK | [0100E4A01548C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100E4A01548C000) | 85EB6295023DD394 | <p align="center"> 1.0.1 </p> | <p align="center"> ✅ </p> |
@@ -914,6 +918,7 @@
 | TRON: Identity | [010007501A588000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010007501A588000) | 0DA3F0F5C3C04A6C | <p align="center"> 1.0.1 </p> |
 | Trouble Witches Final! | [0100D06018DCA000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100D06018DCA000) | 69DCBA3B11E93C99 | <p align="center"> 1.0.0 </p> |
 | Trouserheart | [01001EF00BF3A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01001EF00BF3A000) | 1dfd2b4fe2198e4a | <p align="center"> 1.0.0 </p> |
+| Two Point Campus | [0100D4A012FF2000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100D4A012FF2000) | 55D0E71047A80B5B | <p align="center"> 8.2.133665 </p> |
 | Tyr : Chains of Valhalla | [01003B200C6CA000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01003B200C6CA000) | 8eb5b7c66fc82a42 | <p align="center"> 1.0.0 </p> |
 | Ultra Age ウルトラエージ (JP)| [01006DD00FE16000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01006DD00FE16000) | 7769608A9494E5DB  | <p align="center"> 1.0.2 </p> |
 | Ultra Age | [01008D4015904000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01008D4015904000) | 7769608A9494E5DB  | <p align="center"> 1.0.2 </p> |
@@ -983,10 +988,9 @@
 | Zoids Wild Blast Unleashed | [010069C0123D8000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010069C0123D8000) | f894caf55083a245 | <p align="center"> 1.0.0 </p> |
 | Zombie Army Trilogy | [0100C7300EEE4000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100C7300EEE4000) | 54211726d36a8d9c | <p align="center"> 1.0.2 </p> | <p align="center"> ✅ </p> |
 
-
+| WorldNeverland - Elnea Kingdom- | [01008E9007064000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01008E9007064000) | 28E19D6F448E5046 | <p align="center"> v1.5.6 </p> |
 
 ## Cheats Sources
-- https://github.com/LordApple/SXOS-CheatDB
 - https://github.com/WerWolv/EdiZon_CheatsConfigsAndScripts
 - https://GBAtemp.net
 - https://github.com/ChanseyIsTheBest/NX-60FPS-RES-GFX-Cheats
