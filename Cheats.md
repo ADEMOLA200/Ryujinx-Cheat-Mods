@@ -961,7 +961,7 @@
 | VAMPYR | [01000BD00CE64000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01000BD00CE64000) | E417100FFEEFD1DE | <p align="center"> 0.4.0 </p> | <p align="center"> ✅ </p> | <p align="center"> ✅ </p> |
 | Vaporum | [010030F00CA1E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010030F00CA1E000) | 5C813C18C1D7744A | <p align="center"> 1.0.2 </p> |
 | Vaporum Lockdown | [010088D013CE0000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010088D013CE0000) | 480B952AD15D7B4B | <p align="center"> 1.0.0 </p> |
-| Vernal Edge | [0100D10018340000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100D10018340000) | 4DE55C9786289279 | <p align="center"> 1.0.0 </p> |
+| Vernal Edge | [0100D10018340000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100D10018340000) | 3AA7CD294EAABF20 | <p align="center"> 1.0.3 </p> |
 | Void Bastards | [0100D010113A8000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100D010113A8000) | 2AE8719F2962C94E | <p align="center"> 2.0.24.267 |
 | Völgarr the Viking | [0100B1A0066DC000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100B1A0066DC000) | A2AD2E750B402FAC | <p align="center"> 1.0.1 </p> |
 | War Of Stealth - assassin | [01004FA01391A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01004FA01391A000) | 4C328C448D094A41 | <p align="center"> 1.1.1 </p> |
