@@ -1,2 +1,2 @@
-Vernal Edge v1.0.0
-@TomVita
+Vernal Edge v1.0.3
+@TomSwitch
