@@ -563,7 +563,7 @@
 | Mages of Mystralia | [0100549008C9C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100549008C9C000) | de32b7731b63fe48 | <p align="center"> 1.0.1 </p> |
 | Magic Scroll Tactics (JP) | [010013800BE2C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010013800BE2C000) | E4473CEEDCC3CC4F | <p align="center"> 1.0.0 </p> |
 | Mario + Rabbids® Kingdom Battle | [010067300059A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010067300059A000) | 3B39E0C06B8841F1 | <p align="center"> 1.9.589692 | <p align="center"> ✅ </p> |
-| MARIO + RABBIDS SPARKS OF HOPE | [0100317013770000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100317013770000) | 4CE774AE3765685E | <p align="center"> 1.5.2205169 </p> | <p align="center"> ✅ </p> |
+| MARIO + RABBIDS SPARKS OF HOPE | [0100317013770000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100317013770000) | 5B76A43B231E0640 | <p align="center"> 1.6.2225577 </p> | <p align="center"> ✅ </p> |
 | Mario Kart™ 8 Deluxe | [0100152000022000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100152000022000) | 4B7A0BB5AE57E627 | <p align="center"> 2.4.0 </p> |
 | Mario Party™ Superstars | [01006FE013472000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01006FE013472000) | 2841E26D7FB8AA17 | <p align="center"> 1.1.1 </p> |
 | Mario Tennis™ Aces | [0100BDE00862A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100BDE00862A000) | 32487e7e3d94954e | <p align="center"> 1.0.3 </p> |
