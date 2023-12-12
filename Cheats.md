@@ -1,4 +1,4 @@
-# Ryujinx Cheats Index [1019 Titles]
+# Ryujinx Cheats Index [1025 Titles]
 
 
 | NAME | TITLE ID | BUILD ID | VERSION |  60 FPS | GFX |
@@ -79,6 +79,7 @@
 | Age of Heroes: The Beginning | [01007810199E4000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01007810199E4000) | a1c395f26a0144f7 | <p align="center"> 1.8 </p> |
 | Ailment | [01006E8011C1E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01006E8011C1E000) | 437d1636aa93d390 | <p align="center"> 1.0.0 </p> |
 | Airheart - Tales of broken Wings | [01003DD00BFEE000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01003DD00BFEE000) | 803f74b0bc347d44 | <p align="center"> 1.0.0 </p> |
+| AK-xolotl | [010082201B00C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010082201B00C000) | 507D73E10F8F2C8B | <p align="center"> 1.0.6 </p> |
 | Akai Katana Shin (JP) | [0100BE6017C7A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100BE6017C7A000) | D9C7864AB8C45C61 | <p align="center"> 1.0.1 </p> |
 | Akane | [01007F100DE52000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01007F100DE52000) | 469A52D777C7104D | <p align="center"> 1.0.1 </p> |
 | Akiba's Trip 2: Director's Cut (Asia) | [0100ACB01A1B2000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100ACB01A1B2000) | AA55D3B417DF098B | <p align="center"> 1.0.1 </p> |
@@ -619,6 +620,7 @@
 | Mortal Kombat 11 | [0100F2200C984000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100F2200C984000) | 4f7ab1a3eefc7eb2 | <p align="center"> 1.0.26 </p> |
 | Mother Russia Bleeds | [0100D9C00AA52000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100D9C00AA52000) | 3B1F3C4E8D93B74A | <p align="center"> 1.0.0 </p> |
 | Muse Dash | [01008E200C5C2000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01008E200C5C2000) | F0A41E3FA690C049 | <p align="center"> 3.0.0 </p> |
+| My Time at Sandrock | [0100B63016916000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100B63016916000) | 64E05DC7E63FE962 | <p align="center"> 1.0.4 </p> |
 | Mystik Belle Enchanted Edition | [0100FFB015C6E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100FFB015C6E000) | 93eb061008cd762b | <p align="center"> 1.0.0 </p> |
 | MythForce | [010006B018F48000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010006B018F48000) | F6673B1867314301 | <p align="center"> 1.0.1.2 </p> |
 | Narcos: Rise of the Cartels | [010072B00BDDE000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010072B00BDDE000) | 188F1ED1673FACBD | <p align="center"> 1.0.4 </p> |
@@ -821,6 +823,7 @@
 | Sparklite | [01007ED00C032000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01007ED00C032000) | D0E79C23F66C2C42 | <p align="center"> 1.6.12 </p> |
 | Spelunker Party | [010021F004270000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010021F004270000) | 65457968DAE86A45 | <p align="center"> 1.1.0 </p> |
 | Sphinx and the Cursed Mummy | [0100BD500BA94000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100BD500BA94000) | B73BF75FEB33ABC5 | <p align="center"> 1.1.0 </p> |
+| Spirit of the Island | [010033F019FFE000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010033F019FFE000) | F463E25D812EA801 | <p align="center"> 1.3.7.1 </p> |
 | SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated | [010062800D39C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010062800D39C000) | 28240EE1884416AE | <p align="center"> 1.0.5 </p> |  | <p align="center"> ✅ </p> |
 | SpongeBob SquarePants: The Cosmic Shake | [01009FB0172F4000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01009FB0172F4000) | F61911B562195493 | <p align="center"> 1.0.3 </p> | <p align="center"> ✅ </p> | <p align="center"> ✅ </p> |
 | Spyro™ Reignited Trilogy | [010077B00E046000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010077B00E046000) | d2775fafcf4835cb | <p align="center"> 1.0.1 </p> | <p align="center"> ✅ </p> | <p align="center"> ✅ </p> |
@@ -942,6 +945,7 @@
 | Touhou Luna Nights | [0100D850131B0000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100D850131B0000) | FE5B26032BFC9289 | <p align="center"> 1.0.1 </p> |
 | Touken Ranbu Warriors | [0100DC9016C7C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100DC9016C7C000) | DB92FB1A713C6B45 | <p align="center"> 1.0.2 </p> |
 | Towertale | [0100F6200F77E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100F6200F77E000) | 867076902772414c | <p align="center"> 1.0.0 </p> |
+| TRANSFORMERS: EARTHSPARK - Expedition | [010005001A8CA000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010005001A8CA000) | 4E02DA432763C4C3 | <p align="center"> 1.0.4 </p> |
 | Travis Strikes Again: No More Heroes | [010011600C946000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010011600C946000) | ef72a4b5bf1973f3 | <p align="center"> 1.2.1 </p> |
 | Trek to Yomi | [0100D77019324000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100D77019324000) | F93FE010A1FC10BD | <p align="center"> 0.2 </p> | <p align="center"> ✅ </p> | <p align="center"> ✅ </p> |
 | Trials of Mana | [0100D7800E9E0000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100D7800E9E0000) | 92C25172D38DFEDB | <p align="center"> 1.1.1 </p> |  | <p align="center"> ✅ </p> |
@@ -1025,7 +1029,6 @@
 | Zoids Wild Blast Unleashed | [010069C0123D8000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010069C0123D8000) | f894caf55083a245 | <p align="center"> 1.0.0 </p> |
 | Zombie Army Trilogy | [0100C7300EEE4000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100C7300EEE4000) | 54211726d36a8d9c | <p align="center"> 1.0.2 </p> | <p align="center"> ✅ </p> |
 
-| Doom Eternal | [0100B1A00D8CE000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100B1A00D8CE000) | B059C2C77AD834B8 | <p align="center"> 1.6 </p> |
 
 ## Cheats Sources
 - https://github.com/WerWolv/EdiZon_CheatsConfigsAndScripts
