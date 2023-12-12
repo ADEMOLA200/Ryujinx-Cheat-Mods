@@ -1,5 +1,3 @@
-Doom Eternal v1.6.0
-@ZiT 
-@Eiffel2018
-@patjenova
+Doom Eternal v1.6
 @crazy_p
+@Patjenova
