@@ -75,7 +75,7 @@
 | Aegis Defenders | [01008E6006502000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01008E6006502000) | 3785b9800028344e | <p align="center"> 1.0.4 </p> |
 | Aeon Must Die! | [01000B600F918000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01000B600F918000) | 10AC397225817D31 | <p align="center"> 1.0.2 </p> |
 | Aeterna Noctis | [0100EB60159E4000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100EB60159E4000) | 0CBD71E6D09C0C3E | <p align="center"> 1.1.005 </p> |
-| Afterimage | [010095E01A12A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010095E01A12A000) | 18AA1A686407F14C | <p align="center"> 1.0.4 </p> |
+| Afterimage | [010095E01A12A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010095E01A12A000) | EACF2312BDA9682A | <p align="center"> 1.1.0 </p> |
 | Age of Heroes: The Beginning | [01007810199E4000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01007810199E4000) | a1c395f26a0144f7 | <p align="center"> 1.8 </p> |
 | Ailment | [01006E8011C1E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01006E8011C1E000) | 437d1636aa93d390 | <p align="center"> 1.0.0 </p> |
 | Airheart - Tales of broken Wings | [01003DD00BFEE000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01003DD00BFEE000) | 803f74b0bc347d44 | <p align="center"> 1.0.0 </p> |
