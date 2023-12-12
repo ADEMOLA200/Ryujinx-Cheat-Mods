@@ -878,7 +878,7 @@
 | Terracotta | [010042F01686C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010042F01686C000) | b9360479c445b355 | <p align="center"> 1.2.9 </p> |
 | Teslagrad | [01005C8005F34000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01005C8005F34000) | 6290d08ceb02ea4d | <p align="center"> 1.0.0 </p> |
 | The Alliance Alive HD Remastered | [01003CF00DCFA000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01003CF00DCFA000) | 4DF9DA0BD7A61546 | <p align="center"> 1.0.3 </p> |
-| The Binding of Isaac: Afterbirth+ | [010021C000B6A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010021C000B6A000) | 40506B6C03196447 | <p align="center"> 1.7.0 </p> |
+| The Binding of Isaac: Afterbirth+ | [010021C000B6A000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010021C000B6A000) | B6E5BDB9DC12E1D1 | <p align="center"> 1.7.9b </p> |
 | The Bridge Curse: Road to Salvation | [01006BD019A78000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01006BD019A78000) | F54FC539CAF24C64 | <p align="center"> 1.6.0.1 </p> |
 | The Bug Butcher | [01008D700AB14000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01008D700AB14000) | 1763c8105148364a | <p align="center"> 1.0.1 </p> |
 | The Caligula Effect 2 | [0100CC3014886000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100CC3014886000) | 094BD2CDF388A1DB | <p align="center"> 1.0.0 </p> |
