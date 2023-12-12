@@ -184,6 +184,7 @@
 | Bastion | [010038600B27E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010038600B27E000) | 26a2d0ccaee5f39e | <p align="center"> 1.0.0 </p> |
 | Baten Kaitos I HD Remaster (Asia) | [0100A86018CA8001](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100A86018CA8001) | 7FB85C6328A6F9F3 | <p align="center"> 1.0.1 </p> |
 | Baten Kaitos II HD Remaster (Asia) | [0100A86018CA8002](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100A86018CA8002) | FCE85B0D85650CA6 | <p align="center"> 1.0.1 </p> |
+| Batman: Arkham Knight | [0100ACD0163D0000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100ACD0163D0000) | 7E82B6E57F467EC4 | <p align="center"> 1.0.2 </p> |
 | Batora: Lost Haven | [0100A93016BF4000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100A93016BF4000) | 1F36B8B8F6CD8DFC | <p align="center"> 1.0.0 </p> |
 | Battle Axe | [0100747011890000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100747011890000) | 47841761051e4741  | <p align="center"> 1.0.0 </p> |
 | Battle Chasers: Nightwar | [0100551001D88000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100551001D88000) | d0222f29ab9bb64c | <p align="center"> 1.0.2 </p> |
@@ -328,7 +329,7 @@
 | Donkey Kong Country: Tropical Freeze | [0100C1F0051B6000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100C1F0051B6000) | F48BD40D89B529C1 | <p align="center"> 1.0.2 </p> |
 | DOOM (2016) | [0100416004C00000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100416004C00000) | 01ace43e724259c3 | <p align="center"> 1.2 </p> |
 | DOOM 64 | [01005D700E742000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01005D700E742000) | 1F45F195FB7468C5 | <p align="center"> 1.0.2 </p> |
-| Doom Eternal | [0100B1A00D8CE000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100B1A00D8CE000) | 5AF6F31EAC42DBC0 | <p align="center"> 1.6.0 </p> |
+| Doom Eternal | [0100B1A00D8CE000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100B1A00D8CE000) | B059C2C77AD834B8 | <p align="center"> 1.14 </p> |
 | Doomsday Hunters | [0100A2C00E916000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100A2C00E916000) | 8e247758ee52bb9d | <p align="center"> 1.0.0 </p> |
 | Door Kickers: Action Squad | [01005ED00CD70000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/01005ED00CD70000) | 1d3380ee5cc8dc3a | <p align="center"> 1.2.8 |
 | Down to Hell | [0100B6600FE06000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100B6600FE06000) | 62C8976E3DEE9740 | <p align="center"> 1.0.0 </p> |
@@ -350,6 +351,7 @@
 | Dragon Quest Builders™ | [010008900705C000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010008900705C000) | 93A84D948C179001 | <p align="center"> 1.0.0 </p> |
 | Dragon Quest Builders 2 God of Destruction Sido and the Empty Island (JP) | [010050000705E000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010050000705E000) | B54DACD6EAB84AC3 | <p align="center"> 1.7.3 </p> |
 | DRAGON QUEST BUILDERS™ 2 | [010042000A986000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010042000A986000) | 687753C332CFFF53 | <p align="center"> 1.7.3 </p> |
+| DRAGON QUEST MONSTERS: The Dark Prince | [0100A77018EA0000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100A77018EA0000) | 6B72212DABB91A6F | <p align="center"> 1.0.2 </p> |
 | Dragon Quest Treasures Blue Eyes and the Compass of the Sky (JP) | [0100217014266000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100217014266000) | 2F81A2EC9B298B37 | <p align="center"> 1.0.1 </p> | <p align="center"> ✅ </p> | <p align="center"> ✅ </p> |
 | DRAGON QUEST TREASURES | [010049B017774000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010049B017774000) | 2F81A2EC9B298B37 | <p align="center"> 1.0.1 </p> | <p align="center"> ✅ </p> | <p align="center"> ✅ </p> |
 | Dragon Star Varnir (EU) | [0100A8B014930000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100A8B014930000) | E26A54F785A76EE7 | <p align="center"> 1.0.1 </p> |
@@ -1023,6 +1025,7 @@
 | Zoids Wild Blast Unleashed | [010069C0123D8000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/010069C0123D8000) | f894caf55083a245 | <p align="center"> 1.0.0 </p> |
 | Zombie Army Trilogy | [0100C7300EEE4000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100C7300EEE4000) | 54211726d36a8d9c | <p align="center"> 1.0.2 </p> | <p align="center"> ✅ </p> |
 
+| Doom Eternal | [0100B1A00D8CE000](https://github.com/OldManKain/Ryujinx-Cheats-Mods-Saves/tree/main/Titles/0100B1A00D8CE000) | B059C2C77AD834B8 | <p align="center"> 1.6 </p> |
 
 ## Cheats Sources
 - https://github.com/WerWolv/EdiZon_CheatsConfigsAndScripts
