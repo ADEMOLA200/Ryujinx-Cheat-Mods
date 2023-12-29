@@ -2,7 +2,7 @@
 
 ### UPDATED TO DEC/12/2023
 
-Work in Progress for Ryujinx Team
+Work in Progress for Ryujinx Team (yeah they fucked that up)
 
 
 ## GAMES INDEX
