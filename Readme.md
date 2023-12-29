@@ -1,4 +1,4 @@
-# Ryujinx Cheats-Mods-Saves Database
+# Cheats-Mods-Saves Database
 
 ### UPDATED TO DEC/12/2023
 
