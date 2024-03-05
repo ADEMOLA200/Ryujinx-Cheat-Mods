@@ -1,4 +1,4 @@
-# Ryujinx Cheats Index [1025 Titles]
+# Cheats Index [1025 Titles]
 
 
 | NAME | TITLE ID | BUILD ID | VERSION |  60 FPS | GFX |
