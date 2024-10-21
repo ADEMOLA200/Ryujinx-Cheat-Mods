@@ -7,12 +7,12 @@
 ## GAMES INDEX
 
 ## [Cheats Index](Cheats.md)
-### COMPLETED [1025 Titles]
+### WIP [1025 Titles]
 - Will update once a week if new cheats release (sometimes on the day cheats are updated on certain scrapes).
 </br>
 
 ## [Mods Index](Mods.md)
-### COMPLETED [56 Titles]
+### WIP [56 Titles]
 - Will update once a week if new mods release.
 </br>
 
