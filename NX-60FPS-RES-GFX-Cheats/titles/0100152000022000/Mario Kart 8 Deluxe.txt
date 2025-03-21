@@ -1,0 +1,19 @@
+2.2.1 60FPS pchtxt by Wachee
+2.3.0 60FPS pchtxt by zix7
+2.2.1 & 2.3.0 60 & 30 FPS cheat by halop
+2.30 21.9 converted by b0rd2dEAth
+2.4 60fps updated by B3711
+3.0 updated by B3711 & b0rd2dEAth based on public pchtxt
+3.1 updated by BE711 based on public pchtxt
+3.0.3 updated by Craftyawesome based on public pchtxt + Craftawsome for RRS cheats
+
+Original author of all pchtxt theboy181
+https://linktr.ee/theboy181
+21.9 credits
+@theboy181 - https://linktr.ee/theboy181
+
+Contributors (Thank You!) Cathy#6751, Biggsy#7677, brunolv#1631, dutyfree#6162, Niwu#4082, SP4RT4N3R#6735, Wemerson#6308, 𓃠Yaro𓃠 本音#9974
+
+recommended overclock:
+Docked GPU 921 MHz
+Handheld GPU 537 MHz
