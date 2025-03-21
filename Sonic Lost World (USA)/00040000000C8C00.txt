@@ -1,0 +1,22 @@
+[60FPS (Hold R button for 30FPS)]
+D3000000 00000000
+280003A0 00000000
+DD000000 00000100
+280003A0 00000001
+D0000000 00000000
+{Game runs faster.
+Codes by @Voxel}
+
+[++FPS++]
+
+[60FPS]
+280003A0 00000000
+{Game runs faster.
+Codes by @Voxel}
+
+[30FPS]
+280003A0 00000001
+{Game runs faster.
+Codes by @Voxel}
+
+[--]

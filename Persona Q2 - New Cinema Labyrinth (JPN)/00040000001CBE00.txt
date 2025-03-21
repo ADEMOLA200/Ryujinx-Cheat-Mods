@@ -1,0 +1,50 @@
+[60FPS v1.0/1.1/1.2]
+28224680 00000000
+{Game runs faster.
+Codes by @lucky}
+
+[++FPS++]
+
+[++v1.2++]
+
+[60FPS v1.0/1.1/1.2]
+28224680 00000000
+{Game runs faster.
+Codes by @lucky}
+
+[Default 30FPS v1.0/1.1/1.2]
+28224680 00000001
+{Game runs faster.
+Codes by @lucky}
+
+[--]
+
+[++v1.1++]
+
+[60FPS v1.0/1.1/1.2]
+28224680 00000000
+{Game runs faster.
+Codes by @lucky}
+
+[Default 30FPS v1.0/1.1/1.2]
+28224680 00000001
+{Game runs faster.
+Codes by @lucky}
+
+[--]
+
+[++v1.0++]
+
+[60FPS v1.0/1.1/1.2]
+28224680 00000000
+{Game runs faster.
+Codes by @lucky}
+
+[Default 30FPS v1.0/1.1/1.2]
+28224680 00000001
+{Game runs faster.
+Codes by @lucky}
+
+[--]
+
+[--]

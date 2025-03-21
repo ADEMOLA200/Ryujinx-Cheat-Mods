@@ -1,0 +1,22 @@
+[60FPS (Hold R button for 30FPS)]
+D3000000 00000000
+08059434 0000003C
+DD000000 00000100
+08059434 0000001E
+D0000000 00000000
+{Bugs, only works occasionally
+Codes by @Hazerou}
+
+[++FPS++]
+
+[60FPS]
+08059434 0000003C
+{Bugs, only works occasionally
+Codes by @Hazerou}
+
+[Default 30FPS]
+08059434 0000001E
+{Bugs, only works occasionally
+Codes by @Hazerou}
+
+[--]

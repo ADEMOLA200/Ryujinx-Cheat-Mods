@@ -1,0 +1,27 @@
+[60FPS (Hold R button for 20FPS)]
+D3000000 00000000
+201FA960 00000011
+DD000000 00000100
+201FA960 00000032
+D0000000 00000000
+{Game runs faster.
+Codes by @Hazerou}
+
+[++FPS++]
+
+[60FPS]
+201FA960 00000011
+{Game runs faster.
+Codes by @Hazerou}
+
+[30FPS]
+201FA960 00000022
+{Game runs faster.
+Codes by @Hazerou}
+
+[Default 20FPS]
+201FA960 00000032
+{Game runs faster.
+Codes by @Hazerou}
+
+[--]

@@ -1,0 +1,23 @@
+[60FPS v2.1.0 (Hold R button for 30FPS)]
+D3000000 00000000
+0808A57C 42700000
+DD000000 00000100
+08A46DC0 41F00000
+D0000000 00000000
+{Codes by @NanashiFinal13}
+
+[++FPS++]
+
+[++v2.1.0++]
+
+[60FPS v2.1.0]
+0808A57C 42700000
+{Codes by @NanashiFinal13}
+
+[30FPS v2.1.0]
+08A46DC0 41F00000
+{Codes by @NanashiFinal13}
+
+[--]
+
+[--]

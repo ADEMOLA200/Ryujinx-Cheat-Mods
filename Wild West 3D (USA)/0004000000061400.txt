@@ -1,0 +1,26 @@
+[60FPS (Hold R button for 30FPS)]
+D3000000 00000000
+083D17C8 3C888888
+DD000000 00000100
+083D17C8 3D088888
+D2000000 00000000
+{Not solid 60 on 3DS.
+Codes by @Hazerou}
+
+[++FPS++]
+
+[60+FPS]
+083D17C8 3C5A740E
+{Not solid 60 on 3DS.
+Codes by @Hazerou}
+
+[60FPS]
+083D17C8 3C888888
+{Not solid 60 on 3DS.
+Codes by @Hazerou}
+
+[Default 30FPS]
+083D17C8 3D088888
+{Codes by @Hazerou}
+
+[--]

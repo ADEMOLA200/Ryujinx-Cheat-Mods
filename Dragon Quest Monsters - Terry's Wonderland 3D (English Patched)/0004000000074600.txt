@@ -1,0 +1,31 @@
+[60FPS v1.1 (ENG-Patched) (Hold R button for 30FPS)]
+D3000000 08000000
+20063CC4 00000001
+DD000000 00000100
+20063CC4 00000002
+D0000000 00000000
+{(For ENG-Patched CIA)
+Game runs faster.
+Codes by @Hazerou}
+
+[++FPS++]
+
+[++v1.1++]
+
+[60FPS v1.1 (ENG-Patched)]
+D3000000 08000000
+20063CC4 00000001
+D2000000 00000000
+{(For ENG-Patched CIA)
+Game runs faster.}
+
+[Default 30FPS v1.1 (ENG-Patched)]
+D3000000 08000000
+20063CC4 00000002
+D2000000 00000000
+{(For ENG-Patched CIA)
+Game runs faster.}
+
+[--]
+
+[--]

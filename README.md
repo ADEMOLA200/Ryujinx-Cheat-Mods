@@ -23,6 +23,8 @@ Special thanks to the following repositories for their awesome mods and inspirat
 - [switch-ptchtxt-mods](https://github.com/theboy181/switch-ptchtxt-mods.git) by theboy181
 - [switch-cheat-mods](https://github.com/theboy181/switch-cheat-mods.git) by theboy181
 - [NX-60FPS-RES-GFX-Cheats](https://github.com/ChanseyIsTheBest/NX-60FPS-RES-GFX-Cheats.git) by ChanseyIsTheBest
+- [NXGraphicsPatches](https://github.com/masagrator/NXGraphicsPatches.git) by masagrator
+- [60FPS-AR-CHEATS-3DS](https://github.com/Reshiban/60FPS-AR-CHEATS-3DS.git) by Reshiban
 
 Their contributions have been invaluable in creating this comprehensive mod collection.
 

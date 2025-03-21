@@ -1,0 +1,35 @@
+[60FPS v3.2 (Hold R button for 30FPS)]
+D3000000 00000000
+2082E9F4 00000001
+DD000000 00000100
+2082E9F5 00000002
+D2000000 00000000
+{Codes by @NanashiFinal13}
+
+[++FPS++]
+
+[++v3.2++]
+
+[60FPS v3.2]
+2082E9F5 00000001
+{Codes by @NanashiFinal13}
+
+[30FPS v3.2]
+2082E9F5 00000002
+{Codes by @NanashiFinal13}
+
+[++Extras++]
+
+[Game Speed x 2 v3.2]
+0082EE38 40000000
+{Codes by @NanashiFinal13}
+
+[Game Speed x 1 v3.2]
+0082EE38 3F800000
+{Codes by @NanashiFinal13}
+
+[--]
+
+[--]
+
+[--]

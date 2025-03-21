@@ -1,0 +1,35 @@
+[60FPS v1.2 (Hold R button for 30FPS)]
+D3000000 00000000
+206B2FF4 00000001
+DD000000 00000100
+206B2FF4 00000002
+D2000000 00000000
+{Codes by @Hazerou}
+
+[++FPS++]
+
+[++v1.2++]
+
+[60FPS v1.2]
+206B2FF4 00000001
+{Codes by @Hazerou}
+
+[Default 30FPS v1.2]
+206B2FF4 00000002
+{Codes by @Hazerou}
+
+[--]
+
+[++v1.0++]
+
+[60FPS v1.0]
+206AFFDC 00000001
+{Codes by @Hazerou}
+
+[Default 30FPS v1.0]
+206AFFDC 00000002
+{Codes by @Hazerou}
+
+[--]
+
+[--]

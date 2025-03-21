@@ -1,0 +1,42 @@
+[60FPS (Hold R button for 3000FPS)]
+D3000000 00000000
+086261C0 42700000
+DD000000 00000100
+086261C0 453B8000
+D0000000 00000000
+{Codes by @Hazerou}
+
+[++FPS++]
+
+[Default 3000FPS]
+086261C0 453B8000
+{Codes by @Hazerou}
+
+[60FPS]
+086261C0 42700000
+{Codes by @Hazerou}
+
+[30FPS]
+086261C0 41F00000
+{Codes by @Hazerou}
+
+[++Extras++]
+
+[Default FSAA]
+080CC8F4 281F056A
+{Will disable 3D slider.
+Codes by @Hazerou}
+
+[Disable FSAA v1]
+180CC8F4 0000016A
+{Will disable 3D slider.
+Codes by @Hazerou}
+
+[Disable FSAA v2]
+280CC8F4 0000002A
+{Will disable 3D slider.
+Codes by @Hazerou}
+
+[--]
+
+[--]

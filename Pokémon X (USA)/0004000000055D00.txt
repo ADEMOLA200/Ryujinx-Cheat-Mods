@@ -1,0 +1,76 @@
+[60FPS (Hold R button for 30FPS) v1.5]
+D3000000 08000000
+20C61A85 00000000
+DD000000 00000100
+20C61A85 00000001
+D0000000 00000000
+{Game runs faster.
+Codes by @Reshiban}
+
+[++FPS++]
+
+[++v1.5++]
+
+[60FPS v1.5]
+28C61A85 00000000
+{Game runs faster.
+Codes by @Reshiban}
+
+[Default 30FPS v1.5]
+28C61A85 00000001
+{Game runs faster.
+Codes by @Reshiban}
+
+[--]
+
+[++v1.0++]
+
+[60FPS v1.0]
+28C61A85 00000000
+{Game runs faster.
+Codes by @Reshiban}
+
+[Default 30FPS v1.0]
+28C61A85 00000001
+{Game runs faster.
+Codes by @Reshiban}
+
+[--]
+
+[++Extras++]
+
+[No Outlines v1.5]
+D3000000 00000000
+00362ED8 00000000
+00362EDC 00000000
+D2000000 00000000
+{Removes the black lines in the Overworld and in Battle.
+Codes by @Reshiban and @Spooky}
+
+[Outlines v1.5]
+D3000000 00000000
+00362ED8 BF800000
+00362EDC 3F800000
+D2000000 00000000
+{Adds the black lines in the Overworld and in Battle.
+Codes by @Reshiban and @Spooky}
+
+[No Outlines v1.0]
+D3000000 00000000
+00361D34 00000000
+00361D38 00000000
+D2000000 00000000
+{Removes the black lines in the Overworld and in Battle.
+Codes by @Reshiban and @Spooky}
+
+[Outlines v1.0]
+D3000000 00000000
+00361D34 BF800000
+00361D38 3F800000
+D2000000 00000000
+{Adds the black lines in the Overworld and in Battle.
+Codes by @Reshiban and @Spooky}
+
+[--]
+
+[--]

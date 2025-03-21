@@ -1,0 +1,19 @@
+[60FPS (Hold R button for 30FPS)]
+D3000000 00000000
+204D8DAC 00000001
+DD000000 00000100
+204D8DAC 00000002
+D0000000 00000000
+{Codes by @lucky}
+
+[++FPS++]
+
+[60FPS]
+204D8DAC 00000001
+{Codes by @lucky}
+
+[Default 30FPS]
+204D8DAC 00000002
+{Codes by @lucky}
+
+[--]

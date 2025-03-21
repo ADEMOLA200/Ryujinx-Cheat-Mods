@@ -1,0 +1,42 @@
+[60FPS (Hold L button for 30FPS)]
+D3000000 00000000
+205311B8 00000001
+DD000000 00000200
+205311B8 00000002
+D2000000 00000000
+{Game runs faster.
+Codes by @lucky}
+
+[++FPS++]
+
+[60FPS]
+205311B8 00000001
+{Game runs faster.
+Codes by @lucky}
+
+[Default 30FPS]
+205311B8 00000002
+{Game runs faster.
+Codes by @lucky}
+
+[--]
+
+[++Game Speed++]
+
+[Game speed++]
+20531168 00000004
+{Codes by @lucky}
+
+[Game speed+]
+20531168 00000003
+{Codes by @lucky}
+
+[Default Game speed]
+20531168 00000002
+{Codes by @lucky}
+
+[Game speed -]
+20531168 00000001
+{Codes by @lucky}
+
+[--]

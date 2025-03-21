@@ -1,0 +1,48 @@
+[60FPS Rev1 (Hold X button for 30FPS)]
+D3000000 15000000
+20917E9C 00000001
+DD000000 00000400
+20917E9C 00000002
+D0000000 00000000
+{Game runs faster.
+Codes by @Reshiban}
+
+[++FPS++]
+
+[++Rev1++]
+
+[60FPS Rev1]
+D3000000 15000000
+20917E9C 00000001
+D2000000 00000000
+{Game runs faster.
+Codes by @Reshiban}
+
+[Default 30FPS Rev1]
+D3000000 15000000
+20917E9C 00000002
+D2000000 00000000
+{Game runs faster.
+Codes by @Reshiban}
+
+[--]
+
+[++Rev?++]
+
+[60FPS Rev?]
+D3000000 15000000
+2091689C 00000001
+D2000000 00000000
+{Game runs faster.
+Codes by @NanashiFinal13}
+
+[Default 30FPS Rev?]
+D3000000 15000000
+2091689C 00000002
+D2000000 00000000
+{Game runs faster.
+Codes by @NanashiFinal13}
+
+[--]
+
+[--]

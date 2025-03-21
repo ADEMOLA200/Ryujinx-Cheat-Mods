@@ -1,0 +1,35 @@
+[60FPS v1.1 (Hor R button for 30FPS)]
+D3000000 00000000
+206A4A14 00000001
+DD000000 00000100
+206A4A14 00000002
+D2000000 00000000
+{Codes by @NanashiFinal13}
+
+[++FPS++]
+
+[++v1.1++]
+
+[60FPS v1.1]
+206A4A14 00000001
+{Codes by @NanashiFinal13}
+
+[Default 30FPS v1.1]
+206A4A14 00000002
+{Codes by @NanashiFinal13}
+
+[--]
+
+[++v1.0++]
+
+[60FPS v1.0]
+206A3A14 00000001
+{Codes by @NanashiFinal13}
+
+[Default 30FPS v1.0]
+206A3A14 00000002
+{Codes by @NanashiFinal13}
+
+[--]
+
+[--]

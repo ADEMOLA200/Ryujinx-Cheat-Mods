@@ -1,0 +1,40 @@
+[60FPS (Hold R button for 30FPS)]
+D3000000 00000000
+08AF75B0 42700000
+DD000000 00000100
+08AF75B0 41F00000
+D0000000 00000000
+{Codes by @Hazerou}
+
+[++FPS++]
+
+[60FPS]
+08AF75B0 42700000
+{Codes by @Hazerou}
+
+[Default 30FPS]
+08AF75B0 41F00000
+{Codes by @Hazerou}
+
+[++Extras++]
+
+[Default Rendering]
+080D5CB0 009F576A
+{Codes by @Hazerou}
+
+[Disable FSAA v1]
+180D5CB0 0000536A
+{Codes by @Hazerou}
+
+[Disable FSAA v2]
+280D5CB0 0000002A
+{Will disable 3D slider.
+Codes by @Hazerou}
+
+[No Dithering]
+280D5CB2 0000008F
+{Codes by @Hazerou}
+
+[--]
+
+[--]

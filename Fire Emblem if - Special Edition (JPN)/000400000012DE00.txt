@@ -1,0 +1,35 @@
+[60FPS v1.1]
+D3000000 00000000
+206DCAAC 00000001
+DD000000 00000100
+206DCAAC 00000002
+D0000000 00000000
+{Codes by @lucky}
+
+[++FPS++]
+
+[++v1.1++]
+
+[60FPS v1.1]
+206DCAAC 00000001
+{Codes by @lucky}
+
+[30FPS v1.1]
+206DCAAC 00000002
+{Codes by @lucky}
+
+[--]
+
+[++v1.0++]
+
+[60FPS v1.0]
+206DBA84 00000001
+{Codes by @lucky}
+
+[30FPS v1.0]
+206DBA84 00000002
+{Codes by @lucky}
+
+[--]
+
+[--]

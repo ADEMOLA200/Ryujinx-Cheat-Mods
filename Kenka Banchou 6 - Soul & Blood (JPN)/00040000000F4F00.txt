@@ -1,0 +1,25 @@
+[60FPS (Hold R button for 30FPS)]
+D3000000 00000000
+005FBA40 0000003C
+DD000000 00000100
+005FBA40 0000001E
+D0000000 00000000
+{Game runs faster.
+Only works on menus and certain areas.
+Codes by @NanashiFinal13}
+
+[++FPS++]
+
+[60FPS]
+005FBA40 0000003C
+{Game runs faster.
+Only works on menus and certain areas.
+Codes by @NanashiFinal13}
+
+[Default 30FPS]
+005FBA40 0000001E
+{Game runs faster.
+Only works on menus and certain areas.
+Codes by @NanashiFinal13}
+
+[--]

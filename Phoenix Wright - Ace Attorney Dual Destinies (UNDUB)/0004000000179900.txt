@@ -1,0 +1,40 @@
+[60FPS (UNDUB) (Hold R button for 30FPS)]
+D3000000 00000000
+08B80E60 42700000
+DD000000 00000100
+08B80E60 41F00000
+D0000000 00000000
+{Codes by @Hazerou}
+
+[++FPS++]
+
+[60FPS (UNDUB)]
+08B80E60 42700000
+{Codes by @Hazerou}
+
+[30FPS (UNDUB)]
+08B80E60 41F00000
+{Codes by @Hazerou}
+
+[++Extras++]
+
+[Default Rendering (UNDUB)]
+080B9D30 001F556A
+{Codes by @Hazerou}
+
+[Disable FSAA v1 (UNDUB)]
+180B9D30 0000516A
+{Codes by @Hazerou}
+
+[Disable FSAA v2 (UNDUB)]
+280B9D30 0000002A
+{Will Disable 3D slider.
+Codes by @Hazerou}
+
+[No Dithering (UNDUB)]
+280B9D32 0000000F
+{Codes by @Hazerou}
+
+[--]
+
+[--]

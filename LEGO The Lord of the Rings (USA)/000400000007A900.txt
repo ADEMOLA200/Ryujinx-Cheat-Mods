@@ -1,0 +1,22 @@
+[60FPS (Hold R button for 30FPS)]
+D3000000 00000000
+0032FDA0 00000001
+DD000000 00000100
+0032FDA0 00000002
+D0000000 00000000
+{Not very stable, suffer constantly FPS drops and dont work on certain areas.
+Codes by @NanashiFinal13}
+
+[++FPS++]
+
+[60FPS]
+0032FDA0 00000001
+{Not very stable, suffer constantly FPS drops and dont work on certain areas.
+Codes by @NanashiFinal13}
+
+[Default 30FPS]
+0032FDA0 00000002
+{Not very stable, suffer constantly FPS drops and dont work on certain areas.
+Codes by @NanashiFinal13}
+
+[--]

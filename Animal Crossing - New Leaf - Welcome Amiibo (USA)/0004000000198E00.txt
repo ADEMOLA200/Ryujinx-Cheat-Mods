@@ -1,0 +1,41 @@
+[30FPS v1.0 (Hold R button for 60FPS)]
+D3000000 10000000
+268D4330 00000004
+DD000000 00000100
+268D4330 00000002
+D0000000 00000000
+{Game runs faster.
+Codes by @lucky}
+
+[++FPS++]
+
+[++v1.5++]
+
+[--]
+
+[++v1.0++]
+
+[60+FPS v1.0]
+D3000000 10000000
+268D4330 00000001
+D2000000 00000000
+{Game runs faster.
+Codes by @lucky}
+
+[Default 60FPS v1.0]
+D3000000 10000000
+268D4330 00000002
+D2000000 00000000
+{Game runs faster.
+Codes by @lucky}
+
+[30FPS v1.0]
+D3000000 10000000
+268D4330 00000004
+D2000000 00000000
+{Game runs faster.
+Codes by @lucky}
+
+[--]
+
+[--]

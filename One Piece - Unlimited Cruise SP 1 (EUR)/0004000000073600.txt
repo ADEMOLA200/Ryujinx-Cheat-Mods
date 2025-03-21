@@ -1,0 +1,26 @@
+[60FPS (Hold R button for 30FPS)]
+D3000000 00000000
+003FA660 3F800000
+203FA6AC 00000000
+DD000000 00000100
+003FA660 40000000
+203FA6AC 00000001
+D0000000 00000000
+{Characters motions runs normal, anything else seem runs faster.
+Codes by @Hazerou}
+
+[++FPS++]
+
+[60FPS]
+003FA660 3F800000
+203FA6AC 00000000
+{Characters motions runs normal, anything else seem runs faster.
+Codes by @Hazerou}
+
+[Default 30FPS]
+003FA660 40000000
+203FA6AC 00000001
+{Characters motions runs normal, anything else seem runs faster.
+Codes by @Hazerou}
+
+[--]

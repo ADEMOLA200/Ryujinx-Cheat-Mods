@@ -1,0 +1,67 @@
+[60FPS v1.1 (Hold R button for 30FPS)]
+D3000000 00000000
+20601951 00000001
+DD000000 00000100
+20601951 00000002
+D2000000 00000000
+{Codes by @lucky}
+
+[++FPS++]
+
+[++v1.1++]
+
+[60FPS v1.1]
+20601951 00000001
+{Codes by @lucky}
+
+[30FPS v1.1]
+20601951 00000002
+{Codes by @lucky}
+
+[++Extras++]
+
+[Game Speed+ v1.1]
+00602530 40000000
+{Codes by @lucky}
+
+[Game Speed Default v1.1]
+00602530 3F800000
+{Codes by @lucky}
+
+[Game Speed- v1.1]
+00602530 3F000000
+{Codes by @lucky}
+
+[--]
+
+[--]
+
+[++v1.0++]
+
+[60FPS v1.0]
+20601951 00000001
+{Codes by @lucky}
+
+[30FPS v1.0]
+20601951 00000002
+{Codes by @lucky}
+
+[++Extras++]
+
+[Game Speed+ v1.0]
+00602530 40000000
+{Codes by @lucky}
+
+[Game Speed Default v1.0]
+00602530 3F800000
+{Codes by @lucky}
+
+[Game Speed- v1.0]
+00602530 3F000000
+{Codes by @lucky}
+
+[--]
+
+[--]
+
+[--]

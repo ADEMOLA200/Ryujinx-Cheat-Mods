@@ -1,0 +1,33 @@
+[60FPS (Hold X button to freeze game)]
+D3000000 10000000
+16E6D750 00000001
+DD000000 00000400
+16E6D750 00000000
+D0000000 00000000
+{Game runs normal.
+Codes by @Reshiban}
+
+[++FPS++]
+
+[60+FPS (Freeze)]
+D3000000 10000000
+16E6D750 00000000
+D2000000 00000000
+{Game runs normal.
+Codes by @Reshiban}
+
+[Default 60FPS]
+D3000000 10000000
+16E6D750 00000001
+D2000000 00000000
+{Game runs normal.
+Codes by @Reshiban}
+
+[30FPS]
+D3000000 10000000
+26E6D750 00000002
+D2000000 00000000
+{Game runs normal.
+Codes by @Reshiban}
+
+[--]

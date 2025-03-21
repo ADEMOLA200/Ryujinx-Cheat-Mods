@@ -1,0 +1,35 @@
+[60FPS (Hold R button for 30FPS)]
+D3000000 00000000
+08F91A10 42F00000
+DD000000 00000100
+08F91A10 42700000
+D2000000 00000000
+{Game runs faster.
+Codes by @blizzardy}
+
+[++FPS++]
+
+[60FPS]
+08F91A10 42F00000
+{Game runs faster.
+Codes by @blizzardy}
+
+[Default 30FPS]
+08F91A10 42700000
+{Codes by @blizzardy}
+
+[++Extras++]
+
+[Disable FSAA]
+28582D04 00000009
+{Will disable 3D slider.
+Codes by @blizzardy}
+
+[Disable FSAA and dithering]
+08582D04 006F0309
+{Will disable 3D slider.
+Codes by @blizzardy}
+
+[--]
+
+[--]

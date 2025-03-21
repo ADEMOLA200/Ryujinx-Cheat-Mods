@@ -1,0 +1,67 @@
+[60FPS (Hold R button for 30FPS) type-2]
+D3000000 00000000
+2063A368 00000000
+DD000000 00000100
+2063A368 00000001
+D0000000 00000000
+{Can't hold 60FPS everywhere.
+type-2 must be more stable.
+Codes by @lucky}
+
+[++FPS++]
+
+[++v1.1++]
+
+[60 FPS v1.1 type-2]
+20639368 00000000
+{Can't hold 60FPS everywhere.
+type-2 must be more stable.
+Codes by @lucky}
+
+[30 FPS v1.1 type-2]
+20639368 00000001
+{Can't hold 60FPS everywhere.
+type-2 must be more stable.
+Codes by @lucky}
+
+[60 FPS v1.1 type-1]
+00639364 00000001
+{Can't hold 60FPS everywhere.
+type-2 must be more stable.
+Codes by @NanashiFinal13}
+
+[30 FPS v1.1 type-1]
+00639364 00000000
+{Can't hold 60FPS everywhere.
+type-2 must be more stable.
+Codes by @NanashiFinal13}
+
+[--]
+
+[++v1.0++]
+
+[60 FPS v1.0 type-2]
+2063A368 00000000
+{Can't hold 60FPS everywhere.
+type-2 must be more stable.
+Codes by @lucky}
+
+[30 FPS v1.0 type-2]
+2063A368 00000001
+{Can't hold 60FPS everywhere.
+type-2 must be more stable.
+Codes by @lucky}
+
+[60 FPS v1.0 type-1]
+0063A364 00000001
+{Can't hold 60FPS everywhere.
+type-2 must be more stable.
+Codes by @NanashiFinal13}
+
+[30 FPS v1.0 type-1]
+0063A364 00000000
+{Can't hold 60FPS everywhere.
+type-2 must be more stable.
+Codes by @NanashiFinal13}
+
+[--]

@@ -1,0 +1,35 @@
+[60FPS (Hold R button for 30FPS)]
+D3000000 00000000
+2092B615 00000001
+DD000000 00000100
+2092B615 00000002
+D2000000 00000000
+{Codes by @lucky}
+
+[++FPS++]
+
+[60FPS]
+2092B615 00000001
+{Codes by @lucky}
+
+[30FPS]
+2092B615 00000002
+{Codes by @lucky}
+
+[++Extras++]
+
+[Game Speed+]
+0092BA58 40000000
+{Codes by @lucky}
+
+[Game Speed Normal]
+0092BA58 3F800000
+{Codes by @lucky}
+
+[Game Speed-]
+0092BA58 3F000000
+{Codes by @lucky}
+
+[--]
+
+[--]

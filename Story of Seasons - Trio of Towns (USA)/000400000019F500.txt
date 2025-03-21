@@ -1,0 +1,45 @@
+[60FPS v1.1 (Hold L button for 30FPS)]
+206659EC 00000001
+DD000000 00000200
+206659EC 00000002
+D2000000 00000000
+{Hold L to fix slowdowns bug.
+Codes by @Hazerou}
+
+[60FPS v1.0 (Hold L button for 30FPS)]
+206589C8 00000001
+DD000000 00000200
+206589C8 00000002
+D2000000 00000000
+{Hold L to fix slowdowns bug.
+Codes by @Hazerou}
+
+[++FPS++]
+
+[++v1.1++]
+
+[60FPS v1.1]
+206659EC 00000001
+{Bug game runs slower when too power needed.
+Codes by @Hazerou}
+
+[30FPS v1.1]
+206659EC 00000002
+{Codes by @Hazerou}
+
+[--]
+
+[++v1.0++]
+
+[60FPS v1.0]
+206589C8 00000001
+{Bug game runs slower when too power needed.
+Codes by @Hazerou}
+
+[30FPS v1.0]
+206589C8 00000002
+{Codes by @Hazerou}
+
+[--]
+
+[--]
