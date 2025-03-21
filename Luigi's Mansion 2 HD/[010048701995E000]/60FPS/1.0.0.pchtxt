@@ -1,0 +1,20 @@
+@nsobid-3BA78C255C852D696BBC18C221EB9B3144C6F972
+
+# Luigi's Mansion 2 HD [010048701995E000] v1.0.0 - 60FPS
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 60FPS
+
+@enabled
+00199850 0110A0E3
+@stop
+
+@StevensND
+https://linktr.ee/stevensmods
+https://github.com/StevensND/switch-port-mods
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174
+https://Ko-fi.com/Fl4sh9174

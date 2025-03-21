@@ -25,6 +25,7 @@ Special thanks to the following repositories for their awesome mods and inspirat
 - [NX-60FPS-RES-GFX-Cheats](https://github.com/ChanseyIsTheBest/NX-60FPS-RES-GFX-Cheats.git) by ChanseyIsTheBest
 - [NXGraphicsPatches](https://github.com/masagrator/NXGraphicsPatches.git) by masagrator
 - [60FPS-AR-CHEATS-3DS](https://github.com/Reshiban/60FPS-AR-CHEATS-3DS.git) by Reshiban
+- [switch-port-mods.git](https://github.com/StevensND/switch-port-mods.git) by StevensND
 
 Their contributions have been invaluable in creating this comprehensive mod collection.
 
