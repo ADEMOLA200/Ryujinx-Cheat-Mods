@@ -1,0 +1,12 @@
+by sds
+Included in the text file:
+Overall Resolution Cheats from [360p] up to [1080p]
+|Need OC|
+NOTE: ON [TRUE 60 FPS] better on first load screen
+
+by Hazerou
+Note: Game might freeze after activating the Cheat. Just wait.
+And I didn't add [Default True 30 FPS] because if you use it to revert back, the Game will Freeze.
+Oh and now OC the CPU More because it's made it more Intensive. (Game utilizes just 1 CPU Core...)
+
+v1.03 by Hazerou
