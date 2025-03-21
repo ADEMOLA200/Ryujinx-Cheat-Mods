@@ -1,0 +1,45 @@
+[60FPS (Hold R button for 30FPS)]
+D3000000 00000000
+08063B8C 00000001
+DD000000 00000100
+08063B8C 00000002
+D0000000 00000000
+{(Work on v1.0/v1.1)
+Game runs faster.
+Codes by @blizzardy}
+
+[++FPS++]
+
+[++v1.1++]
+
+[60FPS v1.1]
+08063B8C 00000001
+{(Work on v1.0/v1.1)
+Game runs faster.
+Codes by @blizzardy}
+
+[Default 30FPS v1.1]
+08063B8C 00000002
+{(Work on v1.0/v1.1)
+Game runs faster.
+Codes by @blizzardy}
+
+[--]
+
+[++v1.0++]
+
+[60FPS v1.0]
+08063B8C 00000001
+{(Work on v1.0/v1.1)
+Game runs faster.
+Codes by @blizzardy}
+
+[Default 30FPS v1.0]
+08063B8C 00000002
+{(Work on v1.0/v1.1)
+Game runs faster.
+Codes by @blizzardy}
+
+[--]
+
+[--]

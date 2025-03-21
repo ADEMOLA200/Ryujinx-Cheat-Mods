@@ -1,0 +1,34 @@
+[60FPS (Hold R button for 30FPS)]
+D3000000 00000000
+204C4154 00000001
+004C4FA4 42700000
+004C4FB0 3F000000
+DD000000 00000100
+204C4154 00000000
+004C4FA4 41F00000
+004C4FB0 3F800000
+D2000000 00000000
+{Bugs game drops to 30FPS at some moments.
+Faster on cutscenes/menus. Gravity seems heavy.
+Codes by @Hazerou}
+
+[++FPS++]
+
+[60FPS]
+204C4154 00000001
+004C4150 00000000
+004C4FA4 42700000
+004C4FB0 3F000000
+{Bugs game drops to 30FPS at some moments.
+Faster on cutscenes/menus. Gravity seems heavy.
+Codes by @Hazerou}
+
+[Default 30FPS]
+204C4154 00000000
+004C4FA4 41F00000
+004C4FB0 3F800000
+{Bugs game drops to 30FPS at some moments.
+Faster on cutscenes/menus. Gravity seems heavy.
+Codes by @Hazerou}
+
+[--]

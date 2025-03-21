@@ -1,0 +1,28 @@
+[60FPS (Hold R button for 30FPS)]
+D3000000 00000000
+006DCA94 00000001
+DD000000 00000100
+006DCA94 00000002
+D0000000 00000000
+{Game runs faster.
+On battle: 55-60 fps. Outside of battle: 55-60 fps.
+(Tested on : UNDUB+Swimsuit+Marriage 0.4.1 Patch)
+Codes by @NanashiFinal13}
+
+[++FPS++]
+
+[60FPS]
+006DCA94 00000001
+{Game runs faster.
+On battle: 55-60 fps. Outside of battle: 55-60 fps.
+(Tested on : UNDUB+Swimsuit+Marriage 0.4.1 Patch)
+Codes by @NanashiFinal13}
+
+[Default 30FPS]
+006DCA94 00000002
+{Game runs faster.
+On battle: 55-60 fps. Outside of battle: 55-60 fps.
+(Tested on : UNDUB+Swimsuit+Marriage 0.4.1 Patch)
+Codes by @NanashiFinal13}
+
+[--]

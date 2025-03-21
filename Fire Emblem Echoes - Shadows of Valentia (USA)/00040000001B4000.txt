@@ -1,0 +1,22 @@
+[60FPS (Hold R button for 30FPS)]
+D3000000 00000000
+005C84D8 00000001
+DD000000 00000100
+005C84D8 00000000
+D0000000 00000000
+{Cant sustain real 60 FPS. 45 fps when you are exploring dungeons, with some drops to 38 fps. In battle animation, 55/50 fps.
+Codes by @NanashiFinal13}
+
+[++FPS++]
+
+[60FPS]
+005C84D8 00000001
+{Cant sustain real 60 FPS. 45 fps when you are exploring dungeons, with some drops to 38 fps. In battle animation, 55/50 fps.
+Codes by @NanashiFinal13}
+
+[30FPS]
+005C84D8 00000000
+{Cant sustain real 60 FPS. 45 fps when you are exploring dungeons, with some drops to 38 fps. In battle animation, 55/50 fps.
+Codes by @NanashiFinal13}
+
+[--]

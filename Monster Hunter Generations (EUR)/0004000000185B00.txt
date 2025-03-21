@@ -1,0 +1,31 @@
+[60FPS (Hold R button for 30FPS)]
+D3000000 00000000
+00892F5C EEF01A49
+DD000000 00000100
+00892F5C EDD61A0C
+D0000000 00000000
+{Codes by @mikewii7}
+
+[++FPS++]
+
+[60FPS]
+00892F5C EEF01A49
+{Codes by @mikewii7}
+
+[Default 30FPS]
+00892F5C EDD61A0C
+{Codes by @mikewii7}
+
+[++Extras++]
+
+[Render Settings]
+60DB7E44 00000000
+B0DB7E44 00000000
+00006B20 088F436A
+D2000000 00000000
+{FSAA_2D::OFF|mDitherDisplay0::OFF|NoAADisplay1::ON
+Codes by @mikewii7}
+
+[--]
+
+[--]

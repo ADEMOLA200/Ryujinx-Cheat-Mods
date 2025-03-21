@@ -1,0 +1,22 @@
+[60FPS v1.3.0 (Hold R button for 30FPS)]
+D3000000 00000000
+080401B8 00000001
+DD000000 00000100
+08268518 00000002
+D0000000 00000000
+{Works: scenes and menus, don't work: battle, on battlefield (fps are locked to 30).
+Codes by @NanashiFinal13}
+
+[++FPS++]
+
+[60FPS v1.3.0]
+080401B8 00000001
+{Works: scenes and menus, don't work: battle, on battlefield (fps are locked to 30).
+Codes by @NanashiFinal13}
+
+[30FPS v1.3.0]
+08268518 00000002
+{Works: scenes and menus, don't work: battle, on battlefield (fps are locked to 30).
+Codes by @NanashiFinal13}
+
+[--]

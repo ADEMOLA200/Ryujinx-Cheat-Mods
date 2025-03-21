@@ -1,0 +1,61 @@
+[60FPS (Hold R button for 30FPS)]
+D3000000 00000000
+08C26620 42700000
+DD000000 00000100
+08C26620 41F00000
+D0000000 00000000
+{(For ENG-Patched CIA)
+Codes by @Hazerou}
+
+[++FPS++]
+
+[60FPS]
+08C26620 42700000
+{(For ENG-Patched CIA)
+Codes by @Hazerou}
+
+[30FPS]
+08C26620 41F00000
+{(For ENG-Patched CIA)
+Codes by @Hazerou}
+
+[++Extras++]
+
+[Game Speed x2]
+08C2661C 42700000
+{(For ENG-Patched CIA)
+Codes by @Hazerou}
+
+[Game Speed x1]
+08C2661C 41F00000
+{(For ENG-Patched CIA)
+Codes by @Hazerou}
+
+[Default Rendering]
+0819F390 001F416A
+{(For ENG-Patched CIA)
+Codes by @Hazerou}
+
+[Disable AA]
+2819F390 0000002A
+{(For ENG-Patched CIA)
+Codes by @Hazerou}
+
+[Disable AA (2nd Screen)]
+2819F391 00000081
+{(For ENG-Patched CIA)
+Codes by @Hazerou}
+
+[No Dithering]
+2819F392 0000000F
+{(For ENG-Patched CIA)
+Codes by @Hazerou}
+
+[Trinity Disabler]
+0819F390 000F812A
+{(For ENG-Patched CIA)
+Codes by @Hazerou}
+
+[--]
+
+[--]

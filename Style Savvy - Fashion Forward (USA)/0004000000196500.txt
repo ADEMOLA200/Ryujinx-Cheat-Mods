@@ -1,0 +1,41 @@
+[60FPS (Hold R button for 30 FPS antialiasing)]
+D3000000 00000000
+206F5C88 00000001
+206F5C82 00000000
+DD000000 00000100
+206F5C88 00000002
+206F5C82 00000001
+D2000000 00000000
+{Disable antialiasing to limit needed power.
+Codes by @Reshiban}
+
+[++FPS++]
+
+[60FPS]
+206F5C88 00000001
+{Needs antialiasing patch to work.
+Codes by @Reshiban}
+
+[Default 30FPS]
+206F5C88 00000002
+{Codes by @Reshiban}
+
+[15FPS]
+206F5C88 00000003
+{Codes by @Reshiban}
+
+[--]
+
+[++Extras++]
+
+[Default Antialiasing]
+206F5C82 00000001
+{Codes by @Reshiban}
+
+[No-Antialiasing]
+206F5C82 00000000
+{Codes by @Reshiban}
+
+[--]
+
+[--]

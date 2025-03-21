@@ -1,0 +1,31 @@
+[60FPS v1.1 (Hold R button for 20FPS)]
+D3000000 00000000
+10947FC0 00000002
+DD000000 00000100
+10947FC0 00000202
+D0000000 00000000
+{Bugs, not stable for 3DS.
+Codes by @Hazerou}
+
+[++FPS++]
+
+[++v1.1++]
+
+[60FPS v1.1]
+10947FC0 00000002
+{Bugs, not stable for 3DS.
+Codes by @Hazerou}
+
+[30FPS v1.1]
+10947FC0 00000102
+{Bugs, not stable for 3DS.
+Codes by @Hazerou}
+
+[Default 20FPS v1.1]
+10947FC0 00000202
+{Bugs, not stable for 3DS.
+Codes by @Hazerou}
+
+[--]
+
+[--]

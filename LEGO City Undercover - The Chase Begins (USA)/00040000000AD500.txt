@@ -1,0 +1,47 @@
+[60FPS (Hold R button for 30FPS)]
+D3000000 00000000
+20529D58 00000001
+DD000000 00000100
+20529D58 00000002
+D0000000 00000000
+{Occasionally drops to 30FPS on 3DS.
+Codes by @Hazerou}
+
+[++FPS++]
+
+[60FPS]
+20529D58 00000001
+{Occasionally drops to 30FPS on 3DS.
+Codes by @Hazerou}
+
+[Default 30FPS]
+20529D58 00000002
+{Occasionally drops to 30FPS on 3DS.
+Codes by @Hazerou}
+
+[++Extras++]
+
+[Better View Distance]
+1037606C 00000101
+{Disables some foggy effects from afar.
+Codes by @Hazerou}
+
+[Disable Better View Distance]
+1037606C 00000001
+{As Default.
+Codes by @Hazerou}
+
+[Game Freeze Hold L + R]
+D3000000 00000000
+00377478 00000000
+D2000000 00000000
+DD000000 00000300
+D3000000 00000000
+00377478 00000001
+D2000000 00000000
+{ZA WARUDO! (Almost likely...).
+Codes by @Hazerou}
+
+[--]
+
+[--]

@@ -1,0 +1,57 @@
+[60FPS v1.0 (Hold R for 30FPS)]
+D3000000 00000000
+20676170 00000001
+DD000000 00000100
+20676170 00000002
+D2000000 00000000
+{Codes by @lucky}
+
+[++FPS++]
+
+[++v1.0]
+
+[60+FPS v1.0]
+20676170 00000000
+{Codes by @lucky}
+
+[60FPS v1.0]
+20676170 00000001
+{Codes by @lucky}
+
+[30FPS v1.0]
+20676170 00000002
+{Codes by @lucky}
+
+[15FPS v1.0]
+20676170 00000003
+{Codes by @Robz8}
+
+[--]
+
+[++Bonus++]
+
+[Enable 3D Slider (Hold R button to disable)]
+D3000000 00000000
+2067616C 00000002
+DD000000 00000100
+2067616C 00000000
+D2000000 00000000
+{Use 3D Slider to disable AA.
+Codes by @Hazerou}
+
+[Fix screen moves when 3D is ON]
+00673DE8 00000000
+00673DF0 00000000
+{Because on 3DS, the screen will slide to the left.
+Codes by @Hazerou}
+
+[Loop Character's Animation (Hold R)]
+DD000000 00000100
+00676270 00000000
+D2000000 00000000
+{While using it, the scene will not change, and may freeze character when animation is over.
+Codes by @Hazerou}
+
+[--]
+
+[--]

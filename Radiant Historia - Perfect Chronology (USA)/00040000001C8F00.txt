@@ -1,0 +1,25 @@
+[60FPS (Hold R button for 30FPS)]
+D3000000 00000000
+20394C2C 00000000
+DD000000 00000100
+20394C2C 00000001
+D0000000 00000000
+{Game runs faster
+Only tested on undub.
+Codes by @Hazerou}
+
+[++FPS++]
+
+[60FPS]
+20394C2C 00000000
+{Game runs faster
+Only tested on undub.
+Codes by @Hazerou}
+
+[Default 30FPS]
+20394C2C 00000001
+{Game runs faster
+Only tested on undub.
+Codes by @Hazerou}
+
+[--]

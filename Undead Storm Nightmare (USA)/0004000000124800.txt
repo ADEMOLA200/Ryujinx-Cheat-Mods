@@ -1,0 +1,21 @@
+[60FPS (Hold R button for 30FPS)]
+D3000000 00000000
+203510B0 00000000
+DD000000 00000100
+203510B0 00000001
+D2000000 00000000
+{Anything else seems faster.
+Codes by @Hazerou}
+
+[++FPS++]
+
+[60FPS]
+203510B0 00000000
+{Anything else seems faster.
+Codes by @Hazerou}
+
+[Default 30FPS]
+203510B0 00000001
+{Codes by @Hazerou}
+
+[--]

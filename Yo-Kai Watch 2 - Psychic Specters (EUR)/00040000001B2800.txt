@@ -1,0 +1,41 @@
+[60FPS (Hold R button for 30FPS)]
+D3000000 00000000
+2086026D 00000001
+DD000000 00000100
+2086026D 00000002
+D2000000 00000000
+{FOR AUSTRALIAN ROM.
+Codes by @lucky}
+
+[++FPS++]
+
+[60FPS]
+2086026D 00000001
+{FOR AUSTRALIAN ROM.
+Codes by @lucky}
+
+[30FPS]
+2086026D 00000002
+{FOR AUSTRALIAN ROM.
+Codes by @lucky}
+
+[++Extras++]
+
+[Game Speed+]
+00860E3A 40000000
+{FOR AUSTRALIAN ROM.
+Codes by @lucky}
+
+[Game Speed Normal]
+00860E3A 3F800000
+{FOR AUSTRALIAN ROM.
+Codes by @lucky}
+
+[Game Speed-]
+00860E3A 3F000000
+{FOR AUSTRALIAN ROM.
+Codes by @lucky}
+
+[--]
+
+[--]

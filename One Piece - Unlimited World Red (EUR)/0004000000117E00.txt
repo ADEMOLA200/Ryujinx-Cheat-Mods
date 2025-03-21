@@ -1,0 +1,35 @@
+[60FPS (Hold R button for 30FPS)]
+D3000000 00000000
+20680690 00000001
+20686EA0 00000000
+90686E86 00000301
+20680690 00000002
+20686EA0 00000001
+DD000000 00000100
+20680690 00000002
+20686EA0 00000001
+D0000000 00000000
+{Bugs, FPS drops to 30 in most areas.
+Video cutscenes speed, choppy and conversation events slowdowns fixed.
+Codes by @Hazerou}
+
+[++FPS++]
+
+[60FPS]
+20680690 00000001
+20686EA0 00000000
+90686E86 00000301
+20680690 00000002
+20686EA0 00000001
+{Bugs, FPS drops to 30 in most areas.
+Video cutscenes speed, choppy and conversation events slowdowns fixed.
+Codes by @Hazerou}
+
+[Default 30FPS]
+20680690 00000002
+20686EA0 00000001
+{Bugs, FPS drops to 30 in most areas.
+Video cutscenes speed, choppy and conversation events slowdowns fixed.
+Codes by @Hazerou}
+
+[--]

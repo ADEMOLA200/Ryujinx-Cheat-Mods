@@ -1,0 +1,36 @@
+[60FPS (Hold R button for 30FPS)]
+D3000000 00000000
+08C15270 42700000
+DD000000 00000100
+08C15270 41F00000
+D0000000 00000000
+{Codes by @NanashiFinal13}
+
+[++FPS++]
+
+[60FPS]
+08C15270 42700000
+{Codes by @NanashiFinal13}
+
+[30FPS]
+08C15270 41F00000
+{Codes by @NanashiFinal13}
+
+[++Extras++]
+
+[Game Speed x2]
+08C1526C 42700000
+{Codes by @NanashiFinal13}
+
+[Game Speed x1]
+08C1526C 41F00000
+{Codes by @NanashiFinal13}
+
+[Disable AA]
+0818DFE0 001F412A
+{Will disable 3D slider.
+Codes by @NanashiFinal13}
+
+[--]
+
+[--]

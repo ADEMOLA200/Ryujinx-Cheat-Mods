@@ -1,0 +1,44 @@
+[60FPS v1.6.0 (Hold R button for 30FPS)]
+D3000000 00000000
+080662E8 00000000
+DD000000 00000100
+080662E8 00000001
+D0000000 00000000
+{Game runs faster.
+Tested on English Patched.
+Character moves at speed x2. On battle: 42-55-60 fps (not very stable), Outside of battle (like on menu): 100 fps.
+Codes by @NanashiFinal13}
+
+[++FPS++]
+
+[60FPS v1.6.0]
+080662E8 00000000
+{Game runs faster.
+Tested on English Patched.
+Character moves at speed x2. On battle: 42-55-60 fps (not very stable), Outside of battle (like on menu): 100 fps.
+Codes by @NanashiFinal13}
+
+[30FPS v1.6.0]
+080662E8 00000001
+{Game runs faster.
+Tested on English Patched.
+On  battle: 30 fps , outside of battle (like on menu) : 60 fps.
+Codes by @NanashiFinal13}
+
+[++Old++]
+
+[60FPS v1.6.0 Old]
+007F8954 00000001
+{Not recommended to use.
+Tested on English Patched.
+Codes by @NanashiFinal13}
+
+[30FPS v1.6.0 Old]
+007F8954 00000002
+{Not recommended to use.
+Tested on English Patched.
+Codes by @NanashiFinal13}
+
+[--]
+
+[--]

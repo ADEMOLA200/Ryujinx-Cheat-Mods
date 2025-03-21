@@ -1,0 +1,26 @@
+[60FPS (Hold R button for 30FPS)]
+D3000000 10000000
+24036818 00000000
+DD000000 00000100
+24036818 00000001
+D0000000 00000000
+{Doesn't always work on 3ds.
+Codes by @Hazerou}
+
+[++FPS++]
+
+[60FPS]
+D3000000 10000000
+24036818 00000000
+D2000000 00000000
+{Doesn't always work on 3ds.
+Codes by @Hazerou}
+
+[Default 30FPS]
+D3000000 10000000
+24036818 00000001
+D2000000 00000000
+{Doesn't always work on 3ds.
+Codes by @Hazerou}
+
+[--]

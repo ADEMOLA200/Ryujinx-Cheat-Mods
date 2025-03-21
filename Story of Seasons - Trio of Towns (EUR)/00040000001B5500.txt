@@ -1,0 +1,22 @@
+[60FPS v1.0 (Hold L button for 30FPS)]
+206679C8 00000001
+DD000000 00000200
+206679C8 00000002
+D2000000 00000000
+{Codes by @lucky}
+
+[++FPS++]
+
+[++v1.0++]
+
+[60FPS v1.0]
+206679C8 00000001
+{Codes by @lucky}
+
+[Default 30FPS v1.0]
+206679C8 00000002
+{Codes by @lucky}
+
+[--]
+
+[--]

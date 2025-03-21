@@ -1,0 +1,63 @@
+[60FPS v1.2 (Hold R button for 30FPS)]
+D3000000 00000000
+0044A924 42700000
+DD000000 00000100
+0044A924 41F00000
+D2000000 00000000
+{Works on Rev1 and Rev2.
+Codes by @lucky}
+
+[++FPS++]
+
+[v1.2]
+
+[60FPS v1.2]
+0044A924 42700000
+{Works on Rev1 and Rev2.
+Codes by @lucky}
+
+[45FPS v1.2]
+0044A924 42340000
+{Works on Rev1 and Rev2.
+Codes by @lucky}
+
+[30FPS v1.2]
+0044A924 41F00000
+{Works on Rev1 and Rev2.
+Codes by @lucky}
+
+[--]
+
+[++v1.0 Rev2++]
+
+[60FPS v1.0 Rev2]
+0044A964 42700000
+{Codes by @lucky}
+
+[45FPS v1.0 Rev2]
+0044A964 42340000
+{Codes by @lucky}
+
+[30FPS v1.0 Rev2]
+0044A964 41F00000
+{Codes by @lucky}
+
+[--]
+
+[++v1.0 Rev1++]
+
+[60FPS v1.0 Rev1]
+0044A96C 42700000
+{Codes by @lucky}
+
+[45FPS v1.0 Rev1]
+0044A96C 42340000
+{Codes by @lucky}
+
+[30FPS v1.0 Rev1]
+0044A96C 41F00000
+{Codes by @lucky}
+
+[--]
+
+[--]

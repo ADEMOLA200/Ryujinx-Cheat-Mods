@@ -1,0 +1,23 @@
+[60FPS (Hold R button for 30FPS)]
+D3000000 00000000
+2026B6B8 00000001
+DD000000 00000100
+2026B6B8 00000002
+D0000000 00000000
+{Game runs faster.
+Bugs, works occasionally.
+Codes by @Hazerou}
+
+[++FPS++]
+
+[60FPS]
+2026B6B8 00000001
+{Game runs faster.
+Bugs, works occasionally.
+Codes by @Hazerou}
+
+[Default 30FPS]
+2026B6B8 00000002
+{Codes by @Hazerou}
+
+[--]

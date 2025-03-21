@@ -1,0 +1,29 @@
+[30FPS v1.2.0 DLC (Hold R button for 60FPS)]
+D3000000 00000000
+28062010 00000002
+DD000000 00000100
+28062010 00000001
+D0000000 00000000
+{Game runs fatser.
+Default 60FPS everywhere except story mode.
+Codes by @Reshiban}
+
+[++FPS++]
+
+[++v1.2.0 + DLC++]
+
+[Default 60FPS v1.2.0 DLC]
+28062010 00000001
+{Game runs fatser.
+Default 60FPS everywhere except story mode.
+Codes by @Reshiban}
+
+[30FPS v1.2.0 DLC]
+28062010 00000002
+{Game runs fatser.
+Default 60FPS everywhere except story mode.
+Codes by @Reshiban}
+
+[--]
+
+[--]

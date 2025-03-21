@@ -1,0 +1,55 @@
+[60FPS (Hold R button for 30FPS)]
+D3000000 08000000
+0026EB30 00000100
+DD000000 00000100
+0026EB30 00010100
+D0000000 00000000
+{Game runs faster.
+Use this in case that you want to fight at normal speed.
+Codes by @NanashiFinal13}
+
+[++FPS++]
+
+[++@NanashiFinal13++]
+
+[60FPS]
+D3000000 08000000
+0026EB30 00000100
+D2000000 00000000
+{Game runs faster.
+Use this in case that you want to fight at normal speed.
+Codes by @NanashiFinal13}
+
+[Default 30FPS]
+D3000000 08000000
+0026EB30 00010100
+D2000000 00000000
+{Game runs faster.
+Use this in case that you want to fight at normal speed.
+Codes by @NanashiFinal13}
+
+[--]
+
+[++@discordxdlapp66++]
+
+[60FPS Press R]
+D3000000 00000000
+28270052 00000000
+DD000000 00000100
+08270052 003C0000
+D2000000 00000000
+{After loading the game, press the R button.
+Codes by @lucky}
+
+[Default 30FPS Press R]
+D3000000 00000000
+28270052 00000000
+DD000000 00000100
+08270052 001E0000
+D2000000 00000000
+{After loading the game, press the R button.
+Codes by @lucky}
+
+[--]
+
+[--]

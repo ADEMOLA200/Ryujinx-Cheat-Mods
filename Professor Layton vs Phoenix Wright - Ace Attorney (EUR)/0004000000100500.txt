@@ -1,0 +1,22 @@
+[60FPS (Hold R button for 30FPS)]
+D3000000 00000000
+20377941 00000001
+DD000000 00000100
+20377941 00000002
+D0000000 00000000
+{Game runs normal.
+Codes by @luc_ha}
+
+[++FPS++]
+
+[60FPS]
+20377941 00000001
+{Game runs normal.
+Codes by @luc_ha}
+
+[Default 30FPS]
+20377941 00000002
+{Game runs normal.
+Codes by @luc_ha}
+
+[--]

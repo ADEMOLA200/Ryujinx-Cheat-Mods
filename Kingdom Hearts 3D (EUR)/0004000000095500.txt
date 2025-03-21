@@ -1,0 +1,35 @@
+[60FPS for 3DS (Hold R button for 30FPS]
+D3000000 00000000
+2055BDE0 00000001
+DD000000 00000100
+2055BDE0 00000002
+D0000000 00000000
+{Codes by @Hazerou}
+
+[++FPS++]
+
+[++3DS++]
+
+[60FPS for 3DS]
+2055BDE0 00000001
+{Codes by @Hazerou}
+
+[30FPS for 3DS]
+2055BDE0 00000002
+{Codes by @Hazerou}
+
+[--]
+
+[++CITRA++]
+
+[60FPS for CITRA]
+1055BDE0 00000101
+{Codes by @Hazerou}
+
+[30FPS for CITRA]
+1055BDE0 00000102
+{Codes by @Hazerou}
+
+[--]
+
+[--]

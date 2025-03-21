@@ -1,0 +1,27 @@
+[60FPS v1.1 (Hold R button for 30FPS)]
+D3000000 00000000
+2007F010 00000001
+DD000000 00000100
+2007F010 00000002
+D2000000 00000000
+{Game runs faster.
+Only useful in mystery adventure mode.
+Codes by @luc_ha}
+
+[++FPS++]
+
+[++v1.1++]
+
+[60FPS v1.1]
+2007F010 00000001
+{Game runs faster.
+Only useful in mystery adventure mode.
+Codes by @luc_ha}
+
+[Default 30FPS v1.1]
+2007F010 00000002
+{Codes by @Hazerou}
+
+[--]
+
+[--]

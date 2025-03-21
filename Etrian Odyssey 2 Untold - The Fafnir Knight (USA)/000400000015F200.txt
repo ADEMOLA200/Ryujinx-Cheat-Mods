@@ -1,0 +1,22 @@
+[60FPS (Hold R button for 30FPS)]
+D3000000 00000000
+205B54B0 00000000
+DD000000 00000100
+205B54B0 00000001
+D0000000 00000000
+{Game runs faster.
+Codes by @lucky}
+
+[++FPS++]
+
+[60FPS]
+205B54B0 00000000
+{Game runs faster.
+Codes by @lucky}
+
+[Default 30FPS]
+205B54B0 00000001
+{Game runs faster.
+Codes by @lucky}
+
+[--]

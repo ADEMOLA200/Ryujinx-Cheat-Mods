@@ -1,0 +1,35 @@
+[60FPS v2.4 (Hold R button for 30FPS)]
+D3000000 00000000
+206BD965 00000001
+DD000000 00000100
+206BD965 00000002
+D2000000 00000000
+{Codes by @Hazerou}
+
+[++FPS++]
+
+[++v2.4++]
+
+[60FPS v2.4]
+206BD965 00000001
+{Codes by @Hazerou}
+
+[30FPS v2.4]
+206BD965 00000002
+{Codes by @Hazerou}
+
+[--]
+
+[++v1.0++]
+
+[60FPS v1.0]
+20691965 00000001
+{Codes by @Hazerou}
+
+[30FPS v1.0]
+20691965 00000002
+{Codes by @Hazerou}
+
+[--]
+
+[--]

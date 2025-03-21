@@ -1,0 +1,22 @@
+[60FPS (Hold R button for 30FPS)]
+D3000000 00000000
+005B40B0 00020200
+DD000000 00000100
+005B40B0 00010100
+D0000000 00000000
+{Bug: duplicate one screen on another, you have to go to menu to see the map (you can use the mini map on screen)
+Codes by @NanashiFinal13}
+
+[++FPS++]
+
+[60FPS]
+005B40B0 00020200
+{Bug: duplicate one screen on another, you have to go to menu to see the map (you can use the mini map on screen)
+Codes by @NanashiFinal13}
+
+[30FPS]
+005B40B0 00010100
+{Bug: duplicate one screen on another, you have to go to menu to see the map (you can use the mini map on screen)
+Codes by @NanashiFinal13}
+
+[--]

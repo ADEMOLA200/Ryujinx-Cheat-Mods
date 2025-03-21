@@ -1,0 +1,35 @@
+[60FPS (Hold R button for 30FPS) type-2]
+D3000000 00000000
+204E4A70 00000000
+DD000000 00000100
+204E4A70 00000001
+D0000000 00000000
+{Codes by @lucky}
+
+[++FPS++]
+
+[++type-2++]
+
+[60FPS type-2]
+2063FF48 00000000
+{Codes by @lucky}
+
+[30FPS type-2]
+2063FF48 00000001
+{Codes by @lucky}
+
+[--]
+
+[++type-1++]
+
+[60FPS type-1]
+2063FF44 00000001
+{Codes by @NanashiFinal13}
+
+[30FPS type-1]
+2063FF44 00000000
+{Codes by @NanashiFinal13}
+
+[--]
+
+[--]

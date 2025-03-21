@@ -1,0 +1,34 @@
+[60FPS (Hold R button for 30FPS)]
+D3000000 00000000
+208EC498 00000000
+208EC4AC 00000000
+DD000000 00000100
+208EC498 00000001
+D0000000 00000000
+{Game runs faster.
+Only works for Citra.
+Codes by @Hazerou}
+
+[++FPS++]
+
+[60FPS]
+208EC498 00000000
+208EC4AC 00000000
+{Game runs faster.
+Only works for Citra.
+Codes by @Hazerou}
+
+[40FPS]
+208EC498 00000001
+208EC4AC 00000000
+{Game runs faster.
+Only works for Citra.
+Codes by @Hazerou}
+
+[Default 30FPS]
+208EC498 00000001
+{Game runs faster.
+Only works for Citra.
+Codes by @Hazerou}
+
+[--]

@@ -1,0 +1,25 @@
+[60FPS (Hold L button for 30FPS)]
+D3000000 00000000
+205EC020 00000001
+205EC070 00000001
+DD000000 00000200
+205EC020 00000002
+205EC070 00000002
+D2000000 00000000
+{Hold L to speed up when game runs slow.
+Codes by @Hazerou}
+
+[++FPS++]
+
+[60FPS]
+205EC020 00000001
+205EC070 00000001
+{Game runs slow when FPS drops on some areas.
+Codes by @Hazerou}
+
+[Default 30FPS]
+205EC020 00000002
+205EC070 00000002
+{Codes by @Hazerou}
+
+[--]

@@ -1,0 +1,35 @@
+[60FPS (Hold R button for 30FPS) v1.1]
+D3000000 00000000
+204E3BA0 00000000
+DD000000 00000100
+204E3BA0 00000001
+D0000000 00000000
+{Codes by @lucky}
+
+[++FPS++]
+
+[++v1.1++]
+
+[60FPS v1.1]
+204E3BA0 00000000
+{Codes by @lucky}
+
+[30FPS v1.1]
+204E3BA0 00000001
+{Codes by @lucky}
+
+[--]
+
+[++v1.0++]
+
+[60FPS v1.0]
+204E3BA0 00000000
+{Codes by @lucky}
+
+[30FPS v1.0]
+204E3BA0 00000001
+{Codes by @lucky}
+
+[--]
+
+[--]

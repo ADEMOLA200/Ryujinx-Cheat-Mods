@@ -1,0 +1,21 @@
+[60FPS (Hold R button for 30FPS)]
+D3000000 00000000
+20431959 00000000
+DD000000 00000100
+20431959 00000001
+D2000000 00000000
+{Game runs normal (menus faster).
+Codes by @Hazerou}
+
+[++FPS++]
+
+[60FPS]
+20431959 00000000
+{Game runs normal (menus faster).
+Codes by @Hazerou}
+
+[Default 30FPS]
+20431959 00000001
+{Codes by @Hazerou}
+
+[--]

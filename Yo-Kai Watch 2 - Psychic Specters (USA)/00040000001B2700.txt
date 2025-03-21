@@ -1,0 +1,35 @@
+[60FPS (Hold R button for 30FPS)]
+D3000000 00000000
+2086126D 00000001
+DD000000 00000100
+2086126D 00000002
+D2000000 00000000
+{Codes by @NanashiFinal13}
+
+[++FPS++]
+
+[60FPS]
+2086126D 00000001
+{Codes by @NanashiFinal13}
+
+[30FPS]
+2086126D 00000002
+{Codes by @NanashiFinal13}
+
+[++Extras++]
+
+[Game Speed+]
+00861E3A 40000000
+{Codes by @lucky}
+
+[Game Speed Normal]
+00861E3A 3F800000
+{Codes by @lucky}
+
+[Game Speed-]
+00861E3A 3F000000
+{Codes by @lucky}
+
+[--]
+
+[--]
