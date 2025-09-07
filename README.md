@@ -26,6 +26,7 @@ Special thanks to the following repositories for their awesome mods and inspirat
 - [NXGraphicsPatches](https://github.com/masagrator/NXGraphicsPatches.git) by masagrator
 - [60FPS-AR-CHEATS-3DS](https://github.com/Reshiban/60FPS-AR-CHEATS-3DS.git) by Reshiban
 - [switch-port-mods.git](https://github.com/StevensND/switch-port-mods.git) by StevensND
+- [switch-pchtxt-mods.git](https://github.com/Kenji-NX/switch-pchtxt-mods.git) by Kenji-NX
 
 Their contributions have been invaluable in creating this comprehensive mod collection.
 
