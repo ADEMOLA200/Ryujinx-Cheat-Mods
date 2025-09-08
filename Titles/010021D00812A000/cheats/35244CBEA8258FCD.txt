@@ -1,0 +1,17 @@
+[Inf.Credits]
+01000000 0035DB44 00000063 
+
+[Only 1 Coin for Life(set extend 100)]
+01100000 017E67C7 00000063 
+
+[Only 1 Coin for Life(set extend 150)]
+01100000 017E67C7 00000095 
+
+[Only 1 Coin for Life(set extend 200)]
+01100000 017E67C7 000000C7 
+
+[Only 1 Coin for Life(set extend 250)]
+01100000 017E67C7 000000F9 
+
+[Invincibility]
+01100000 017E6808 00000008
