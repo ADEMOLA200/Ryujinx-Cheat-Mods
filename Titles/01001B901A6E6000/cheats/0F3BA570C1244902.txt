@@ -1,0 +1,8 @@
+[HP unlimited]
+04000000 0003EA4C 0B080168 
+
+[Energy unlimited]
+04000000 0003DDC8 D503201F 
+
+[OMEGA weapon unlimited]
+04000000 0003FA04 D503201F 

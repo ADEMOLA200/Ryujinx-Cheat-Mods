@@ -1,0 +1,8 @@
+[Unlimited consuming Coins]
+010E0000 0175CE3E 0000001F
+
+[Unlimited consuming Items]
+010E0000 014C707E 0000001F
+
+[8x EXP]
+040E0000 0153542C 0B160EE8

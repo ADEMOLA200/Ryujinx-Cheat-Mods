@@ -1,0 +1,16 @@
+[Player has unlimited blood (need to be punched first)]
+04000000 019910CC 15040E95
+04000000 05A94B2C D503201F
+04000000 05A94B30 D503201F  
+
+[Player has unlimited blood + damage is high (need to be punched first)]
+04000000 019910CC 15040E95
+04000000 05A94B2C BD173000 
+04000000 05A94B30 BD173400  
+
+[Player accumulates Giga Energy quickly and unlimited]
+04000000 019AD698 15039D2A 
+
+[Maximize Giga Energy after transforming to S-Class.]
+04000000 019AB3C8 1503A5E4 
+

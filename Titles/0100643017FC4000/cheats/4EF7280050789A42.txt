@@ -1,0 +1,30 @@
+[ - All modes - ]
+
+[Invincible]
+04000000 002706F4 D2801F49
+
+[Score 4x]
+04000000 0028F214 8B130808
+
+[Score 8x]
+04000000 0028F214 8B130C08
+
+[Score 16x]
+04000000 0028F214 8B131008
+
+[Score 32x]
+04000000 0028F214 8B131408
+
+[ - Regular Mode - ]
+
+[Life is not reduced]
+04000000 0028F60C D1000008
+
+[The bomb remains unabated]
+04000000 0028FAF8 D1000008
+
+[ - Infinite Burst Mode - ]
+
+[Infinite Burst]
+04000000 0028D480 D503201F
+04000000 0028D844 1F012000
