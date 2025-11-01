@@ -28,6 +28,7 @@ Special thanks to the following repositories for their awesome mods and inspirat
 - [NX-60FPS-RES-GFX-Cheats](https://github.com/ChanseyIsTheBest/NX-60FPS-RES-GFX-Cheats.git) by ChanseyIsTheBest
 - [NXGraphicsPatches](https://github.com/masagrator/NXGraphicsPatches.git) by masagrator
 - [60FPS-AR-CHEATS-3DS](https://github.com/Reshiban/60FPS-AR-CHEATS-3DS.git) by Reshiban
+- [Switch-Ultrawide-Mods](https://github.com/Fl4sh9174/Switch-Ultrawide-Mods.git) by Fl4sh9174
 
 Their contributions have been invaluable in creating this comprehensive mod collection.
 
